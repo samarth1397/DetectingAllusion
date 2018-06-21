@@ -403,32 +403,37 @@ def calcJacard(sent):
     
 def parseBook(candidate):
     pTrees=list()
-    pSents=list()
-    for sent in candidate:
-        sentParse=getNLPToks(sent)
-        tempTree=tree()
-        generateTree(sentParse['parse'],tempTree)
-        pSents.append(sentParse['parse'])
-        flipTree(tempTree)
-        pTrees.append(tempTree)
-    return (pTrees,pSents)
-
+#     pSents=list()
+    for para in candidate:
+        para=sent_tokenize(para)
+        sentTrees=list()
+        for sent in para:
+            sentParse=getNLPToks(sent)
+            tempTree=tree()
+            generateTree(sentParse['parse'],tempTree)
+    #         pSents.append(sentParse['parse'])
+            flipTree(tempTree)
+            sentTrees.append(tempTree)
+        pTrees.append(sentTrees)
+#     return (pTrees,pSents)
+    return pTrees
 
 def scoreSyntax(trChunks):
     chunkDicts=list()
-    for tr in trChunks:
+    for paraTrees in trChunks:
         sentScoreDict=dict()
         for book in booksList:
-    #         print(file)
             bookTrees=potentialParseTrees[book]
             df=list()
-            for bTree in bookTrees:
-                try:
-                    (rscore_st, nscore_st) = MoschittiPT(tr, bTree, 0.8, 1, 1)
-                    df.append(nscore_st)
-                except TypeError:
-                    df.append(0)
-    #         print(df)
+            for bSentTrees in bookTrees:
+                s=0
+                i=0
+                for tr in paraTrees:
+                    for bTree in bSentTrees:
+                        (rscore_st, nscore_st) = MoschittiPT(tr, bTree, 0.8, 1, 1)
+                        s=s+nscore_st
+                        i=i+1
+                df.append(s/i)
             sentScoreDict[book]=df
         chunkDicts.append(sentScoreDict)
     return chunkDicts
@@ -447,18 +452,21 @@ def calcJacardChunk(chunk):
         scoresChunk.append(scoresDict)
     return scoresChunk
     
-def parseNewText(chunk):
+def parseNewText(paraChunk):
     print('Parsing chunk')
     parseChunk=list()
-    parseSentenceChunk=list()
-    for sent in chunk:
-        sentParse=getNLPToks(sent)
-        tempTree=tree()
-        generateTree(sentParse['parse'],tempTree)
-        parseSentenceChunk.append(sentParse['parse'])
-        flipTree(tempTree)
-        parseChunk.append(tempTree)
-    return (parseChunk,parseSentenceChunk)    
+    for para in paraChunk:
+        paraParse=list()
+        para=sent_tokenize(para)
+        for sent in para:
+            sentParse=getNLPToks(sent)
+            tempTree=tree()
+            generateTree(sentParse['parse'],tempTree)
+#             parseSentenceChunk.append(sentParse['parse'])
+            flipTree(tempTree)
+            paraParse.append(tempTree)
+        parseChunk.append(paraParse)
+    return parseChunk   
     
 ############################################ Script ###############################################################################    
 
@@ -487,6 +495,32 @@ text=sent_tokenize(text)
 text = list(filter(lambda x: len(x)>5, text))
 testB.close()
 
+textPara=list()
+numOfSents=3
+i=0
+while(i<len(text)):
+    if((i+numOfSents)<len(text)):
+        para=text[i:i+numOfSents]
+        para=" ".join(para)
+        i=i+1
+        textPara.append(para)
+    else:
+        para=text[i:len(text)]
+        para=" ".join(para)
+        textPara.append(para)
+        break
+        
+textChunks=list()        
+cores=40
+j=0
+for i in range(cores+1):
+    if (j+math.floor(len(textPara)/40))<len(textPara):
+        textChunks.append(textPara[j:j+math.floor(len(textPara)/40)])
+        j=j+math.floor(len(textPara)/40)
+    else:
+        textChunks.append(textPara[j:len(textPara)])        
+
+
 books=dict()
 for file in booksList:
     print(file)
@@ -503,19 +537,26 @@ for file in booksList:
 
 print('Loading completed')
 
+booksPara=dict()
+for file in booksList:
+    candidate=books[file]
+    i=0
+    candidatePara=list()
+    while(i<len(candidate)):
+        if((i+numOfSents)<len(candidate)):
+            para=candidate[i:i+numOfSents]
+            para=" ".join(para)
+            i=i+1
+            candidatePara.append(para)
+        else:
+            para=candidate[i:len(candidate)]
+            para=" ".join(para)
+            candidatePara.append(para)
+            break
+    booksPara[file]=candidatePara
 
-print('Dividing new book into chunks to run on multiple cores')
 
-textChunks=[]
-cores=40 #change if needed
-j=0
-for i in range(cores+1):
-    if (j+math.floor(len(text)/40))<len(text):
-        textChunks.append(text[j:j+math.floor(len(text)/40)])
-        j=j+math.floor(len(text)/40)
-    else:
-        textChunks.append(text[j:len(text)])
-
+'''
 print('Extending stop words')
 
 combinedTexts=[]
@@ -549,7 +590,7 @@ for scoreChunk in results:
 
 print('Pickling jacard')
 
-pickling_on = open("../output/bible-temp-2/jacardScores.pickle","wb")
+pickling_on = open("../output/paragraphSimilarity/jacardScores.pickle","wb")
 pickle.dump(jacardScores, pickling_on)
 
 #pickle_off = open("./bible/jacardScores.pickle","rb")
@@ -558,30 +599,30 @@ pickle.dump(jacardScores, pickling_on)
 
 print('Filtering using jacard')
 
-for sent in jacardScores:
+for para in jacardScores:
     for book in booksList:
-        sent[book]=list(filter(lambda tup: tup[0]>0.40,sent[book]))
+        para[book]=list(filter(lambda tup: tup[0]>0.2,para[book]))
 
-reducedSentences=dict()
+reducedPara=dict()
 for book in booksList:
-    reducedSentences[book]=list()
-
-for sent in jacardScores:
+    reducedPara[book]=list()
+    
+for para in jacardScores:
     for book in booksList:
-        reducedSentences[book]=reducedSentences[book]+[x[1] for x in sent[book]]
+        reducedPara[book]=reducedPara[book]+[x[1] for x in para[book]]
 
 for book in booksList:
-    reducedSentences[book]=list(set(reducedSentences[book]))
+    reducedPara[book]=list(set(reducedPara[book]))
 
-reducedBooks=dict()
+reducedParagraphs=dict()
 for book in booksList:
-    reducedBooks[book]=list()
-
+    reducedParagraphs[book]=list()
+    
 for book in booksList:
-    for sent in reducedSentences[book]:
-        reducedBooks[book].append(books[book][sent])
+    for para in reducedPara[book]:
+        reducedParagraphs[book].append(booksPara[book][para])
 
-pickling_on = open("../output/bible-temp-2/reducedBooks.pickle","wb")
+pickling_on = open("../output/paragraphSimilarity/reducedBooks.pickle","wb")
 pickle.dump(reducedBooks, pickling_on)
 
 
@@ -600,12 +641,11 @@ parseTrees=list()
 parsedSentences=list()
 
 for i in range(len(results)):
-    parseTrees.append(results[i][0])
-    parsedSentences.append(results[i][1])
-    
+    parseTrees.append(results[i])
+ 
 print(len(parseTrees))
 
-pickling_on = open("../output/bible-temp-2/parseTrees.pickle","wb")
+pickling_on = open("../output/paragraphSimilairty/parseTrees.pickle","wb")
 pickle.dump(parseTrees, pickling_on)
 
 
@@ -613,27 +653,24 @@ pickle.dump(parseTrees, pickling_on)
 
 print('Parsing candidates')
 potentialParseTrees=dict()
-potentialParsedSentences=dict()
+
 
 booksToBeParsed=[reducedBooks[bk] for bk in booksList]
-
-pool=Pool(processes=cores+1)
-
+pool=Pool(processes=len(reducedParagraphs))
 results=pool.map(parseBook,booksToBeParsed)
 print(len(results))
 
 
 i=0
 for bk in booksList:
-    potentialParseTrees[bk]=results[i][0]
-    potentialParsedSentences[bk]=results[i][1]
+    potentialParseTrees[bk]=results[i]
+#     potentialParsedSentences[bk]=results[i][1]
     i=i+1
 
-pickling_on = open("../output/bible-temp-2/potentialParseTrees.pickle","wb")
+pickling_on = open("../output/paragraphSimilarity/potentialParseTrees.pickle","wb")
 pickle.dump(potentialParseTrees, pickling_on)
 
-pickling_on = open("../output/bible-temp-2/potentialParsedSentences.pickle","wb")
-pickle.dump(potentialParsedSentences, pickling_on)
+
 '''
 
 print('pickling')
@@ -654,7 +691,7 @@ potentialParseTrees = pickle.load(pickle_off)
 
 print(len(potentialParseTrees['isaiah']))
 
-
+'''
 ########## Syntactic Scoring - Moschitti #########
 
 print('Syntactic Scoring')
@@ -667,7 +704,7 @@ for scoreChunk in results:
     for score in scoreChunk:
         allScores.append(score)
 
-pickling_on = open("../output/bible-temp-2/allScores.pickle","wb")
+pickling_on = open("../output/paragraphSimilarity/allScores.pickle","wb")
 pickle.dump(allScores, pickling_on)
 
 
@@ -693,8 +730,10 @@ scoreTuples.sort(key=lambda tup: tup[5],reverse=True)
 
 print('Writing to a file')
 
-pickling_on = open("../output/bible-temp-2/scoreTuples.pickle","wb")
+pickling_on = open("../output/paragraphSimilarity/scoreTuples.pickle","wb")
 pickle.dump(scoreTuples, pickling_on)
+
+'''
 
 f=open('./bible-temp-2/outputScores-2.txt','a')
 for t in scoreTuples[0:500]:
@@ -707,7 +746,7 @@ for t in scoreTuples[0:500]:
     f.write(reducedBooks[t[1]][t[2]])
     f.write('\n\n')
 
-'''
+
 print('Quick removal of false positives')
 
 sentNumbers=list()

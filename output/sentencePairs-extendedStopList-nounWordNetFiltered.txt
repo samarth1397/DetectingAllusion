@@ -1,0 +1,172 @@
+1
+New Sentence: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
+Reference Sentence: for as for this Moses, the man that brought us up out of the land of
+Egypt, we wot not what is become of him.
+
+2
+New Sentence: 32 Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob.
+Reference Sentence: 5 That they may believe that the LORD God of their
+fathers, the God of Abraham, the God of Isaac, and the God of Jacob,
+hath appeared unto thee.
+
+3
+New Sentence: 19 And he said unto them, What things?
+Reference Sentence: 23 And he said unto them, Why do ye such things?
+
+4
+New Sentence: 22 Then said they unto him, Who art thou?
+Reference Sentence: and he said,
+Here am I; who art thou, my son?
+
+5
+New Sentence: 13 Woe unto thee, Chorazin!
+Reference Sentence: 13 Woe unto them!
+
+6
+New Sentence: And again, I will be to him a Father, and he shall be to me a Son?
+Reference Sentence: 14 I will be his father, and he shall be my son.
+
+7
+New Sentence: saith the Lord.
+Reference Sentence: saith the
+LORD.
+
+8
+New Sentence: 11 This was the Lord's doing, and it is marvellous in our eyes?
+Reference Sentence: 23 This is the LORD's doing; it is marvellous in our eyes.
+
+9
+New Sentence: 21 And the hand of the Lord was with them.
+Reference Sentence: for the day of the
+LORD is at hand.
+
+10
+New Sentence: And the hand of the Lord was with him.
+Reference Sentence: for the day of the
+LORD is at hand.
+
+11
+New Sentence: 10 For it is written, He shall give his angels charge over thee, to keep thee.
+Reference Sentence: 11 For he shall give his angels charge over thee, to keep thee in
+all thy ways.
+
+12
+New Sentence: for, The just shall live by faith.
+Reference Sentence: but the
+just shall live by his faith.
+
+13
+New Sentence: 38 Saying, Blessed be the King that cometh in the name of the Lord.
+Reference Sentence: 26 Blessed be he that cometh in the name of the LORD.
+
+14
+New Sentence: 47 Woe unto you!
+Reference Sentence: 13 Woe unto them!
+
+15
+New Sentence: 4 Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
+Reference Sentence: 5 That they may believe that the LORD God of their
+fathers, the God of Abraham, the God of Isaac, and the God of Jacob,
+hath appeared unto thee.
+
+16
+New Sentence: 10 Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.
+Reference Sentence: 10 Forty years long was I grieved with this generation, and said,
+It is a people that do err in their heart, and they have not known my
+ways.
+
+17
+New Sentence: 37 Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
+Reference Sentence: 6 Moreover he said, I am the God of thy father, the God of Abraham,
+the God of Isaac, and the God of Jacob.
+
+18
+New Sentence: 11 And in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
+Reference Sentence: 12 They shall bear thee up in their hands, lest thou dash thy foot
+against a stone.
+
+19
+New Sentence: 40 Saying unto Aaron, Make us gods to go before us.
+Reference Sentence: 23 For they said unto me, Make us gods, which shall go before us.
+
+20
+New Sentence: 15 Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.
+Reference Sentence: 5 That they may believe that the LORD God of their
+fathers, the God of Abraham, the God of Isaac, and the God of Jacob,
+hath appeared unto thee.
+
+21
+New Sentence: 27 And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
+Reference Sentence: 5 And thou shalt
+love the LORD thy God with all thine heart, and with all thy soul, and
+with all thy might.
+
+22
+New Sentence: 3 Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; 1.
+Reference Sentence: 6 Moreover he said, I am the God of thy father, the God of Abraham,
+the God of Isaac, and the God of Jacob.
+
+23
+New Sentence: 16 This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them; 10.
+Reference Sentence: 33 But this shall be the covenant that I will
+make with the house of Israel; After those days, saith the LORD, I
+will put my law in their inward parts, and write it in their hearts;
+and will be their God, and they shall be my people.
+
+24
+New Sentence: 10 Blessed be the kingdom of our father David, that cometh in the name of the Lord.
+Reference Sentence: 26 Blessed be he that cometh in the name of the LORD.
+
+25
+New Sentence: 11 This is the stone which was set at nought of you builders, which is become the head of the corner.
+Reference Sentence: 22 The stone which the builders refused is become the head stone
+of the corner.
+
+26
+New Sentence: 10 Believest thou not that I am in the Father, and the Father in me?
+Reference Sentence: the same is the father of the children of Ammon unto this
+day.
+
+27
+New Sentence: He said, I know not.
+Reference Sentence: And he
+said, I know not.
+
+28
+New Sentence: And wherefore slew he him?
+Reference Sentence: wherefore he
+slew him also.
+
+29
+New Sentence: 27 And he arose and went.
+Reference Sentence: And he arose, and went down with him unto the king.
+
+30
+New Sentence: And he answered him and said, Thou sayest it.
+Reference Sentence: And he answered, I am he.
+
+31
+New Sentence: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams.
+Reference Sentence: 28 And it shall come to pass afterward, that I will pour out my
+spirit upon all flesh; and your sons and your daughters shall
+prophesy, your old men shall dream dreams, your young men shall see
+visions.
+
+32
+New Sentence: 16 And said unto him, Hearest thou what these say?
+Reference Sentence: 15 What shall I say?
+
+33
+New Sentence: They answered him, No.
+Reference Sentence: But he
+answered him not that day.
+
+34
+New Sentence: 10 And I said, What shall I do, LORD?
+Reference Sentence: for I am the LORD that healeth thee.
+
+35
+New Sentence: And they laughed him to scorn.
+Reference Sentence: but they laughed them to
+scorn, and mocked them.
+

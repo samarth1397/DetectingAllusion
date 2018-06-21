@@ -1,0 +1,538 @@
+1
+New Sentence: and who shall declare his generation?
+Reference Sentence: and who shall declare
+his generation?
+
+2
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+
+3
+New Sentence: 19 Honour thy father and thy mother.
+Reference Sentence: 12 Honour thy father and thy mother.
+
+4
+New Sentence: 11 Woe unto them!
+Reference Sentence: 13 Woe unto them!
+
+5
+New Sentence: 17 And they did eat, and were all filled.
+Reference Sentence: 29 So they did eat, and were well filled.
+
+6
+New Sentence: 32 I am the God of Abraham, and the God of Isaac, and the God of Jacob?
+Reference Sentence: 6 Moreover he said, I am the God of thy father, the God of Abraham,
+the God of Isaac, and the God of Jacob.
+
+7
+New Sentence: 36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.
+Reference Sentence: 22 Yea, for thy sake are we killed all the day long; we are counted
+as sheep for the slaughter.
+
+8
+New Sentence: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
+Reference Sentence: for as for this Moses, the man that brought us up out of the land of
+Egypt, we wot not what is become of him.
+
+9
+New Sentence: 8 Harden not your hearts, as in the provocation, in the day of temptation in the wilderness.
+Reference Sentence: 8 Harden not your heart, as in the provocation, and as in the day
+of temptation in the wilderness.
+
+10
+New Sentence: 32 Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob.
+Reference Sentence: 6 Moreover he said, I am the God of thy father, the God of Abraham,
+the God of Isaac, and the God of Jacob.
+
+11
+New Sentence: 10 Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.
+Reference Sentence: 10 Forty years long was I grieved with this generation, and said,
+It is a people that do err in their heart, and they have not known my
+ways.
+
+12
+New Sentence: 27 For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.
+Reference Sentence: 10 Make the heart of this people fat, and make their ears heavy, and
+shut their eyes; lest they see with their eyes, and hear with their
+ears, and understand with their heart, and convert, and be healed.
+
+13
+New Sentence: 37 Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
+Reference Sentence: 6 Moreover he said, I am the God of thy father, the God of Abraham,
+the God of Isaac, and the God of Jacob.
+
+14
+New Sentence: 30 And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength.
+Reference Sentence: 5 And thou shalt
+love the LORD thy God with all thine heart, and with all thy soul, and
+with all thy might.
+
+15
+New Sentence: 53 The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.
+Reference Sentence: 6 For the son dishonoureth the father, the daughter riseth up
+against her mother, the daughter in law against her mother in law; a
+man's enemies are the men of his own house.
+
+16
+New Sentence: 26 And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.
+Reference Sentence: 10 Yet the number of the children of Israel shall be as the sand of
+the sea, which cannot be measured nor numbered; and it shall come to
+pass, that in the place where it was said unto them, Ye are not my
+people, there it shall be said unto them, Ye are the sons of the
+living God.
+
+17
+New Sentence: 3 And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.
+Reference Sentence: 1 Now the LORD had said unto Abram, Get thee out of thy country,
+and from thy kindred, and from thy father's house, unto a land that I
+will shew thee.
+
+18
+New Sentence: 35 For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
+Reference Sentence: 6 For the son dishonoureth the father, the daughter riseth up
+against her mother, the daughter in law against her mother in law; a
+man's enemies are the men of his own house.
+
+19
+New Sentence: 19 And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke.
+Reference Sentence: 30 And I will shew wonders in the heavens and in the earth, blood,
+and fire, and pillars of smoke.
+
+20
+New Sentence: 37 Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+Reference Sentence: 5 And thou shalt
+love the LORD thy God with all thine heart, and with all thy soul, and
+with all thy might.
+
+21
+New Sentence: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+Reference Sentence: 20 Thou shalt fear the LORD thy God; him shalt thou serve, and to
+him shalt thou cleave, and swear by his name.
+
+22
+New Sentence: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+Reference Sentence: 20 Thou shalt fear the LORD thy God; him shalt thou serve, and to
+him shalt thou cleave, and swear by his name.
+
+23
+New Sentence: 17 For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
+Reference Sentence: 16 And in very deed for this cause have I raised thee up, for to
+shew in thee my power; and that my name may be declared throughout all
+the earth.
+
+24
+New Sentence: First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
+Reference Sentence: and I will move them to
+jealousy with those which are not a people; I will provoke them to
+anger with a foolish nation.
+
+25
+New Sentence: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.
+Reference Sentence: 19 And God
+said, Sarah thy wife shall bear thee a son indeed; and thou shalt call
+his name Isaac.
+
+26
+New Sentence: 27 And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
+Reference Sentence: 5 And thou shalt
+love the LORD thy God with all thine heart, and with all thy soul, and
+with all thy might.
+
+27
+New Sentence: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?
+Reference Sentence: 5 That they may believe that the LORD God of their
+fathers, the God of Abraham, the God of Isaac, and the God of Jacob,
+hath appeared unto thee.
+
+28
+New Sentence: 9 Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.
+Reference Sentence: 21 And I have set there a place for the ark, wherein is the covenant
+of the LORD, which he made with our fathers, when he brought them out
+of the land of Egypt.
+
+29
+New Sentence: and he called his name JESUS.
+Reference Sentence: and he called his
+name Israel.
+
+30
+New Sentence: Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, 19.
+Reference Sentence: 15 Thou shalt not steal.
+
+31
+New Sentence: 13 Woe unto thee, Chorazin!
+Reference Sentence: 13 Woe unto them!
+
+32
+New Sentence: 12 For the eyes of the Lord are over the righteous, and his ears are open unto their prayers.
+Reference Sentence: 15 The eyes of the LORD are upon the righteous, and his ears are
+open unto their cry.
+
+33
+New Sentence: 37 This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.
+Reference Sentence: 13 And Moses said unto God, Behold, when I come unto the children of
+Israel, and shall say unto them, The God of your fathers hath sent me
+unto you; and they shall say to me, What is his name?
+
+34
+New Sentence: woe unto thee, Bethsaida!
+Reference Sentence: woe
+unto them!
+
+35
+New Sentence: 12 Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow.
+Reference Sentence: And when he came to the gate
+of the city, behold, the widow woman was there gathering of sticks.
+
+36
+New Sentence: 12 And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.
+Reference Sentence: 10 And in that day there shall be a root of Jesse, which shall
+stand for an ensign of the people; to it shall the Gentiles seek.
+
+37
+New Sentence: 7 He that overcometh shall inherit all things; and I will be his God, and he shall be my son.
+Reference Sentence: 14 I will be his father, and he shall be my son.
+
+38
+New Sentence: 13 And he said unto them, Know ye not this parable?
+Reference Sentence: 5 And he said unto them, Know ye Laban the son of Nahor?
+
+39
+New Sentence: 22 For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.
+Reference Sentence: 13 And Moses said unto God, Behold, when I come unto the children of
+Israel, and shall say unto them, The God of your fathers hath sent me
+unto you; and they shall say to me, What is his name?
+
+40
+New Sentence: Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.
+Reference Sentence: but he giveth grace unto the
+lowly.
+
+41
+New Sentence: 20 A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.
+Reference Sentence: 3 A bruised reed shall he not break, and the smoking flax shall he
+not quench.
+
+42
+New Sentence: 39 For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
+Reference Sentence: 2 Ye shall not add unto the word which I command you, neither shall
+ye diminish ought from it, that ye may keep the commandments of the
+LORD your God which I command you.
+
+43
+New Sentence: 7 If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
+Reference Sentence: speak unto them, saying, At even
+ye shall eat flesh, and in the morning ye shall be filled with bread;
+and ye shall know that I am the LORD your God.
+
+44
+New Sentence: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord.
+Reference Sentence: 3 And it shall come to pass, that when any shall yet prophesy, then
+his father and his mother that begat him shall say unto him, Thou
+shalt not live; for thou speakest lies in the name of the LORD.
+
+45
+New Sentence: 28 And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
+Reference Sentence: 30 Even as I sware unto thee
+by the LORD God of Israel, saying, Assuredly Solomon thy son shall
+reign after me, and he shall sit upon my throne in my stead; even so
+will I certainly do this day.
+
+46
+New Sentence: 6 He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with their lips, but their heart is far from me.
+Reference Sentence: 5 And said unto them, I see your father's countenance, that
+it is not toward me as before; but the God of my father hath been with
+me.
+
+47
+New Sentence: 6 But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.
+Reference Sentence: 4 And the man said unto me, Son of man, behold with thine eyes, and
+hear with thine ears, and set thine heart upon all that I shall shew
+thee; for to the intent that I might shew them unto thee art thou
+brought hither.
+
+48
+New Sentence: 4 For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you.
+Reference Sentence: 22 And David said, What have I to do with you, ye sons
+of Zeruiah, that ye should this day be adversaries unto me?
+
+49
+New Sentence: 9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
+Reference Sentence: 40 And by thy sword shalt thou live, and shalt serve
+thy brother; and it shall come to pass when thou shalt have the
+dominion, that thou shalt break his yoke from off thy neck.
+
+50
+New Sentence: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee; 26.
+Reference Sentence: 3 Sojourn in this
+land, and I will be with thee, and will bless thee; for unto thee, and
+unto thy seed, I will give all these countries, and I will perform the
+oath which I sware unto Abraham thy father; 26.
+
+51
+New Sentence: 28 And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.
+Reference Sentence: 4 Absalom said moreover, Oh that I were made judge in the land,
+that every man which hath any suit or cause might come unto me, and I
+would do him justice!
+
+52
+New Sentence: 13 And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee.
+Reference Sentence: 21 And Ahithophel said unto Absalom, Go in unto thy father's
+concubines, which he hath left to keep the house; and all Israel shall
+hear that thou art abhorred of thy father.
+
+53
+New Sentence: 31 And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.
+Reference Sentence: 13 And the LORD shall make thee the head, and not the tail; and
+thou shalt be above only, and thou shalt not be beneath; if that thou
+hearken unto the commandments of the LORD thy God, which I command
+thee this day, to observe and to do them.
+
+54
+New Sentence: 24 But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
+Reference Sentence: 18 Then I told them of the hand of my God which was good upon me; as
+also the king's words that he had spoken unto me.
+
+55
+New Sentence: 1 And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
+Reference Sentence: 1 And the LORD said unto Noah, Come thou and all thy house into the
+ark; for thee have I seen righteous before me in this generation.
+
+56
+New Sentence: 7 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
+Reference Sentence: 28 And there came a man of God, and spake unto the king of Israel,
+and said, Thus saith the LORD, Because the Syrians have said, The LORD
+is God of the hills, but he is not God of the valleys, therefore will
+I deliver all this great multitude into thine hand, and ye shall know
+that I am the LORD.
+
+57
+New Sentence: 5 And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him.
+Reference Sentence: 4 And the men of David said unto him, Behold the day of which the
+LORD said unto thee, Behold, I will deliver thine enemy into thine
+hand, that thou mayest do to him as it shall seem good unto thee.
+
+58
+New Sentence: 20 But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife.
+Reference Sentence: 3 And Moses went up unto God, and the LORD called unto him out of
+the mountain, saying, Thus shalt thou say to the house of Jacob, and
+tell the children of Israel; 19.
+
+59
+New Sentence: but he received it not.
+Reference Sentence: but he received it
+not.
+
+60
+New Sentence: And he said unto them, 13.
+Reference Sentence: And he said unto
+him, Run.
+
+61
+New Sentence: 21 And he said unto me, Depart.
+Reference Sentence: And he said unto
+him, Run.
+
+62
+New Sentence: And they brought unto him a penny.
+Reference Sentence: And they brought him unto Moses.
+
+63
+New Sentence: And he saith, I am not.
+Reference Sentence: And he answered, I am he.
+
+64
+New Sentence: 20 And they brought him unto him.
+Reference Sentence: And they brought him unto Moses.
+
+65
+New Sentence: but he said, I am he.
+Reference Sentence: And he answered, I am he.
+
+66
+New Sentence: for they are worthy.
+Reference Sentence: for they are blessed.
+
+67
+New Sentence: And he said, Behold, I am here, Lord.
+Reference Sentence: 34 And he said, I am Abraham's servant.
+
+68
+New Sentence: 20 The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
+Reference Sentence: the eagle,
+and the ossifrage, and the ospray, 11.
+
+69
+New Sentence: He said, I know not.
+Reference Sentence: And he
+said, I know not.
+
+70
+New Sentence: 38 And he said, Lord, I believe.
+Reference Sentence: 10 And he said, Behold, I make a covenant.
+
+71
+New Sentence: 5 And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves; 11.
+Reference Sentence: 13 And Moses said unto God, Behold, when I come unto the children of
+Israel, and shall say unto them, The God of your fathers hath sent me
+unto you; and they shall say to me, What is his name?
+
+72
+New Sentence: therefore they shall be your judges.
+Reference Sentence: therefore they shall be holy.
+
+73
+New Sentence: 23 And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.
+Reference Sentence: and of all that thou
+shalt give me I will surely give the tenth unto thee.
+
+74
+New Sentence: 9 I am the door.
+Reference Sentence: 8 I am the LORD.
+
+75
+New Sentence: 9 And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.
+Reference Sentence: 11 And it shall be, if it make thee answer of peace, and open unto
+thee, then it shall be, that all the people that is found therein
+shall be tributaries unto thee, and they shall serve thee.
+
+76
+New Sentence: 36 And he said unto them, What would ye that I should do for you?
+Reference Sentence: 22 And David said, What have I to do with you, ye sons
+of Zeruiah, that ye should this day be adversaries unto me?
+
+77
+New Sentence: 21 Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.
+Reference Sentence: 20 And God came unto Balaam at night, and said unto him, If the men
+come to call thee, rise up, and go with them; but yet the word which I
+shall say unto thee, that shalt thou do.
+
+78
+New Sentence: 40 And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
+Reference Sentence: 13 And Moses said unto God, Behold, when I come unto the children of
+Israel, and shall say unto them, The God of your fathers hath sent me
+unto you; and they shall say to me, What is his name?
+
+79
+New Sentence: 25 When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are.
+Reference Sentence: 20 And God came unto Balaam at night, and said unto him, If the men
+come to call thee, rise up, and go with them; but yet the word which I
+shall say unto thee, that shalt thou do.
+
+80
+New Sentence: 24 But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.
+Reference Sentence: 3 And thou shalt go unto the priest that shall be in those days,
+and say unto him, I profess this day unto the LORD thy God, that I am
+come unto the country which the LORD sware unto our fathers for to
+give us.
+
+81
+New Sentence: 19 And he said unto them, What things?
+Reference Sentence: 2 And he said unto me, What seest thou?
+
+82
+New Sentence: saith the Lord.
+Reference Sentence: saith the LORD.
+
+83
+New Sentence: let them marry.
+Reference Sentence: let them come near; then let them speak.
+
+84
+New Sentence: And wherefore slew he him?
+Reference Sentence: wherefore he
+slew him also.
+
+85
+New Sentence: 18 And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me.
+Reference Sentence: 13 And Moses said unto God, Behold, when I come unto the children of
+Israel, and shall say unto them, The God of your fathers hath sent me
+unto you; and they shall say to me, What is his name?
+
+86
+New Sentence: 34 And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.
+Reference Sentence: 21 And Ahithophel said unto Absalom, Go in unto thy father's
+concubines, which he hath left to keep the house; and all Israel shall
+hear that thou art abhorred of thy father.
+
+87
+New Sentence: 24 And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.
+Reference Sentence: 10 And he said unto them, Let the LORD be so with you, as I will
+let you go, and your little ones.
+
+88
+New Sentence: 31 Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.
+Reference Sentence: 17 He that hath pity upon the poor lendeth unto the LORD; and that
+which he hath given will he pay him again.
+
+89
+New Sentence: 44 And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
+Reference Sentence: 10 Yet the number of the children of Israel shall be as the sand of
+the sea, which cannot be measured nor numbered; and it shall come to
+pass, that in the place where it was said unto them, Ye are not my
+people, there it shall be said unto them, Ye are the sons of the
+living God.
+
+90
+New Sentence: 16 And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?
+Reference Sentence: 39 And it
+shall be unto you for a fringe, that ye may look upon it, and remember
+all the commandments of the LORD, and do them; and that ye seek not
+after your own heart and your own eyes, after which ye use to go a
+whoring.
+
+91
+New Sentence: 28 Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things.
+Reference Sentence: 27 But when I speak with thee, I will open thy mouth, and thou shalt
+say unto them, Thus saith the Lord GOD; He that heareth, let him hear;
+and he that forbeareth, let him forbear.
+
+92
+New Sentence: 9 And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
+Reference Sentence: 5 I will get me unto the great men, and will speak unto them; for
+they have known the way of the LORD, and the judgment of their God.
+
+93
+New Sentence: 23 For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.
+Reference Sentence: 3 And it shall come to pass, that when any shall yet prophesy, then
+his father and his mother that begat him shall say unto him, Thou
+shalt not live; for thou speakest lies in the name of the LORD.
+
+94
+New Sentence: 29 And he said, Come.
+Reference Sentence: And he said, Jacob.
+
+95
+New Sentence: 1 And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
+Reference Sentence: 24 And there shall be no more a pricking brier unto the house of
+Israel, nor any grieving thorn of all that are round about them, that
+despised them; and they shall know that I am the Lord GOD.
+
+96
+New Sentence: 12 But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel; 1.
+Reference Sentence: 29 And Moses said unto him, As soon as I am gone out of the city, I
+will spread abroad my hands unto the LORD; and the thunder shall
+cease, neither shall there be any more hail; that thou mayest know how
+that the earth is the LORD's.
+
+97
+New Sentence: 50 And they understood not the saying which he spake unto them.
+Reference Sentence: 23 And they knew not that Joseph understood them; for he spake unto
+them by an interpreter.
+
+98
+New Sentence: 19 And he said unto him, Arise, go thy way.
+Reference Sentence: 19 And he said unto her, Give me thy son.
+
+99
+New Sentence: 32 And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
+Reference Sentence: 8 And I will bring you in unto the land, concerning the which I did
+swear to give it to Abraham, to Isaac, and to Jacob; and I will give
+it you for an heritage.
+
+100
+New Sentence: 16 And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; 14.
+Reference Sentence: 8 And I will bring you in unto the land, concerning the which I did
+swear to give it to Abraham, to Isaac, and to Jacob; and I will give
+it you for an heritage.
+
