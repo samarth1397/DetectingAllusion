@@ -32,7 +32,7 @@ from dependencies import *
 
 class detect:
 	
-	def __init__(self,inputFolder='../data',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='english',cores=10):
+	def __init__(self,inputFolder='../data',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='english',cores=40):
 		self.potential=inputFolder+'potential/'
 		self.new=inputFolder+'new/'
 		self.pickled=outputFolder+'pickle/'
@@ -75,7 +75,7 @@ class detect:
 	
 
 			
-	def filterWithJacard(self,textChunks,books,threshold=0.2):
+	def filterWithJacard(self,textChunks,books,threshold=0.35):
 
 		mapInput=[(textChunks[i],books,self.booksList) for i in range(len(textChunks))]
 	
@@ -215,13 +215,13 @@ class detect:
 		return newTuples	
 
 def main():
-	d=detect(inputFolder='../data/temp/')
+	d=detect(inputFolder='../data/')
 	text=d.loadNew()
 	books=d.loadCandidates()
 	textChunks=d.splitChunks(text)
 	
 	print('Filtering chunk')
-	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.2)
+	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.6)
 	pickling_on = open('../output/'+'testPackage/reducedBooks.pickle',"wb")
 	pickle.dump(reducedBooks, pickling_on)
 
@@ -268,6 +268,8 @@ def main():
 	semanticScore=d.semanticScoring(text,reducedBooks)
 
 	print('Semantic Score: ',len(semanticScore))
+
+	print('Aggregating')
 
 	scoreTuples=d.aggeregateScoring(syntacticScore,semanticScore)
 

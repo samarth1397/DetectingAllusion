@@ -1,0 +1,212 @@
+5
+New Sentence: 16 Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude. 17 And they did eat, and were all filled. and there was taken up of fragments that remained to them twelve baskets.
+Reference Sentence: 28 And he let it fall in the midst of their camp, round about their
+habitations. 29 So they did eat, and were well filled. for he gave them their
+own desire;
+
+78.
+
+
+Syntactic Similarity: 0.975846387008
+Semantic Similarity: 0.970781683922
+
+21
+New Sentence: 10 Then saith Jesus unto him, Get thee hence, Satan. for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. 11 Then the devil leaveth him, and, behold, angels came and ministered unto him.
+Reference Sentence: for ye were strangers in the
+land of Egypt. 20 Thou shalt fear the LORD thy God; him shalt thou serve, and to
+him shalt thou cleave, and swear by his name. 21 He is thy praise, and he is thy God, that hath done for thee
+these great and terrible things, which thine eyes have seen.
+
+
+Syntactic Similarity: 0.931072501827
+Semantic Similarity: 0.934102058411
+
+24
+New Sentence: 19 But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you. 20 But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.
+Reference Sentence: 21 They have moved me to jealousy with that which is not God; they
+have provoked me to anger with their vanities. and I will move them to
+jealousy with those which are not a people; I will provoke them to
+anger with a foolish nation. 22 For a fire is kindled in mine anger, and shall burn unto the
+lowest hell, and shall consume the earth with her increase, and set on
+fire the foundations of the mountains.
+
+
+Syntactic Similarity: 0.874573383307
+Semantic Similarity: 0.958882808685
+
+25
+New Sentence: 13 But the angel said unto him, Fear not, Zacharias. for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John. 14 And thou shalt have joy and gladness; and many shall rejoice at his birth.
+Reference Sentence: 18 And Abraham
+said unto God, O that Ishmael might live before thee! 19 And God
+said, Sarah thy wife shall bear thee a son indeed; and thou shalt call
+his name Isaac. and I will establish my covenant with him for an
+everlasting covenant, and with his seed after him.
+
+
+Syntactic Similarity: 0.949405085915
+Semantic Similarity: 0.970329642296
+
+27
+New Sentence: 26 And as touching the dead, that they rise. have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? 27 He is not the God of the dead, but the God of the living.
+Reference Sentence: And he put forth his hand, and caught it, and it became a
+rod in his hand. 5 That they may believe that the LORD God of their
+fathers, the God of Abraham, the God of Isaac, and the God of Jacob,
+hath appeared unto thee. 6 And the LORD said furthermore unto him, Put now thine hand into
+thy bosom.
+
+
+Syntactic Similarity: 0.920194024948
+Semantic Similarity: 0.910190463066
+
+28
+New Sentence: 8 For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah. 9 Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord. 10 For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts.
+Reference Sentence: 20 And the LORD hath performed his word that he spake, and I am
+risen up in the room of David my father, and sit on the throne of
+Israel, as the LORD promised, and have built an house for the name of
+the LORD God of Israel. 21 And I have set there a place for the ark, wherein is the covenant
+of the LORD, which he made with our fathers, when he brought them out
+of the land of Egypt. 22 And Solomon stood before the altar of the LORD in the presence of
+all the congregation of Israel, and spread forth his hands toward
+heaven.
+
+
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+35
+New Sentence: 11 And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people. 12 Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow. and much people of the city was with her.
+Reference Sentence: 10 So he arose and went to Zarephath. And when he came to the gate
+of the city, behold, the widow woman was there gathering of sticks. and he called to her, and said, Fetch me, I pray thee, a little water
+in a vessel, that I may drink.
+
+
+Syntactic Similarity: 0.921839436315
+Semantic Similarity: 0.908387303352
+
+36
+New Sentence: 11 And again, Praise the Lord, all ye Gentiles; and laud him, all ye people. 12 And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust. 13 Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.
+Reference Sentence: for the
+earth shall be full of the knowledge of the LORD, as the waters cover
+the sea. 10 And in that day there shall be a root of Jesse, which shall
+stand for an ensign of the people; to it shall the Gentiles seek. and
+his rest shall be glorious.
+
+
+Syntactic Similarity: 0.937567201892
+Semantic Similarity: 0.949379920959
+
+40
+New Sentence: 6 But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble. 7 Submit yourselves therefore to God.
+Reference Sentence: 34 Surely he scorneth the scorners. but he giveth grace unto the
+lowly. 35 The wise shall inherit glory.
+
+
+Syntactic Similarity: 0.912164690863
+Semantic Similarity: 0.917136728764
+
+5
+New Sentence: 16 Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude. 17 And they did eat, and were all filled. and there was taken up of fragments that remained to them twelve baskets.
+Reference Sentence: 28 And he let it fall in the midst of their camp, round about their
+habitations. 29 So they did eat, and were well filled. for he gave them their
+own desire;
+
+78.
+
+
+Syntactic Similarity: 0.975846387008
+Semantic Similarity: 0.970781683922
+
+21
+New Sentence: 10 Then saith Jesus unto him, Get thee hence, Satan. for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. 11 Then the devil leaveth him, and, behold, angels came and ministered unto him.
+Reference Sentence: for ye were strangers in the
+land of Egypt. 20 Thou shalt fear the LORD thy God; him shalt thou serve, and to
+him shalt thou cleave, and swear by his name. 21 He is thy praise, and he is thy God, that hath done for thee
+these great and terrible things, which thine eyes have seen.
+
+
+Syntactic Similarity: 0.931072501827
+Semantic Similarity: 0.934102058411
+
+24
+New Sentence: 19 But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you. 20 But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.
+Reference Sentence: 21 They have moved me to jealousy with that which is not God; they
+have provoked me to anger with their vanities. and I will move them to
+jealousy with those which are not a people; I will provoke them to
+anger with a foolish nation. 22 For a fire is kindled in mine anger, and shall burn unto the
+lowest hell, and shall consume the earth with her increase, and set on
+fire the foundations of the mountains.
+
+
+Syntactic Similarity: 0.874573383307
+Semantic Similarity: 0.958882808685
+
+25
+New Sentence: 13 But the angel said unto him, Fear not, Zacharias. for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John. 14 And thou shalt have joy and gladness; and many shall rejoice at his birth.
+Reference Sentence: 18 And Abraham
+said unto God, O that Ishmael might live before thee! 19 And God
+said, Sarah thy wife shall bear thee a son indeed; and thou shalt call
+his name Isaac. and I will establish my covenant with him for an
+everlasting covenant, and with his seed after him.
+
+
+Syntactic Similarity: 0.949405085915
+Semantic Similarity: 0.970329642296
+
+27
+New Sentence: 26 And as touching the dead, that they rise. have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? 27 He is not the God of the dead, but the God of the living.
+Reference Sentence: And he put forth his hand, and caught it, and it became a
+rod in his hand. 5 That they may believe that the LORD God of their
+fathers, the God of Abraham, the God of Isaac, and the God of Jacob,
+hath appeared unto thee. 6 And the LORD said furthermore unto him, Put now thine hand into
+thy bosom.
+
+
+Syntactic Similarity: 0.920194024948
+Semantic Similarity: 0.910190463066
+
+28
+New Sentence: 8 For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah. 9 Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord. 10 For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts.
+Reference Sentence: 20 And the LORD hath performed his word that he spake, and I am
+risen up in the room of David my father, and sit on the throne of
+Israel, as the LORD promised, and have built an house for the name of
+the LORD God of Israel. 21 And I have set there a place for the ark, wherein is the covenant
+of the LORD, which he made with our fathers, when he brought them out
+of the land of Egypt. 22 And Solomon stood before the altar of the LORD in the presence of
+all the congregation of Israel, and spread forth his hands toward
+heaven.
+
+
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+35
+New Sentence: 11 And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people. 12 Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow. and much people of the city was with her.
+Reference Sentence: 10 So he arose and went to Zarephath. And when he came to the gate
+of the city, behold, the widow woman was there gathering of sticks. and he called to her, and said, Fetch me, I pray thee, a little water
+in a vessel, that I may drink.
+
+
+Syntactic Similarity: 0.921839436315
+Semantic Similarity: 0.908387303352
+
+36
+New Sentence: 11 And again, Praise the Lord, all ye Gentiles; and laud him, all ye people. 12 And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust. 13 Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.
+Reference Sentence: for the
+earth shall be full of the knowledge of the LORD, as the waters cover
+the sea. 10 And in that day there shall be a root of Jesse, which shall
+stand for an ensign of the people; to it shall the Gentiles seek. and
+his rest shall be glorious.
+
+
+Syntactic Similarity: 0.937567201892
+Semantic Similarity: 0.949379920959
+
+40
+New Sentence: 6 But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble. 7 Submit yourselves therefore to God.
+Reference Sentence: 34 Surely he scorneth the scorners. but he giveth grace unto the
+lowly. 35 The wise shall inherit glory.
+
+
+Syntactic Similarity: 0.912164690863
+Semantic Similarity: 0.917136728764
+

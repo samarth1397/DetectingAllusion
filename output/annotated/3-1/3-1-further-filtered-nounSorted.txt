@@ -1,0 +1,65 @@
+4
+New Sentence: but what they know naturally, as brute beasts, in those things they corrupt themselves. 11 Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.
+Reference Sentence: 12 When they shall go, I will spread my net upon them; I will bring
+them down as the fowls of the heaven; I will chastise them, as their
+congregation hath heard. 13 Woe unto them! for they have fled from me.
+
+
+Syntactic Similarity: 0.899672410779
+Semantic Similarity: 0.930454909801
+
+29
+New Sentence: 25 And knew her not till she had brought forth her firstborn son. and he called his name JESUS. 1 Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem, 2.
+Reference Sentence: thy name shall not be
+called any more Jacob, but Israel shall be thy name. and he called his
+name Israel. 11 And God said unto him, I am God Almighty.
+
+
+Syntactic Similarity: 0.881772403359
+Semantic Similarity: 0.969517171383
+
+31
+New Sentence: 12 But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city. 13 Woe unto thee, Chorazin! woe unto thee, Bethsaida!
+Reference Sentence: 12 When they shall go, I will spread my net upon them; I will bring
+them down as the fowls of the heaven; I will chastise them, as their
+congregation hath heard. 13 Woe unto them! for they have fled from me.
+
+
+Syntactic Similarity: 0.929279569638
+Semantic Similarity: 0.916411697865
+
+75
+New Sentence: 8 I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth. 9 And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you. 10 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
+Reference Sentence: 10 When thou comest nigh unto a city to fight against it, then
+proclaim peace unto it. 11 And it shall be, if it make thee answer of peace, and open unto
+thee, then it shall be, that all the people that is found therein
+shall be tributaries unto thee, and they shall serve thee. 12 And if it will make no peace with thee, but will make war
+against thee, then thou shalt besiege it.
+
+
+Syntactic Similarity: 0.920661415865
+Semantic Similarity: 0.925695121288
+
+81
+New Sentence: 18 And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days? 19 And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people.
+Reference Sentence: 1 Then I turned, and lifted up mine eyes, and looked, and behold a
+flying roll. 2 And he said unto me, What seest thou? And I answered, I see a
+flying roll; the length thereof is twenty cubits, and the breadth
+thereof ten cubits.
+
+
+Syntactic Similarity: 0.838709677419
+Semantic Similarity: 1.0
+
+86
+New Sentence: 33 But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth. 34 And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague. 35 While he yet spake, there came from the ruler of the synagogue's house certain which said, Thy daughter is dead.
+Reference Sentence: 20 Then said Absalom to Ahithophel, Give counsel among you what we
+shall do. 21 And Ahithophel said unto Absalom, Go in unto thy father's
+concubines, which he hath left to keep the house; and all Israel shall
+hear that thou art abhorred of thy father. then shall the hands of all
+that are with thee be strong.
+
+
+Syntactic Similarity: 0.919364858473
+Semantic Similarity: 0.917154967785
+
