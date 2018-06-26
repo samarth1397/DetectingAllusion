@@ -21,18 +21,32 @@ If a sentence in the potential candidates does not have a minimum (user-defined)
 
 A typical pipeline would look like this:
 
+* Load the text
+
 ```python
 from detect import *
 d=detect(inputFolder='../data/')
 text=d.loadNew()
 books=d.loadCandidates()
 textChunks=d.splitChunks(text)
+```
+* Parse the books
+
+```python
 reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.3)
 parseTrees,parsedSentences=d.parseNewBook(textChunks)
 potentialParseTrees,potentialParsedSentences=d.parseCandidates(reducedBooks)
+```
+* Syntactic and semantic scoring
+
+```python
 syntacticScore=d.syntacticScoring(parseTrees,potentialParseTrees)
 semanticScore=d.semanticScoring(text,reducedBooks)
 scoreTuples=d.aggeregateScoring(syntacticScore,semanticScore)
+```
+* Noun based ranking
+
+```python
 finalTuples=d.finalFiltering(scoreTuples,reducedBooks)
 orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
 ```
