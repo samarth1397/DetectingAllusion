@@ -1,8 +1,8 @@
 # DetectingAllusion
-Computational detection of intertextual references
+Computational detection of intertextual references and allusions. 
 
 # Description
-A python package which searches for potential allusions and intertextual references made in a book against a set of potential candidates. 
+A python package which searches for potential allusions and references made by a book to a list of potential candidate books, i.e. books which are being referred to. 
 
 # Terminology
 * New Text: The book which might be making allusions to other books
