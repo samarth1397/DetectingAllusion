@@ -54,6 +54,8 @@ scoreTuples=d.aggeregateScoring(syntacticScore,semanticScore)
 finalTuples=d.finalFiltering(scoreTuples,reducedBooks)
 orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
 ```
+# License
+
 MIT License
 
 Copyright (c) 2018 Samarth Mehrotra
