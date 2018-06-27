@@ -32,7 +32,7 @@ from dependencies import *
 
 class detect:
 	
-	def __init__(self,inputFolder='../data',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='english',cores=40):
+	def __init__(self,inputFolder='../data/',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='english',cores=40):
 		self.potential=inputFolder+'potential/'
 		self.new=inputFolder+'new/'
 		self.pickled=outputFolder+'pickle/'
@@ -133,7 +133,7 @@ class detect:
 	
 	def parseCandidates(self,reducedBooks):
 		booksToBeParsed=[reducedBooks[bk] for bk in self.booksList]
-		pool=Pool(processes=self.cores)
+		pool=Pool(processes=len(reducedBooks))
 		results=pool.map(parseCandidateBooks,booksToBeParsed)
 		potentialParseTrees=dict()
 		potentialParsedSentences=dict()
@@ -172,7 +172,7 @@ class detect:
 			semanticScore.append(scoreDict)
 		return semanticScore
 
-	def aggeregateScoring(self,syntacticScore,semanticScore):
+	def aggregateScoring(self,syntacticScore,semanticScore):
 		scoreTuples=list()
 		for i in range(len(syntacticScore)):
 			synScore=syntacticScore[i]
@@ -187,7 +187,7 @@ class detect:
 					scoreTuples.append((i,bk,k,sy,sm,(sy+sm)/2))
 		return scoreTuples
 
-	def finalFiltering(self,scoreTuples,reducedBooks):
+	def finalFiltering(self,scoreTuples,reducedBooks,threshold=0.89):
 		totalPotentialSentences=0
 		for bk in self.booksList:
 			totalPotentialSentences=totalPotentialSentences+len(reducedBooks[bk])
@@ -198,7 +198,7 @@ class detect:
 		while i<len(scoreTuples):
 			senttups=scoreTuples[i:i+totalPotentialSentences]
 			senttups.sort(key=lambda tup: tup[5],reverse=True)
-			if senttups[0][5]>0.89:
+			if senttups[0][5]>threshold:
 				finalTuples.append(senttups[0])
 			i=i+totalPotentialSentences
 			k=k+1
@@ -271,7 +271,7 @@ def main():
 
 	print('Aggregating')
 
-	scoreTuples=d.aggeregateScoring(syntacticScore,semanticScore)
+	scoreTuples=d.aggregateScoring(syntacticScore,semanticScore)
 
 	print(len(scoreTuples))
 

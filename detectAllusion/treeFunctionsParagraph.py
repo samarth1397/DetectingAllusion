@@ -268,6 +268,7 @@ def getNLPToks(rawSentence):
         'toks':tokens, 'parse':parse
     }
     
+
 def jacardScore(a, b):
     tokens_a = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
     tokens_b = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
@@ -277,71 +278,77 @@ def jacardScore(a, b):
         ratio = len(set(tokens_a).intersection(tokens_b)) / float(len(set(tokens_a).union(tokens_b)))
     return ratio    
 
+
 def calcJacardChunk(chunkTuples):
     # print('computing chunk')
     chunk=chunkTuples[0]
     books=chunkTuples[1]
     booksList=chunkTuples[2]
     scoresChunk=list()
-    for sent in chunk:
+    for para in chunk:
         scoresDict={}
         for book in booksList:
             bookScore=[]
             for k in range(len(books[book])):
-                simScore=jacardScore(sent, books[book][k])
+                simScore=jacardScore(para, books[book][k])
                 bookScore.append((simScore,k))
             scoresDict[book]=bookScore
         scoresChunk.append(scoresDict)
     return scoresChunk
 
-def parseNewText(chunk):
-    #print('Parsing chunk')
-    # chunk=chunkTuple[0]
-    # location=chunkTuple[1]
-    # nlp=StanfordCoreNLP(location)
-    parseChunk=list()
-    parseSentenceChunk=list()
-    for sent in chunk:
-        sentParse=getNLPToks(sent)
-        tempTree=tree()
-        generateTree(sentParse['parse'],tempTree)
-        parseSentenceChunk.append(sentParse['parse'])
-        flipTree(tempTree)
-        parseChunk.append(tempTree)
-    return (parseChunk,parseSentenceChunk)      
 
+def parseNewText(paraChunk):
+    # print('Parsing chunk')
+    parseChunk=list()
+    for para in paraChunk:
+        paraParse=list()
+        para=sent_tokenize(para)
+        for sent in para:
+            sentParse=getNLPToks(sent)
+            tempTree=tree()
+            generateTree(sentParse['parse'],tempTree)
+#             parseSentenceChunk.append(sentParse['parse'])
+            flipTree(tempTree)
+            paraParse.append(tempTree)
+        parseChunk.append(paraParse)
+    return parseChunk   
+
+
+    
 def parseCandidateBooks(candidate):
-    # print('parsing')
     pTrees=list()
-    pSents=list()
-    for sent in candidate:
-        sentParse=getNLPToks(sent)
-        tempTree=tree()
-        generateTree(sentParse['parse'],tempTree)
-        pSents.append(sentParse['parse'])
-        flipTree(tempTree)
-        pTrees.append(tempTree)
-    return (pTrees,pSents)
+    for para in candidate:
+        para=sent_tokenize(para)
+        sentTrees=list()
+        for sent in para:
+            sentParse=getNLPToks(sent)
+            tempTree=tree()
+            generateTree(sentParse['parse'],tempTree)
+            flipTree(tempTree)
+            sentTrees.append(tempTree)
+        pTrees.append(sentTrees)
+    return pTrees
 
 
 def scoreSyntax(chunkTuple):
     trChunks=chunkTuple[0]
     potentialParseTrees=chunkTuple[1]
-    booksList=chunkTuple[2]
+    booksList=chunkTuple[2]    
     chunkDicts=list()
-    for tr in trChunks:
+    for paraTrees in trChunks:
         sentScoreDict=dict()
         for book in booksList:
-    #         print(file)
             bookTrees=potentialParseTrees[book]
             df=list()
-            for bTree in bookTrees:
-                try:
-                    (rscore_st, nscore_st) = MoschittiPT(tr, bTree, 0.8, 1, 1)
-                    df.append(nscore_st)
-                except TypeError:
-                    df.append(0)
-    #         print(df)
+            for bParaTree in bookTrees:
+                s=0
+                i=0
+                for tr in paraTrees:
+                    for bTree in bParaTree:
+                        (rscore_st, nscore_st) = MoschittiPT(tr, bTree, 0.8, 1, 1)
+                        s=s+nscore_st
+                        i=i+1
+                df.append(s/i)
             sentScoreDict[book]=df
         chunkDicts.append(sentScoreDict)
     return chunkDicts
@@ -359,7 +366,6 @@ def avg_feature_vector(sentence, model, num_features, index2word_set):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
 
-
 def jacardNouns(sent1,sent2):
     nouns1=[]
     for word,pos in nltk.pos_tag(word_tokenize(sent1)):
@@ -376,3 +382,8 @@ def jacardNouns(sent1,sent2):
     else:
         ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
     return ratio
+
+
+
+
+
