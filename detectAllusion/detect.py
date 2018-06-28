@@ -149,12 +149,12 @@ class detect:
 		mapInput=[(parseTrees[i],potentialParseTrees,self.booksList) for i in range(len(parseTrees))]
 		pool=Pool(processes=self.cores)
 		results=pool.map(scoreSyntax,mapInput)
-		print(len(results))
+		# print(len(results))
 		allScores=list()
 		for scoreChunk in results:
 			for score in scoreChunk:
 				allScores.append(score)
-		print('allScores: ',len(allScores))
+		# print('allScores: ',len(allScores))
 		return allScores
 			
 	def semanticScoring(self,text,reducedBooks):
@@ -215,44 +215,45 @@ class detect:
 		return newTuples	
 
 def main():
-	d=detect(inputFolder='../data/')
+	d=detect(inputFolder='../data/temp/')
+	print('Loading books and splitting')
 	text=d.loadNew()
 	books=d.loadCandidates()
 	textChunks=d.splitChunks(text)
 	
-	print('Filtering chunk')
-	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.6)
+	print('Filtering using Jaccard')
+	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.3)
 	pickling_on = open('../output/'+'testPackage/reducedBooks.pickle',"wb")
 	pickle.dump(reducedBooks, pickling_on)
 
-	print('Text: ',len(text))
-	print('original is',len(books['isaiah']))
-	print('reduced isaiah',len(reducedBooks['isaiah']))
+	# print('Text: ',len(text))
+	# print('original is',len(books['isaiah']))
+	# print('reduced isaiah',len(reducedBooks['isaiah']))
 
-	print('textChunks: ',len(textChunks))
+	# print('textChunks: ',len(textChunks))
 
 
-	print('Parsing')
+	print('Syntactic parsing')
 	parseTrees,parsedSentences=d.parseNewBook(textChunks)
 	pickling_on = open('../output/'+'testPackage/parseTrees.pickle',"wb")
 	pickle.dump(parseTrees, pickling_on)
 
-	print('Parse trees',len(parseTrees))
+	# print('Parse trees',len(parseTrees))
 
 	potentialParseTrees,potentialParsedSentences=d.parseCandidates(reducedBooks)
-	print(len(parseTrees))
+	# print(len(parseTrees))
 	# print(len(parseTrees['isaiah']))
 	pickling_on = open('../output/'+'testPackage/potentialParseTrees.pickle',"wb")
 	pickle.dump(potentialParseTrees, pickling_on)
 
-	print('Potential Parse Trees isaiah ',len(potentialParseTrees['isaiah']))
+	# print('Potential Parse Trees isaiah ',len(potentialParseTrees['isaiah']))
 
-	print('Moschitti')
+	print('Moschitti scoring')
 	syntacticScore=d.syntacticScoring(parseTrees,potentialParseTrees)
 	pickling_on = open('../output/'+'testPackage/allScores.pickle',"wb")
 	pickle.dump(syntacticScore, pickling_on)
 
-	print('syntactic: ',len(syntacticScore))
+	# print('syntactic: ',len(syntacticScore))
 	
 
 
@@ -264,27 +265,41 @@ def main():
 	syntacticScore = pickle.load(pickle_off)
 	
 	'''
-
+	print('Semantic scoring')
 	semanticScore=d.semanticScoring(text,reducedBooks)
 
-	print('Semantic Score: ',len(semanticScore))
+	# print('Semantic Score: ',len(semanticScore))
 
-	print('Aggregating')
+	print('Average scoring')
 
 	scoreTuples=d.aggregateScoring(syntacticScore,semanticScore)
 
-	print(len(scoreTuples))
+	# print(len(scoreTuples))
 
-	pickling_on = open('../output/'+'testPackage/scoreTuples.pickle',"wb")
-	pickle.dump(scoreTuples, pickling_on)
+	# pickling_on = open('../output/'+'testPackage/scoreTuples.pickle',"wb")
+	# pickle.dump(scoreTuples, pickling_on)
 
-	finalTuples=d.finalFiltering(scoreTuples,reducedBooks)
+	finalTuples=d.finalFiltering(scoreTuples,reducedBooks,0.82)
 	orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
 	
-	pickling_on = open('../output/'+'testPackage/orderedTuples.pickle',"wb")
-	pickle.dump(orderedTuples, pickling_on)
+	# pickling_on = open('../output/'+'testPackage/orderedTuples.pickle',"wb")
+	# pickle.dump(orderedTuples, pickling_on)
 
+	print('Final results: \n\n\n')
 
+	i=1
+	for t in orderedTuples:
+		print('Pairing: ',i)
+		print('\n')
+		print('New Sentence: ',text[t[0]])
+		print('\n')
+		print('Reference: \n',reducedBooks[t[1]][t[2]])
+		print('\n')
+		print('Similar Sentence is from: ',t[1])
+		print('Syntactic Score: ',t[3])
+		print('Semantic Score: ',t[4])
+		print('\n\n')
+		i=i+1
 
 if __name__=="__main__":
 	main()
