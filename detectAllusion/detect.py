@@ -126,10 +126,12 @@ class detect:
 		results=pool.map(parseNewText,textChunks)
 		parseTrees=list()
 		parsedSentences=list()
+		parseWithoutTokenTrees=list()
 		for i in range(len(results)):
 			parseTrees.append(results[i][0])
 			parsedSentences.append(results[i][1])
-		return (parseTrees,parsedSentences)
+			parseWithoutTokenTrees.append(results[i][2])
+		return (parseTrees,parsedSentences,parseWithoutTokenTrees)
 	
 	def parseCandidates(self,reducedBooks):
 		booksToBeParsed=[reducedBooks[bk] for bk in self.booksList]
@@ -137,25 +139,39 @@ class detect:
 		results=pool.map(parseCandidateBooks,booksToBeParsed)
 		potentialParseTrees=dict()
 		potentialParsedSentences=dict()
+		potentialParseWithoutTokenTrees=dict()
 		i=0
 		for bk in self.booksList:
 			potentialParseTrees[bk]=results[i][0]
 			potentialParsedSentences[bk]=results[i][1]
+			potentialParseWithoutTokenTrees[bk]=results[i][2]
 			i=i+1
-		return (potentialParseTrees,potentialParsedSentences)
+		return (potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees)
 
 
-	def syntacticScoring(self,parseTrees,potentialParseTrees):
+	def syntacticScoring(self,parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees):
 		mapInput=[(parseTrees[i],potentialParseTrees,self.booksList) for i in range(len(parseTrees))]
 		pool=Pool(processes=self.cores)
 		results=pool.map(scoreSyntax,mapInput)
 		# print(len(results))
-		allScores=list()
+		syntaxScores=list()
 		for scoreChunk in results:
 			for score in scoreChunk:
-				allScores.append(score)
+				syntaxScores.append(score)
 		# print('allScores: ',len(allScores))
-		return allScores
+		pool.close()
+
+		mapInput=[(parseWithoutTokenTrees[i],potentialParseWithoutTokenTrees,self.booksList) for i in range(len(parseWithoutTokenTrees))]
+		pool=Pool(processes=self.cores)
+		results=pool.map(scoreSyntax,mapInput)
+		# print(len(results))
+		syntaxScoresWithoutTokens=list()
+		for scoreChunk in results:
+			for score in scoreChunk:
+				syntaxScoresWithoutTokens.append(score)
+		# print('allScores: ',len(allScores))
+		pool.close()
+		return syntaxScores,syntaxScoresWithoutTokens
 			
 	def semanticScoring(self,text,reducedBooks):
 		semanticScore=list()
@@ -172,19 +188,47 @@ class detect:
 			semanticScore.append(scoreDict)
 		return semanticScore
 
-	def aggregateScoring(self,syntacticScore,semanticScore):
+	def longestSubsequenceScoring(self,text,reducedBooks):
+		lcs=list()
+		lcsScore=list()
+		for i in range(len(text)):
+			scoreDict_lcs=dict()
+			scoreDict_lcsScore=dict()
+			for bk in self.booksList:
+				df_lcs=list()
+				df_lcsScore=list()
+				for j in range(len(reducedBooks[bk])):
+					data=[text[i],reducedBooks[bk][j]]
+					subsequence=longestSubsequence(text[i],reducedBooks[bk][j])
+					df_lcs.append(subsequence)
+					df_lcsScore.append(len(subsequence.split()))
+				scoreDict_lcs[bk]=df_lcs
+				scoreDict_lcsScore[bk]=df_lcsScore
+			lcs.append(scoreDict_lcs)
+			lcsScore.append(scoreDict_lcsScore)
+		return (lcsScore,lcs)
+
+	def aggregateScoring(self,syntacticScore,semanticScore,lcsScore,lcsString,syntacticScoreWithoutTokens):
 		scoreTuples=list()
 		for i in range(len(syntacticScore)):
-			synScore=syntacticScore[i]
-			simScore=semanticScore[i]
-			avgScore=dict()
+			synScore=syntacticScore[i]	#syntax
+			simScore=semanticScore[i]	#semantic
+			lcs_score=lcsScore[i]		#lcs
+			lcs_string=lcsString[i]		# lcs string
+			synWithoutTokenScore=syntacticScoreWithoutTokens[i]
 			for bk in self.booksList:
 				synScore_book=synScore[bk]
 				simScore_book=simScore[bk]
+				lcs_score_book=lcs_score[bk]
+				lcs_string_book=lcs_string[bk]
+				synWithoutTokenScore_book=synWithoutTokenScore[bk]
 				for k in range(len(synScore_book)):
 					sy=synScore_book[k]
 					sm=simScore_book[k]
-					scoreTuples.append((i,bk,k,sy,sm,(sy+sm)/2))
+					lscore=lcs_score_book[k]
+					lstring=lcs_string_book[k]
+					syWithoutToken=synWithoutTokenScore_book[k]
+					scoreTuples.append((i,bk,k,sy,sm,(sy+sm)/2,lscore,lstring,syWithoutToken))
 		return scoreTuples
 
 	def finalFiltering(self,scoreTuples,reducedBooks,threshold=0.89):
@@ -202,7 +246,13 @@ class detect:
 				finalTuples.append(senttups[0])
 			i=i+totalPotentialSentences
 			k=k+1
-		return finalTuples
+
+		diffTuples=list()
+		for tup in scoreTuples:
+			if (tup[3]>0.8 and abs(tup[3]-tup[4])>=0.12) or (tup[4]>0.8 and abs(tup[3]-tup[4])>=0.12):
+				diffTuples.append(tup)
+
+		return finalTuples,diffTuples
 
 	def nounBasedRanking(self,finalTuples,text,reducedBooks):
 		newTuples=list()
@@ -210,8 +260,10 @@ class detect:
 			originalSent=text[tup[0]]
 			refSent=reducedBooks[tup[1]][tup[2]]
 			nounScore=jacardNouns(originalSent,refSent)
-			newTuples.append(tup+(nounScore,))
-		newTuples.sort(key=itemgetter(6,5),reverse=True)
+			verbScore=jacardVerbs(originalSent,refSent)
+			adjScore=jacardAdj(originalSent,refSent)
+			newTuples.append(tup+(nounScore,verbScore,adjScore))
+		newTuples.sort(key=itemgetter(9,5),reverse=True)
 		return newTuples	
 
 def main():
@@ -234,13 +286,13 @@ def main():
 
 
 	print('Syntactic parsing')
-	parseTrees,parsedSentences=d.parseNewBook(textChunks)
+	parseTrees,parsedSentences,parseWithoutTokenTrees=d.parseNewBook(textChunks)
 	pickling_on = open('../output/'+'testPackage/parseTrees.pickle',"wb")
 	pickle.dump(parseTrees, pickling_on)
 
 	# print('Parse trees',len(parseTrees))
 
-	potentialParseTrees,potentialParsedSentences=d.parseCandidates(reducedBooks)
+	potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees=d.parseCandidates(reducedBooks)
 	# print(len(parseTrees))
 	# print(len(parseTrees['isaiah']))
 	pickling_on = open('../output/'+'testPackage/potentialParseTrees.pickle',"wb")
@@ -249,7 +301,7 @@ def main():
 	# print('Potential Parse Trees isaiah ',len(potentialParseTrees['isaiah']))
 
 	print('Moschitti scoring')
-	syntacticScore=d.syntacticScoring(parseTrees,potentialParseTrees)
+	syntacticScore,syntacticScoreWithoutTokens=d.syntacticScoring(parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees)
 	pickling_on = open('../output/'+'testPackage/allScores.pickle',"wb")
 	pickle.dump(syntacticScore, pickling_on)
 
@@ -270,16 +322,19 @@ def main():
 
 	# print('Semantic Score: ',len(semanticScore))
 
+	print('Extracting longest subsequence')
+	lcsScore,lcs=d.longestSubsequenceScoring(text,reducedBooks)
+
 	print('Average scoring')
 
-	scoreTuples=d.aggregateScoring(syntacticScore,semanticScore)
+	scoreTuples=d.aggregateScoring(syntacticScore,semanticScore,lcsScore,lcs,syntacticScoreWithoutTokens)
 
 	# print(len(scoreTuples))
 
 	# pickling_on = open('../output/'+'testPackage/scoreTuples.pickle',"wb")
 	# pickle.dump(scoreTuples, pickling_on)
 
-	finalTuples=d.finalFiltering(scoreTuples,reducedBooks,0.82)
+	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.82)
 	orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
 	
 	# pickling_on = open('../output/'+'testPackage/orderedTuples.pickle',"wb")
@@ -297,9 +352,42 @@ def main():
 		print('\n')
 		print('Similar Sentence is from: ',t[1])
 		print('Syntactic Score: ',t[3])
+		print('Syntactic Similarity without tokens: ',t[8])
 		print('Semantic Score: ',t[4])
+		print('LCS Length: ',t[6])
+		print('LCS: ',t[7])
+		print('Number of common nouns: ',t[9])
+		print('Number of common verbs: ',t[10])
+		print('Number of common adjectives: ',t[11])
 		print('\n\n')
 		i=i+1
+
+
+	print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
+
+	diffTuples=d.nounBasedRanking(diffTuples,text,reducedBooks)
+
+	i=1
+	for t in diffTuples:
+		print('Pairing: ',i)
+		print('\n')
+		print('New Sentence: ',text[t[0]])
+		print('\n')
+		print('Reference: \n',reducedBooks[t[1]][t[2]])
+		print('\n')
+		print('Similar Sentence is from: ',t[1])
+		print('Syntactic Score: ',t[3])
+		print('Syntactic Similarity without tokens: ',t[8])
+		print('Semantic Score: ',t[4])
+		print('LCS Length: ',t[6])
+		print('LCS: ',t[7])
+		print('Number of common nouns: ',t[9])
+		print('Number of common verbs: ',t[10])
+		print('Number of common adjectives: ',t[11])
+		print('\n\n')
+		i=i+1
+
+
 
 if __name__=="__main__":
 	main()

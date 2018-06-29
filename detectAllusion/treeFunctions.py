@@ -26,7 +26,7 @@ from nltk import word_tokenize,pos_tag
 from nltk.corpus import wordnet 
 from operator import itemgetter
 from dependencies import *
-
+from itertools import islice
 
 #Useful functions
 
@@ -234,7 +234,7 @@ def _delta_(tree1, tree2, node1, node2, store, lam, mu):
         return
 
 def _ptKernel_(tree1, tree2, lam, mu):
-    # Fill the initial state of the store
+    # Fill the initial state of the store                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
     store = np.empty((len(tree1), len(tree2)))
     store.fill(-1)
 
@@ -267,7 +267,27 @@ def getNLPToks(rawSentence):
     return {
         'toks':tokens, 'parse':parse
     }
-    
+  
+def removeTokens(tr,sent):
+    for key in tr.keys():
+        parse=tr[key]
+        childrenTok=parse['childrenTok']
+        if type(childrenTok)==list:
+            i=0
+            for word in childrenTok:
+                if word in sent.split():
+                    childrenTok[i]='NULLWORD'
+                i=i+1
+        if type(childrenTok)==str:
+            if childrenTok in sent.split():
+                childrenTok='NULLWORD'
+                i=i+1
+        posOrTok=parse['posOrTok']
+        if posOrTok in sent.split():
+            parse['posOrTok']='NULLWORD'
+    return tr
+
+
 def jacardScore(a, b):
     tokens_a = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
     tokens_b = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
@@ -301,27 +321,37 @@ def parseNewText(chunk):
     # nlp=StanfordCoreNLP(location)
     parseChunk=list()
     parseSentenceChunk=list()
+    parseWithoutTokenChunk=list()
     for sent in chunk:
         sentParse=getNLPToks(sent)
         tempTree=tree()
+        tempTree2=tree()
         generateTree(sentParse['parse'],tempTree)
+        generateTree(sentParse['parse'],tempTree2)
         parseSentenceChunk.append(sentParse['parse'])
         flipTree(tempTree)
+        flipTree(tempTree2)
         parseChunk.append(tempTree)
-    return (parseChunk,parseSentenceChunk)      
+        parseWithoutTokenChunk.append(removeTokens(tempTree2,sent))
+    return (parseChunk,parseSentenceChunk,parseWithoutTokenChunk)      
 
 def parseCandidateBooks(candidate):
     # print('parsing')
     pTrees=list()
     pSents=list()
+    pWithoutTokenTrees=list()
     for sent in candidate:
         sentParse=getNLPToks(sent)
         tempTree=tree()
+        tempTree2=tree()
         generateTree(sentParse['parse'],tempTree)
+        generateTree(sentParse['parse'],tempTree2)
         pSents.append(sentParse['parse'])
         flipTree(tempTree)
+        flipTree(tempTree2)
         pTrees.append(tempTree)
-    return (pTrees,pSents)
+        pWithoutTokenTrees.append(removeTokens(tempTree2,sent))
+    return (pTrees,pSents,pWithoutTokenTrees)
 
 
 def scoreSyntax(chunkTuple):
@@ -376,3 +406,85 @@ def jacardNouns(sent1,sent2):
     else:
         ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
     return ratio
+
+def jacardNouns(sent1,sent2):
+    nouns1=[]
+    for word,pos in nltk.pos_tag(word_tokenize(sent1)):
+        if pos.startswith('NN'):
+            nouns1.append(word)
+    nouns2=[]
+    for word,pos in nltk.pos_tag(word_tokenize(sent2)):
+        if pos.startswith('NN'):
+            nouns2.append(word)
+#     print(nouns1)
+#     print(nouns2)
+    if len(set(nouns1).union(nouns2))==0:
+        ratio=0
+    else:
+        ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
+    return ratio
+
+def jacardVerbs(sent1,sent2):
+    nouns1=[]
+    for word,pos in nltk.pos_tag(word_tokenize(sent1)):
+        if pos.startswith('VB'):
+            nouns1.append(word)
+    nouns2=[]
+    for word,pos in nltk.pos_tag(word_tokenize(sent2)):
+        if pos.startswith('VB'):
+            nouns2.append(word)
+#     print(nouns1)
+#     print(nouns2)
+    if len(set(nouns1).union(nouns2))==0:
+        ratio=0
+    else:
+        ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
+    return ratio
+
+def jacardAdj(sent1,sent2):
+    nouns1=[]
+    for word,pos in nltk.pos_tag(word_tokenize(sent1)):
+        if pos.startswith('JJ'):
+            nouns1.append(word)
+    nouns2=[]
+    for word,pos in nltk.pos_tag(word_tokenize(sent2)):
+        if pos.startswith('JJ'):
+            nouns2.append(word)
+#     print(nouns1)
+#     print(nouns2)
+    if len(set(nouns1).union(nouns2))==0:
+        ratio=0
+    else:
+        ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
+    return ratio
+
+
+
+def longestSubsequence(a, b):
+    a=a.split()
+    b=b.split()
+    lengths = [[0 for j in range(len(b)+1)] for i in range(len(a)+1)]
+    # row 0 and column 0 are initialized to 0 already
+    for i, x in enumerate(a):
+        for j, y in enumerate(b):
+            if x == y:
+                lengths[i+1][j+1] = lengths[i][j] + 1
+            else:
+                lengths[i+1][j+1] = max(lengths[i+1][j], lengths[i][j+1])
+    # read the substring out from the matrix
+    result = ""
+    x, y = len(a), len(b)
+    while x != 0 and y != 0:
+        if lengths[x][y] == lengths[x-1][y]:
+            x -= 1
+        elif lengths[x][y] == lengths[x][y-1]:
+            y -= 1
+        else:
+            assert a[x-1] == b[y-1]
+            result = a[x-1] + " " +result
+            x -= 1
+            y -= 1
+    return result
+
+
+
