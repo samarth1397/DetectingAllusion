@@ -40,6 +40,7 @@ class detect:
 		self.dependencies=dependencies+'stanford-corenlp-full-2018-02-27/'
 		# self.books=dict()
 		self.cores=cores
+		self.output=outputFolder
 	
 	def loadNew(self):
 		test=os.listdir(self.new)[0]
@@ -256,6 +257,8 @@ class detect:
 			i=i+totalPotentialSentences
 			k=k+1
 
+		finalTuples.sort(key=lambda tup: tup[8])
+
 		diffTuples=list()
 		for tup in scoreTuples:
 			if (tup[3]>0.8 and abs(tup[3]-tup[4])>=0.12) or (tup[4]>0.8 and abs(tup[3]-tup[4])>=0.12):
@@ -273,10 +276,50 @@ class detect:
 			adjScore=jacardAdj(originalSent,refSent)
 			newTuples.append(tup+(nounScore,verbScore,adjScore))
 		newTuples.sort(key=itemgetter(11,7),reverse=True)
-		return newTuples	
+		return newTuples
 
+
+	def writeOutput(self,newTuples,text,reducedBooks):
+		f=open(self.output+'nounSortedSentencePairs.txt','w')
+		i=1
+		lines=list()
+		for t in newTuples:
+			j=str(i)
+			lines.append('Pairing: '+j)
+			lines.append('\n')
+			lines.append('New Sentence: '+text[t[0]])
+			lines.append('\n')
+			lines.append('Reference: \n'+reducedBooks[t[1]][t[2]])
+			lines.append('\n')
+			lines.append('Similar Sentence is from: '+str(t[1]))
+			lines.append('\n')
+			lines.append('Syntactic Score: '+str(t[3]))
+			lines.append('\n')
+			lines.append('Syntactic Similarity without tokens: '+str(t[11]))
+			lines.append('\n')
+			lines.append('Semantic Score: '+str(t[4]))
+			lines.append('\n')
+			lines.append('Semantic Score without stopwords: '+str(t[5]))
+			lines.append('\n')
+			lines.append('LCS Length: '+str(t[9]))
+			lines.append('\n')
+			lines.append('LCS: '+t[10])
+			lines.append('\n')
+			lines.append('Jaccard of common nouns: '+str(t[12]))
+			lines.append('\n')
+			lines.append('Jaccard of common verbs: '+str(t[13]))
+			lines.append('\n')
+			lines.append('Jaccard of common adjectives: '+str(t[14]))
+			lines.append('\n')
+			lines.append('Semantic similarity nouns: '+str(t[6]))
+			lines.append('\n')
+			lines.append('Semantic similarity verbs: '+str(t[7]))
+			lines.append('\n\n')
+			i=i+1
+		f.writelines(lines)
+		return
 def main():
-	d=detect(inputFolder='../data/temp/')
+	d=detect(inputFolder='../data/temp/',outputFolder='../output/testPackage/')
 	print('Loading books and splitting')
 	text=d.loadNew()
 	books=d.loadCandidates()
@@ -344,6 +387,8 @@ def main():
 	# pickle.dump(scoreTuples, pickling_on)
 
 	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.82)
+	if len(finalTuples)>100:
+		finalTuples=finalTuples[0:100]
 	orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
 	
 	# pickling_on = open('../output/'+'testPackage/orderedTuples.pickle',"wb")
@@ -374,6 +419,7 @@ def main():
 		print('\n\n')
 		i=i+1
 
+	d.writeOutput(orderedTuples,text,reducedBooks)
 
 	print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
 
