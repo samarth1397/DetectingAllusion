@@ -177,13 +177,22 @@ class detect:
 		semanticScore=list()
 		for i in range(len(text)):
 			scoreDict=dict()
-			s1v=avg_feature_vector(text[i],model,300,index2word_set)
+			s1=avg_feature_vector(text[i],model,300,index2word_set)
+			s1ws=avg_feature_vector_without_stopwords(text[i],model,300,index2word_set)
+			s1n=avg_feature_vector_nouns(text[i],model,300,index2word_set)
+			s1v=avg_feature_vector_verbs(text[i],model,300,index2word_set)
 			for bk in self.booksList:
 				df=list()
 				for j in range(len(reducedBooks[bk])):
-					s2v=avg_feature_vector(reducedBooks[bk][j],model,300,index2word_set)
-					semScore=1 - spatial.distance.cosine(s1v, s2v)
-					df.append(semScore)
+					s2=avg_feature_vector(reducedBooks[bk][j],model,300,index2word_set)
+					s2ws=avg_feature_vector_without_stopwords(reducedBooks[bk][j],model,300,index2word_set)
+					s2n=avg_feature_vector_nouns(reducedBooks[bk][j],model,300,index2word_set)
+					s2v=avg_feature_vector_verbs(reducedBooks[bk][j],model,300,index2word_set)
+					semScore=1 - spatial.distance.cosine(s1, s2)
+					semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
+					semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
+					semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
+					df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs))
 				scoreDict[bk]=df
 			semanticScore.append(scoreDict)
 		return semanticScore
@@ -228,7 +237,7 @@ class detect:
 					lscore=lcs_score_book[k]
 					lstring=lcs_string_book[k]
 					syWithoutToken=synWithoutTokenScore_book[k]
-					scoreTuples.append((i,bk,k,sy,sm,(sy+sm)/2,lscore,lstring,syWithoutToken))
+					scoreTuples.append((i,bk,k,sy,sm[0],sm[1],sm[2],sm[3],(sy+sm[0])/2,lscore,lstring,syWithoutToken))
 		return scoreTuples
 
 	def finalFiltering(self,scoreTuples,reducedBooks,threshold=0.89):
@@ -241,8 +250,8 @@ class detect:
 		i=0
 		while i<len(scoreTuples):
 			senttups=scoreTuples[i:i+totalPotentialSentences]
-			senttups.sort(key=lambda tup: tup[5],reverse=True)
-			if senttups[0][5]>threshold:
+			senttups.sort(key=lambda tup: tup[8],reverse=True)
+			if senttups[0][8]>threshold:
 				finalTuples.append(senttups[0])
 			i=i+totalPotentialSentences
 			k=k+1
@@ -263,7 +272,7 @@ class detect:
 			verbScore=jacardVerbs(originalSent,refSent)
 			adjScore=jacardAdj(originalSent,refSent)
 			newTuples.append(tup+(nounScore,verbScore,adjScore))
-		newTuples.sort(key=itemgetter(9,5),reverse=True)
+		newTuples.sort(key=itemgetter(11,7),reverse=True)
 		return newTuples	
 
 def main():
@@ -352,13 +361,16 @@ def main():
 		print('\n')
 		print('Similar Sentence is from: ',t[1])
 		print('Syntactic Score: ',t[3])
-		print('Syntactic Similarity without tokens: ',t[8])
+		print('Syntactic Similarity without tokens: ',t[11])
 		print('Semantic Score: ',t[4])
-		print('LCS Length: ',t[6])
-		print('LCS: ',t[7])
-		print('Number of common nouns: ',t[9])
-		print('Number of common verbs: ',t[10])
-		print('Number of common adjectives: ',t[11])
+		print('Semantic Score without stopwords: ',t[5])
+		print('LCS Length: ',t[9])
+		print('LCS: ',t[10])
+		print('Jaccard of common nouns: ',t[12])
+		print('Jaccard of common verbs: ',t[13])
+		print('Jaccard of common adjectives: ',t[14])
+		print('Semantic similarity nouns: ',t[6])
+		print('Semantic similarity verbs: ',t[7])
 		print('\n\n')
 		i=i+1
 
@@ -377,15 +389,19 @@ def main():
 		print('\n')
 		print('Similar Sentence is from: ',t[1])
 		print('Syntactic Score: ',t[3])
-		print('Syntactic Similarity without tokens: ',t[8])
+		print('Syntactic Similarity without tokens: ',t[11])
 		print('Semantic Score: ',t[4])
-		print('LCS Length: ',t[6])
-		print('LCS: ',t[7])
-		print('Number of common nouns: ',t[9])
-		print('Number of common verbs: ',t[10])
-		print('Number of common adjectives: ',t[11])
+		print('Semantic Score without stopwords: ',t[5])
+		print('LCS Length: ',t[9])
+		print('LCS: ',t[10])
+		print('Jaccard of common nouns: ',t[12])
+		print('Jaccard of common verbs: ',t[13])
+		print('Jaccard of common adjectives: ',t[14])
+		print('Semantic similarity nouns: ',t[6])
+		print('Semantic similarity verbs: ',t[7])
 		print('\n\n')
 		i=i+1
+
 
 
 
