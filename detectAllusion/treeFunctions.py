@@ -374,6 +374,7 @@ def scoreSyntax(chunkTuple):
     #         print(df)
             sentScoreDict[book]=df
         chunkDicts.append(sentScoreDict)
+    print('scored')
     return chunkDicts
 
 def avg_feature_vector(sentence, model, num_features, index2word_set):

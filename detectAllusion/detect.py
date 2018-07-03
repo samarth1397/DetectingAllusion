@@ -161,7 +161,7 @@ class detect:
 				syntaxScores.append(score)
 		# print('allScores: ',len(allScores))
 		pool.close()
-
+		print('Scoring with tokens complete. Scoring without tokens started.')
 		mapInput=[(parseWithoutTokenTrees[i],potentialParseWithoutTokenTrees,self.booksList) for i in range(len(parseWithoutTokenTrees))]
 		pool=Pool(processes=self.cores)
 		results=pool.map(scoreSyntax,mapInput)
@@ -319,15 +319,15 @@ class detect:
 		f.writelines(lines)
 		return
 def main():
-	d=detect(inputFolder='../data/temp/',outputFolder='../output/testPackage/')
+	d=detect(inputFolder='../data/poe/',outputFolder='../output/poe/')
 	print('Loading books and splitting')
 	text=d.loadNew()
 	books=d.loadCandidates()
 	textChunks=d.splitChunks(text)
 	
 	print('Filtering using Jaccard')
-	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.3)
-	pickling_on = open('../output/'+'testPackage/reducedBooks.pickle',"wb")
+	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.1)
+	pickling_on = open('../output/'+'poe/reducedBooks.pickle',"wb")
 	pickle.dump(reducedBooks, pickling_on)
 
 	# print('Text: ',len(text))
@@ -339,7 +339,7 @@ def main():
 
 	print('Syntactic parsing')
 	parseTrees,parsedSentences,parseWithoutTokenTrees=d.parseNewBook(textChunks)
-	pickling_on = open('../output/'+'testPackage/parseTrees.pickle',"wb")
+	pickling_on = open('../output/'+'poe/parseTrees.pickle',"wb")
 	pickle.dump(parseTrees, pickling_on)
 
 	# print('Parse trees',len(parseTrees))
@@ -347,28 +347,16 @@ def main():
 	potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees=d.parseCandidates(reducedBooks)
 	# print(len(parseTrees))
 	# print(len(parseTrees['isaiah']))
-	pickling_on = open('../output/'+'testPackage/potentialParseTrees.pickle',"wb")
+	pickling_on = open('../output/'+'poe/potentialParseTrees.pickle',"wb")
 	pickle.dump(potentialParseTrees, pickling_on)
 
 	# print('Potential Parse Trees isaiah ',len(potentialParseTrees['isaiah']))
 
 	print('Moschitti scoring')
 	syntacticScore,syntacticScoreWithoutTokens=d.syntacticScoring(parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees)
-	pickling_on = open('../output/'+'testPackage/allScores.pickle',"wb")
+	pickling_on = open('../output/'+'poe/allScores.pickle',"wb")
 	pickle.dump(syntacticScore, pickling_on)
 
-	# print('syntactic: ',len(syntacticScore))
-	
-
-
-	'''
-	pickle_off = open("../output/testPackage/reducedBooks.pickle","rb")
-	reducedBooks = pickle.load(pickle_off)
-
-	pickle_off = open("../output/testPackage/allScores.pickle","rb")
-	syntacticScore = pickle.load(pickle_off)
-	
-	'''
 	print('Semantic scoring')
 	semanticScore=d.semanticScoring(text,reducedBooks)
 
@@ -383,16 +371,17 @@ def main():
 
 	# print(len(scoreTuples))
 
-	# pickling_on = open('../output/'+'testPackage/scoreTuples.pickle',"wb")
-	# pickle.dump(scoreTuples, pickling_on)
+
+	pickling_on = open('../output/'+'poe/scoreTuples.pickle',"wb")
+	pickle.dump(scoreTuples, pickling_on)
 
 	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.82)
 	if len(finalTuples)>100:
 		finalTuples=finalTuples[0:100]
 	orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
 	
-	# pickling_on = open('../output/'+'testPackage/orderedTuples.pickle',"wb")
-	# pickle.dump(orderedTuples, pickling_on)
+	pickling_on = open('../output/'+'poe/orderedTuples.pickle',"wb")
+	pickle.dump(orderedTuples, pickling_on)
 
 	print('Final results: \n\n\n')
 
@@ -425,6 +414,9 @@ def main():
 
 	diffTuples=d.nounBasedRanking(diffTuples,text,reducedBooks)
 
+	pickling_on = open('../output/'+'poe/diffTuples.pickle',"wb")
+	pickle.dump(diffTuples, pickling_on)
+'''
 	i=1
 	for t in diffTuples:
 		print('Pairing: ',i)
@@ -448,7 +440,7 @@ def main():
 		print('\n\n')
 		i=i+1
 
-
+'''
 
 
 if __name__=="__main__":
