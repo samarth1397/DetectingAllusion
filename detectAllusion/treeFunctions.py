@@ -289,8 +289,8 @@ def removeTokens(tr,sent):
 
 
 def jacardScore(a, b):
-    tokens_a = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
-    tokens_b = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
+    tokens_a = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
+    tokens_b = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
     if len(set(tokens_a).union(tokens_b))==0:
         ratio=0
     else:
@@ -379,6 +379,7 @@ def scoreSyntax(chunkTuple):
 
 def avg_feature_vector(sentence, model, num_features, index2word_set):
     words=word_tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
     feature_vec = np.zeros((num_features, ), dtype='float32')
@@ -394,7 +395,7 @@ def avg_feature_vector(sentence, model, num_features, index2word_set):
 def avg_feature_vector_without_stopwords(sentence, model, num_features, index2word_set):
     words=word_tokenize(sentence)
     # words = sentence.split()
-    words = [token.lower().strip(string.punctuation) for token in words if token.lower().strip(string.punctuation) not in stopwords]
+    words = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in words if token.lower().strip(string.punctuation) not in stopwords]
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0
     for word in words:
@@ -407,6 +408,7 @@ def avg_feature_vector_without_stopwords(sentence, model, num_features, index2wo
 
 def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
     words=word_tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
     nouns=[]
@@ -426,6 +428,7 @@ def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
 
 def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
     words=word_tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
     verbs=[]
@@ -445,12 +448,16 @@ def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
 
 
 def jacardNouns(sent1,sent2):
+    words1=word_tokenize(sent1)
+    words2=word_tokenize(sent2)
+    words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
+    words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
     nouns1=[]
-    for word,pos in nltk.pos_tag(word_tokenize(sent1)):
+    for word,pos in nltk.pos_tag(words_1):
         if pos.startswith('NN'):
             nouns1.append(word.lower().strip(string.punctuation))
     nouns2=[]
-    for word,pos in nltk.pos_tag(word_tokenize(sent2)):
+    for word,pos in nltk.pos_tag(words_2):
         if pos.startswith('NN'):
             nouns2.append(word.lower().strip(string.punctuation))
 #     print(nouns1)
@@ -462,12 +469,16 @@ def jacardNouns(sent1,sent2):
     return ratio
 
 def jacardVerbs(sent1,sent2):
+    words1=word_tokenize(sent1)
+    words2=word_tokenize(sent2)
+    words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
+    words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
     nouns1=[]
-    for word,pos in nltk.pos_tag(word_tokenize(sent1)):
+    for word,pos in nltk.pos_tag(words_1):
         if pos.startswith('VB'):
             nouns1.append(word.lower().strip(string.punctuation))
     nouns2=[]
-    for word,pos in nltk.pos_tag(word_tokenize(sent2)):
+    for word,pos in nltk.pos_tag(words_2):
         if pos.startswith('VB'):
             nouns2.append(word.lower().strip(string.punctuation))
 #     print(nouns1)
@@ -479,12 +490,16 @@ def jacardVerbs(sent1,sent2):
     return ratio
 
 def jacardAdj(sent1,sent2):
+    words1=word_tokenize(sent1)
+    words2=word_tokenize(sent2)
+    words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
+    words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
     nouns1=[]
-    for word,pos in nltk.pos_tag(word_tokenize(sent1)):
+    for word,pos in nltk.pos_tag(words_1):
         if pos.startswith('JJ'):
             nouns1.append(word.lower().strip(string.punctuation))
     nouns2=[]
-    for word,pos in nltk.pos_tag(word_tokenize(sent2)):
+    for word,pos in nltk.pos_tag(words_2):
         if pos.startswith('JJ'):
             nouns2.append(word.lower().strip(string.punctuation))
 #     print(nouns1)
@@ -498,8 +513,8 @@ def jacardAdj(sent1,sent2):
 
 
 def longestSubsequence(a, b):
-    a=a.split()
-    b=b.split()
+    a=word_tokenize(a)
+    b=word_tokenize(b)
     lengths = [[0 for j in range(len(b)+1)] for i in range(len(a)+1)]
     # row 0 and column 0 are initialized to 0 already
     for i, x in enumerate(a):

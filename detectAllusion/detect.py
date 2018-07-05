@@ -238,7 +238,7 @@ class detect:
 					lscore=lcs_score_book[k]
 					lstring=lcs_string_book[k]
 					syWithoutToken=synWithoutTokenScore_book[k]
-					scoreTuples.append((i,bk,k,sy,sm[0],sm[1],sm[2],sm[3],(sy+sm[0])/2,lscore,lstring,syWithoutToken))
+					scoreTuples.append((i,bk,k,sy,sm[0],sm[1],sm[2],sm[3],(sy+sm[1])/2,lscore,lstring,syWithoutToken))
 		return scoreTuples
 
 	def finalFiltering(self,scoreTuples,reducedBooks,threshold=0.89):
@@ -275,7 +275,7 @@ class detect:
 			verbScore=jacardVerbs(originalSent,refSent)
 			adjScore=jacardAdj(originalSent,refSent)
 			newTuples.append(tup+(nounScore,verbScore,adjScore))
-		newTuples.sort(key=itemgetter(11,7),reverse=True)
+		newTuples.sort(key=itemgetter(12,8),reverse=True)
 		return newTuples
 
 
@@ -319,15 +319,15 @@ class detect:
 		f.writelines(lines)
 		return
 def main():
-	d=detect(inputFolder='../data/poe/',outputFolder='../output/poe/')
+	d=detect(inputFolder='../data/temp/',outputFolder='../output/temp/')
 	print('Loading books and splitting')
 	text=d.loadNew()
 	books=d.loadCandidates()
 	textChunks=d.splitChunks(text)
 	
 	print('Filtering using Jaccard')
-	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.1)
-	pickling_on = open('../output/'+'poe/reducedBooks.pickle',"wb")
+	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.4)
+	pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")
 	pickle.dump(reducedBooks, pickling_on)
 
 	# print('Text: ',len(text))
@@ -339,7 +339,7 @@ def main():
 
 	print('Syntactic parsing')
 	parseTrees,parsedSentences,parseWithoutTokenTrees=d.parseNewBook(textChunks)
-	pickling_on = open('../output/'+'poe/parseTrees.pickle',"wb")
+	pickling_on = open('../output/'+'temp/parseTrees.pickle',"wb")
 	pickle.dump(parseTrees, pickling_on)
 
 	# print('Parse trees',len(parseTrees))
@@ -347,14 +347,14 @@ def main():
 	potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees=d.parseCandidates(reducedBooks)
 	# print(len(parseTrees))
 	# print(len(parseTrees['isaiah']))
-	pickling_on = open('../output/'+'poe/potentialParseTrees.pickle',"wb")
+	pickling_on = open('../output/'+'temp/potentialParseTrees.pickle',"wb")
 	pickle.dump(potentialParseTrees, pickling_on)
 
 	# print('Potential Parse Trees isaiah ',len(potentialParseTrees['isaiah']))
 
 	print('Moschitti scoring')
 	syntacticScore,syntacticScoreWithoutTokens=d.syntacticScoring(parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees)
-	pickling_on = open('../output/'+'poe/allScores.pickle',"wb")
+	pickling_on = open('../output/'+'temp/allScores.pickle',"wb")
 	pickle.dump(syntacticScore, pickling_on)
 
 	print('Semantic scoring')
@@ -372,15 +372,15 @@ def main():
 	# print(len(scoreTuples))
 
 
-	pickling_on = open('../output/'+'poe/scoreTuples.pickle',"wb")
+	pickling_on = open('../output/'+'temp/scoreTuples.pickle',"wb")
 	pickle.dump(scoreTuples, pickling_on)
 
-	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.82)
+	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
 	if len(finalTuples)>100:
 		finalTuples=finalTuples[0:100]
 	orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
 	
-	pickling_on = open('../output/'+'poe/orderedTuples.pickle',"wb")
+	pickling_on = open('../output/'+'temp/orderedTuples.pickle',"wb")
 	pickle.dump(orderedTuples, pickling_on)
 
 	print('Final results: \n\n\n')
@@ -414,7 +414,7 @@ def main():
 
 	diffTuples=d.nounBasedRanking(diffTuples,text,reducedBooks)
 
-	pickling_on = open('../output/'+'poe/diffTuples.pickle',"wb")
+	pickling_on = open('../output/'+'temp/diffTuples.pickle',"wb")
 	pickle.dump(diffTuples, pickling_on)
 '''
 	i=1
