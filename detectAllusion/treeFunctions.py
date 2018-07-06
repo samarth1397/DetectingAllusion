@@ -539,4 +539,10 @@ def longestSubsequence(a, b):
     return result
 
 
-
+def commonProperNouns(sent1,sent2):
+    sent1_tokens=nltk.pos_tag(word_tokenize(sent1))
+    sent2_tokens=nltk.pos_tag(word_tokenize(sent2))
+    sent1_proper=[word.lower() for (word,tag) in sent1_tokens if tag=='NNP']
+    sent2_proper=[word.lower() for (word,tag) in sent2_tokens if tag=='NNP']
+    common=len(set(sent1_proper).intersection(sent2_proper))
+    return common

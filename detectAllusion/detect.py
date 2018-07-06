@@ -193,7 +193,9 @@ class detect:
 					semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
 					semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
 					semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
-					df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs))
+					properNouns=commonProperNouns(text[i],reducedBooks[bk][j])
+					df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs,properNouns))
+
 				scoreDict[bk]=df
 			semanticScore.append(scoreDict)
 		return semanticScore
@@ -238,7 +240,7 @@ class detect:
 					lscore=lcs_score_book[k]
 					lstring=lcs_string_book[k]
 					syWithoutToken=synWithoutTokenScore_book[k]
-					scoreTuples.append((i,bk,k,sy,sm[0],sm[1],sm[2],sm[3],(sy+sm[1])/2,lscore,lstring,syWithoutToken))
+					scoreTuples.append((i,bk,k,sy,sm[0],sm[1],sm[2],sm[3],(sy+sm[1])/2,lscore,lstring,syWithoutToken,sm[4]))
 		return scoreTuples
 
 	def finalFiltering(self,scoreTuples,reducedBooks,threshold=0.89):
@@ -251,7 +253,7 @@ class detect:
 		i=0
 		while i<len(scoreTuples):
 			senttups=scoreTuples[i:i+totalPotentialSentences]
-			senttups.sort(key=lambda tup: tup[8],reverse=True)
+			senttups.sort(key=itemgetter(12,8),reverse=True)
 			if senttups[0][8]>threshold:
 				finalTuples.append(senttups[0])
 			i=i+totalPotentialSentences
@@ -275,7 +277,7 @@ class detect:
 			verbScore=jacardVerbs(originalSent,refSent)
 			adjScore=jacardAdj(originalSent,refSent)
 			newTuples.append(tup+(nounScore,verbScore,adjScore))
-		newTuples.sort(key=itemgetter(12,8),reverse=True)
+		newTuples.sort(key=itemgetter(13,8),reverse=True)
 		return newTuples
 
 
@@ -305,11 +307,11 @@ class detect:
 			lines.append('\n')
 			lines.append('LCS: '+t[10])
 			lines.append('\n')
-			lines.append('Jaccard of common nouns: '+str(t[12]))
+			lines.append('Jaccard of common nouns: '+str(t[13]))
 			lines.append('\n')
-			lines.append('Jaccard of common verbs: '+str(t[13]))
+			lines.append('Jaccard of common verbs: '+str(t[14]))
 			lines.append('\n')
-			lines.append('Jaccard of common adjectives: '+str(t[14]))
+			lines.append('Jaccard of common adjectives: '+str(t[15]))
 			lines.append('\n')
 			lines.append('Semantic similarity nouns: '+str(t[6]))
 			lines.append('\n')
@@ -408,12 +410,12 @@ def main():
 		print('\n\n')
 		i=i+1
 
-	d.writeOutput(orderedTuples,text,reducedBooks)
+	# d.writeOutput(orderedTuples,text,reducedBooks)
 
 	print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
 
 	diffTuples=d.nounBasedRanking(diffTuples,text,reducedBooks)
-
+	d.writeOutput(diffTuples,text,reducedBooks)
 	pickling_on = open('../output/'+'temp/diffTuples.pickle',"wb")
 	pickle.dump(diffTuples, pickling_on)
 '''
