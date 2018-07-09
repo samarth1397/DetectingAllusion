@@ -1,0 +1,1876 @@
+Pairing: 1
+New Sentence: "NO, Jim; you couldn't understand a word they said--not a single word."
+Reference: 
+27 And they told him all the words of Joseph, which he had said
+unto them.
+Similar Sentence is from: genesis
+Syntactic Score: 0.765711360406
+Syntactic Similarity without tokens: 0.816752342742
+Semantic Score: 0.75908780098
+Semantic Score without stopwords: 0.66860216856
+LCS Length: 3
+LCS: , said . 
+Jaccard of common nouns: 0.3333333333333333
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.833061635494
+Semantic similarity verbs: 0.657480418682
+
+Pairing: 2
+New Sentence: Lots of 'em heard me, and can tell what I said.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.853530485803
+Syntactic Similarity without tokens: 0.893029508945
+Semantic Score: 0.815639853477
+Semantic Score without stopwords: 0.682940483093
+LCS Length: 5
+LCS: of me , I . 
+Jaccard of common nouns: 0.25
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.599433660507
+Semantic similarity verbs: 0.626753270626
+
+Pairing: 3
+New Sentence: I didn't want to go to school much before, but I reckoned I'd go now to spite pap.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.827381997373
+Syntactic Similarity without tokens: 0.851639638577
+Semantic Score: 0.831217825413
+Semantic Score without stopwords: 0.696320831776
+LCS Length: 6
+LCS: I go to , I . 
+Jaccard of common nouns: 0.25
+Jaccard of common verbs: 0.15384615384615385
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.676906168461
+Semantic similarity verbs: 0.78093546629
+
+Pairing: 4
+New Sentence: I says I'll never vote agin.
+Reference: 
+32 And he said, Oh let not the LORD be angry, and I will speak yet
+but this once.
+Similar Sentence is from: genesis
+Syntactic Score: 0.771227508328
+Syntactic Similarity without tokens: 0.82979257778
+Semantic Score: 0.736645817757
+Semantic Score without stopwords: 0.635493397713
+LCS Length: 2
+LCS: I . 
+Jaccard of common nouns: 0.25
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.705309331417
+Semantic similarity verbs: 0.468143701553
+
+Pairing: 5
+New Sentence: I begged, and told him I was only Huck; but he laughed SUCH a screechy laugh, and roared and cussed, and kept on chasing me up.
+Reference: 
+15 And it came to pass, when he heard that
+I lifted up my voice and cried, that he left his garment with me, and
+fled, and got him out.
+Similar Sentence is from: genesis
+Syntactic Score: 0.898575017537
+Syntactic Similarity without tokens: 0.942820818508
+Semantic Score: 0.819756150246
+Semantic Score without stopwords: 0.65149307251
+LCS Length: 8
+LCS: I , he , and , and . 
+Jaccard of common nouns: 0.2
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.484364062548
+Semantic similarity verbs: 0.704322397709
+
+Pairing: 6
+New Sentence: Says I, for two cents I'd leave the blamed country and never come a-near it agin.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.820676973998
+Syntactic Similarity without tokens: 0.865345686677
+Semantic Score: 0.838061511517
+Semantic Score without stopwords: 0.710423827171
+LCS Length: 5
+LCS: I , the and . 
+Jaccard of common nouns: 0.2
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.641551077366
+Semantic similarity verbs: 0.613158047199
+
+Pairing: 7
+New Sentence: Pretty soon he was all tired out, and dropped down with his back against the door, and said he would rest a minute and then kill me.
+Reference: 
+And they pressed sore upon the man,
+even Lot, and came near to break the door.
+Similar Sentence is from: genesis
+Syntactic Score: 0.778088044775
+Syntactic Similarity without tokens: 0.900574529264
+Semantic Score: 0.799919843674
+Semantic Score without stopwords: 0.741659760475
+LCS Length: 5
+LCS: , and the door . 
+Jaccard of common nouns: 0.2
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.625874459743
+Semantic similarity verbs: 0.418887406588
+
+Pairing: 8
+New Sentence: "Why, yes, dat's so; I--I'd done forgot it.
+Reference: 
+26 And Abimelech said, I wot not who hath done this thing; neither
+didst thou tell me, neither yet heard I of it, but to day.
+Similar Sentence is from: genesis
+Syntactic Score: 0.851252754521
+Syntactic Similarity without tokens: 0.805982756583
+Semantic Score: 0.820918262005
+Semantic Score without stopwords: 0.662905037403
+LCS Length: 5
+LCS: , , I it . 
+Jaccard of common nouns: 0.16666666666666666
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 1.0
+Semantic similarity nouns: 0.628377556801
+Semantic similarity verbs: 0.495228528976
+
+Pairing: 9
+New Sentence: I thought it all over, and I reckoned I would walk off with the gun and some lines, and take to the woods when I run away.
+Reference: 
+I will
+give thee money for the field; take it of me, and I will bury my dead
+there.
+Similar Sentence is from: genesis
+Syntactic Score: 0.860265689675
+Syntactic Similarity without tokens: 0.893685104636
+Semantic Score: 0.828562617302
+Semantic Score without stopwords: 0.597066223621
+LCS Length: 6
+LCS: I it , and I . 
+Jaccard of common nouns: 0.16666666666666666
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.78640216589
+Semantic similarity verbs: 0.54664504528
+
+Pairing: 10
+New Sentence: Is a Frenchman a man?"
+Reference: 
+11 And Jacob said to Rebekah his mother, Behold, Esau my brother is
+a hairy man, and I am a smooth man.
+Similar Sentence is from: genesis
+Syntactic Score: 0.763399493087
+Syntactic Similarity without tokens: 0.765954191682
+Semantic Score: 0.704037129879
+Semantic Score without stopwords: 0.674623429775
+LCS Length: 3
+LCS: a a man 
+Jaccard of common nouns: 0.16666666666666666
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.729588747025
+Semantic similarity verbs: 0.618881821632
+
+Pairing: 11
+New Sentence: The old man made me go to the skiff and fetch the things he had got.
+Reference: 
+12 And the man said, The woman whom thou gavest to be with me, she
+gave me of the tree, and I did eat.
+Similar Sentence is from: genesis
+Syntactic Score: 0.885624630369
+Syntactic Similarity without tokens: 0.919561691786
+Semantic Score: 0.829315841198
+Semantic Score without stopwords: 0.652077138424
+LCS Length: 5
+LCS: The me the and . 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.534089744091
+Semantic similarity verbs: 0.653345704079
+
+Pairing: 12
+New Sentence: This shook me up considerable, because I didn't want to go back to the widow's any more and be so cramped up and sivilized, as they called it.
+Reference: 
+Now therefore let me go
+up, I pray thee, and bury my father, and I will come again.
+Similar Sentence is from: genesis
+Syntactic Score: 0.839649167733
+Syntactic Similarity without tokens: 0.847880410413
+Semantic Score: 0.80809044838
+Semantic Score without stopwords: 0.622463703156
+LCS Length: 7
+LCS: me up , I and and . 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.553024709225
+Semantic similarity verbs: 0.713393270969
+
+Pairing: 13
+New Sentence: I judged he had got drowned, and I wasn't ever going to get out any more.
+Reference: 
+14 And let it come to
+pass, that the damsel to whom I shall say, Let down thy pitcher, I
+pray thee, that I may drink; and she shall say, Drink, and I will give
+thy camels drink also.
+Similar Sentence is from: genesis
+Syntactic Score: 0.885950189219
+Syntactic Similarity without tokens: 0.89029128844
+Semantic Score: 0.743010878563
+Semantic Score without stopwords: 0.545564889908
+LCS Length: 5
+LCS: I , and I . 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.556012272835
+Semantic similarity verbs: 0.563619792461
+
+Pairing: 14
+New Sentence: I made up my mind I would fix up some way to leave there.
+Reference: 
+Now therefore let me go
+up, I pray thee, and bury my father, and I will come again.
+Similar Sentence is from: genesis
+Syntactic Score: 0.821434498106
+Syntactic Similarity without tokens: 0.848659588001
+Semantic Score: 0.813197374344
+Semantic Score without stopwords: 0.602331459522
+LCS Length: 4
+LCS: I my I . 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.522372066975
+Semantic similarity verbs: 0.541087567806
+
+Pairing: 15
+New Sentence: That's a Frenchman's WAY of saying it."
+Reference: 
+21 Then he asked the men of that place, saying, Where is the
+harlot, that was openly by the way side?
+Similar Sentence is from: genesis
+Syntactic Score: 0.759552352982
+Syntactic Similarity without tokens: 0.795700546346
+Semantic Score: 0.770264089108
+Semantic Score without stopwords: 0.649483680725
+LCS Length: 2
+LCS: of saying 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.533509910107
+Semantic similarity verbs: 0.553276896477
+
+Pairing: 16
+New Sentence: His lawyer said he reckoned he would win his lawsuit and get the money if they ever got started on the trial; but then there was ways to put it off a long time, and Judge Thatcher knowed how to do it.
+Reference: 
+And they said again, This one fellow
+came in to sojourn, and he will needs be a judge.
+Similar Sentence is from: genesis
+Syntactic Score: 0.874147838016
+Syntactic Similarity without tokens: 0.935667521214
+Semantic Score: 0.822685182095
+Semantic Score without stopwords: 0.681028842926
+LCS Length: 5
+LCS: said to , and . 
+Jaccard of common nouns: 0.125
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.623326838017
+Semantic similarity verbs: 0.591141521931
+
+Pairing: 17
+New Sentence: He said they was crawling up his legs; and then he would give a jump and scream, and say one had bit him on the cheek--but I couldn't see no snakes.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.840688922086
+Syntactic Similarity without tokens: 0.871428660186
+Semantic Score: 0.827888309956
+Semantic Score without stopwords: 0.695521712303
+LCS Length: 6
+LCS: they ; and , I . 
+Jaccard of common nouns: 0.125
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.47861006856
+Semantic similarity verbs: 0.738947570324
+
+Pairing: 18
+New Sentence: "Well, but he WAS the wisest man, anyway; because the widow she told me so, her own self."
+Reference: 
+18 And the LORD God said, It is not good that the man should be
+alone; I will make him an help meet for him.
+Similar Sentence is from: genesis
+Syntactic Score: 0.750551636641
+Syntactic Similarity without tokens: 0.809671974026
+Semantic Score: 0.809300303459
+Semantic Score without stopwords: 0.662207126617
+LCS Length: 5
+LCS: , the man ; . 
+Jaccard of common nouns: 0.125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.430167764425
+Semantic similarity verbs: 0.247085675597
+
+Pairing: 19
+New Sentence: I judged I would saw out and leave that night if pap got drunk enough, and I reckoned he would.
+Reference: 
+14 And let it come to
+pass, that the damsel to whom I shall say, Let down thy pitcher, I
+pray thee, that I may drink; and she shall say, Drink, and I will give
+thy camels drink also.
+Similar Sentence is from: genesis
+Syntactic Score: 0.888728708351
+Syntactic Similarity without tokens: 0.899392076919
+Semantic Score: 0.786392092705
+Semantic Score without stopwords: 0.610804378986
+LCS Length: 7
+LCS: I I and , and I . 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.618501603603
+Semantic similarity verbs: 0.492980927229
+
+Pairing: 20
+New Sentence: I reck'n I knows sense when I sees it; en dey ain' no sense in sich doin's as dat.
+Reference: 
+26 And Abimelech said, I wot not who hath done this thing; neither
+didst thou tell me, neither yet heard I of it, but to day.
+Similar Sentence is from: genesis
+Syntactic Score: 0.855824003701
+Syntactic Similarity without tokens: 0.833660573611
+Semantic Score: 0.744650781155
+Semantic Score without stopwords: 0.601361095905
+LCS Length: 4
+LCS: I I it . 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.5
+Semantic similarity nouns: 0.697315871716
+Semantic similarity verbs: 0.526673138142
+
+Pairing: 21
+New Sentence: "Well, den, she ain't got no business to talk like either one er the yuther of 'em.
+Reference: 
+11 And it came to pass about this time, that Joseph went into the
+house to do his business; and there was none of the men of the house
+there within.
+Similar Sentence is from: genesis
+Syntactic Score: 0.835458259508
+Syntactic Similarity without tokens: 0.90898621658
+Semantic Score: 0.764255523682
+Semantic Score without stopwords: 0.621308207512
+LCS Length: 5
+LCS: , business the of . 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.370280861855
+Semantic similarity verbs: 0.610355079174
+
+Pairing: 22
+New Sentence: The law backs that old Judge Thatcher up and helps him to keep me out o' my property.
+Reference: 
+14 And Lot went out, and spake unto his sons in law, which married
+his daughters, and said, Up, get you out of this place; for the LORD
+will destroy this city.
+Similar Sentence is from: genesis
+Syntactic Score: 0.816195140027
+Syntactic Similarity without tokens: 0.871557745204
+Semantic Score: 0.82292932272
+Semantic Score without stopwords: 0.611429929733
+LCS Length: 4
+LCS: law and out . 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.530296504498
+Semantic similarity verbs: 0.372694402933
+
+Pairing: 23
+New Sentence: He had been drunk over in town, and laid in the gutter all night, and he was a sight to look at.
+Reference: 
+38 And he set the rods which he had pilled before the flocks in the
+gutters in the watering troughs when the flocks came to drink, that
+they should conceive when they came to drink.
+Similar Sentence is from: genesis
+Syntactic Score: 0.793717358499
+Syntactic Similarity without tokens: 0.840368002847
+Semantic Score: 0.824689388275
+Semantic Score without stopwords: 0.626077234745
+LCS Length: 7
+LCS: had in in the , to . 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.484149426222
+Semantic similarity verbs: 0.602818608284
+
+Pairing: 24
+New Sentence: I had tried to get out of that cabin many a time, but I couldn't find no way.
+Reference: 
+14 And let it come to
+pass, that the damsel to whom I shall say, Let down thy pitcher, I
+pray thee, that I may drink; and she shall say, Drink, and I will give
+thy camels drink also.
+Similar Sentence is from: genesis
+Syntactic Score: 0.846643060201
+Syntactic Similarity without tokens: 0.887076867608
+Semantic Score: 0.746834933758
+Semantic Score without stopwords: 0.564974427223
+LCS Length: 5
+LCS: to that , I . 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.572926938534
+Semantic similarity verbs: 0.520151495934
+
+Pairing: 25
+New Sentence: We lived in that old cabin, and he always locked the door and put the key under his head nights.
+Reference: 
+10 But the men put forth their hand, and pulled Lot into the house
+to them, and shut to the door.
+Similar Sentence is from: genesis
+Syntactic Score: 0.817751717954
+Syntactic Similarity without tokens: 0.866394239578
+Semantic Score: 0.816448271275
+Semantic Score without stopwords: 0.736860156059
+LCS Length: 6
+LCS: , and the and the . 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.655683219433
+Semantic similarity verbs: 0.635530352592
+
+Pairing: 26
+New Sentence: I wouldn't 'low no nigger to call me dat."
+Reference: 
+25 And it came to pass, when Rachel had born Joseph, that Jacob
+said unto Laban, Send me away, that I may go unto mine own place, and
+to my country.
+Similar Sentence is from: genesis
+Syntactic Score: 0.813989827155
+Syntactic Similarity without tokens: 0.825744973023
+Semantic Score: 0.749153137207
+Semantic Score without stopwords: 0.590344130993
+LCS Length: 3
+LCS: I to . 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.64058226347
+Semantic similarity verbs: 0.260797381401
+
+Pairing: 27
+New Sentence: "Well, it's a blame ridicklous way, en I doan' want to hear no mo' 'bout it.
+Reference: 
+25 And it came to pass, when Rachel had born Joseph, that Jacob
+said unto Laban, Send me away, that I may go unto mine own place, and
+to my country.
+Similar Sentence is from: genesis
+Syntactic Score: 0.810710902867
+Syntactic Similarity without tokens: 0.818852608041
+Semantic Score: 0.79143768549
+Semantic Score without stopwords: 0.690689682961
+LCS Length: 5
+LCS: it , I to . 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.607555270195
+Semantic similarity verbs: 0.479555755854
+
+Pairing: 28
+New Sentence: But you take a man dat's got 'bout five million chillen runnin' roun' de house, en it's diffunt.
+Reference: 
+1 And it came to pass at the end of twenty years, wherein Solomon
+had built the house of the LORD, and his own house, 8.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.866573376624
+Syntactic Similarity without tokens: 0.910855432143
+Semantic Score: 0.695589780807
+Semantic Score without stopwords: 0.654510974884
+LCS Length: 3
+LCS: house , . 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.518516182899
+Semantic similarity verbs: 0.471113264561
+
+Pairing: 29
+New Sentence: I could hear the owls and the wolves away off in the woods, and it seemed terrible still.
+Reference: 
+7 And the LORD said, I will destroy man whom I have created from the
+face of the earth; both man, and beast, and the creeping thing, and
+the fowls of the air; for it repenteth me that I have made them.
+Similar Sentence is from: genesis
+Syntactic Score: 0.798581253227
+Syntactic Similarity without tokens: 0.819033258234
+Semantic Score: 0.812226831913
+Semantic Score without stopwords: 0.606979370117
+LCS Length: 8
+LCS: I the and the , and it . 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.560479223728
+Semantic similarity verbs: 0.36884367466
+
+Pairing: 30
+New Sentence: Look at it, says I --such a hat for me to wear--one of the wealthiest men in this town if I could git my rights.
+Reference: 
+16 And when Joseph saw Benjamin with them, he said to the ruler of
+his house, Bring these men home, and slay, and make ready; for these
+men shall dine with me at noon.
+Similar Sentence is from: genesis
+Syntactic Score: 0.887755102041
+Syntactic Similarity without tokens: 0.927395064999
+Semantic Score: 0.792106747627
+Semantic Score without stopwords: 0.638648927212
+LCS Length: 5
+LCS: , to of men . 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.537306427956
+Semantic similarity verbs: 0.368846863508
+
+Pairing: 31
+New Sentence: It was 'lection day, and I was just about to go and vote myself if I warn't too drunk to get there; but when they told me there was a State in this country where they'd let that nigger vote, I drawed out.
+Reference: 
+25 And it came to pass, when Rachel had born Joseph, that Jacob
+said unto Laban, Send me away, that I may go unto mine own place, and
+to my country.
+Similar Sentence is from: genesis
+Syntactic Score: 0.902987994731
+Syntactic Similarity without tokens: 0.933536809561
+Semantic Score: 0.854635775089
+Semantic Score without stopwords: 0.647936046124
+LCS Length: 7
+LCS: , I go and to country . 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.467289030552
+Semantic similarity verbs: 0.633720219135
+
+Pairing: 32
+New Sentence: I hain't hearn 'bout none un um, skasely, but ole King Sollermun, onless you counts dem kings dat's in a pack er k'yards.
+Reference: 
+1 And it came to pass after these things, that the butler of the
+king of Egypt and his baker had offended their lord the king of Egypt.
+Similar Sentence is from: genesis
+Syntactic Score: 0.794543931512
+Syntactic Similarity without tokens: 0.875493113484
+Semantic Score: 0.71883302927
+Semantic Score without stopwords: 0.71664339304
+LCS Length: 2
+LCS: , . 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.720941007137
+Semantic similarity verbs: 0.235178366303
+
+Pairing: 33
+New Sentence: "Well, den, dey ain't no sense in a cat talkin' like a man.
+Reference: 
+7 But there came a man of God to him, saying, O king, let not the
+army of Israel go with thee; for the LORD is not with Israel, to wit,
+with all the children of Ephraim.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.800021530222
+Syntactic Similarity without tokens: 0.869545638861
+Semantic Score: 0.702313363552
+Semantic Score without stopwords: 0.642640888691
+LCS Length: 3
+LCS: , , . 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.551430583
+Semantic similarity verbs: 0.0616546422243
+
+Pairing: 34
+New Sentence: You take a man dat's got on'y one or two chillen; is dat man gwyne to be waseful o' chillen?
+Reference: 
+25 And it came to pass on the third day, when they were sore, that
+two of the sons of Jacob, Simeon and Levi, Dinah's brethren, took each
+man his sword, and came upon the city boldly, and slew all the males.
+Similar Sentence is from: genesis
+Syntactic Score: 0.778890338795
+Syntactic Similarity without tokens: 0.79834552727
+Semantic Score: 0.703284740448
+Semantic Score without stopwords: 0.713337182999
+LCS Length: 2
+LCS: 's man 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.637902021408
+Semantic similarity verbs: 0.520644843578
+
+Pairing: 35
+New Sentence: I says look at my hat--if you call it a hat--but the lid raises up and the rest of it goes down till it's below my chin, and then it ain't rightly a hat at all, but more like my head was shoved up through a jint o' stove-pipe.
+Reference: 
+3 And let us arise, and go up to Bethel; and
+I will make there an altar unto God, who answered me in the day of my
+distress, and was with me in the way which I went.
+Similar Sentence is from: genesis
+Syntactic Score: 0.862465301568
+Syntactic Similarity without tokens: 0.920583829106
+Semantic Score: 0.839811146259
+Semantic Score without stopwords: 0.584219455719
+LCS Length: 9
+LCS: up and the of my , and was . 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.409064888954
+Semantic similarity verbs: 0.628953635693
+
+Pairing: 36
+New Sentence: I see it warn't no use wasting words--you can't learn a nigger to argue.
+Reference: 
+12 And the messenger that went to call Micaiah spake to him,
+saying, Behold, the words of the prophets declare good to the king
+with one assent; let thy word therefore, I pray thee, be like one of
+their's, and speak thou good.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.841302485455
+Syntactic Similarity without tokens: 0.873582871449
+Semantic Score: 0.694460093975
+Semantic Score without stopwords: 0.602351307869
+LCS Length: 3
+LCS: words to . 
+Jaccard of common nouns: 0.05555555555555555
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.580856502056
+Semantic similarity verbs: 0.434121996164
+
+Pairing: 37
+New Sentence: De 'spute warn't 'bout a half a chile, de 'spute was 'bout a whole chile; en de man dat think he kin settle a 'spute 'bout a whole chile wid a half a chile doan' know enough to come in out'n de rain.
+Reference: 
+11 And their father Israel said unto them, If it must be so now, do
+this; take of the best fruits in the land in your vessels, and carry
+down the man a present, a little balm, and a little honey, spices, and
+myrrh, nuts, and almonds.
+Similar Sentence is from: genesis
+Syntactic Score: 0.9011480231
+Syntactic Similarity without tokens: 0.931050673226
+Semantic Score: 0.603984713554
+Semantic Score without stopwords: 0.550361454487
+LCS Length: 7
+LCS: , ; man a a a . 
+Jaccard of common nouns: 0.045454545454545456
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.569124877453
+Semantic similarity verbs: 0.469791650772
+
+Pairing: 38
+New Sentence: He hopped around the cabin considerable, first on one leg and then on the other, holding first one shin and then the other one, and at last he let out with his left foot all of a sudden and fetched the tub a rattling kick.
+Reference: 
+25 And it came to pass on the third day, when they were sore, that
+two of the sons of Jacob, Simeon and Levi, Dinah's brethren, took each
+man his sword, and came upon the city boldly, and slew all the males.
+Similar Sentence is from: genesis
+Syntactic Score: 0.879631470074
+Syntactic Similarity without tokens: 0.923867740926
+Semantic Score: 0.83583176136
+Semantic Score without stopwords: 0.672213792801
+LCS Length: 11
+LCS: the , the , and the , and all the . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.378287374973
+Semantic similarity verbs: 0.527220547199
+
+Pairing: 39
+New Sentence: I read considerable to Jim about kings and dukes and earls and such, and how gaudy they dressed, and how much style they put on, and called each other your majesty, and your grace, and your lordship, and so on, 'stead of mister; and Jim's eyes bugged out, and he was interested.
+Reference: 
+8 And now ye think to withstand the kingdom of the LORD in the hand
+of the sons of David; and ye be a great multitude, and there are with
+your golden calves, which Jeroboam made you for gods.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.817922943693
+Syntactic Similarity without tokens: 0.85179284872
+Semantic Score: 0.826150774956
+Semantic Score without stopwords: 0.726084291935
+LCS Length: 7
+LCS: to and , and your , . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.676701724529
+Semantic similarity verbs: 0.296742469072
+
+Pairing: 40
+New Sentence: Pretty soon he was all fagged out, and fell down panting; then he rolled over and over wonderful fast, kicking things every which way, and striking and grabbing at the air with his hands, and screaming and saying there was devils a-hold of him.
+Reference: 
+45 And before I had done speaking in mine heart, behold, Rebekah
+came forth with her pitcher on her shoulder; and she went down unto
+the well, and drew water.
+Similar Sentence is from: genesis
+Syntactic Score: 0.865274212696
+Syntactic Similarity without tokens: 0.928261226102
+Semantic Score: 0.804629027843
+Semantic Score without stopwords: 0.678350865841
+LCS Length: 7
+LCS: , and down the , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.441854923964
+Semantic similarity verbs: 0.439541429281
+
+Pairing: 41
+New Sentence: He got to hanging around the widow's too much and so she told him at last that if he didn't quit using around there she would make trouble for him.
+Reference: 
+10 And Azariah the chief priest of the house of Zadok answered him,
+and said, Since the people began to bring the offerings into the house
+of the LORD, we have had enough to eat, and have left plenty.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.846720503077
+Syntactic Similarity without tokens: 0.846560467451
+Semantic Score: 0.829161465168
+Semantic Score without stopwords: 0.694485068321
+LCS Length: 4
+LCS: to the and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.368572711945
+Semantic similarity verbs: 0.727274954319
+
+Pairing: 42
+New Sentence: Then he went down on all fours and crawled off, begging them to let him alone, and he rolled himself up in his blanket and wallowed in under the old pine table, still a-begging; and then he went to crying.
+Reference: 
+15 And it came to pass, when he heard that
+I lifted up my voice and cried, that he left his garment with me, and
+fled, and got him out.
+Similar Sentence is from: genesis
+Syntactic Score: 0.853868938026
+Syntactic Similarity without tokens: 0.902435072953
+Semantic Score: 0.855095028877
+Semantic Score without stopwords: 0.686356306076
+LCS Length: 9
+LCS: he and , he his and , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.167889416218
+Semantic similarity verbs: 0.750351071358
+
+Pairing: 43
+New Sentence: That law trial was a slow business--appeared like they warn't ever going to get started on it; so every now and then I'd borrow two or three dollars off of the judge for him, to keep from getting a cowhiding.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.852878500152
+Syntactic Similarity without tokens: 0.886251564615
+Semantic Score: 0.87009960413
+Semantic Score without stopwords: 0.686013281345
+LCS Length: 7
+LCS: they to it ; and I . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.058823529411764705
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.203000068665
+Semantic similarity verbs: 0.733478546143
+
+Pairing: 44
+New Sentence: We skipped out and looked; but it warn't nothing but the flutter of a steamboat's wheel away down, coming around the point; so we come back.
+Reference: 
+13 But the soldiers of the army which Amaziah sent back, that they
+should not go with him to battle, fell upon the cities of Judah, from
+Samaria even unto Bethhoron, and smote three thousand of them, and
+took much spoil.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.866312859561
+Syntactic Similarity without tokens: 0.886142874067
+Semantic Score: 0.79164981842
+Semantic Score without stopwords: 0.67186653614
+LCS Length: 5
+LCS: the of , the . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.423156887293
+Semantic similarity verbs: 0.578383028507
+
+Pairing: 45
+New Sentence: There was an old horse-blanket nailed against the logs at the far end of the cabin behind the table, to keep the wind from blowing through the chinks and putting the candle out.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.876164807209
+Syntactic Similarity without tokens: 0.935296746089
+Semantic Score: 0.812620341778
+Semantic Score without stopwords: 0.660917282104
+LCS Length: 11
+LCS: the at the of the , to keep the the . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.476254761219
+Semantic similarity verbs: 0.626732051373
+
+Pairing: 46
+New Sentence: He put his knife under him, and said he would sleep and get strong, and then he would see who was who.
+Reference: 
+could we certainly know that he would
+say, Bring your brother down?
+Similar Sentence is from: genesis
+Syntactic Score: 0.781230536856
+Syntactic Similarity without tokens: 0.832306181653
+Semantic Score: 0.814191222191
+Semantic Score without stopwords: 0.755036532879
+LCS Length: 3
+LCS: he would , 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.182864412665
+Semantic similarity verbs: 0.661081075668
+
+Pairing: 47
+New Sentence: He had heard old Sowberry Hagan in his best days, and he said it laid over him, too; but I reckon that was sort of piling it on, maybe.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.851252980538
+Syntactic Similarity without tokens: 0.865913066644
+Semantic Score: 0.821370542049
+Semantic Score without stopwords: 0.684252917767
+LCS Length: 7
+LCS: , and it , ; I . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.228413552046
+Semantic similarity verbs: 0.676780104637
+
+Pairing: 48
+New Sentence: Pap was pretty careful not to leave a knife or anything in the cabin when he was away; I reckon I had hunted the place over as much as a hundred times; well, I was most all the time at it, because it was about the only way to put in the time.
+Reference: 
+4 So there was gathered much people together, who stopped all the
+fountains, and the brook that ran through the midst of the land,
+saying, Why should the kings of Assyria come, and find much water?
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.867645713296
+Syntactic Similarity without tokens: 0.882613792778
+Semantic Score: 0.832449495792
+Semantic Score without stopwords: 0.666069209576
+LCS Length: 8
+LCS: was much , all the , the the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.400265961885
+Semantic similarity verbs: 0.660296976566
+
+Pairing: 49
+New Sentence: Once when I turned short and dodged under his arm he made a grab and got me by the jacket between my shoulders, and I thought I was gone; but I slid out of the jacket quick as lightning, and saved myself.
+Reference: 
+11 Now it came to pass, that at what time the chest was brought
+unto the king's office by the hand of the Levites, and when they saw
+that there was much money, the king's scribe and the high priest's
+officer came and emptied the chest, and took it, and carried it to his
+place again.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.835555436662
+Syntactic Similarity without tokens: 0.913941812251
+Semantic Score: 0.809910356998
+Semantic Score without stopwords: 0.693112790585
+LCS Length: 9
+LCS: by the , and was the , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.448965609074
+Semantic similarity verbs: 0.669768691063
+
+Pairing: 50
+New Sentence: Whenever his liquor begun to work he most always went for the govment, this time he says.
+Reference: 
+4 So there was gathered much people together, who stopped all the
+fountains, and the brook that ran through the midst of the land,
+saying, Why should the kings of Assyria come, and find much water?
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.845909104437
+Syntactic Similarity without tokens: 0.897584903164
+Semantic Score: 0.798584878445
+Semantic Score without stopwords: 0.681874334812
+LCS Length: 2
+LCS: the , 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.290207833052
+Semantic similarity verbs: 0.613740861416
+
+Pairing: 51
+New Sentence: WELL, pretty soon the old man was up and around again, and then he went for Judge Thatcher in the courts to make him give up that money, and he went for me, too, for not stopping school.
+Reference: 
+14 And Lot went out, and spake unto his sons in law, which married
+his daughters, and said, Up, get you out of this place; for the LORD
+will destroy this city.
+Similar Sentence is from: genesis
+Syntactic Score: 0.85002485741
+Syntactic Similarity without tokens: 0.886982633672
+Semantic Score: 0.845524907112
+Semantic Score without stopwords: 0.674460411072
+LCS Length: 9
+LCS: , and in , and , , for . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.547119557858
+Semantic similarity verbs: 0.587001204491
+
+Pairing: 52
+New Sentence: I got rid of the signs of my work, and dropped the blanket and hid my saw, and pretty soon pap come in.
+Reference: 
+18 And the men were afraid, because they were brought into Joseph's
+house; and they said, Because of the money that was returned in our
+sacks at the first time are we brought in; that he may seek occasion
+against us, and fall upon us, and take us for bondmen, and our asses.
+Similar Sentence is from: genesis
+Syntactic Score: 0.827542080207
+Syntactic Similarity without tokens: 0.864127138813
+Semantic Score: 0.80337369442
+Semantic Score without stopwords: 0.694211006165
+LCS Length: 8
+LCS: the , and the and , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.487671762705
+Semantic similarity verbs: 0.680926501751
+
+Pairing: 53
+New Sentence: That made me pretty uneasy again, but only for a minute; I reckoned I wouldn't stay on hand till he got that chance.
+Reference: 
+18 And the men were afraid, because they were brought into Joseph's
+house; and they said, Because of the money that was returned in our
+sacks at the first time are we brought in; that he may seek occasion
+against us, and fall upon us, and take us for bondmen, and our asses.
+Similar Sentence is from: genesis
+Syntactic Score: 0.822424462582
+Syntactic Similarity without tokens: 0.912457500565
+Semantic Score: 0.814409196377
+Semantic Score without stopwords: 0.692038416862
+LCS Length: 4
+LCS: , ; he . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.603646576405
+Semantic similarity verbs: 0.581949710846
+
+Pairing: 54
+New Sentence: While I was cooking supper the old man took a swig or two and got sort of warmed up, and went to ripping again.
+Reference: 
+14 And Abraham rose up early in the morning, and took bread, and a
+bottle of water, and gave it unto Hagar, putting it on her shoulder,
+and the child, and sent her away.
+Similar Sentence is from: genesis
+Syntactic Score: 0.788216765869
+Syntactic Similarity without tokens: 0.836180991768
+Semantic Score: 0.776043355465
+Semantic Score without stopwords: 0.722960412502
+LCS Length: 7
+LCS: the took a of , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.549245774746
+Semantic similarity verbs: 0.662604212761
+
+Pairing: 55
+New Sentence: I got under the table and raised the blanket, and went to work to saw a section of the big bottom log out--big enough to let me through.
+Reference: 
+And they pressed sore upon the man,
+even Lot, and came near to break the door.
+Similar Sentence is from: genesis
+Syntactic Score: 0.846027713154
+Syntactic Similarity without tokens: 0.91492486557
+Semantic Score: 0.757077813148
+Semantic Score without stopwords: 0.662076473236
+LCS Length: 6
+LCS: the , and to the . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.277911275625
+Semantic similarity verbs: 0.620146989822
+
+Pairing: 56
+New Sentence: But this time I found something at last; I found an old rusty wood-saw without any handle; it was laid in between a rafter and the clapboards of the roof.
+Reference: 
+24 And when Judah came toward the watch tower in the wilderness,
+they looked unto the multitude, and, behold, they were dead bodies
+fallen to the earth, and none escaped.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.872694652631
+Syntactic Similarity without tokens: 0.946850998454
+Semantic Score: 0.736122071743
+Semantic Score without stopwords: 0.633906900883
+LCS Length: 4
+LCS: in and the . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.446549504995
+Semantic similarity verbs: 0.435215711594
+
+Pairing: 57
+New Sentence: At last I got so sleepy I couldn't keep my eyes open all I could do, and so before I knowed what I was about I was sound asleep, and the candle burning.
+Reference: 
+10 And he said, I heard thy voice in the garden, and I was
+afraid, because I was naked; and I hid myself.
+Similar Sentence is from: genesis
+Syntactic Score: 0.904853315295
+Syntactic Similarity without tokens: 0.918642422068
+Semantic Score: 0.88433021307
+Semantic Score without stopwords: 0.598356723785
+LCS Length: 9
+LCS: I , and I was I was and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.314186304808
+Semantic similarity verbs: 0.724142849445
+
+Pairing: 58
+New Sentence: I told Jim all about what happened inside the wreck and at the ferryboat, and I said these kinds of things was adventures; but he said he didn't want no more adventures.
+Reference: 
+16 And Jacob awaked out of his sleep, and he said, Surely the LORD
+is in this place; and I knew it not.
+Similar Sentence is from: genesis
+Syntactic Score: 0.850508882552
+Syntactic Similarity without tokens: 0.905944095887
+Semantic Score: 0.842347502708
+Semantic Score without stopwords: 0.650900661945
+LCS Length: 5
+LCS: and the and I . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.469100981951
+Semantic similarity verbs: 0.689287900925
+
+Pairing: 59
+New Sentence: And to see the cool way of that nigger--why, he wouldn't a give me the road if I hadn't shoved him out o' the way.
+Reference: 
+7 Therefore he said unto Judah, Let us build these cities, and make
+about them walls, and towers, gates, and bars, while the land is yet
+before us; because we have sought the LORD our God, we have sought
+him, and he hath given us rest on every side.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.862611034455
+Syntactic Similarity without tokens: 0.909018078633
+Semantic Score: 0.828515648842
+Semantic Score without stopwords: 0.628701984882
+LCS Length: 4
+LCS: the , he . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.506593346596
+Semantic similarity verbs: 0.661079823971
+
+Pairing: 60
+New Sentence: I got so full of it I didn't notice how long I was staying till the old man hollered and asked me whether I was asleep or drownded.
+Reference: 
+1 And it came to pass, that when Isaac was old, and his eyes were
+dim, so that he could not see, he called Esau his eldest son, and said
+unto him, My son.
+Similar Sentence is from: genesis
+Syntactic Score: 0.821679029185
+Syntactic Similarity without tokens: 0.89590879864
+Semantic Score: 0.77459281683
+Semantic Score without stopwords: 0.667783915997
+LCS Length: 5
+LCS: it was old and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.14285714285714285
+Semantic similarity nouns: 0.410661280155
+Semantic similarity verbs: 0.622294425964
+
+Pairing: 61
+New Sentence: Dad blame it, why doan' he TALK like a man?
+Reference: 
+17 Then Amaziah king of Judah took advice, and sent to Joash, the
+son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us
+see one another in the face.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.824218536398
+Syntactic Similarity without tokens: 0.865569882437
+Semantic Score: 0.69527643919
+Semantic Score without stopwords: 0.661034762859
+LCS Length: 1
+LCS: , 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.566368997097
+Semantic similarity verbs: 0.353531062603
+
+Pairing: 62
+New Sentence: Every time he got money he got drunk; and every time he got drunk he raised Cain around town; and every time he raised Cain he got jailed.
+Reference: 
+6 And he left all that he had in Joseph's hand; and he knew not
+ought he had, save the bread which he did eat.
+Similar Sentence is from: genesis
+Syntactic Score: 0.886542474048
+Syntactic Similarity without tokens: 0.945710964688
+Semantic Score: 0.800118148327
+Semantic Score without stopwords: 0.598432958126
+LCS Length: 8
+LCS: he he ; and he he he . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.37910053134
+Semantic similarity verbs: 0.594821214676
+
+Pairing: 63
+New Sentence: They said he was a p'fessor in a college, and could talk all kinds of languages, and knowed everything.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.804634141944
+Syntactic Similarity without tokens: 0.832747047796
+Semantic Score: 0.795557379723
+Semantic Score without stopwords: 0.680337667465
+LCS Length: 6
+LCS: , and of , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.274751484394
+Semantic similarity verbs: 0.562906324863
+
+Pairing: 64
+New Sentence: He catched me a couple of times and thrashed me, but I went to school just the same, and dodged him or outrun him most of the time.
+Reference: 
+13 But the soldiers of the army which Amaziah sent back, that they
+should not go with him to battle, fell upon the cities of Judah, from
+Samaria even unto Bethhoron, and smote three thousand of them, and
+took much spoil.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.859108977453
+Syntactic Similarity without tokens: 0.859260938915
+Semantic Score: 0.791854560375
+Semantic Score without stopwords: 0.62229770422
+LCS Length: 8
+LCS: of , to the , and of . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.344651699066
+Semantic similarity verbs: 0.576002717018
+
+Pairing: 65
+New Sentence: I don't know how long I was asleep, but all of a sudden there was an awful scream and I was up.
+Reference: 
+16 And Jacob awaked out of his sleep, and he said, Surely the LORD
+is in this place; and I knew it not.
+Similar Sentence is from: genesis
+Syntactic Score: 0.80022281968
+Syntactic Similarity without tokens: 0.878107338667
+Semantic Score: 0.751268327236
+Semantic Score without stopwords: 0.677855432034
+LCS Length: 4
+LCS: , and I . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.553178906441
+Semantic similarity verbs: 0.495647192001
+
+Pairing: 66
+New Sentence: I slipped the ramrod down it to make sure it was loaded, then I laid it across the turnip barrel, pointing towards pap, and set down behind it to wait for him to stir.
+Reference: 
+8 And it came to pass, when he had been there a long time, that
+Abimelech king of the Philistines looked out at a window, and saw,
+and, behold, Isaac was sporting with Rebekah his wife.
+Similar Sentence is from: genesis
+Syntactic Score: 0.871309068185
+Syntactic Similarity without tokens: 0.891605419044
+Semantic Score: 0.788769125938
+Semantic Score without stopwords: 0.604878902435
+LCS Length: 8
+LCS: it to , the , , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.472606122494
+Semantic similarity verbs: 0.522960662842
+
+Pairing: 67
+New Sentence: He kept me with him all the time, and I never got a chance to run off.
+Reference: 
+28 And the one went out from me, and I said,
+Surely he is torn in pieces; and I saw him not since.
+Similar Sentence is from: genesis
+Syntactic Score: 0.834847941575
+Syntactic Similarity without tokens: 0.89721968133
+Semantic Score: 0.863228440285
+Semantic Score without stopwords: 0.640877604485
+LCS Length: 5
+LCS: me , and I . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.17856413126
+Semantic similarity verbs: 0.617576122284
+
+Pairing: 68
+New Sentence: After supper pap took the jug, and said he had enough whisky there for two drunks and one delirium tremens.
+Reference: 
+14 And Abraham rose up early in the morning, and took bread, and a
+bottle of water, and gave it unto Hagar, putting it on her shoulder,
+and the child, and sent her away.
+Similar Sentence is from: genesis
+Syntactic Score: 0.838027789319
+Syntactic Similarity without tokens: 0.870360576846
+Semantic Score: 0.755841910839
+Semantic Score without stopwords: 0.637333095074
+LCS Length: 5
+LCS: took the , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.505493283272
+Semantic similarity verbs: 0.676615536213
+
+Pairing: 69
+New Sentence: I says; "why, they get a thousand dollars a month if they want it; they can have just as much as they want; everything belongs to them."
+Reference: 
+18 And the men were afraid, because they were brought into Joseph's
+house; and they said, Because of the money that was returned in our
+sacks at the first time are we brought in; that he may seek occasion
+against us, and fall upon us, and take us for bondmen, and our asses.
+Similar Sentence is from: genesis
+Syntactic Score: 0.816849550181
+Syntactic Similarity without tokens: 0.84541041122
+Semantic Score: 0.828793466091
+Semantic Score without stopwords: 0.656550228596
+LCS Length: 6
+LCS: , they ; they ; . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.551106870174
+Semantic similarity verbs: 0.560831785202
+
+Pairing: 70
+New Sentence: I judged he would be blind drunk in about an hour, and then I would steal the key, or saw myself out, one or t'other.
+Reference: 
+6 And when the woman saw that the tree was good for food, and that
+it was pleasant to the eyes, and a tree to be desired to make one
+wise, she took of the fruit thereof, and did eat, and gave also unto
+her husband with her; and he did eat.
+Similar Sentence is from: genesis
+Syntactic Score: 0.855524217652
+Syntactic Similarity without tokens: 0.912066739626
+Semantic Score: 0.768669843674
+Semantic Score without stopwords: 0.616888582706
+LCS Length: 6
+LCS: , and the , , . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.353270173073
+Semantic similarity verbs: 0.601881444454
+
+Pairing: 71
+New Sentence: I says to the people, why ain't this nigger put up at auction and sold?--that's what I want to know.
+Reference: 
+2 And it came to pass, when they had eaten up the corn which they
+had brought out of Egypt, their father said unto them, Go again, buy
+us a little food.
+Similar Sentence is from: genesis
+Syntactic Score: 0.82315751695
+Syntactic Similarity without tokens: 0.871581948986
+Semantic Score: 0.761679291725
+Semantic Score without stopwords: 0.649177372456
+LCS Length: 4
+LCS: to the , . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.334622502327
+Semantic similarity verbs: 0.61227953434
+
+Pairing: 72
+New Sentence: A wise man 'ud take en buil' a biler-factry; en den he could shet DOWN de biler-factry when he want to res'."
+Reference: 
+2 And it came to pass, when Jeroboam the son of Nebat, who was in
+Egypt, whither he fled from the presence of Solomon the king, heard
+it, that Jeroboam returned out of Egypt.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.877692288446
+Syntactic Similarity without tokens: 0.911328450472
+Semantic Score: 0.714765965939
+Semantic Score without stopwords: 0.593767106533
+LCS Length: 3
+LCS: when he . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.445461988449
+Semantic similarity verbs: 0.265940666199
+
+Pairing: 73
+New Sentence: Some of them gets on the police, and some of them learns people how to talk French."
+Reference: 
+17 Then Amaziah king of Judah took advice, and sent to Joash, the
+son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us
+see one another in the face.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.88823131214
+Syntactic Similarity without tokens: 0.902754601
+Semantic Score: 0.689332902431
+Semantic Score without stopwords: 0.582250475883
+LCS Length: 5
+LCS: of , and of . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.24420440197
+Semantic similarity verbs: 0.499548316002
+
+Pairing: 74
+New Sentence: "I doan k'yer what de widder say, he WARN'T no wise man nuther.
+Reference: 
+15 And when Joseph's brethren saw that their father was dead, they
+said, Joseph will peradventure hate us, and will certainly requite us
+all the evil which we did unto him.
+Similar Sentence is from: genesis
+Syntactic Score: 0.801830517293
+Syntactic Similarity without tokens: 0.813095141261
+Semantic Score: 0.768890917301
+Semantic Score without stopwords: 0.666020214558
+LCS Length: 2
+LCS: , . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.637406885624
+Semantic similarity verbs: nan
+
+Pairing: 75
+New Sentence: Sometimes I've a mighty notion to just leave the country for good and all.
+Reference: 
+21 And the LORD smelled a sweet savour; and the LORD said in his
+heart, I will not again curse the ground any more for man's sake; for
+the imagination of man's heart is evil from his youth; neither will I
+again smite any more every thing living, as I have done.
+Similar Sentence is from: genesis
+Syntactic Score: 0.82684185037
+Syntactic Similarity without tokens: 0.87023521807
+Semantic Score: 0.822250962257
+Semantic Score without stopwords: 0.64055109024
+LCS Length: 4
+LCS: a the for . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.349162608385
+Semantic similarity verbs: 0.416824668646
+
+Pairing: 76
+New Sentence: Why, they said he couldn't be sold till he'd been in the State six months, and he hadn't been there that long yet.
+Reference: 
+7 And he said, Lo, it is yet high day, neither is it time that the
+cattle should be gathered together.
+Similar Sentence is from: genesis
+Syntactic Score: 0.822757301915
+Syntactic Similarity without tokens: 0.865926758312
+Semantic Score: 0.834706664085
+Semantic Score without stopwords: 0.62862610817
+LCS Length: 4
+LCS: said , that . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2857142857142857
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.353717416525
+Semantic similarity verbs: 0.654749751091
+
+Pairing: 77
+New Sentence: Yit dey say Sollermun de wises' man dat ever live'.
+Reference: 
+26 And Abimelech said, I wot not who hath done this thing; neither
+didst thou tell me, neither yet heard I of it, but to day.
+Similar Sentence is from: genesis
+Syntactic Score: 0.785319796657
+Syntactic Similarity without tokens: 0.802754910165
+Semantic Score: 0.71105158329
+Semantic Score without stopwords: 0.66341984272
+LCS Length: 1
+LCS: . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.531743407249
+Semantic similarity verbs: 0.536479830742
+
+Pairing: 78
+New Sentence: Well, it was a good long job, but I was getting towards the end of it when I heard pap's gun in the woods.
+Reference: 
+18 And he carried away all his cattle, and all his goods which he
+had gotten, the cattle of his getting, which he had gotten in
+Padanaram, for to go to Isaac his father in the land of Canaan.
+Similar Sentence is from: genesis
+Syntactic Score: 0.822139634558
+Syntactic Similarity without tokens: 0.878683478896
+Semantic Score: 0.668721139431
+Semantic Score without stopwords: 0.625616669655
+LCS Length: 7
+LCS: , , the of in the . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.3333333333333333
+Semantic similarity nouns: 0.312808930874
+Semantic similarity verbs: 0.439654409885
+
+Pairing: 79
+New Sentence: A body would a thought he was Adam--he was just all mud.
+Reference: 
+1 And Adam knew Eve his wife; and she conceived, and bare Cain, and
+said, I have gotten a man from the LORD.
+Similar Sentence is from: genesis
+Syntactic Score: 0.803265593213
+Syntactic Similarity without tokens: 0.845430186447
+Semantic Score: 0.744793534279
+Semantic Score without stopwords: 0.641863644123
+LCS Length: 2
+LCS: a . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.353450149298
+Semantic similarity verbs: 0.194888710976
+
+Pairing: 80
+New Sentence: I had stopped cussing, because the widow didn't like it; but now I took to it again because pap hadn't no objections.
+Reference: 
+8 And it came to pass, when he had been there a long time, that
+Abimelech king of the Philistines looked out at a window, and saw,
+and, behold, Isaac was sporting with Rebekah his wife.
+Similar Sentence is from: genesis
+Syntactic Score: 0.843405282557
+Syntactic Similarity without tokens: 0.902319639401
+Semantic Score: 0.794965684414
+Semantic Score without stopwords: 0.600651025772
+LCS Length: 4
+LCS: had , the . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.566835105419
+Semantic similarity verbs: 0.733011841774
+
+Pairing: 81
+New Sentence: So I went to talking about other kings, and let Solomon slide.
+Reference: 
+22 And he left off talking with him, and God went up from Abraham.
+Similar Sentence is from: genesis
+Syntactic Score: 0.718084448691
+Syntactic Similarity without tokens: 0.815639640488
+Semantic Score: 0.727567374706
+Semantic Score without stopwords: 0.725793302059
+LCS Length: 4
+LCS: talking , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.5
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.297020226717
+Semantic similarity verbs: 0.864435434341
+
+Pairing: 82
+New Sentence: hands off--they're cold; let go.
+Reference: 
+12 And he said, Let us take our journey, and let us go, and I will
+go before thee.
+Similar Sentence is from: genesis
+Syntactic Score: 0.759496970742
+Syntactic Similarity without tokens: 0.718631434676
+Semantic Score: 0.711507737637
+Semantic Score without stopwords: 0.681453347206
+LCS Length: 3
+LCS: let go . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.4
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.0537565983832
+Semantic similarity verbs: 0.83269071579
+
+Pairing: 83
+New Sentence: It's only saying, do you know how to talk French?"
+Reference: 
+32 And he said, Oh let not the LORD be angry, and I will speak yet
+but this once.
+Similar Sentence is from: genesis
+Syntactic Score: 0.782511941959
+Syntactic Similarity without tokens: 0.82054962123
+Semantic Score: 0.78509002924
+Semantic Score without stopwords: 0.658359706402
+LCS Length: 1
+LCS: , 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.60694539547
+
+Pairing: 84
+New Sentence: They said he could VOTE when he was at home.
+Reference: 
+for he feared to say, She
+is my wife; lest, said he, the men of the place should kill me for
+Rebekah; because she was fair to look upon.
+Similar Sentence is from: genesis
+Syntactic Score: 0.840066883261
+Syntactic Similarity without tokens: 0.917834253123
+Semantic Score: 0.82329595089
+Semantic Score without stopwords: 0.599710226059
+LCS Length: 4
+LCS: said he was . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.390240132809
+Semantic similarity verbs: 0.621338248253
+
+Pairing: 85
+New Sentence: By and by he rolled out and jumped up on his feet looking wild, and he see me and went for me.
+Reference: 
+1 And Jacob lifted up his eyes, and looked, and, behold, Esau came,
+and with him four hundred men.
+Similar Sentence is from: genesis
+Syntactic Score: 0.804091589246
+Syntactic Similarity without tokens: 0.80075327065
+Semantic Score: 0.790335655212
+Semantic Score without stopwords: 0.633516311646
+LCS Length: 6
+LCS: up his , and and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.178445965052
+Semantic similarity verbs: 0.694402575493
+
+Pairing: 86
+New Sentence: He said he was down town, and everything was going wrong.
+Reference: 
+26 And we said, We cannot go down.
+Similar Sentence is from: genesis
+Syntactic Score: 0.753921163068
+Syntactic Similarity without tokens: 0.761371788917
+Semantic Score: 0.682420730591
+Semantic Score without stopwords: 0.682041764259
+LCS Length: 3
+LCS: said down . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.648407518864
+
+Pairing: 87
+New Sentence: En what dey got to do, Huck?"
+Reference: 
+25 And it came to pass, when Rachel had born Joseph, that Jacob
+said unto Laban, Send me away, that I may go unto mine own place, and
+to my country.
+Similar Sentence is from: genesis
+Syntactic Score: 0.764985846734
+Syntactic Similarity without tokens: 0.794201108568
+Semantic Score: 0.741349041462
+Semantic Score without stopwords: 0.668554544449
+LCS Length: 2
+LCS: to , 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.510843038559
+Semantic similarity verbs: 0.517030000687
+
+Pairing: 88
+New Sentence: Does you know 'bout dat chile dat he 'uz gwyne to chop in two?"
+Reference: 
+25 And it came to pass, when Rachel had born Joseph, that Jacob
+said unto Laban, Send me away, that I may go unto mine own place, and
+to my country.
+Similar Sentence is from: genesis
+Syntactic Score: 0.78487624682
+Syntactic Similarity without tokens: 0.788154725327
+Semantic Score: 0.727938234806
+Semantic Score without stopwords: 0.647191047668
+LCS Length: 1
+LCS: to 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.593548059464
+Semantic similarity verbs: 0.386517286301
+
+Pairing: 89
+New Sentence: "Looky here, Jim; does a cat talk like we do?"
+Reference: 
+24 The sons of Rachel; Joseph, and Benjamin.
+Similar Sentence is from: genesis
+Syntactic Score: 0.793907055785
+Syntactic Similarity without tokens: 0.81062571838
+Semantic Score: 0.605180978775
+Semantic Score without stopwords: 0.63757443428
+LCS Length: 1
+LCS: , 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.668958961964
+Semantic similarity verbs: nan
+
+Pairing: 90
+New Sentence: "But some says he got out and got away, and come to America."
+Reference: 
+15 And it came to pass, when he heard that
+I lifted up my voice and cried, that he left his garment with me, and
+fled, and got him out.
+Similar Sentence is from: genesis
+Syntactic Score: 0.836146335176
+Syntactic Similarity without tokens: 0.861656751154
+Semantic Score: 0.786505162716
+Semantic Score without stopwords: 0.594068825245
+LCS Length: 5
+LCS: he and , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.601742565632
+
+Pairing: 91
+New Sentence: why, just look at it and see what it's like.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.744828390003
+Syntactic Similarity without tokens: 0.812744044902
+Semantic Score: 0.833831310272
+Semantic Score without stopwords: 0.68439668417
+LCS Length: 5
+LCS: , and see it . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.22498048842
+Semantic similarity verbs: 0.592232882977
+
+Pairing: 92
+New Sentence: Doan' talk to me 'bout yo' pints.
+Reference: 
+24 The sons of Rachel; Joseph, and Benjamin.
+Similar Sentence is from: genesis
+Syntactic Score: 0.881239487681
+Syntactic Similarity without tokens: 0.881239487681
+Semantic Score: 0.567083477974
+Semantic Score without stopwords: 0.539027452469
+LCS Length: 1
+LCS: . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.557479739189
+Semantic similarity verbs: nan
+
+Pairing: 93
+New Sentence: I toted up a load, and went back and set down on the bow of the skiff to rest.
+Reference: 
+16 And Jacob came out of the field in the evening, and Leah went
+out to meet him, and said, Thou must come in unto me; for surely I
+have hired thee with my son's mandrakes.
+Similar Sentence is from: genesis
+Syntactic Score: 0.852271744633
+Syntactic Similarity without tokens: 0.879913121663
+Semantic Score: 0.716264724731
+Semantic Score without stopwords: 0.560189187527
+LCS Length: 5
+LCS: , and went and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.447945594788
+Semantic similarity verbs: 0.579082787037
+
+Pairing: 94
+New Sentence: "Dat's good!
+Reference: 
+24 And God came to Laban the Syrian in a dream by night, and said
+unto him, Take heed that thou speak not to Jacob either good or bad.
+Similar Sentence is from: genesis
+Syntactic Score: 0.813733471207
+Syntactic Similarity without tokens: 0.73910230169
+Semantic Score: 0.573239803314
+Semantic Score without stopwords: 0.595801651478
+LCS Length: 1
+LCS: good 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.25
+Semantic similarity nouns: 0.21138843894
+Semantic similarity verbs: nan
+
+Pairing: 95
+New Sentence: They call that a govment that can't sell a free nigger till he's been in the State six months.
+Reference: 
+2 And it came to pass, when they had eaten up the corn which they
+had brought out of Egypt, their father said unto them, Go again, buy
+us a little food.
+Similar Sentence is from: genesis
+Syntactic Score: 0.814609597934
+Syntactic Similarity without tokens: 0.850557010872
+Semantic Score: 0.773631632328
+Semantic Score without stopwords: 0.594283282757
+LCS Length: 2
+LCS: a . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.237840354443
+Semantic similarity verbs: 0.538422524929
+
+Pairing: 96
+New Sentence: Oh, let a poor devil alone!"
+Reference: 
+Oh, let me escape thither, (is it not a little one?)
+Similar Sentence is from: genesis
+Syntactic Score: 0.747473226223
+Syntactic Similarity without tokens: 0.780525186797
+Semantic Score: 0.693943083286
+Semantic Score without stopwords: 0.660496413708
+LCS Length: 4
+LCS: Oh , let a 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.3333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.612504959106
+
+Pairing: 97
+New Sentence: You jes' take en look at it a minute.
+Reference: 
+12 And he said, Let us take our journey, and let us go, and I will
+go before thee.
+Similar Sentence is from: genesis
+Syntactic Score: 0.7890679906
+Syntactic Similarity without tokens: 0.900516484722
+Semantic Score: 0.734750449657
+Semantic Score without stopwords: 0.617443084717
+LCS Length: 2
+LCS: take . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.222836911678
+Semantic similarity verbs: 0.581656515598
+
+Pairing: 98
+New Sentence: "I wouldn' think nuff'n; I'd take en bust him over de head--dat is, if he warn't white.
+Reference: 
+21 These men are
+peaceable with us; therefore let them dwell in the land, and trade
+therein; for the land, behold, it is large enough for them; let us
+take their daughters to us for wives, and let us give them our
+daughters.
+Similar Sentence is from: genesis
+Syntactic Score: 0.855198037399
+Syntactic Similarity without tokens: 0.881458338017
+Semantic Score: 0.704401552677
+Semantic Score without stopwords: 0.549202859402
+LCS Length: 4
+LCS: ; take , . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2222222222222222
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.212746828794
+Semantic similarity verbs: 0.728308022022
+
+Pairing: 99
+New Sentence: Doan' talk to me 'bout Sollermun, Huck, I knows him by de back."
+Reference: 
+17 Then Amaziah king of Judah took advice, and sent to Joash, the
+son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us
+see one another in the face.
+Similar Sentence is from: chronicle-2
+Syntactic Score: 0.859476978642
+Syntactic Similarity without tokens: 0.864512199155
+Semantic Score: 0.658348977566
+Semantic Score without stopwords: 0.544728457928
+LCS Length: 4
+LCS: to , , . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.362531512976
+Semantic similarity verbs: 0.504240572453
+
+Pairing: 100
+New Sentence: He said he would show who was Huck Finn's boss.
+Reference: 
+7 And she said, Who would have said unto Abraham, that Sarah should
+have given children suck?
+Similar Sentence is from: genesis
+Syntactic Score: 0.823843964201
+Syntactic Similarity without tokens: 0.896375007181
+Semantic Score: 0.647435843945
+Semantic Score without stopwords: 0.577031552792
+LCS Length: 2
+LCS: said would 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.507339715958
+Semantic similarity verbs: 0.390058964491
+

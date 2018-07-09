@@ -1,0 +1,706 @@
+Pairing: 1
+New Sentence: But to-morrow I die, and to-day I would unburthen my soul.
+Reference: 
+4
+And make me savoury meat, such as I love, and bring it to me, that I
+may eat; that my soul may bless thee before I die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.808558858396
+Syntactic Similarity without tokens: 0.865623315977
+Semantic Score: 0.898219406605
+Semantic Score without stopwords: 0.764145791531
+LCS Length: 4
+LCS: I and I my 
+Jaccard of common nouns: 0.3333333333333333
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.732139527798
+Semantic similarity verbs: 0.628673017025
+
+Pairing: 2
+New Sentence: On the night of the day on which this cruel deed was done, I was aroused from sleep by the cry of fire.
+Reference: 
+40 Thus I was; in the day the drought consumed me, and the frost by
+night; and my sleep departed from mine eyes.
+Similar Sentence is from: genesis
+Syntactic Score: 0.858210946043
+Syntactic Similarity without tokens: 0.90169460136
+Semantic Score: 0.831728696823
+Semantic Score without stopwords: 0.650429308414
+LCS Length: 3
+LCS: the the from 
+Jaccard of common nouns: 0.2727272727272727
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.650935590267
+Semantic similarity verbs: 0.591013491154
+
+Pairing: 3
+New Sentence: I alone fed him, and he attended me wherever I went about the house.
+Reference: 
+11 And it came to pass about this time, that Joseph went into the
+house to do his business; and there was none of the men of the house
+there within.
+Similar Sentence is from: genesis
+Syntactic Score: 0.836418796983
+Syntactic Similarity without tokens: 0.826295141939
+Semantic Score: 0.808356642723
+Semantic Score without stopwords: 0.678418338299
+LCS Length: 2
+LCS: went the 
+Jaccard of common nouns: 0.16666666666666666
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.727555811405
+Semantic similarity verbs: 0.627259731293
+
+Pairing: 4
+New Sentence: Yet I am not more sure that my soul lives, than I am that perverseness is one of the primitive impulses of the human heart --one of the indivisible primary faculties, or sentiments, which give direction to the character of Man.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.890794711091
+Syntactic Similarity without tokens: 0.929206814502
+Semantic Score: 0.846150577068
+Semantic Score without stopwords: 0.755919933319
+LCS Length: 7
+LCS: that the of the of the of 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.723811268806
+Semantic similarity verbs: 0.428044199944
+
+Pairing: 5
+New Sentence: --these walls are solidly put together"; and here, through the mere phrenzy of bravado, I rapped heavily, with a cane which I held in my hand, upon that very portion of the brick-work behind which stood the corpse of the wife of my bosom.
+Reference: 
+16 And while he lingered, the men laid hold upon his hand, and upon
+the hand of his wife, and upon the hand of his two daughters; the LORD
+being merciful unto him.
+Similar Sentence is from: genesis
+Syntactic Score: 0.857437559004
+Syntactic Similarity without tokens: 0.919959827214
+Semantic Score: 0.800482869148
+Semantic Score without stopwords: 0.716352164745
+LCS Length: 7
+LCS: and the of upon the of the 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.651439547539
+Semantic similarity verbs: 0.512927889824
+
+Pairing: 6
+New Sentence: There is something in the unselfish and self-sacrificing love of a brute, which goes directly to the heart of him who has had frequent occasion to test the paltry friendship and gossamer fidelity of mere Man.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.859822697596
+Syntactic Similarity without tokens: 0.885770095616
+Semantic Score: 0.819685041904
+Semantic Score without stopwords: 0.707981050014
+LCS Length: 6
+LCS: in the and of the heart 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.670601010323
+Semantic similarity verbs: 0.585448801517
+
+Pairing: 7
+New Sentence: But may God shield and deliver me from the fangs of the Arch-Fiend!
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.843621422533
+Syntactic Similarity without tokens: 0.931779965149
+Semantic Score: 0.806734919548
+Semantic Score without stopwords: 0.667377829552
+LCS Length: 5
+LCS: may God and of the 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.661100924015
+Semantic similarity verbs: 0.310146272182
+
+Pairing: 8
+New Sentence: And a brute beast --whose fellow I had contemptuously destroyed --a brute beast to work out for me --for me a man, fashioned in the image of the High God --so much of insufferable wo!
+Reference: 
+42 Except the God of my father, the God of Abraham, and the fear of
+Isaac, had been with me, surely thou hadst sent me away now empty.
+Similar Sentence is from: genesis
+Syntactic Score: 0.871272622183
+Syntactic Similarity without tokens: 0.918859519905
+Semantic Score: 0.811601340771
+Semantic Score without stopwords: 0.694829523563
+LCS Length: 5
+LCS: the of the God of 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.637451946735
+Semantic similarity verbs: 0.517592906952
+
+Pairing: 9
+New Sentence: Upon the fourth day of the assassination, a party of the police came, very unexpectedly, into the house, and proceeded again to make rigorous investigation of the premises.
+Reference: 
+11 And it came to pass about this time, that Joseph went into the
+house to do his business; and there was none of the men of the house
+there within.
+Similar Sentence is from: genesis
+Syntactic Score: 0.846604802663
+Syntactic Similarity without tokens: 0.871089836755
+Semantic Score: 0.7880833745
+Semantic Score without stopwords: 0.672697603703
+LCS Length: 5
+LCS: the of the of the 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.54085624218
+Semantic similarity verbs: 0.764049828053
+
+Pairing: 10
+New Sentence: I did not, for some weeks, strike, or otherwise violently ill use it; but gradually --very gradually --I came to look upon it with unutterable loathing, and to flee silently from its odious presence, as from the breath of a pestilence.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.861485545194
+Syntactic Similarity without tokens: 0.852231605238
+Semantic Score: 0.806295931339
+Semantic Score without stopwords: 0.664193034172
+LCS Length: 5
+LCS: upon to the breath of 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.516263782978
+Semantic similarity verbs: 0.532060563564
+
+Pairing: 11
+New Sentence: For Pluto, however, I still retained sufficient regard to restrain me from maltreating him, as I made no scruple of maltreating the rabbits, the monkey, or even the dog, when by accident, or through affection, they came in my way.
+Reference: 
+7 And as for me, when I came from Padan, Rachel died by me in the
+land of Canaan in the way, when yet there was but a little way to come
+unto Ephrath.
+Similar Sentence is from: genesis
+Syntactic Score: 0.912380445738
+Syntactic Similarity without tokens: 0.961308548628
+Semantic Score: 0.831683516502
+Semantic Score without stopwords: 0.606420099735
+LCS Length: 5
+LCS: I me of the when 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.488767892122
+Semantic similarity verbs: 0.379785597324
+
+Pairing: 12
+New Sentence: It did not make its appearance during the night --and thus for one night at least, since its introduction into the house, I soundly and tranquilly slept; aye, slept even with the burden of murder upon my soul!
+Reference: 
+64 Command therefore that the sepulchre be made sure until the
+third day, lest his disciples come by night, and steal him away, and
+say unto the people, He is risen from the dead.
+Similar Sentence is from: matt
+Syntactic Score: 0.829784686405
+Syntactic Similarity without tokens: 0.849395149605
+Semantic Score: 0.828733742237
+Semantic Score without stopwords: 0.68680113554
+LCS Length: 4
+LCS: the the and the 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.483535259962
+Semantic similarity verbs: 0.443789660931
+
+Pairing: 13
+New Sentence: I knew that I could not remove it from the house, either by day or by night, without the risk of being observed by the neighbors.
+Reference: 
+18 And the men were afraid, because they were brought into Joseph's
+house; and they said, Because of the money that was returned in our
+sacks at the first time are we brought in; that he may seek occasion
+against us, and fall upon us, and take us for bondmen, and our asses.
+Similar Sentence is from: genesis
+Syntactic Score: 0.825408177391
+Syntactic Similarity without tokens: 0.949414508454
+Semantic Score: 0.851764678955
+Semantic Score without stopwords: 0.680981099606
+LCS Length: 3
+LCS: the of the 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.541895389557
+Semantic similarity verbs: 0.56175249815
+
+Pairing: 14
+New Sentence: My wife had called my attention, more than once, to the character of the mark of white hair, of which I have spoken, and which constituted the sole visible difference between the strange beast and the one I had y si destroyed.
+Reference: 
+7 And the LORD said, I will destroy man whom I have created from the
+face of the earth; both man, and beast, and the creeping thing, and
+the fowls of the air; for it repenteth me that I have made them.
+Similar Sentence is from: genesis
+Syntactic Score: 0.908460716191
+Syntactic Similarity without tokens: 0.899906505085
+Semantic Score: 0.843568265438
+Semantic Score without stopwords: 0.655126035213
+LCS Length: 8
+LCS: the I have the the and the I 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.582218825817
+Semantic similarity verbs: 0.651820838451
+
+Pairing: 15
+New Sentence: During the former the creature left me no moment alone; and, in the latter, I started, hourly, from dreams of unutterable fear, to find the hot breath of the thing upon my face, and its vast weight --an incarnate Night-Mare that I had no power to shake off --incumbent eternally upon my heart!
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.924061843864
+Syntactic Similarity without tokens: 0.95091148888
+Semantic Score: 0.850255966187
+Semantic Score without stopwords: 0.737224698067
+LCS Length: 8
+LCS: the in the I the of that upon 
+Jaccard of common nouns: 0.05263157894736842
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.577323973179
+Semantic similarity verbs: 0.410068809986
+
+Pairing: 16
+New Sentence: The falling of other walls had compressed the victim of my cruelty into the substance of the freshly-spread plaster; the lime of which, had then with the flames, and the ammonia from the carcass, accomplished the portraiture as I saw it.
+Reference: 
+23 And every living substance was destroyed which was upon the face
+of the ground, both man, and cattle, and the creeping things, and the
+fowl of the heaven; and they were destroyed from the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.922824998195
+Syntactic Similarity without tokens: 0.949800361489
+Semantic Score: 0.831176519394
+Semantic Score without stopwords: 0.614814221859
+LCS Length: 10
+LCS: the of the the the of the and from the 
+Jaccard of common nouns: 0.05263157894736842
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.586343824863
+Semantic similarity verbs: 0.526514649391
+
+Pairing: 17
+New Sentence: One night as I sat, half stupefied, in a den of more than infamy, my attention was suddenly drawn to some black object, reposing upon the head of one of the immense hogsheads of Gin, or of Rum, which constituted the chief furniture of the apartment.
+Reference: 
+5 And the LORD will create upon every dwelling place of mount Zion,
+and upon her assemblies, a cloud and smoke by day, and the shining of
+a flaming fire by night.
+Similar Sentence is from: isaiah
+Syntactic Score: 0.888011507529
+Syntactic Similarity without tokens: 0.93274842107
+Semantic Score: 0.723214149475
+Semantic Score without stopwords: 0.667916953564
+LCS Length: 4
+LCS: of upon the of 
+Jaccard of common nouns: 0.043478260869565216
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.520729184151
+Semantic similarity verbs: 0.214556589723
+
+Pairing: 18
+New Sentence: One morning, in cool blood, I slipped a noose about its neck and hung it to the limb of a tree; --hung it with the tears streaming from my eyes, and with the bitterest remorse at my heart; --hung it because I knew that it had loved me, and because I felt it had given me no reason of offence; --hung it because I knew that in so doing I was committing a sin --a deadly sin that would so jeopardize my immortal soul as to place it --if such a thing were possible --even beyond the reach of the infinite mercy of the Most Merciful and Most Terrible God.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.903102702823
+Syntactic Similarity without tokens: 0.947660890985
+Semantic Score: 0.892848134041
+Semantic Score without stopwords: 0.764210879803
+LCS Length: 7
+LCS: a and the I of the of 
+Jaccard of common nouns: 0.04
+Jaccard of common verbs: 0.047619047619047616
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.595861852169
+Semantic similarity verbs: 0.741513550282
+
+Pairing: 19
+New Sentence: Uplifting an axe, and forgetting, in my wrath, the childish dread which had hitherto stayed my hand, I aimed a blow at the animal which, of course, would have proved instantly fatal had it descended as I wished.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.867937300358
+Syntactic Similarity without tokens: 0.938694448383
+Semantic Score: 0.825857043266
+Semantic Score without stopwords: 0.702156603336
+LCS Length: 5
+LCS: and the I the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.493076890707
+Semantic similarity verbs: 0.657424926758
+
+Pairing: 20
+New Sentence: --by a cry, at first muffled and broken, like the sobbing of a child, and then quickly swelling into one long, loud, and continuous scream, utterly anomalous and inhuman --a howl --a wailing shriek, half of horror and half of triumph, such as might have arisen only out of hell, conjointly from the throats of the damned in their agony and of the demons that exult in the damnation.
+Reference: 
+25 This day will I begin to put the dread of thee and the fear of
+thee upon the nations that are under the whole heaven, who shall hear
+report of thee, and shall tremble, and be in anguish because of thee.
+Similar Sentence is from: Deuteronomy
+Syntactic Score: 0.883290874797
+Syntactic Similarity without tokens: 0.892661199716
+Semantic Score: 0.765302479267
+Semantic Score without stopwords: 0.681706607342
+LCS Length: 8
+LCS: the of and of the of in of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.548228025436
+Semantic similarity verbs: 0.537432491779
+
+Pairing: 21
+New Sentence: What added, no doubt, to my hatred of the beast, was the discovery, on the morning after I brought it home, that, like Pluto, it also had been deprived of one of its eyes.
+Reference: 
+32 For ask now of the days that are past, which were before thee,
+since the day that God created man upon the earth, and ask from the
+one side of heaven unto the other, whether there hath been any such
+thing as this great thing is, or hath been heard like it?
+Similar Sentence is from: Deuteronomy
+Syntactic Score: 0.895774529839
+Syntactic Similarity without tokens: 0.91761814995
+Semantic Score: 0.84059125185
+Semantic Score without stopwords: 0.66243827343
+LCS Length: 6
+LCS: of the the the one of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.579235494137
+Semantic similarity verbs: 0.705010175705
+
+Pairing: 22
+New Sentence: It was now the representation of an object that I shudder to name --and for this, above all, I loathed, and dreaded, and would have rid myself of the monster had I dared --it was now, I say, the image of a hideous --of a ghastly thing --of the GALLOWS!
+Reference: 
+27 Were it not that I
+feared the wrath of the enemy, lest their adversaries should behave
+themselves strangely, and lest they should say, Our hand is high, and
+the LORD hath not done all this.
+Similar Sentence is from: Deuteronomy
+Syntactic Score: 0.876726569531
+Syntactic Similarity without tokens: 0.931042526829
+Semantic Score: 0.806539833546
+Semantic Score without stopwords: 0.673078298569
+LCS Length: 6
+LCS: that I of the say, the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.405233860016
+Semantic similarity verbs: 0.655538737774
+
+Pairing: 23
+New Sentence: When reason returned with the morning --when I had slept off the fumes of the night's debauch --I experienced a sentiment half of horror, half of remorse, for the crime of which I had been guilty; but it was, at best, a feeble and equivocal feeling, and the soul remained untouched.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.888868444343
+Syntactic Similarity without tokens: 0.923419426371
+Semantic Score: 0.848640084267
+Semantic Score without stopwords: 0.655937850475
+LCS Length: 6
+LCS: When the I of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.492138504982
+Semantic similarity verbs: 0.671923279762
+
+Pairing: 24
+New Sentence: Had I been able to meet with it, at the moment, there could have been no doubt of its fate; but it appeared that the crafty animal had been alarmed at the violence of my previous anger, and forebore to present itself in my present mood.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.873485713084
+Syntactic Similarity without tokens: 0.917213006004
+Semantic Score: 0.843021512032
+Semantic Score without stopwords: 0.66480833292
+LCS Length: 6
+LCS: could but that the the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.538597106934
+Semantic similarity verbs: 0.604286491871
+
+Pairing: 25
+New Sentence: At such times, although I longed to destroy it with a blow, I was yet withheld from so doing, partly it at by a memory of my former crime, but chiefly --let me confess it at once --by absolute dread of the beast.
+Reference: 
+11 And Abraham said, Because I thought,
+Surely the fear of God is not in this place; and they will slay me for
+my wife's sake.
+Similar Sentence is from: genesis
+Syntactic Score: 0.839265902407
+Syntactic Similarity without tokens: 0.897728375634
+Semantic Score: 0.862964510918
+Semantic Score without stopwords: 0.694088220596
+LCS Length: 3
+LCS: I of my 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.411021977663
+Semantic similarity verbs: 0.573344647884
+
+Pairing: 26
+New Sentence: For months I could not rid myself of the phantasm of the cat; and, during this period, there came back into my spirit a half-sentiment that seemed, but was not, remorse.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.863677884613
+Syntactic Similarity without tokens: 0.915383806956
+Semantic Score: 0.862998843193
+Semantic Score without stopwords: 0.669460654259
+LCS Length: 5
+LCS: I of the of this 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.415152341127
+Semantic similarity verbs: 0.723137676716
+
+Pairing: 27
+New Sentence: It was this unfathomable longing of the soul to vex itself --to offer violence to its own nature --to do wrong for the wrong's sake only --that urged me to continue and finally to consummate the injury I had inflicted upon the unoffending brute.
+Reference: 
+17 Then my anger shall be kindled against them in that day, and I
+will forsake them, and I will hide my face from them, and they shall
+be devoured, and many evils and troubles shall befall them; so that
+they will say in that day, Are not these evils come upon us, because
+our God is not among us?
+Similar Sentence is from: Deuteronomy
+Syntactic Score: 0.815902413887
+Syntactic Similarity without tokens: 0.831009171007
+Semantic Score: 0.838166117668
+Semantic Score without stopwords: 0.715025424957
+LCS Length: 3
+LCS: and I upon 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.52110773325
+Semantic similarity verbs: 0.613609850407
+
+Pairing: 28
+New Sentence: I made no doubt that I could readily displace the at this point, insert the corpse, and wall the whole up as before, so that no eye could detect anything suspicious.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.842543066652
+Syntactic Similarity without tokens: 0.88348551833
+Semantic Score: 0.844404220581
+Semantic Score without stopwords: 0.683584749699
+LCS Length: 4
+LCS: that could the this 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.502779901028
+Semantic similarity verbs: 0.330092430115
+
+Pairing: 29
+New Sentence: I am almost ashamed to own --yes, even in this felon's cell, I am almost ashamed to own --that the terror and horror with which the animal inspired me, had been heightened by one of the merest chimaeras it would be possible to conceive.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.87709093859
+Syntactic Similarity without tokens: 0.921779006229
+Semantic Score: 0.839502513409
+Semantic Score without stopwords: 0.648078382015
+LCS Length: 4
+LCS: I am the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.378594964743
+Semantic similarity verbs: 0.602863371372
+
+Pairing: 30
+New Sentence: I had so much of my old heart left, as to be at first grieved by this evident dislike on the part of a creature which had once so loved me.
+Reference: 
+8 And he communed with them, saying, If it be your mind that I
+should bury my dead out of my sight; hear me, and intreat for me to
+Ephron the son of Zohar, 23.
+Similar Sentence is from: genesis
+Syntactic Score: 0.892596945218
+Syntactic Similarity without tokens: 0.887636746551
+Semantic Score: 0.829313576221
+Semantic Score without stopwords: 0.632519543171
+LCS Length: 6
+LCS: I of my to the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.37433642149
+Semantic similarity verbs: 0.566098213196
+
+Pairing: 31
+New Sentence: Upon its head, with red extended mouth and solitary eye of fire, sat the hideous beast whose craft had seduced me into murder, and whose informing voice had consigned me to the hangman.
+Reference: 
+22 And Reuben said unto them, Shed no blood, but cast him into this
+pit that is in the wilderness, and lay no hand upon him; that he might
+rid him out of their hands, to deliver him to his father again.
+Similar Sentence is from: genesis
+Syntactic Score: 0.856682686125
+Syntactic Similarity without tokens: 0.918882410247
+Semantic Score: 0.783914804459
+Semantic Score without stopwords: 0.666872859001
+LCS Length: 3
+LCS: and of to 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.551888108253
+Semantic similarity verbs: 0.398755818605
+
+Pairing: 32
+New Sentence: I approached and saw, as if graven in bas relief upon the white surface, the figure of a gigantic cat.
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.881326268726
+Syntactic Similarity without tokens: 0.90979547125
+Semantic Score: 0.770354509354
+Semantic Score without stopwords: 0.636180341244
+LCS Length: 4
+LCS: I and upon the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.377855658531
+Semantic similarity verbs: 0.319842487574
+
+Pairing: 33
+New Sentence: Not that she was ever serious upon this point --and I mention the matter at all for no better reason than that it happens, just now, to be remembered.
+Reference: 
+17 And the man said, They are departed hence; for I heard them say,
+Let us go to Dothan.
+Similar Sentence is from: genesis
+Syntactic Score: 0.840299428482
+Syntactic Similarity without tokens: 0.822162042012
+Semantic Score: 0.788283467293
+Semantic Score without stopwords: 0.674127519131
+LCS Length: 3
+LCS: the for to 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.336317151785
+Semantic similarity verbs: 0.605360388756
+
+Pairing: 34
+New Sentence: The moodiness of my usual temper increased to hatred of all things and of all mankind; while, from the sudden, frequent, and ungovernable outbursts of a fury to which I now blindly abandoned myself, my uncomplaining wife, alas!
+Reference: 
+16 They provoked him to jealousy with strange gods, with
+abominations provoked they him to anger.
+Similar Sentence is from: Deuteronomy
+Syntactic Score: 0.804734516765
+Syntactic Similarity without tokens: 0.83056715521
+Semantic Score: 0.774854362011
+Semantic Score without stopwords: 0.705121278763
+LCS Length: 2
+LCS: to to 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.435418814421
+Semantic similarity verbs: 0.491005688906
+
+Pairing: 35
+New Sentence: To those who have cherished an affection for a faithful and sagacious dog, I need hardly be at the trouble of explaining the nature or the intensity of the gratification thus derivable.
+Reference: 
+56 The tender and delicate woman among you, which would not
+adventure to set the sole of her foot upon the ground for delicateness
+and tenderness, her eye shall be evil toward the husband of her bosom,
+and toward her son, and toward her daughter, 28.
+Similar Sentence is from: Deuteronomy
+Syntactic Score: 0.879992097856
+Syntactic Similarity without tokens: 0.922722995064
+Semantic Score: 0.721000432968
+Semantic Score without stopwords: 0.627382218838
+LCS Length: 6
+LCS: and the of the the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.499379903078
+Semantic similarity verbs: 0.403139203787
+
+Pairing: 36
+New Sentence: One day she accompanied me, upon some household errand, into the cellar of the old building which our poverty compelled us to inhabit.
+Reference: 
+21 That your days may be multiplied, and the
+days of your children, in the land which the LORD sware unto your
+fathers to give them, as the days of heaven upon the earth.
+Similar Sentence is from: Deuteronomy
+Syntactic Score: 0.886622487959
+Syntactic Similarity without tokens: 0.919062957603
+Semantic Score: 0.757565438747
+Semantic Score without stopwords: 0.616530299187
+LCS Length: 5
+LCS: the of the which to 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.44783270359
+Semantic similarity verbs: 0.292565405369
+
+Pairing: 37
+New Sentence: For one instant the party upon the stairs remained motionless, through extremity of terror and of awe.
+Reference: 
+2 And the fear of you and the dread of you shall be upon every beast
+of the earth, and upon every fowl of the air, upon all that moveth
+upon the earth, and upon all the fishes of the sea; into your hand are
+they delivered.
+Similar Sentence is from: genesis
+Syntactic Score: 0.906114143245
+Syntactic Similarity without tokens: 0.932599638792
+Semantic Score: 0.667553663254
+Semantic Score without stopwords: 0.595910608768
+LCS Length: 6
+LCS: the upon the of and of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.464991509914
+Semantic similarity verbs: 0.324475824833
+

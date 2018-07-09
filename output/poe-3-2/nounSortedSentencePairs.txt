@@ -1,0 +1,154 @@
+Pairing: 1
+New Sentence: --these walls are solidly put together"; and here, through the mere phrenzy of bravado, I rapped heavily, with a cane which I held in my hand, upon that very portion of the brick-work behind which stood the corpse of the wife of my bosom.
+Reference: 
+16 And while he lingered, the men laid hold upon his hand, and upon
+the hand of his wife, and upon the hand of his two daughters; the LORD
+being merciful unto him.
+Similar Sentence is from: genesis
+Syntactic Score: 0.857437559004
+Syntactic Similarity without tokens: 0.919959827214
+Semantic Score: 0.798951208591
+Semantic Score without stopwords: 0.71827018261
+LCS Length: 10
+LCS: , the , hand , upon the of the . 
+Jaccard of common nouns: 0.13333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.673459947109
+Semantic similarity verbs: 0.485766917467
+
+Pairing: 2
+New Sentence: During the former the creature left me no moment alone; and, in the latter, I started, hourly, from dreams of unutterable fear, to find the hot breath of the thing upon my face, and its vast weight --an incarnate Night-Mare that I had no power to shake off --incumbent eternally upon my heart!
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.924061843864
+Syntactic Similarity without tokens: 0.95091148888
+Semantic Score: 0.836478710175
+Semantic Score without stopwords: 0.734900474548
+LCS Length: 10
+LCS: the the ; and , I the of that upon 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.644532203674
+Semantic similarity verbs: 0.380744755268
+
+Pairing: 3
+New Sentence: For months I could not rid myself of the phantasm of the cat; and, during this period, there came back into my spirit a half-sentiment that seemed, but was not, remorse.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.863677884613
+Syntactic Similarity without tokens: 0.915383806956
+Semantic Score: 0.876710474491
+Semantic Score without stopwords: 0.679825365543
+LCS Length: 6
+LCS: I of the of this . 
+Jaccard of common nouns: 0.05555555555555555
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.551083505154
+Semantic similarity verbs: 0.556512534618
+
+Pairing: 4
+New Sentence: When reason returned with the morning --when I had slept off the fumes of the night's debauch --I experienced a sentiment half of horror, half of remorse, for the crime of which I had been guilty; but it was, at best, a feeble and equivocal feeling, and the soul remained untouched.
+Reference: 
+24 When Pilate saw that he could prevail nothing, but that rather a
+tumult was made, he took water, and washed his hands before the
+multitude, saying, I am innocent of the blood of this just person.
+Similar Sentence is from: matt
+Syntactic Score: 0.888868444343
+Syntactic Similarity without tokens: 0.923419426371
+Semantic Score: 0.825334846973
+Semantic Score without stopwords: 0.654708445072
+LCS Length: 10
+LCS: When , but was , , and , the . 
+Jaccard of common nouns: 0.047619047619047616
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.626372158527
+Semantic similarity verbs: 0.566158354282
+
+Pairing: 5
+New Sentence: The falling of other walls had compressed the victim of my cruelty into the substance of the freshly-spread plaster; the lime of which, had then with the flames, and the ammonia from the carcass, accomplished the portraiture as I saw it.
+Reference: 
+23 And every living substance was destroyed which was upon the face
+of the ground, both man, and cattle, and the creeping things, and the
+fowl of the heaven; and they were destroyed from the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.922824998195
+Syntactic Similarity without tokens: 0.949800361489
+Semantic Score: 0.779653131962
+Semantic Score without stopwords: 0.591625332832
+LCS Length: 11
+LCS: the of the the the of the and from the . 
+Jaccard of common nouns: 0.047619047619047616
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.580795586109
+Semantic similarity verbs: 0.413230389357
+
+Pairing: 6
+New Sentence: One night as I sat, half stupefied, in a den of more than infamy, my attention was suddenly drawn to some black object, reposing upon the head of one of the immense hogsheads of Gin, or of Rum, which constituted the chief furniture of the apartment.
+Reference: 
+5 And the LORD will create upon every dwelling place of mount Zion,
+and upon her assemblies, a cloud and smoke by day, and the shining of
+a flaming fire by night.
+Similar Sentence is from: isaiah
+Syntactic Score: 0.888011507529
+Syntactic Similarity without tokens: 0.93274842107
+Semantic Score: 0.753692805767
+Semantic Score without stopwords: 0.676569283009
+LCS Length: 8
+LCS: of , upon , , the of . 
+Jaccard of common nouns: 0.04
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.526398301125
+Semantic similarity verbs: 0.210796415806
+
+Pairing: 7
+New Sentence: The moodiness of my usual temper increased to hatred of all things and of all mankind; while, from the sudden, frequent, and ungovernable outbursts of a fury to which I now blindly abandoned myself, my uncomplaining wife, alas!
+Reference: 
+4 And say unto him, Take heed,
+and be quiet; fear not, neither be fainthearted for the two tails of
+these smoking firebrands, for the fierce anger of Rezin with Syria,
+and of the son of Remaliah.
+Similar Sentence is from: isaiah
+Syntactic Score: 0.853340304188
+Syntactic Similarity without tokens: 0.895105054491
+Semantic Score: 0.752099990845
+Semantic Score without stopwords: 0.689567565918
+LCS Length: 8
+LCS: and ; , the , , and of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.592443525791
+Semantic similarity verbs: 0.157516881824
+
+Pairing: 8
+New Sentence: For one instant the party upon the stairs remained motionless, through extremity of terror and of awe.
+Reference: 
+2 And the fear of you and the dread of you shall be upon every beast
+of the earth, and upon every fowl of the air, upon all that moveth
+upon the earth, and upon all the fishes of the sea; into your hand are
+they delivered.
+Similar Sentence is from: genesis
+Syntactic Score: 0.906114143245
+Syntactic Similarity without tokens: 0.932599638792
+Semantic Score: 0.684912741184
+Semantic Score without stopwords: 0.595438957214
+LCS Length: 8
+LCS: the upon the , of and of . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.42943546176
+Semantic similarity verbs: 0.324475824833
+

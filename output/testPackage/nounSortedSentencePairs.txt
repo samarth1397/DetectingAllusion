@@ -1,0 +1,38 @@
+Pairing: 1
+New Sentence: 23 Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
+Reference: 
+14 Therefore
+the Lord himself shall give you a sign; Behold, a virgin shall
+conceive, and bear a son, and shall call his name Immanuel.
+Similar Sentence is from: isaiahSyntactic Score: 0.911016855099Syntactic Similarity without tokens: 0.934889904069Semantic Score: 0.90656709671Semantic Score without stopwords: 0.925958037376LCS Length: 12LCS: Behold, a virgin shall and a son, and shall call his name Jaccard of common nouns: 0.4Jaccard of common verbs: 0.1111111111111111Jaccard of common adjectives: 0Semantic similarity nouns: 0.895238637924Semantic similarity verbs: 0.55901157856
+
+Pairing: 2
+New Sentence: 18 In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
+Reference: 
+15 Thus saith the LORD; A voice was heard in Ramah, lamentation,
+and bitter weeping; Rahel weeping for her children refused to be
+comforted for her children, because they were not.
+Similar Sentence is from: jeremiah-1Syntactic Score: 0.898505376094Syntactic Similarity without tokens: 0.922704409498Semantic Score: 0.894278049469Semantic Score without stopwords: 0.862468540668LCS Length: 10LCS: was lamentation, and weeping for her children, because they not. Jaccard of common nouns: 0.3333333333333333Jaccard of common verbs: 0.4444444444444444Jaccard of common adjectives: 0.0Semantic similarity nouns: 0.809389054775Semantic similarity verbs: 0.821673095226
+
+Pairing: 3
+New Sentence: 13 And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word.
+Reference: 
+15 Thus saith the LORD; A voice was heard in Ramah, lamentation,
+and bitter weeping; Rahel weeping for her children refused to be
+comforted for her children, because they were not.
+Similar Sentence is from: jeremiah-1Syntactic Score: 0.872993298025Syntactic Similarity without tokens: 0.894011589789Semantic Score: 0.808048784733Semantic Score without stopwords: 0.708935260773LCS Length: 4LCS: the in and be Jaccard of common nouns: 0.0625Jaccard of common verbs: 0.14285714285714285Jaccard of common adjectives: 0.0Semantic similarity nouns: 0.623838603497Semantic similarity verbs: 0.597673177719
+
+Pairing: 4
+New Sentence: 21 And she shall bring forth a son, and thou shalt call his name JESUS.
+Reference: 
+9 Then shalt thou call, and the LORD shall answer; thou shalt cry,
+and he shall say, Here I am.
+Similar Sentence is from: isaiahSyntactic Score: 0.85377864827Syntactic Similarity without tokens: 0.890260551155Semantic Score: 0.857831537724Semantic Score without stopwords: 0.868991374969LCS Length: 3LCS: shall thou shalt Jaccard of common nouns: 0.0Jaccard of common verbs: 0.0Jaccard of common adjectives: 0Semantic similarity nouns: 0.506746470928Semantic similarity verbs: 0.466988235712
+
+Pairing: 5
+New Sentence: 20 But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife.
+Reference: 
+19 These two things are come unto thee; who shall be sorry for
+thee?
+Similar Sentence is from: isaiahSyntactic Score: 0.861996286849Syntactic Similarity without tokens: 0.857990055767Semantic Score: 0.780759811401Semantic Score without stopwords: 0.783217787743LCS Length: 1LCS: unto Jaccard of common nouns: 0.18181818181818182Jaccard of common verbs: 0.0Jaccard of common adjectives: 0.25Semantic similarity nouns: 0.616427361965Semantic similarity verbs: 0.399377942085
+

@@ -1,0 +1,1896 @@
+Pairing: 1
+New Sentence: The visiter left the city in the early morning.
+Reference: 
+And the evening and the morning were the first day.
+Similar Sentence is from: genesis
+Syntactic Score: 0.735308213733
+Syntactic Similarity without tokens: 0.869395025684
+Semantic Score: 0.818229854107
+Semantic Score without stopwords: 0.695990860462
+LCS Length: 2
+LCS: the the 
+Jaccard of common nouns: 0.2
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.728768289089
+Semantic similarity verbs: 0.226894140244
+
+Pairing: 2
+New Sentence: But for the inconceivable wealth in the actual possession of the heir, these objects and all ordinary objects were felt to afford too limited a field.
+Reference: 
+20 And the field, and the cave that is therein, were made sure unto
+Abraham for a possession of a buryingplace by the sons of Heth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.862497464287
+Syntactic Similarity without tokens: 0.921474712761
+Semantic Score: 0.745339930058
+Semantic Score without stopwords: 0.565820515156
+LCS Length: 5
+LCS: the the possession of the 
+Jaccard of common nouns: 0.2
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.539367675781
+Semantic similarity verbs: 0.586452543736
+
+Pairing: 3
+New Sentence: "Its adaptation to the eyes which were to behold it on earth."
+Reference: 
+12 And God looked upon the earth, and, behold, it was corrupt; for
+all flesh had corrupted his way upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.799957491093
+Syntactic Similarity without tokens: 0.837723920001
+Semantic Score: 0.777026474476
+Semantic Score without stopwords: 0.697661876678
+LCS Length: 2
+LCS: the it 
+Jaccard of common nouns: 0.16666666666666666
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.664291441441
+Semantic similarity verbs: 0.504530966282
+
+Pairing: 4
+New Sentence: The name of the fortunate heir was Thelluson.
+Reference: 
+the name of the one was Adah,
+and the name of the other Zillah.
+Similar Sentence is from: genesis
+Syntactic Score: 0.845710691963
+Syntactic Similarity without tokens: 0.924966415774
+Semantic Score: 0.675655126572
+Semantic Score without stopwords: 0.602677226067
+LCS Length: 4
+LCS: name of the was 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 1.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.602677226067
+Semantic similarity verbs: 1.0
+
+Pairing: 5
+New Sentence: On these latter there were no trees, nor even shrubs of any size.
+Reference: 
+2 And the woman said
+unto the serpent, We may eat of the fruit of the trees of the garden.
+Similar Sentence is from: genesis
+Syntactic Score: 0.762632666175
+Syntactic Similarity without tokens: 0.91175408229
+Semantic Score: 0.684054613113
+Semantic Score without stopwords: 0.640954375267
+LCS Length: 1
+LCS: of 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.680041253567
+Semantic similarity verbs: 0.194489836693
+
+Pairing: 6
+New Sentence: The phrase quoted may mean any thing, or nothing, and guides in no degree.
+Reference: 
+26 And Abimelech said, I wot not who hath done this thing; neither
+didst thou tell me, neither yet heard I of it, but to day.
+Similar Sentence is from: genesis
+Syntactic Score: 0.789769081258
+Syntactic Similarity without tokens: 0.824676372692
+Semantic Score: 0.70210570097
+Semantic Score without stopwords: 0.626128971577
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.575394868851
+Semantic similarity verbs: 0.386068850756
+
+Pairing: 7
+New Sentence: My own thoughts on the subject had rested in the idea that the primitive intention of nature would have so arranged the earth's surface as to have fulfilled at all points man's sense of perfection in the beautiful, the sublime, or the picturesque; but that this primitive intention had been frustrated by the known geological disturbances- disturbances of form and color- grouping, in the correction or allaying of which lies the soul of art.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.893379729356
+Syntactic Similarity without tokens: 0.94147961645
+Semantic Score: 0.818249881268
+Semantic Score without stopwords: 0.654050767422
+LCS Length: 9
+LCS: that the of in the that of the of 
+Jaccard of common nouns: 0.12
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.684799671173
+Semantic similarity verbs: 0.498645961285
+
+Pairing: 8
+New Sentence: The azure fields of Heaven were 'sembled right            In a large round, set with the flowers of light.
+Reference: 
+2 The fountains also of the deep
+and the windows of heaven were stopped, and the rain from heaven was
+restrained; 8.
+Similar Sentence is from: genesis
+Syntactic Score: 0.845349527502
+Syntactic Similarity without tokens: 0.897534629052
+Semantic Score: 0.731613337994
+Semantic Score without stopwords: 0.667071580887
+LCS Length: 4
+LCS: The of were the 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.681333005428
+Semantic similarity verbs: 0.567853927612
+
+Pairing: 9
+New Sentence: The thing done, however; the wonder accomplished; and the capacity for apprehension becomes universal.
+Reference: 
+3 Every moving thing that liveth shall be meat for you; even as the
+green herb have I given you all things.
+Similar Sentence is from: genesis
+Syntactic Score: 0.849081793473
+Syntactic Similarity without tokens: 0.887152802235
+Semantic Score: 0.71587061882
+Semantic Score without stopwords: 0.589246571064
+LCS Length: 2
+LCS: thing the 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.435882776976
+Semantic similarity verbs: 0.339844703674
+
+Pairing: 10
+New Sentence: Lofty hills, rising occasionally into mountains, and covered with vegetation in wild luxuriance, still shut in the scene.
+Reference: 
+19 And the waters prevailed exceedingly upon the earth; and all the
+high hills, that were under the whole heaven, were covered.
+Similar Sentence is from: genesis
+Syntactic Score: 0.732829320473
+Syntactic Similarity without tokens: 0.771616368167
+Semantic Score: 0.721760094166
+Semantic Score without stopwords: 0.672753691673
+LCS Length: 2
+LCS: and the 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.670190513134
+Semantic similarity verbs: 0.418488889933
+
+Pairing: 11
+New Sentence: The taste of all the architects I have ever known leads them, for the sake of 'prospect,' to put up buildings on hill-tops.
+Reference: 
+11 And Abraham said, Because I thought,
+Surely the fear of God is not in this place; and they will slay me for
+my wife's sake.
+Similar Sentence is from: genesis
+Syntactic Score: 0.870857078024
+Syntactic Similarity without tokens: 0.89650055126
+Semantic Score: 0.794414103031
+Semantic Score without stopwords: 0.588720798492
+LCS Length: 3
+LCS: I the of 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.45269086957
+Semantic similarity verbs: 0.476432651281
+
+Pairing: 12
+New Sentence: 1850                               THE DOMAIN OF ARNHEIM                                 by Edgar Allan Poe          The garden like a lady fair was cut,            That lay as if she slumbered in delight,          And to the open skies her eyes did shut.
+Reference: 
+10 And Lot lifted up his eyes, and beheld all the plain of Jordan,
+that it was well watered every where, before the LORD destroyed Sodom
+and Gomorrah, even as the garden of the LORD, like the land of Egypt,
+as thou comest unto Zoar.
+Similar Sentence is from: genesis
+Syntactic Score: 0.840306122268
+Syntactic Similarity without tokens: 0.92409220724
+Semantic Score: 0.705007553101
+Semantic Score without stopwords: 0.709394395351
+LCS Length: 3
+LCS: garden like as 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.659441709518
+Semantic similarity verbs: 0.576773226261
+
+Pairing: 13
+New Sentence: It appears that about a hundred years before Mr. Ellison's coming of age, there had died, in a remote province, one Mr. Seabright Ellison.
+Reference: 
+7 And these are the days of the years of Abraham's life which he
+lived, an hundred threescore and fifteen years.
+Similar Sentence is from: genesis
+Syntactic Score: 0.834199744695
+Syntactic Similarity without tokens: 0.845089922235
+Semantic Score: 0.745820760727
+Semantic Score without stopwords: 0.636450052261
+LCS Length: 2
+LCS: years of 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.511518895626
+Semantic similarity verbs: 0.450951874256
+
+Pairing: 14
+New Sentence: Let me seek, then, a spot not far from a populous city- whose vicinity, also, will best enable me to execute my plans."
+Reference: 
+4 And they said, Go to, let us build us a city and a tower, whose
+top may reach unto heaven; and let us make us a name, lest we be
+scattered abroad upon the face of the whole earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.759076516062
+Syntactic Similarity without tokens: 0.836258094368
+Semantic Score: 0.839093983173
+Semantic Score without stopwords: 0.701443731785
+LCS Length: 3
+LCS: a a whose 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.493751078844
+Semantic similarity verbs: 0.626727938652
+
+Pairing: 15
+New Sentence: The channel now became a gorge- although the term is somewhat inapplicable, and I employ it merely because the language has no word which better represents the most striking- not the most distinctive-feature of the scene.
+Reference: 
+9 Therefore is the name of it called Babel; because the LORD did
+there confound the language of all the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.888952107417
+Syntactic Similarity without tokens: 0.919071871282
+Semantic Score: 0.768525421619
+Semantic Score without stopwords: 0.544611096382
+LCS Length: 7
+LCS: the it because the language of the 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.529888629913
+Semantic similarity verbs: 0.552090644836
+
+Pairing: 16
+New Sentence: The possessor of any appreciable amount of money might have been imagined to perform any one of a thousand things.
+Reference: 
+9 That he may give me the cave of
+Machpelah, which he hath, which is in the end of his field; for as
+much money as it is worth he shall give it me for a possession of a
+buryingplace amongst you.
+Similar Sentence is from: genesis
+Syntactic Score: 0.812790706168
+Syntactic Similarity without tokens: 0.853836833676
+Semantic Score: 0.736658334732
+Semantic Score without stopwords: 0.627792298794
+LCS Length: 5
+LCS: of of money of a 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.498329252005
+Semantic similarity verbs: 0.332181036472
+
+Pairing: 17
+New Sentence: Of course, every thing depends on the selection of a spot with capabilities.
+Reference: 
+14 They, and every beast after his kind,
+and all the cattle after their kind, and every creeping thing that
+creepeth upon the earth after his kind, and every fowl after his kind,
+every bird of every sort.
+Similar Sentence is from: genesis
+Syntactic Score: 0.838807275864
+Syntactic Similarity without tokens: 0.917818844534
+Semantic Score: 0.650672078133
+Semantic Score without stopwords: 0.59355199337
+LCS Length: 4
+LCS: every thing the of 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.43122151494
+Semantic similarity verbs: 0.0134568503127
+
+Pairing: 18
+New Sentence: His second condition was the love of woman.
+Reference: 
+3 But God came to Abimelech in a dream by night, and said to him,
+Behold, thou art but a dead man, for the woman which thou hast taken;
+for she is a man's wife.
+Similar Sentence is from: genesis
+Syntactic Score: 0.758840916301
+Syntactic Similarity without tokens: 0.856858456024
+Semantic Score: 0.767556607723
+Semantic Score without stopwords: 0.646950125694
+LCS Length: 1
+LCS: the 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.689663767815
+Semantic similarity verbs: 0.551238179207
+
+Pairing: 19
+New Sentence: - Admit the earthly immortality of man to have been the first intention.
+Reference: 
+21 And the LORD smelled a sweet savour; and the LORD said in his
+heart, I will not again curse the ground any more for man's sake; for
+the imagination of man's heart is evil from his youth; neither will I
+again smite any more every thing living, as I have done.
+Similar Sentence is from: genesis
+Syntactic Score: 0.76536804468
+Syntactic Similarity without tokens: 0.826711109763
+Semantic Score: 0.733438491821
+Semantic Score without stopwords: 0.670735120773
+LCS Length: 3
+LCS: the of have 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.600352883339
+Semantic similarity verbs: 0.436791926622
+
+Pairing: 20
+New Sentence: What is said about detecting and bringing into practice nice relations of size, proportion, and color, is one of those mere vaguenesses of speech which serve to veil inaccuracy of thought.
+Reference: 
+7 Go to, let us go down, and there confound their language, that
+they may not understand one another's speech.
+Similar Sentence is from: genesis
+Syntactic Score: 0.823614277616
+Syntactic Similarity without tokens: 0.788723895748
+Semantic Score: 0.697860300541
+Semantic Score without stopwords: 0.588384747505
+LCS Length: 2
+LCS: and one 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.404953032732
+Semantic similarity verbs: 0.344423532486
+
+Pairing: 21
+New Sentence: The flowers de luce, and the round sparks of dew.
+Reference: 
+28 Therefore God
+give thee of the dew of heaven, and the fatness of the earth, and
+plenty of corn and wine.
+Similar Sentence is from: genesis
+Syntactic Score: 0.881072405461
+Syntactic Similarity without tokens: 0.916177824859
+Semantic Score: 0.561931073666
+Semantic Score without stopwords: 0.525644779205
+LCS Length: 3
+LCS: and the of 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.598582088947
+Semantic similarity verbs: 0.0931125804782
+
+Pairing: 22
+New Sentence: In the possibility of any improvement, properly so called, being effected by man himself in the general condition of man, he had (I am sorry to confess it) little faith.
+Reference: 
+21 And the LORD smelled a sweet savour; and the LORD said in his
+heart, I will not again curse the ground any more for man's sake; for
+the imagination of man's heart is evil from his youth; neither will I
+again smite any more every thing living, as I have done.
+Similar Sentence is from: genesis
+Syntactic Score: 0.870321559329
+Syntactic Similarity without tokens: 0.914535744829
+Semantic Score: 0.833056509495
+Semantic Score without stopwords: 0.692076742649
+LCS Length: 4
+LCS: the in the of 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.596905171871
+Semantic similarity verbs: 0.513537466526
+
+Pairing: 23
+New Sentence: During the forenoon he passed between shores of a tranquil and domestic beauty, on which grazed innumerable sheep, their white fleeces spotting the vivid green of rolling meadows.
+Reference: 
+35 And he removed that day the he goats that were ringstraked and
+spotted, and all the she goats that were speckled and spotted, and
+every one that had some white in it, and all the brown among the
+sheep, and gave them into the hand of his sons.
+Similar Sentence is from: genesis
+Syntactic Score: 0.839795591355
+Syntactic Similarity without tokens: 0.869259844265
+Semantic Score: 0.730550825596
+Semantic Score without stopwords: 0.678711652756
+LCS Length: 6
+LCS: the he and white the of 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.3333333333333333
+Semantic similarity nouns: 0.52603584528
+Semantic similarity verbs: 0.539620876312
+
+Pairing: 24
+New Sentence: It was about two hundred yards in diameter, and girt in at all points but one- that immediately fronting the vessel as it entered- by hills equal in general height to the walls of the chasm, although of a thoroughly different character.
+Reference: 
+The length
+of the ark shall be three hundred cubits, the breadth of it fifty
+cubits, and the height of it thirty cubits.
+Similar Sentence is from: genesis
+Syntactic Score: 0.879939462247
+Syntactic Similarity without tokens: 0.870310680327
+Semantic Score: 0.697887122631
+Semantic Score without stopwords: 0.622779011726
+LCS Length: 5
+LCS: hundred and the height of 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.58760035038
+Semantic similarity verbs: 0.489124596119
+
+Pairing: 25
+New Sentence: Or it might have been that he neglected to become either, merely in pursuance of his idea that in contempt of ambition is to be found one of the essential principles of happiness on earth.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.893568022458
+Syntactic Similarity without tokens: 0.910690630427
+Semantic Score: 0.791924893856
+Semantic Score without stopwords: 0.648937046528
+LCS Length: 5
+LCS: to of that in the 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.577875137329
+Semantic similarity verbs: 0.563293337822
+
+Pairing: 26
+New Sentence: He instanced the ecstasies of the fox-hunter, and pointed to the tillers of the earth, the only people who, as a class, can be fairly considered happier than others.
+Reference: 
+17 Bring forth with thee every living thing that is with thee, of
+all flesh, both of fowl, and of cattle, and of every creeping thing
+that creepeth upon the earth; that they may breed abundantly in the
+earth, and be fruitful, and multiply upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.881540872523
+Syntactic Similarity without tokens: 0.911539957578
+Semantic Score: 0.787993550301
+Semantic Score without stopwords: 0.629868447781
+LCS Length: 6
+LCS: of and of the earth, the 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.612543702126
+Semantic similarity verbs: 0.394536346197
+
+Pairing: 27
+New Sentence: In the brief existence of Ellison I fancy that I have seen refuted the dogma, that in man's very nature lies some hidden principle, the antagonist of bliss.
+Reference: 
+7 And the LORD said, I will destroy man whom I have created from the
+face of the earth; both man, and beast, and the creeping thing, and
+the fowls of the air; for it repenteth me that I have made them.
+Similar Sentence is from: genesis
+Syntactic Score: 0.909193682127
+Syntactic Similarity without tokens: 0.911877019378
+Semantic Score: 0.791198551655
+Semantic Score without stopwords: 0.572475790977
+LCS Length: 7
+LCS: the I I have the the of 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.511284470558
+Semantic similarity verbs: 0.590370118618
+
+Pairing: 28
+New Sentence: In short, no position can be attained on the wide surface of the natural earth, from which an artistical eye, looking steadily, will not find matter of offence in what is termed the "composition" of the landscape.
+Reference: 
+17 Bring forth with thee every living thing that is with thee, of
+all flesh, both of fowl, and of cattle, and of every creeping thing
+that creepeth upon the earth; that they may breed abundantly in the
+earth, and be fruitful, and multiply upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.880849001968
+Syntactic Similarity without tokens: 0.92946398005
+Semantic Score: 0.765676677227
+Semantic Score without stopwords: 0.591429948807
+LCS Length: 5
+LCS: of the in the the 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.2222222222222222
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.53952729702
+Semantic similarity verbs: 0.586886584759
+
+Pairing: 29
+New Sentence: Here, indeed, was the fairest field for the display of imagination in the endless combining of forms of novel beauty; the elements to enter into combination being, by a vast superiority, the most glorious which the earth could afford.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.899494367758
+Syntactic Similarity without tokens: 0.93290322269
+Semantic Score: 0.746532022953
+Semantic Score without stopwords: 0.613659739494
+LCS Length: 6
+LCS: the the of in the earth 
+Jaccard of common nouns: 0.05555555555555555
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.471289515495
+Semantic similarity verbs: 0.572604656219
+
+Pairing: 30
+New Sentence: This basin was of great depth, but so transparent was the water that the bottom, which seemed to consist of a thick mass of small round alabaster pebbles, was distinctly visible by glimpses- that is to say, whenever the eye could permit itself not to see, far down in the inverted heaven, the duplicate blooming of the hills.
+Reference: 
+43
+Behold, I stand by the well of water; and it shall come to pass, that
+when the virgin cometh forth to draw water, and I say to her, Give me,
+I pray thee, a little water of thy pitcher to drink; 24.
+Similar Sentence is from: genesis
+Syntactic Score: 0.892107251577
+Syntactic Similarity without tokens: 0.896383763913
+Semantic Score: 0.727439165115
+Semantic Score without stopwords: 0.658587634563
+LCS Length: 7
+LCS: of that the to a of to 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.602744519711
+Semantic similarity verbs: 0.393209934235
+
+Pairing: 31
+New Sentence: Each alteration of the natural scenery may possibly effect a blemish in the picture, if we can suppose this picture viewed at large- in mass- from some point distant from the earth's surface, although not beyond the limits of its atmosphere.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.878099267754
+Syntactic Similarity without tokens: 0.909788618183
+Semantic Score: 0.769689023495
+Semantic Score without stopwords: 0.596697211266
+LCS Length: 5
+LCS: of the the in the 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.549940347672
+Semantic similarity verbs: 0.396789342165
+
+Pairing: 32
+New Sentence: That the true result of the natural style of gardening is seen rather in the absence of all defects and incongruities than in the creation of any special wonders or miracles, is a proposition better suited to the grovelling apprehension of the herd than to the fervid dreams of the man of genius.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.857375616748
+Syntactic Similarity without tokens: 0.909939682216
+Semantic Score: 0.79111880064
+Semantic Score without stopwords: 0.65034866333
+LCS Length: 8
+LCS: the of in the and of the of 
+Jaccard of common nouns: 0.047619047619047616
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.596081316471
+Semantic similarity verbs: 0.503865122795
+
+Pairing: 33
+New Sentence: There may be a class of beings, human once, but now invisible to humanity, to whom, from afar, our disorder may seem order- our unpicturesqueness picturesque, in a word, the earth-angels, for whose scrutiny more especially than our own, and for whose death- refined appreciation of the beautiful, may have been set in array by God the wide landscape-gardens of the hemispheres."
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.892632118438
+Syntactic Similarity without tokens: 0.92341350214
+Semantic Score: 0.823589622974
+Semantic Score without stopwords: 0.699545264244
+LCS Length: 8
+LCS: be in the and the God of the 
+Jaccard of common nouns: 0.045454545454545456
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.633354783058
+Semantic similarity verbs: 0.61360681057
+
+Pairing: 34
+New Sentence: In a few moments, however, it is seen that the main body of the water still sweeps in a gentle and extensive curve to the left, the wall following it as before, while a stream of considerable volume, diverging from the principal one, makes its way, with a slight ripple, under the door, and is thus hidden from sight.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.890267061069
+Syntactic Similarity without tokens: 0.922126362377
+Semantic Score: 0.765891730785
+Semantic Score without stopwords: 0.59820920229
+LCS Length: 8
+LCS: the of the a to the the of 
+Jaccard of common nouns: 0.045454545454545456
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.565852642059
+Semantic similarity verbs: 0.418578356504
+
+Pairing: 35
+New Sentence: And in the direction or concentration of this effort- or, more properly, in its adaptation to the eyes which were to behold it on earth- he perceived that he should be employing the best means- laboring to the greatest advantage- in the fulfilment, not only of his own destiny as poet, but of the august purposes for which the Deity had implanted the poetic sentiment in man.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.901652332338
+Syntactic Similarity without tokens: 0.934124527787
+Semantic Score: 0.804822981358
+Semantic Score without stopwords: 0.690160155296
+LCS Length: 6
+LCS: the to the that in the 
+Jaccard of common nouns: 0.043478260869565216
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.622588932514
+Semantic similarity verbs: 0.486436456442
+
+Pairing: 36
+New Sentence: An anxious examination of his career has given me to understand that in general, from the violation of a few simple laws of humanity arises the wretchedness of mankind- that as a species we have in our possession the as yet unwrought elements of content- and that, even now, in the present darkness and madness of all thought on the great question of the social condition, it is not impossible that man, the individual, under certain unusual and highly fortuitous conditions, may be happy.
+Reference: 
+17 Bring forth with thee every living thing that is with thee, of
+all flesh, both of fowl, and of cattle, and of every creeping thing
+that creepeth upon the earth; that they may breed abundantly in the
+earth, and be fruitful, and multiply upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.917881967595
+Syntactic Similarity without tokens: 0.925407049562
+Semantic Score: 0.800328671932
+Semantic Score without stopwords: 0.65655875206
+LCS Length: 11
+LCS: that of of of and of the that the and be 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.18181818181818182
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.544839680195
+Semantic similarity verbs: 0.584579348564
+
+Pairing: 37
+New Sentence: The walls of the ravine (through which the clear water still tranquilly flowed) arose to an elevation of a hundred and occasionally of a hundred and fifty feet, and inclined so much toward each other as, in a great measure, to shut out the light of day; while the long plume-like moss which depended densely from the intertwining shrubberies overhead, gave the whole chasm an air of funereal gloom.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.9077740883
+Syntactic Similarity without tokens: 0.932829298787
+Semantic Score: 0.794768929482
+Semantic Score without stopwords: 0.661467194557
+LCS Length: 11
+LCS: the the of of and a to the of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.588065803051
+Semantic similarity verbs: 0.520676791668
+
+Pairing: 38
+New Sentence: There is a gush of entrancing melody; there is an oppressive sense of strange sweet odor,- there is a dream- like intermingling to the eye of tall slender Eastern trees- bosky shrubberies- flocks of golden and crimson birds- lily-fringed lakes- meadows of violets, tulips, poppies, hyacinths, and tuberoses- long intertangled lines of silver streamlets- and, upspringing confusedly from amid all, a mass of semi-Gothic, semi-Saracenic architecture sustaining itself by miracle in mid-air, glittering in the red sunlight with a hundred oriels, minarets, and pinnacles; and seeming the phantom handiwork, conjointly, of the Sylphs, of the Fairies, of the Genii and of the Gnomes.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.931276302755
+Syntactic Similarity without tokens: 0.93840024696
+Semantic Score: 0.694009423256
+Semantic Score without stopwords: 0.631915450096
+LCS Length: 10
+LCS: the and the of the of the of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.610567212105
+Semantic similarity verbs: 0.235623240471
+
+Pairing: 39
+New Sentence: I first saw an account of this matter in the "Tour" of Prince Puckler Muskau, who makes the sum inherited ninety millions of pounds, and justly observes that "in the contemplation of so vast a sum, and of the services to which it might be applied, there is something even of the sublime."
+Reference: 
+9 That he may give me the cave of
+Machpelah, which he hath, which is in the end of his field; for as
+much money as it is worth he shall give it me for a possession of a
+buryingplace amongst you.
+Similar Sentence is from: genesis
+Syntactic Score: 0.914642167326
+Syntactic Similarity without tokens: 0.939890241332
+Semantic Score: 0.85397708416
+Semantic Score without stopwords: 0.646768033504
+LCS Length: 7
+LCS: of in the of it is of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.470323383808
+Semantic similarity verbs: 0.570795953274
+
+Pairing: 40
+New Sentence: His possessions had been always ample; but on the attainment of his majority, it was discovered that one of those extraordinary freaks of fate had been played in his behalf which startle the whole social world amid which they occur, and seldom fail radically to alter the moral constitution of those who are their objects.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.877860009287
+Syntactic Similarity without tokens: 0.902454570807
+Semantic Score: 0.769863128662
+Semantic Score without stopwords: 0.668599784374
+LCS Length: 5
+LCS: the of that in the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.489606827497
+Semantic similarity verbs: 0.570388972759
+
+Pairing: 41
+New Sentence: At every instant the vessel seemed imprisoned within an enchanted circle, having insuperable and impenetrable walls of foliage, a roof of ultramarine satin, and no floor- the keel balancing itself with admirable nicety on that of a phantom bark which, by some accident having been turned upside down, floated in constant company with the substantial one, for the purpose of sustaining it.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.908874630569
+Syntactic Similarity without tokens: 0.938165226623
+Semantic Score: 0.76603281498
+Semantic Score without stopwords: 0.626597225666
+LCS Length: 10
+LCS: the and of of and a turned the the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.56851285696
+Semantic similarity verbs: 0.567124664783
+
+Pairing: 42
+New Sentence: Let a "composition" be defective; let an emendation be wrought in its mere arrangement of form; let this emendation be submitted to every artist in the world; by each will its necessity be admitted.
+Reference: 
+16 Send one of you, and let him fetch your brother, and ye shall be
+kept in prison, that your words may be proved, whether there be any
+truth in you.
+Similar Sentence is from: genesis
+Syntactic Score: 0.898373006817
+Syntactic Similarity without tokens: 0.903848903808
+Semantic Score: 0.760650455952
+Semantic Score without stopwords: 0.635220050812
+LCS Length: 5
+LCS: let be in be in 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2222222222222222
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.273341059685
+Semantic similarity verbs: 0.782861292362
+
+Pairing: 43
+New Sentence: Having threaded the mazes of this channel for some hours, the gloom deepening every moment, a sharp and unexpected turn of the vessel brought it suddenly, as if dropped from heaven, into a circular basin of very considerable extent when compared with the width of the gorge.
+Reference: 
+9 But the dove found no rest
+for the sole of her foot, and she returned unto him into the ark, for
+the waters were on the face of the whole earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.897393520453
+Syntactic Similarity without tokens: 0.954698968574
+Semantic Score: 0.797903418541
+Semantic Score without stopwords: 0.622970759869
+LCS Length: 8
+LCS: the for the and into the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.57659393549
+Semantic similarity verbs: 0.431115478277
+
+Pairing: 44
+New Sentence: This plateau varies in width from ten to three hundred yards; reaching from the river-bank to a wall, fifty feet high, which extends, in an infinity of curves, but following the general direction of the river, until lost in the distance to the westward.
+Reference: 
+The length
+of the ark shall be three hundred cubits, the breadth of it fifty
+cubits, and the height of it thirty cubits.
+Similar Sentence is from: genesis
+Syntactic Score: 0.852403458229
+Syntactic Similarity without tokens: 0.886730871193
+Semantic Score: 0.712548434734
+Semantic Score without stopwords: 0.659332692623
+LCS Length: 6
+LCS: three hundred the fifty the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.5
+Semantic similarity nouns: 0.58358091116
+Semantic similarity verbs: 0.222790509462
+
+Pairing: 45
+New Sentence: This act, however, did not prevent young Ellison from entering into possession, on his twenty-first birthday, as the heir of his ancestor Seabright, of a fortune of four hundred and fifty millions of dollars.
+Reference: 
+19 And he bought a parcel of a field, where he had spread his tent,
+at the hand of the children of Hamor, Shechem's father, for an hundred
+pieces of money.
+Similar Sentence is from: genesis
+Syntactic Score: 0.90381108988
+Syntactic Similarity without tokens: 0.93185954226
+Semantic Score: 0.755030035973
+Semantic Score without stopwords: 0.607320070267
+LCS Length: 6
+LCS: his the of of hundred of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.452809244394
+Semantic similarity verbs: 0.304868042469
+
+Pairing: 46
+New Sentence: One seeks to recall the original beauty of the country, by adapting its means to the surrounding scenery, cultivating trees in harmony with the hills or plain of the neighboring land; detecting and bringing into practice those nice relations of size, proportion, and color which, hid from the common observer, are revealed everywhere to the experienced student of nature.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.906408286827
+Syntactic Similarity without tokens: 0.926858736283
+Semantic Score: 0.728743314743
+Semantic Score without stopwords: 0.604649484158
+LCS Length: 9
+LCS: the the of the of and to the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.587556600571
+Semantic similarity verbs: 0.349205374718
+
+Pairing: 47
+New Sentence: The visiter, shooting suddenly into this bay from out the gloom of the ravine, is delighted but astounded by the full orb of the declining sun, which he had supposed to be already far below the horizon, but which now confronts him, and forms the sole termination of an otherwise limitless vista seen through another chasm- like rift in the hills.
+Reference: 
+9 But the dove found no rest
+for the sole of her foot, and she returned unto him into the ark, for
+the waters were on the face of the whole earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.880112229794
+Syntactic Similarity without tokens: 0.924155946355
+Semantic Score: 0.837821424007
+Semantic Score without stopwords: 0.630833089352
+LCS Length: 8
+LCS: the the of the the the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.551364541054
+Semantic similarity verbs: 0.406564891338
+
+Pairing: 48
+New Sentence: The larger vessel disappears, and he is left alone in the canoe, which lies apparently motionless in the middle of the lake.
+Reference: 
+9 But the dove found no rest
+for the sole of her foot, and she returned unto him into the ark, for
+the waters were on the face of the whole earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.825241311412
+Syntactic Similarity without tokens: 0.891280884145
+Semantic Score: 0.821301877499
+Semantic Score without stopwords: 0.68436652422
+LCS Length: 5
+LCS: and the the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.592170417309
+Semantic similarity verbs: 0.313369840384
+
+Pairing: 49
+New Sentence: The impressions wrought on the observer were those of richness, warmth, color, quietude, uniformity, softness, delicacy, daintiness, voluptuousness, and a miraculous extremeness of culture that suggested dreams of a new race of fairies, laborious, tasteful, magnificent, and fastidious; but as the eye traced upward the myriad-tinted slope, from its sharp junction with the water to its vague termination amid the folds of overhanging cloud, it became, indeed, difficult not to fancy a panoramic cataract of rubies, sapphires, opals, and golden onyxes, rolling silently out of the sky.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.903145407673
+Syntactic Similarity without tokens: 0.929385245532
+Semantic Score: 0.704285264015
+Semantic Score without stopwords: 0.604262173176
+LCS Length: 8
+LCS: a of the to the of and the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.570992827415
+Semantic similarity verbs: 0.351118862629
+
+Pairing: 50
+New Sentence: Minutely and sagaciously directing the various modes of investment, he bequeathed the aggregate amount to the nearest of blood, bearing the name of Ellison, who should be alive at the end of the hundred years.
+Reference: 
+16 And Abraham hearkened unto Ephron; and Abraham weighed to Ephron
+the silver, which he had named in the audience of the sons of Heth,
+four hundred shekels of silver, current money with the merchant.
+Similar Sentence is from: genesis
+Syntactic Score: 0.900109988037
+Syntactic Similarity without tokens: 0.90767933931
+Semantic Score: 0.699504852295
+Semantic Score without stopwords: 0.603039383888
+LCS Length: 9
+LCS: and the he the of the of of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.381248384714
+Semantic similarity verbs: 0.397177308798
+
+Pairing: 51
+New Sentence: Here the bank slopes upward from the stream in a very gentle ascent, forming a broad sward of grass of a texture resembling nothing so much as velvet, and of a brilliancy of green which would bear comparison with the tint of the purest emerald.
+Reference: 
+28 Therefore God
+give thee of the dew of heaven, and the fatness of the earth, and
+plenty of corn and wine.
+Similar Sentence is from: genesis
+Syntactic Score: 0.892736430809
+Syntactic Similarity without tokens: 0.922261291867
+Semantic Score: 0.654403328896
+Semantic Score without stopwords: 0.610169112682
+LCS Length: 6
+LCS: the of and of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.57159948349
+Semantic similarity verbs: 0.103240676224
+
+Pairing: 52
+New Sentence: In landscape alone is the principle of the critic true; and, having felt its truth here, it is but the headlong spirit of generalization which has led him to pronounce it true throughout all the domains of art.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.906995042273
+Syntactic Similarity without tokens: 0.946675450666
+Semantic Score: 0.784973502159
+Semantic Score without stopwords: 0.593533217907
+LCS Length: 6
+LCS: of the is the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.477450966835
+Semantic similarity verbs: 0.557411134243
+
+Pairing: 53
+New Sentence: "From what I have already observed," said Ellison, "you will understand that I reject the idea, here expressed, of recalling the original beauty of the country.
+Reference: 
+For
+he said, I will appease him with the present that goeth before me, and
+afterward I will see his face; peradventure he will accept of me.
+Similar Sentence is from: genesis
+Syntactic Score: 0.889412092708
+Syntactic Similarity without tokens: 0.903837322041
+Semantic Score: 0.827509939671
+Semantic Score without stopwords: 0.609320104122
+LCS Length: 5
+LCS: I will that I of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.26303166151
+Semantic similarity verbs: 0.61958694458
+
+Pairing: 54
+New Sentence: It is indeed evident that with less of the instinctive philosophy which, now and then, stands so well in the stead of experience, Mr. Ellison would have found himself precipitated, by the very extraordinary success of his life, into the common vortex of unhappiness which yawns for those of pre-eminent endowments.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.883067283826
+Syntactic Similarity without tokens: 0.919758166972
+Semantic Score: 0.790775835514
+Semantic Score without stopwords: 0.6147762537
+LCS Length: 8
+LCS: that of the and of the of his 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.543551921844
+Semantic similarity verbs: 0.627210319042
+
+Pairing: 55
+New Sentence: "I am aware," said the traveller, as he drew a sigh of deep delight after gazing on this scene, entranced, for nearly an hour, "I know that here, in my circumstances, nine-tenths of the most fastidious of men would rest content.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.915720033186
+Syntactic Similarity without tokens: 0.938026997092
+Semantic Score: 0.786171019077
+Semantic Score without stopwords: 0.579785048962
+LCS Length: 5
+LCS: a of that in the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.419410794973
+Semantic similarity verbs: 0.452279180288
+
+Pairing: 56
+New Sentence: It advances with a gentle but gradually accelerated velocity, while the slight ripples it creates seem to break about the ivory side in divinest melody-seem to offer the only possible explanation of the soothing yet melancholy music for whose unseen origin the bewildered voyager looks around him in vain.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.891622991057
+Syntactic Similarity without tokens: 0.887206911465
+Semantic Score: 0.748751282692
+Semantic Score without stopwords: 0.601131498814
+LCS Length: 6
+LCS: a the to the in the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.522332847118
+Semantic similarity verbs: 0.52255487442
+
+Pairing: 57
+New Sentence: Mr. Ellison's first step regarded, of course, the choice of a locality, and scarcely had he commenced thinking on this point, when the luxuriant nature of the Pacific Islands arrested his attention.
+Reference: 
+29 And it came to pass, when God destroyed the cities of the plain,
+that God remembered Abraham, and sent Lot out of the midst of the
+overthrow, when he overthrew the cities in the which Lot dwelt.
+Similar Sentence is from: genesis
+Syntactic Score: 0.901781845818
+Syntactic Similarity without tokens: 0.944149744808
+Semantic Score: 0.736140787601
+Semantic Score without stopwords: 0.58972966671
+LCS Length: 6
+LCS: of the of the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.525091350079
+Semantic similarity verbs: 0.477276355028
+
+Pairing: 58
+New Sentence: Floating gently onward, but with a velocity slightly augmented, the voyager, after many short turns, finds his progress apparently barred by a gigantic gate or rather door of burnished gold, elaborately carved and fretted, and reflecting the direct rays of the now fast-sinking sun with an effulgence that seems to wreath the whole surrounding forest in flames.
+Reference: 
+8 And it came to pass, when he had been there a long time, that
+Abimelech king of the Philistines looked out at a window, and saw,
+and, behold, Isaac was sporting with Rebekah his wife.
+Similar Sentence is from: genesis
+Syntactic Score: 0.870576958768
+Syntactic Similarity without tokens: 0.84734622771
+Semantic Score: 0.714053928852
+Semantic Score without stopwords: 0.612897992134
+LCS Length: 5
+LCS: a the a and with 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.425296783447
+Semantic similarity verbs: 0.38650944829
+
+Pairing: 59
+New Sentence: The chiselled stone has the hue of ages, and is profusely overhung and overspread with the ivy, the coral honeysuckle, the eglantine, and the clematis.
+Reference: 
+37 And Jacob took him rods of green poplar, and of the hazel and
+chesnut tree; and pilled white strakes in them, and made the white
+appear which was in the rods.
+Similar Sentence is from: genesis
+Syntactic Score: 0.842230666216
+Syntactic Similarity without tokens: 0.805631348847
+Semantic Score: 0.713111042976
+Semantic Score without stopwords: 0.640214025974
+LCS Length: 5
+LCS: of and and the the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.552908420563
+Semantic similarity verbs: 0.359250366688
+
+Pairing: 60
+New Sentence: There were some who even conceived that Mr. Ellison would divest himself of at least one-half of his fortune, as of utterly superfluous opulence- enriching whole troops of his relatives by division of his superabundance.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.868422627053
+Syntactic Similarity without tokens: 0.873149904237
+Semantic Score: 0.69727897644
+Semantic Score without stopwords: 0.613458156586
+LCS Length: 3
+LCS: even of of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.425663560629
+Semantic similarity verbs: 0.378880441189
+
+Pairing: 61
+New Sentence: There may be an object in keeping with the principle- an object unattainable by the means ordinarily possessed by individuals, yet which, if attained, would lend a charm to the landscape-garden far surpassing that which a sense of merely human interest could bestow.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.874170505949
+Syntactic Similarity without tokens: 0.925989559115
+Semantic Score: 0.735336363316
+Semantic Score without stopwords: 0.606223523617
+LCS Length: 4
+LCS: the to the that 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.390716612339
+Semantic similarity verbs: 0.462818801403
+
+Pairing: 62
+New Sentence: Some peculiarities, either in his early education, or in the nature of his intellect, had tinged with what is termed materialism all his ethical speculations; and it was this bias, perhaps, which led him to believe that the most advantageous at least, if not the sole legitimate field for the poetic exercise, lies in the creation of novel moods of purely physical loveliness.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.879506996807
+Syntactic Similarity without tokens: 0.944461564243
+Semantic Score: 0.805298566818
+Semantic Score without stopwords: 0.599406659603
+LCS Length: 7
+LCS: the of was in the of of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.606142044067
+Semantic similarity verbs: 0.679657578468
+
+Pairing: 63
+New Sentence: Whatever may be said against the abuses of the artificial landscape- gardening, a mixture of pure art in a garden scene adds to it a great beauty.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.895632586419
+Syntactic Similarity without tokens: 0.954454015893
+Semantic Score: 0.698176622391
+Semantic Score without stopwords: 0.574539721012
+LCS Length: 6
+LCS: the of the of a to 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.479242712259
+Semantic similarity verbs: 0.281980007887
+
+Pairing: 64
+New Sentence: We came at length to an elevated table-land of wonderful fertility and beauty, affording a panoramic prospect very little less in extent than that of Aetna, and, in Ellison's opinion as well as my own, surpassing the far-famed view from that mountain in all the true elements of the picturesque.
+Reference: 
+29 Behold, there come seven years of great plenty throughout all
+the land of Egypt.
+Similar Sentence is from: genesis
+Syntactic Score: 0.881500480832
+Syntactic Similarity without tokens: 0.900860618899
+Semantic Score: 0.689377784729
+Semantic Score without stopwords: 0.586588084698
+LCS Length: 4
+LCS: of all the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.335170954466
+Semantic similarity verbs: 0.328260421753
+
+Pairing: 65
+New Sentence: Meantime the whole Paradise of Arnheim bursts upon the view.
+Reference: 
+2 And the fear of you and the dread of you shall be upon every beast
+of the earth, and upon every fowl of the air, upon all that moveth
+upon the earth, and upon all the fishes of the sea; into your hand are
+they delivered.
+Similar Sentence is from: genesis
+Syntactic Score: 0.880071973273
+Syntactic Similarity without tokens: 0.85784709555
+Semantic Score: 0.636954128742
+Semantic Score without stopwords: 0.584863781929
+LCS Length: 4
+LCS: the of upon the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.381137788296
+Semantic similarity verbs: nan
+
+Pairing: 66
+New Sentence: Their sides sloped from the water's edge at an angle of some forty-five degrees, and they were clothed from base to summit- not a perceptible point escaping- in a drapery of the most gorgeous flower-blossoms; scarcely a green leaf being visible among the sea of odorous and fluctuating color.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.891348686049
+Syntactic Similarity without tokens: 0.939271231205
+Semantic Score: 0.703136324883
+Semantic Score without stopwords: 0.572182297707
+LCS Length: 8
+LCS: the at of and to of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.542009711266
+Semantic similarity verbs: 0.358854144812
+
+Pairing: 67
+New Sentence: The person of whom I speak seemed born for the purpose of foreshadowing the doctrines of Turgot, Price, Priestley, and Condorcet- of exemplifying by individual instance what has been deemed the chimera of the perfectionists.
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.892139873396
+Syntactic Similarity without tokens: 0.93025691302
+Semantic Score: 0.744801282883
+Semantic Score without stopwords: 0.570862412453
+LCS Length: 6
+LCS: the the and the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.435650795698
+Semantic similarity verbs: 0.518205225468
+
+Pairing: 68
+New Sentence: With opinions such as these my young friend, too, was fully imbued, and thus it is worthy of observation that the uninterrupted enjoyment which distinguished his life was, in great measure, the result of preconcert.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.8750520717
+Syntactic Similarity without tokens: 0.939558230856
+Semantic Score: 0.779966652393
+Semantic Score without stopwords: 0.587241411209
+LCS Length: 5
+LCS: was and of the his 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.16666666666666666
+Semantic similarity nouns: 0.44447556138
+Semantic similarity verbs: 0.701873123646
+
+Pairing: 69
+New Sentence: The guest is bidden to be of good cheer- that the fates will take care of him.
+Reference: 
+24 And God came to Laban the Syrian in a dream by night, and said
+unto him, Take heed that thou speak not to Jacob either good or bad.
+Similar Sentence is from: genesis
+Syntactic Score: 0.843122928418
+Syntactic Similarity without tokens: 0.872862388026
+Semantic Score: 0.726945459843
+Semantic Score without stopwords: 0.613873183727
+LCS Length: 2
+LCS: to good 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.362106353045
+Semantic similarity verbs: 0.330844312906
+
+Pairing: 70
+New Sentence: "Now," said my friend, "what we regard as exaltation of the landscape may be really such, as respects only the moral or human point of view.
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.833874583571
+Syntactic Similarity without tokens: 0.910339696276
+Semantic Score: 0.815441668034
+Semantic Score without stopwords: 0.62129676342
+LCS Length: 4
+LCS: the be the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.421340435743
+Semantic similarity verbs: 0.546017587185
+
+Pairing: 71
+New Sentence: I despair of conveying to the reader any distinct conception of the marvels which my friend did actually accomplish.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.825988962413
+Syntactic Similarity without tokens: 0.89646194517
+Semantic Score: 0.779788672924
+Semantic Score without stopwords: 0.62532633543
+LCS Length: 4
+LCS: of the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.59104603529
+Semantic similarity verbs: 0.315242469311
+
+Pairing: 72
+New Sentence: In the most rugged of wildernesses- in the most savage of the scenes of pure nature- there is apparent the art of a creator; yet this art is apparent to reflection only; in no respect has it the obvious force of a feeling.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.878189318993
+Syntactic Similarity without tokens: 0.915593359981
+Semantic Score: 0.747417390347
+Semantic Score without stopwords: 0.57252317667
+LCS Length: 7
+LCS: the of in the of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.539018750191
+Semantic similarity verbs: 0.54892116785
+
+Pairing: 73
+New Sentence: Who shall presume to imitate the colors of the tulip, or to improve the proportions of the lily of the valley?
+Reference: 
+2 And the woman said
+unto the serpent, We may eat of the fruit of the trees of the garden.
+Similar Sentence is from: genesis
+Syntactic Score: 0.84140695366
+Syntactic Similarity without tokens: 0.874606348805
+Semantic Score: 0.732626676559
+Semantic Score without stopwords: 0.609280288219
+LCS Length: 7
+LCS: the of the of the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.582458853722
+Semantic similarity verbs: 0.345152407885
+
+Pairing: 74
+New Sentence: In fact, he had made up his mind for a voyage to the South Seas, when a night's reflection induced him to abandon the idea.
+Reference: 
+17 And it came to pass, when they had brought them forth abroad,
+that he said, Escape for thy life; look not behind thee, neither stay
+thou in all the plain; escape to the mountain, lest thou be consumed.
+Similar Sentence is from: genesis
+Syntactic Score: 0.864211535714
+Syntactic Similarity without tokens: 0.906133915296
+Semantic Score: 0.743438065052
+Semantic Score without stopwords: 0.58601975441
+LCS Length: 5
+LCS: he for the to the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.432259857655
+Semantic similarity verbs: 0.532009840012
+
+Pairing: 75
+New Sentence: - I mean the fact (which none but the ignorant dispute) that no such combination of scenery exists in nature as the painter of genius may produce.
+Reference: 
+17 And it came to pass, when they had brought them forth abroad,
+that he said, Escape for thy life; look not behind thee, neither stay
+thou in all the plain; escape to the mountain, lest thou be consumed.
+Similar Sentence is from: genesis
+Syntactic Score: 0.894376482037
+Syntactic Similarity without tokens: 0.893806837144
+Semantic Score: 0.771094858646
+Semantic Score without stopwords: 0.555575311184
+LCS Length: 3
+LCS: that in the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.382635205984
+Semantic similarity verbs: 0.387903809547
+
+Pairing: 76
+New Sentence: The uniformity of the top and bottom lines of the wall is fully relieved by occasional trees of gigantic height, growing singly or in small groups, both along the plateau and in the domain behind the wall, but in close proximity to it; so that frequent limbs (of the black walnut especially) reach over and dip their pendent extremities into the water.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.843764802258
+Syntactic Similarity without tokens: 0.866500509586
+Semantic Score: 0.7521879673
+Semantic Score without stopwords: 0.603443980217
+LCS Length: 9
+LCS: the and of the of and to the the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.553835511208
+Semantic similarity verbs: 0.359477430582
+
+Pairing: 77
+New Sentence: We may be instructed to build a "Cato," but we are in vain told how to conceive a Parthenon or an "Inferno."
+Reference: 
+4 And they said, Go to, let us build us a city and a tower, whose
+top may reach unto heaven; and let us make us a name, lest we be
+scattered abroad upon the face of the whole earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.873464261953
+Syntactic Similarity without tokens: 0.931194620653
+Semantic Score: 0.776463150978
+Semantic Score without stopwords: 0.573505222797
+LCS Length: 3
+LCS: build a we 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.18181818181818182
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.304872632027
+Semantic similarity verbs: 0.669102489948
+
+Pairing: 78
+New Sentence: His fourth was an object of unceasing pursuit; and he held that, other things being equal, the extent of attainable happiness was in proportion to the spirituality of this object.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.877371118527
+Syntactic Similarity without tokens: 0.904096827022
+Semantic Score: 0.732266426086
+Semantic Score without stopwords: 0.566932141781
+LCS Length: 5
+LCS: of the of in the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.507278621197
+Semantic similarity verbs: 0.381445884705
+
+Pairing: 79
+New Sentence: That hung upon their azure leaves did shew          Like twinkling stars that sparkle in the evening blue.
+Reference: 
+4 And they gave unto Jacob all the strange gods which were in their
+hand, and all their earrings which were in their ears; and Jacob hid
+them under the oak which was by Shechem.
+Similar Sentence is from: genesis
+Syntactic Score: 0.824110599262
+Syntactic Similarity without tokens: 0.909679387953
+Semantic Score: 0.715500950813
+Semantic Score without stopwords: 0.617521464825
+LCS Length: 3
+LCS: their in the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.395853579044
+Semantic similarity verbs: 0.371640533209
+
+Pairing: 80
+New Sentence: The late death of my friend, in causing his domain to be thrown open to certain classes of visiters, has given to Arnheim a species of secret and subdued if not solemn celebrity, similar in kind, although infinitely superior in degree, to that which so long distinguished Fonthill.
+Reference: 
+12 And he that is eight days old shall be circumcised among you,
+every man child in your generations, he that is born in the house, or
+bought with money of any stranger, which is not of thy seed.
+Similar Sentence is from: genesis
+Syntactic Score: 0.877305230108
+Syntactic Similarity without tokens: 0.903107504714
+Semantic Score: 0.796400308609
+Semantic Score without stopwords: 0.562879562378
+LCS Length: 4
+LCS: be in in which 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.492511570454
+Semantic similarity verbs: 0.368808090687
+
+Pairing: 81
+New Sentence: He comprehended, moreover, the true character, the august aims, the supreme majesty and dignity of the poetic sentiment.
+Reference: 
+14 Let the words of my mouth, and the meditation of my heart, be
+acceptable in thy sight, O LORD, my strength, and my redeemer.
+Similar Sentence is from: Psalms
+Syntactic Score: 0.815711429398
+Syntactic Similarity without tokens: 0.839837543351
+Semantic Score: 0.63563978672
+Semantic Score without stopwords: 0.624293804169
+LCS Length: 3
+LCS: the the and 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.52223944664
+Semantic similarity verbs: 0.185156717896
+
+Pairing: 82
+New Sentence: The fullest, if not the sole proper satisfaction of this sentiment he instinctively felt to lie in the creation of novel forms of beauty.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.843287501396
+Syntactic Similarity without tokens: 0.926561393299
+Semantic Score: 0.785499215126
+Semantic Score without stopwords: 0.595603823662
+LCS Length: 6
+LCS: the of in the of of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.373477607965
+Semantic similarity verbs: 0.42900544405
+
+Pairing: 83
+New Sentence: With riches merely surpassing those of any citizen, it would have been easy to suppose him engaging to supreme excess in the fashionable extravagances of his time- or busying himself with political intrigue- or aiming at ministerial power- or purchasing increase of nobility- or collecting large museums of virtu- or playing the munificent patron of letters, of science, of art- or endowing, and bestowing his name upon extensive institutions of charity.
+Reference: 
+4 One thing have I desired of the LORD, that will I seek after;
+that I may dwell in the house of the LORD all the days of my life, to
+behold the beauty of the LORD, and to enquire in his temple.
+Similar Sentence is from: Psalms
+Syntactic Score: 0.862600101477
+Syntactic Similarity without tokens: 0.870612451694
+Semantic Score: 0.659574091434
+Semantic Score without stopwords: 0.571078956127
+LCS Length: 9
+LCS: of in the of of of the and his 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.058823529411764705
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.456831067801
+Semantic similarity verbs: 0.461777120829
+
+Pairing: 84
+New Sentence: On drawing nearer to this, however, its chasm-like appearance vanishes; a new outlet from the bay is discovered to the left- in which direction the wall is also seen to sweep, still following the general course of the stream.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.832398391839
+Syntactic Similarity without tokens: 0.881447960765
+Semantic Score: 0.757731080055
+Semantic Score without stopwords: 0.600775182247
+LCS Length: 7
+LCS: the the which to the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.502038240433
+Semantic similarity verbs: 0.47311103344
+
+Pairing: 85
+New Sentence: There will be frequent hours in which I shall need, too, the sympathy of the poetic in what I have done.
+Reference: 
+31 And the plenty shall not
+be known in the land by reason of that famine following; for it shall
+be very grievous.
+Similar Sentence is from: genesis
+Syntactic Score: 0.83690914288
+Syntactic Similarity without tokens: 0.86182882036
+Semantic Score: 0.83451372385
+Semantic Score without stopwords: 0.592599213123
+LCS Length: 4
+LCS: be in the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.190425142646
+Semantic similarity verbs: 0.618373095989
+
+Pairing: 86
+New Sentence: Many attempts had been made to set aside this singular bequest; their ex post facto character rendered them abortive; but the attention of a jealous government was aroused, and a legislative act finally obtained, forbidding all similar accumulations.
+Reference: 
+13 And it came to pass, as he interpreted to us, so it was; me he
+restored unto mine office, and him he hanged.
+Similar Sentence is from: genesis
+Syntactic Score: 0.847224108699
+Syntactic Similarity without tokens: 0.782076806415
+Semantic Score: 0.695659279823
+Semantic Score without stopwords: 0.579866111279
+LCS Length: 2
+LCS: to and 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.272010207176
+Semantic similarity verbs: 0.545183300972
+
+Pairing: 87
+New Sentence: The germ, and in fact, the commencement of the present paper was published many years ago- previous to the issue of the first number of Sue's admirable "Juif Errant," which may possibly have been suggested to him by Muskau's account.
+Reference: 
+9 That he may give me the cave of
+Machpelah, which he hath, which is in the end of his field; for as
+much money as it is worth he shall give it me for a possession of a
+buryingplace amongst you.
+Similar Sentence is from: genesis
+Syntactic Score: 0.88570302033
+Syntactic Similarity without tokens: 0.90135875672
+Semantic Score: 0.749172568321
+Semantic Score without stopwords: 0.540135741234
+LCS Length: 5
+LCS: the of the of of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.41234639287
+Semantic similarity verbs: 0.405725479126
+
+Pairing: 88
+New Sentence: But here the voyager quits the vessel which has borne him so far, and descends into a light canoe of ivory, stained with arabesque devices in vivid scarlet, both within and without.
+Reference: 
+37 And Jacob took him rods of green poplar, and of the hazel and
+chesnut tree; and pilled white strakes in them, and made the white
+appear which was in the rods.
+Similar Sentence is from: genesis
+Syntactic Score: 0.823348473558
+Syntactic Similarity without tokens: 0.845000342449
+Semantic Score: 0.733105182648
+Semantic Score without stopwords: 0.6021900177
+LCS Length: 5
+LCS: him and of in and 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.507575333118
+Semantic similarity verbs: 0.33226120472
+
+Pairing: 89
+New Sentence: This panorama is indeed glorious, and I should rejoice in it but for the excess of its glory.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.856608939467
+Syntactic Similarity without tokens: 0.901964047229
+Semantic Score: 0.778017222881
+Semantic Score without stopwords: 0.565633416176
+LCS Length: 4
+LCS: is and in the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.380678504705
+Semantic similarity verbs: 0.561540365219
+
+Pairing: 90
+New Sentence: While he considers what course to pursue, however, he becomes aware of a gentle movement in the fairy bark.
+Reference: 
+For
+he said, I will appease him with the present that goeth before me, and
+afterward I will see his face; peradventure he will accept of me.
+Similar Sentence is from: genesis
+Syntactic Score: 0.810764877261
+Syntactic Similarity without tokens: 0.846491787158
+Semantic Score: 0.757120132446
+Semantic Score without stopwords: 0.610878288746
+LCS Length: 3
+LCS: he he of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.290206730366
+Semantic similarity verbs: 0.430833786726
+
+Pairing: 91
+New Sentence: I was not surprised, however, to perceive that he had long made up his mind on a point which had occasioned so much discussion to his friends.
+Reference: 
+21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+Similar Sentence is from: genesis
+Syntactic Score: 0.804454433616
+Syntactic Similarity without tokens: 0.858362671947
+Semantic Score: 0.803391933441
+Semantic Score without stopwords: 0.616735756397
+LCS Length: 3
+LCS: I to which 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.225444316864
+Semantic similarity verbs: 0.475008189678
+
+Pairing: 92
+New Sentence: No definition had spoken of the landscape-gardener as of the poet; yet it seemed to my friend that the creation of the landscape-garden offered to the proper Muse the most magnificent of opportunities.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.846641929829
+Syntactic Similarity without tokens: 0.914459942773
+Semantic Score: 0.79522383213
+Semantic Score without stopwords: 0.573598027229
+LCS Length: 7
+LCS: the of the that of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.469122499228
+Semantic similarity verbs: 0.540711581707
+
+Pairing: 93
+New Sentence: It is, of course, needless to say where was the locality.
+Reference: 
+for he feared to say, She
+is my wife; lest, said he, the men of the place should kill me for
+Rebekah; because she was fair to look upon.
+Similar Sentence is from: genesis
+Syntactic Score: 0.84122154089
+Syntactic Similarity without tokens: 0.886113577249
+Semantic Score: 0.754109919071
+Semantic Score without stopwords: 0.57691514492
+LCS Length: 2
+LCS: of to 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.42857142857142855
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.257662236691
+Semantic similarity verbs: 0.811440646648
+
+Pairing: 94
+New Sentence: In truth, while that virtue which consists in the mere avoidance of vice appeals directly to the understanding, and can thus be circumscribed in rule, the loftier virtue, which flames in creation, can be apprehended in its results alone.
+Reference: 
+17 And it came to pass, when they had brought them forth abroad,
+that he said, Escape for thy life; look not behind thee, neither stay
+thou in all the plain; escape to the mountain, lest thou be consumed.
+Similar Sentence is from: genesis
+Syntactic Score: 0.850981502333
+Syntactic Similarity without tokens: 0.8678669431
+Semantic Score: 0.720813453197
+Semantic Score without stopwords: 0.563491344452
+LCS Length: 6
+LCS: that in the to the be 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.357614129782
+Semantic similarity verbs: 0.470012784004
+
+Pairing: 95
+New Sentence: The result of the natural style of gardening, is seen rather in the absence of all defects and incongruities- in the prevalence of a healthy harmony and order- than in the creation of any special wonders or miracles.
+Reference: 
+20 Of fowls after their kind, and of cattle after their kind, of
+every creeping thing of the earth after his kind, two of every sort
+shall come unto thee, to keep them alive.
+Similar Sentence is from: genesis
+Syntactic Score: 0.864392021527
+Syntactic Similarity without tokens: 0.910834997569
+Semantic Score: 0.703641593456
+Semantic Score without stopwords: 0.546811521053
+LCS Length: 5
+LCS: of of of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.429264456034
+Semantic similarity verbs: 0.338316500187
+
+Pairing: 96
+New Sentence: That which he considered chief was (strange to say!)
+Reference: 
+for he feared to say, She
+is my wife; lest, said he, the men of the place should kill me for
+Rebekah; because she was fair to look upon.
+Similar Sentence is from: genesis
+Syntactic Score: 0.83766645136
+Syntactic Similarity without tokens: 0.857533722298
+Semantic Score: 0.742915987968
+Semantic Score without stopwords: 0.572417199612
+LCS Length: 3
+LCS: he was to 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.0963872894645
+Semantic similarity verbs: 0.802489995956
+
+Pairing: 97
+New Sentence: It lies on the surface of the bay with the proud grace of a swan.
+Reference: 
+9 But the dove found no rest
+for the sole of her foot, and she returned unto him into the ark, for
+the waters were on the face of the whole earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.861418216472
+Syntactic Similarity without tokens: 0.926480790751
+Semantic Score: 0.754980623722
+Semantic Score without stopwords: 0.548618018627
+LCS Length: 5
+LCS: the of the the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.570983409882
+Semantic similarity verbs: 0.123807519674
+
+Pairing: 98
+New Sentence: A terrace, with an old moss- covered balustrade, calls up at once to the eye the fair forms that have passed there in other days.
+Reference: 
+24 So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep
+the way of the tree of life.
+Similar Sentence is from: genesis
+Syntactic Score: 0.827324453678
+Syntactic Similarity without tokens: 0.878203501296
+Semantic Score: 0.75218462944
+Semantic Score without stopwords: 0.58124011755
+LCS Length: 4
+LCS: at to the the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.53669065237
+Semantic similarity verbs: 0.409930497408
+
+Pairing: 99
+New Sentence: I repeat that in landscape arrangements alone is the physical nature susceptible of exaltation, and that, therefore, her susceptibility of improvement at this one point, was a mystery I had been unable to solve.
+Reference: 
+3 And let us arise, and go up to Bethel; and
+I will make there an altar unto God, who answered me in the day of my
+distress, and was with me in the way which I went.
+Similar Sentence is from: genesis
+Syntactic Score: 0.880211208356
+Syntactic Similarity without tokens: 0.890856462411
+Semantic Score: 0.779824733734
+Semantic Score without stopwords: 0.526210784912
+LCS Length: 7
+LCS: I in the of and was I 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.383964449167
+Semantic similarity verbs: 0.590180397034
+
+Pairing: 100
+New Sentence: What, in its chrysalis condition of principle, affronted their demure reason, never fails, in its maturity of accomplishment, to extort admiration from their instinct of beauty.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.850194271568
+Syntactic Similarity without tokens: 0.854243718911
+Semantic Score: 0.684392929077
+Semantic Score without stopwords: 0.556000709534
+LCS Length: 3
+LCS: of of from 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.416095852852
+Semantic similarity verbs: 0.378725647926
+

@@ -1,0 +1,640 @@
+1
+New Sentence: and who shall declare his generation?
+Reference Sentence: and who shall declare
+his generation?
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+2
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+3
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+4
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+5
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+6
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+7
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+8
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+9
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+10
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+11
+New Sentence: God forbid.
+Reference Sentence: God forbid.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+12
+New Sentence: 27 Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption.
+Reference Sentence: 10 For thou wilt not leave my soul in hell; neither wilt thou
+suffer thine Holy One to see corruption.
+Syntactic Similarity: 0.98228751889
+Semantic Similarity: 0.991135656834
+
+13
+New Sentence: 19 Honour thy father and thy mother.
+Reference Sentence: 12 Honour thy father and thy mother.
+Syntactic Similarity: 0.909090909091
+Semantic Similarity: 1.0
+
+14
+New Sentence: 11 Woe unto them!
+Reference Sentence: 13 Woe unto them!
+Syntactic Similarity: 0.895833333333
+Semantic Similarity: 1.0
+
+15
+New Sentence: or the son of man that thou visitest him?
+Reference Sentence: and the son of man,
+that thou visitest him?
+Syntactic Similarity: 0.970297541032
+Semantic Similarity: 0.925375163555
+
+16
+New Sentence: for it is written, I will smite the shepherd, and the sheep shall be scattered.
+Reference Sentence: smite the shepherd, and the sheep
+shall be scattered.
+Syntactic Similarity: 0.929151793757
+Semantic Similarity: 0.898660719395
+
+17
+New Sentence: 47 Woe unto you!
+Reference Sentence: 13 Woe unto them!
+Syntactic Similarity: 0.791666666667
+Semantic Similarity: 1.0
+
+18
+New Sentence: and I will be to them a God, and they shall be to me a people.
+Reference Sentence: 38 And they shall be my people, and I will be
+their God.
+Syntactic Similarity: 0.840417992187
+Semantic Similarity: 0.938034057617
+
+19
+New Sentence: 44 The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?
+Reference Sentence: 1 The LORD said unto my Lord, Sit thou at my right hand, until I
+make thine enemies thy footstool.
+Syntactic Similarity: 0.958563535912
+Semantic Similarity: 0.98909842968
+
+20
+New Sentence: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
+Reference Sentence: for as for this Moses, the man that brought us up out of the land of
+Egypt, we wot not what is become of him.
+Syntactic Similarity: 0.974499096693
+Semantic Similarity: 0.982349634171
+
+21
+New Sentence: 11 And in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
+Reference Sentence: 12 They shall bear thee up in their hands, lest thou dash thy foot
+against a stone.
+Syntactic Similarity: 0.913184798371
+Semantic Similarity: 0.966027915478
+
+22
+New Sentence: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
+Reference Sentence: 12 They shall bear thee up in their hands, lest thou dash thy foot
+against a stone.
+Syntactic Similarity: 0.912506240244
+Semantic Similarity: 0.964455366135
+
+23
+New Sentence: 8 For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah.
+Reference Sentence: 31 Behold, the days come, saith the LORD, that I will make a new
+covenant with the house of Israel, and with the house of Judah.
+Syntactic Similarity: 0.970645193766
+Semantic Similarity: 0.94670176506
+
+24
+New Sentence: 36 For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
+Reference Sentence: 1 The LORD said unto my Lord, Sit thou at my right hand, until I
+make thine enemies thy footstool.
+Syntactic Similarity: 0.880949962392
+Semantic Similarity: 0.951483249664
+
+25
+New Sentence: but he saith himself, The Lord said unto my Lord, Sit thou on my right hand, 2.
+Reference Sentence: 1 The LORD said unto my Lord, Sit thou at my right hand, until I
+make thine enemies thy footstool.
+Syntactic Similarity: 0.861941555212
+Semantic Similarity: 0.934384346008
+
+26
+New Sentence: God knoweth.
+Reference Sentence: God forbid.
+Syntactic Similarity: 0.9
+Semantic Similarity: 1.0
+
+27
+New Sentence: God knoweth;) 12.
+Reference Sentence: God forbid.
+Syntactic Similarity: 0.858116330321
+Semantic Similarity: 1.0
+
+28
+New Sentence: 33 God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee.
+Reference Sentence: the LORD hath said unto me, Thou art my
+Son; this day have I begotten thee.
+Syntactic Similarity: 0.924473172793
+Semantic Similarity: 0.902381598949
+
+29
+New Sentence: for the son of the bondwoman shall not be heir with the son of the freewoman.
+Reference Sentence: for the son of this bondwoman shall not be heir with my son, even
+with Isaac.
+Syntactic Similarity: 0.884481496472
+Semantic Similarity: 0.938116908073
+
+30
+New Sentence: 18 For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn.
+Reference Sentence: 4 Thou shalt not muzzle the ox when he treadeth out the corn.
+Syntactic Similarity: 0.902447154252
+Semantic Similarity: 0.915830314159
+
+31
+New Sentence: 42 And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand, 20.
+Reference Sentence: 1 The LORD said unto my Lord, Sit thou at my right hand, until I
+make thine enemies thy footstool.
+Syntactic Similarity: 0.88432149689
+Semantic Similarity: 0.920815289021
+
+32
+New Sentence: 25 These things have I spoken unto you in proverbs.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.888552590927
+Semantic Similarity: 0.908206343651
+
+33
+New Sentence: And these things I said not unto you at the beginning, because I was with you.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.836416012426
+Semantic Similarity: 0.953756392002
+
+34
+New Sentence: but I have called you friends; for all things that I have heard of my Father I have made known unto you.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.87185968278
+Semantic Similarity: 0.909488677979
+
+35
+New Sentence: 1 These things have I spoken unto you, that ye should not be offended.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.885739973669
+Semantic Similarity: 0.893125712872
+
+36
+New Sentence: First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
+Reference Sentence: and I will move them to
+jealousy with those which are not a people; I will provoke them to
+anger with a foolish nation.
+Syntactic Similarity: 0.922545378457
+Semantic Similarity: 0.929282546043
+
+37
+New Sentence: 21 Woe unto thee, Chorazin!
+Reference Sentence: Woe
+unto thee, O Jerusalem!
+Syntactic Similarity: 0.90099009901
+Semantic Similarity: 0.920136332512
+
+38
+New Sentence: 21 And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved.
+Reference Sentence: 32 And it shall come to pass, that whosoever shall call on the name
+of the LORD shall be delivered.
+Syntactic Similarity: 0.980263157895
+Semantic Similarity: 0.978190779686
+
+39
+New Sentence: this is the Lord's doing, and it is marvellous in our eyes?
+Reference Sentence: 23 This is the LORD's doing; it is marvellous in our eyes.
+Syntactic Similarity: 0.913951790926
+Semantic Similarity: 0.955933213234
+
+40
+New Sentence: 13 Woe unto thee, Chorazin!
+Reference Sentence: 13 Woe unto them!
+Syntactic Similarity: 0.847365359692
+Semantic Similarity: 1.0
+
+41
+New Sentence: woe unto thee, Bethsaida!
+Reference Sentence: woe
+unto them!
+Syntactic Similarity: 0.840473288592
+Semantic Similarity: 1.0
+
+42
+New Sentence: woe unto thee, Bethsaida!
+Reference Sentence: woe
+unto them!
+Syntactic Similarity: 0.840473288592
+Semantic Similarity: 1.0
+
+43
+New Sentence: 13 For whosoever shall call upon the name of the Lord shall be saved.
+Reference Sentence: 32 And it shall come to pass, that whosoever shall call on the name
+of the LORD shall be delivered.
+Syntactic Similarity: 0.908547485108
+Semantic Similarity: 0.927805900574
+
+44
+New Sentence: 33 These things I have spoken unto you, that in me ye might have peace.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.912033979129
+Semantic Similarity: 0.907603263855
+
+45
+New Sentence: for this is the law and the prophets.
+Reference Sentence: this is the law of leprosy.
+Syntactic Similarity: 0.857906105587
+Semantic Similarity: 0.961085796356
+
+46
+New Sentence: 16 They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
+Reference Sentence: 10 They shall not hunger nor thirst; neither shall the heat nor sun
+smite them.
+Syntactic Similarity: 0.911379824916
+Semantic Similarity: 0.903810501099
+
+47
+New Sentence: 11 This was the Lord's doing, and it is marvellous in our eyes?
+Reference Sentence: 23 This is the LORD's doing; it is marvellous in our eyes.
+Syntactic Similarity: 0.837383704783
+Semantic Similarity: 0.973565399647
+
+48
+New Sentence: 13 And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.898872772366
+Semantic Similarity: 0.899523735046
+
+49
+New Sentence: And he said unto them, Neither tell I you by what authority I do these things.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.871017412191
+Semantic Similarity: 0.909253299236
+
+50
+New Sentence: 7 He that overcometh shall inherit all things; and I will be his God, and he shall be my son.
+Reference Sentence: 14 I will be his father, and he shall be my son.
+Syntactic Similarity: 0.937567201892
+Semantic Similarity: 0.949379920959
+
+51
+New Sentence: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.
+Reference Sentence: 26 Blessed be he that cometh in the name of the LORD.
+Syntactic Similarity: 0.926030036026
+Semantic Similarity: 0.944817662239
+
+52
+New Sentence: 38 Saying, Blessed be the King that cometh in the name of the Lord.
+Reference Sentence: 26 Blessed be he that cometh in the name of the LORD.
+Syntactic Similarity: 0.817327438404
+Semantic Similarity: 0.964363157749
+
+53
+New Sentence: 26 And he saith unto them, Why are ye fearful, O ye of little faith?
+Reference Sentence: 23 And he said unto them, Why do ye such things?
+Syntactic Similarity: 0.908593061867
+Semantic Similarity: 0.872827172279
+
+54
+New Sentence: 14 For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.892774889192
+Semantic Similarity: 0.918422222137
+
+55
+New Sentence: And he said unto him, Lord, thou knowest all things; thou knowest that I love thee.
+Reference Sentence: 5 And she said unto her, All that thou sayest unto me I will do.
+Syntactic Similarity: 0.895734827543
+Semantic Similarity: 0.914013087749
+
+56
+New Sentence: 9 When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.887627846577
+Semantic Similarity: 0.906334757805
+
+57
+New Sentence: 37 If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.887263658893
+Semantic Similarity: 0.906649768353
+
+58
+New Sentence: 17 And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread?
+Reference Sentence: 23 And he said unto them, Why do ye such things?
+Syntactic Similarity: 0.892056955376
+Semantic Similarity: 0.893100559711
+
+59
+New Sentence: 10 Blessed be the kingdom of our father David, that cometh in the name of the Lord.
+Reference Sentence: 26 Blessed be he that cometh in the name of the LORD.
+Syntactic Similarity: 0.898408664149
+Semantic Similarity: 0.929593265057
+
+60
+New Sentence: 24 And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.889031607665
+Semantic Similarity: 0.903905689716
+
+61
+New Sentence: 44 And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.892331398355
+Semantic Similarity: 0.897311985493
+
+62
+New Sentence: 13 And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee.
+Reference Sentence: and he said to Laban, What is this thou hast done unto me?
+Syntactic Similarity: 0.890787547593
+Semantic Similarity: 0.894336700439
+
+63
+New Sentence: 38 Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.
+Reference Sentence: and the son of man, which is a
+worm?
+Syntactic Similarity: 0.876146757487
+Semantic Similarity: 0.929505884647
+
+64
+New Sentence: but he received it not.
+Reference Sentence: but he received it
+not.
+Syntactic Similarity: 1.0
+Semantic Similarity: 1.0
+
+65
+New Sentence: And he saith, I am not.
+Reference Sentence: And he answered, I am he.
+Syntactic Similarity: 0.886957863075
+Semantic Similarity: 1.0
+
+66
+New Sentence: but he said, I am he.
+Reference Sentence: And he answered, I am he.
+Syntactic Similarity: 0.910714285714
+Semantic Similarity: 0.965669810772
+
+67
+New Sentence: He said, I know not.
+Reference Sentence: And he
+said, I know not.
+Syntactic Similarity: 0.906108506698
+Semantic Similarity: 0.957289993763
+
+68
+New Sentence: And he said, Behold, I am here, Lord.
+Reference Sentence: And he answered, I am he.
+Syntactic Similarity: 0.85342549999
+Semantic Similarity: 1.0
+
+69
+New Sentence: 9 I am the door.
+Reference Sentence: 8 I am the LORD.
+Syntactic Similarity: 0.86301369863
+Semantic Similarity: 0.988016664982
+
+70
+New Sentence: saith the Lord.
+Reference Sentence: saith the
+LORD.
+Syntactic Similarity: 0.838709677419
+Semantic Similarity: 1.0
+
+71
+New Sentence: And wherefore slew he him?
+Reference Sentence: wherefore he
+slew him also.
+Syntactic Similarity: 0.938534060786
+Semantic Similarity: 0.899106442928
+
+72
+New Sentence: 29 And he said, Come.
+Reference Sentence: And he said, Jacob.
+Syntactic Similarity: 0.832314191625
+Semantic Similarity: 1.0
+
+73
+New Sentence: 19 And he said unto him, Arise, go thy way.
+Reference Sentence: 19 And he said unto her, Give me thy son.
+Syntactic Similarity: 0.911060090117
+Semantic Similarity: 0.918764710426
+
+74
+New Sentence: And he did so.
+Reference Sentence: And they did so.
+Syntactic Similarity: 0.875
+Semantic Similarity: 0.953776836395
+
+75
+New Sentence: let him pray.
+Reference Sentence: let him alone.
+Syntactic Similarity: 0.826074120531
+Semantic Similarity: 1.0
+
+76
+New Sentence: 40 And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
+Reference Sentence: And he said
+unto them, As they did unto me, so have I done unto them.
+Syntactic Similarity: 0.914448947245
+Semantic Similarity: 0.902128875256
+
+77
+New Sentence: I am not he.
+Reference Sentence: and he saith, I am not learned.
+Syntactic Similarity: 0.837218358279
+Semantic Similarity: 0.971643030643
+
+78
+New Sentence: for this is right.
+Reference Sentence: for this is he.
+Syntactic Similarity: 0.798762063028
+Semantic Similarity: 1.0
+
+79
+New Sentence: 18 And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons, 20.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.90353246825
+Semantic Similarity: 0.893928229809
+
+80
+New Sentence: 17 Then said some of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me.
+Reference Sentence: and he said to Laban, What is this thou hast done unto me?
+Syntactic Similarity: 0.930429064467
+Semantic Similarity: 0.865695357323
+
+81
+New Sentence: 42 And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.
+Reference Sentence: 19 And he said unto her, Give me thy son.
+Syntactic Similarity: 0.885680489082
+Semantic Similarity: 0.909111618996
+
+82
+New Sentence: 3 And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.904992942933
+Semantic Similarity: 0.889266490936
+
+83
+New Sentence: 18 And he said, This will I do.
+Reference Sentence: 10 And I said, This is my infirmity.
+Syntactic Similarity: 0.887891382696
+Semantic Similarity: 0.906247615814
+
+84
+New Sentence: 10 When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.884822428442
+Semantic Similarity: 0.908882677555
+
+85
+New Sentence: for it is not fit that he should live.
+Reference Sentence: for he
+is not a man, that he should repent.
+Syntactic Similarity: 0.851009583515
+Semantic Similarity: 0.942376852036
+
+86
+New Sentence: 13 But he said unto them, Give ye them to eat.
+Reference Sentence: 19 And he said unto her, Give me thy son.
+Syntactic Similarity: 0.864899964188
+Semantic Similarity: 0.927605569363
+
+87
+New Sentence: He saith, I am not.
+Reference Sentence: and he saith, I am not learned.
+Syntactic Similarity: 0.88135878061
+Semantic Similarity: 0.908636331558
+
+88
+New Sentence: 15 And he said unto them, With desire I have desired to eat this passover with you before I suffer.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.892303943564
+Semantic Similarity: 0.896330058575
+
+89
+New Sentence: 1 And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.891430623746
+Semantic Similarity: 0.897002279758
+
+90
+New Sentence: 20 And he answered and said unto them, It is one of the twelve, that dippeth with me in the dish.
+Reference Sentence: and he said unto me, This is the table
+that is before the LORD.
+Syntactic Similarity: 0.904045730464
+Semantic Similarity: 0.884126603603
+
+91
+New Sentence: 18 Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.
+Reference Sentence: 32 And it shall come to pass, that whosoever shall call on the name
+of the LORD shall be delivered.
+Syntactic Similarity: 0.892936554281
+Semantic Similarity: 0.894146323204
+
+92
+New Sentence: for if ye believe not that I am he, ye shall die in your sins.
+Reference Sentence: and ye shall know that I am
+the LORD.
+Syntactic Similarity: 0.84125485569
+Semantic Similarity: 0.945199728012
+
+93
+New Sentence: 23 For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.
+Reference Sentence: 32 And it shall come to pass, that whosoever shall call on the name
+of the LORD shall be delivered.
+Syntactic Similarity: 0.906441287676
+Semantic Similarity: 0.878867447376
+
+94
+New Sentence: 19 Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.
+Reference Sentence: and it
+shall be, that of whom I say unto thee, This shall go with thee, the
+same shall go with thee; and of whomsoever I say unto thee, This shall
+not go with thee, the same shall not go.
+Syntactic Similarity: 0.866031165491
+Semantic Similarity: 0.918110072613
+
+95
+New Sentence: 40 And they went out of the prison, and entered into the house of Lydia.
+Reference Sentence: And they went out both of them into the
+field.
+Syntactic Similarity: 0.884440891318
+Semantic Similarity: 0.899168610573
+
+96
+New Sentence: 44 And whosoever shall fall on this stone shall be broken.
+Reference Sentence: 32 And it shall come to pass, that whosoever shall call on the name
+of the LORD shall be delivered.
+Syntactic Similarity: 0.883680860245
+Semantic Similarity: 0.899509251118
+
+97
+New Sentence: 36 And he said unto them, What would ye that I should do for you?
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.871521162215
+Semantic Similarity: 0.908291876316
+
+98
+New Sentence: for all shall know me, from the least to the greatest.
+Reference Sentence: for they shall all know me,
+from the least of them unto the greatest of them, saith the LORD.
+Syntactic Similarity: 0.905391387879
+Semantic Similarity: 0.874356150627
+
+99
+New Sentence: 65 And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.884010624517
+Semantic Similarity: 0.894091010094
+
+100
+New Sentence: 12 But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.
+Reference Sentence: 13 And in all things that I have said unto you be circumspect.
+Syntactic Similarity: 0.876090396532
+Semantic Similarity: 0.90149050951
+

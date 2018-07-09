@@ -1,0 +1,555 @@
+Pairing: 1
+New Sentence: Do you mean to say that the Creator is not God?
+Reference: 
+32 And for that the dream was doubled unto Pharaoh twice; it is
+because the thing is established by God, and God will shortly bring it
+to pass.
+Similar Sentence is from: genesis
+Syntactic Score: 0.826933457156
+Syntactic Similarity without tokens: 0.830824924024
+Semantic Score: 0.755638241768
+Semantic Score without stopwords: 0.669306635857
+LCS Length: 3
+LCS: that the is 
+Jaccard of common nouns: 0.2
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.725019454956
+Semantic similarity verbs: 0.511330366135
+
+Pairing: 2
+New Sentence: That (since he is The Most Happy) must be still the one thing unknown even to Him.
+Reference: 
+3 Every moving thing that liveth shall be meat for you; even as the
+green herb have I given you all things.
+Similar Sentence is from: genesis
+Syntactic Score: 0.839281622438
+Syntactic Similarity without tokens: 0.869272404634
+Semantic Score: 0.783955693245
+Semantic Score without stopwords: 0.658711910248
+LCS Length: 2
+LCS: be the 
+Jaccard of common nouns: 0.125
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.562601685524
+Semantic similarity verbs: 0.552273213863
+
+Pairing: 3
+New Sentence: But you speak merely of impulses upon the air.
+Reference: 
+2 And the fear of you and the dread of you shall be upon every beast
+of the earth, and upon every fowl of the air, upon all that moveth
+upon the earth, and upon all the fishes of the sea; into your hand are
+they delivered.
+Similar Sentence is from: genesis
+Syntactic Score: 0.794264545372
+Syntactic Similarity without tokens: 0.847830450863
+Semantic Score: 0.769214808941
+Semantic Score without stopwords: 0.638938486576
+LCS Length: 4
+LCS: you of upon the 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.452019482851
+Semantic similarity verbs: 0.201692998409
+
+Pairing: 4
+New Sentence: I have spoken to you, Oinos, as to a child of the fair Earth which lately perished- of impulses upon the atmosphere of the Earth.
+Reference: 
+21 And all flesh died that moved upon the earth, both of fowl, and
+of cattle, and of beast, and of every creeping thing that creepeth
+upon the earth, and every man.
+Similar Sentence is from: genesis
+Syntactic Score: 0.879384188674
+Syntactic Similarity without tokens: 0.914389515731
+Semantic Score: 0.742626309395
+Semantic Score without stopwords: 0.715067327023
+LCS Length: 4
+LCS: the of upon the 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.675010085106
+Semantic similarity verbs: 0.268486231565
+
+Pairing: 5
+New Sentence: Shortly before the final overthrow of the earth, there were, I well remember, many very successful experiments in what some philosophers were weak enough to denominate the creation of animalculae.
+Reference: 
+29 And it came to pass, when God destroyed the cities of the plain,
+that God remembered Abraham, and sent Lot out of the midst of the
+overthrow, when he overthrew the cities in the which Lot dwelt.
+Similar Sentence is from: genesis
+Syntactic Score: 0.862759994564
+Syntactic Similarity without tokens: 0.849791962493
+Semantic Score: 0.771727800369
+Semantic Score without stopwords: 0.647260904312
+LCS Length: 5
+LCS: the of the in the 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.511404514313
+Semantic similarity verbs: 0.408875614405
+
+Pairing: 6
+New Sentence: We moved our hands, for example, when we were dwellers on the earth, and, in so doing, gave vibration to the atmosphere which engirdled it.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.916706758941
+Syntactic Similarity without tokens: 0.920454530395
+Semantic Score: 0.783001899719
+Semantic Score without stopwords: 0.565612912178
+LCS Length: 4
+LCS: the earth, to the 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.616693615913
+Semantic similarity verbs: 0.388998150826
+
+Pairing: 7
+New Sentence: This vibration was indefinitely extended, till it gave impulse to every particle of the earth's air, which thenceforward, and for ever, was actuated by the one movement of the hand.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.86276503883
+Syntactic Similarity without tokens: 0.909532000021
+Semantic Score: 0.736728847027
+Semantic Score without stopwords: 0.619136452675
+LCS Length: 5
+LCS: of the the of the 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.549522519112
+Semantic similarity verbs: 0.357262313366
+
+Pairing: 8
+New Sentence: In speaking of the air, I referred only to the earth; but the general proposition has reference to impulses upon the ether- which, since it pervades, and alone pervades all space, is thus the great medium of creation.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.916412331473
+Syntactic Similarity without tokens: 0.938600402632
+Semantic Score: 0.78208643198
+Semantic Score without stopwords: 0.612506985664
+LCS Length: 7
+LCS: of the to the and is the 
+Jaccard of common nouns: 0.058823529411764705
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.559287488461
+Semantic similarity verbs: 0.453789532185
+
+Pairing: 9
+New Sentence: Are not the starry worlds that, from the abyss of nonentity, burst hourly forth into the heavens- are not these stars, Agathos, the immediate handiwork of the King?
+Reference: 
+22 And Abram said to the king of Sodom, I have lift up mine hand
+unto the LORD, the most high God, the possessor of heaven and earth,
+14.
+Similar Sentence is from: genesis
+Syntactic Score: 0.856751423571
+Syntactic Similarity without tokens: 0.871416593417
+Semantic Score: 0.613933444023
+Semantic Score without stopwords: 0.608416676521
+LCS Length: 5
+LCS: the of the the of 
+Jaccard of common nouns: 0.05555555555555555
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.647986829281
+Semantic similarity verbs: 0.182838663459
+
+Pairing: 10
+New Sentence: It is indeed demonstrable that every such impulse given the air, must, in the end, impress every individual thing that exists within the universe;- and the being of infinite understanding- the being whom we have imagined- might trace the remote undulations of the impulse- trace them upward and onward in their influences upon all particles of an matter- upward and onward for ever in their modifications of old forms- or, in other words, in their creation of new- until he found them reflected- unimpressive at last- back from the throne of the Godhead.
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.914490239837
+Syntactic Similarity without tokens: 0.92581156095
+Semantic Score: 0.848518371582
+Semantic Score without stopwords: 0.709608376026
+LCS Length: 9
+LCS: the in the that the and of upon the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.563048124313
+Semantic similarity verbs: 0.546001017094
+
+Pairing: 11
+New Sentence: There are no dreams in Aidenn- but it is here whispered that, of this infinity of matter, the sole purpose is to afford infinite springs, at which the soul may allay the thirst to know, which is for ever unquenchable within it- since to quench it, would be to extinguish the soul's self.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.892271806421
+Syntactic Similarity without tokens: 0.932174489612
+Semantic Score: 0.829960644245
+Semantic Score without stopwords: 0.70896756649
+LCS Length: 6
+LCS: of the is the is the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07692307692307693
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.605282306671
+Semantic similarity verbs: 0.727103292942
+
+Pairing: 12
+New Sentence: It was deducible from what they knew, that to a being of infinite understanding- one to whom the perfection of the algebraic analysis lay unfolded- there could be no difficulty in tracing every impulse given the air- and the ether through the air- to the remotest consequences at any even infinitely remote epoch of time.
+Reference: 
+17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and every thing that is in the earth shall die.
+Similar Sentence is from: genesis
+Syntactic Score: 0.913937404288
+Syntactic Similarity without tokens: 0.938506959581
+Semantic Score: 0.802459657192
+Semantic Score without stopwords: 0.658121049404
+LCS Length: 7
+LCS: a of to the of in the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.498806595802
+Semantic similarity verbs: 0.513852536678
+
+Pairing: 13
+New Sentence: This power of retrogradation in its absolute fulness and perfection- this faculty of referring at all epochs, all effects to all causes- is of course the prerogative of the Deity alone- but in every variety of degree, short of the absolute perfection, is the power itself exercised by the whole host of the Angelic intelligences.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.867428987212
+Syntactic Similarity without tokens: 0.911232613826
+Semantic Score: 0.782833099365
+Semantic Score without stopwords: 0.665121853352
+LCS Length: 7
+LCS: of in and every of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.595243036747
+Semantic similarity verbs: 0.508212208748
+
+Pairing: 14
+New Sentence: we will leave to the left the loud harmony of the Pleiades, and swoop outward from the throne into the starry meadows beyond Orion, where, for pansies and violets, and heart's- ease, are the beds of the triplicate and triple- tinted suns.
+Reference: 
+10 And Lot lifted up his eyes, and beheld all the plain of Jordan,
+that it was well watered every where, before the LORD destroyed Sodom
+and Gomorrah, even as the garden of the LORD, like the land of Egypt,
+as thou comest unto Zoar.
+Similar Sentence is from: genesis
+Syntactic Score: 0.908960177206
+Syntactic Similarity without tokens: 0.920589867353
+Semantic Score: 0.690855145454
+Semantic Score without stopwords: 0.618485510349
+LCS Length: 8
+LCS: the of the and the the the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.516974389553
+Semantic similarity verbs: 0.330958336592
+
+Pairing: 15
+New Sentence: In for ever knowing, we are for ever blessed; but to know all were the curse of a fiend.
+Reference: 
+21 And the LORD smelled a sweet savour; and the LORD said in his
+heart, I will not again curse the ground any more for man's sake; for
+the imagination of man's heart is evil from his youth; neither will I
+again smite any more every thing living, as I have done.
+Similar Sentence is from: genesis
+Syntactic Score: 0.78902138242
+Syntactic Similarity without tokens: 0.879804571762
+Semantic Score: 0.830793023109
+Semantic Score without stopwords: 0.730440020561
+LCS Length: 4
+LCS: for for the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.486828118563
+Semantic similarity verbs: 0.54886841774
+
+Pairing: 16
+New Sentence: They made the special effects, indeed, wrought in the fluid by special impulses, the subject of exact calculation- so that it became easy to determine in what precise period an impulse of given extent would engirdle the orb, and impress (for ever) every atom of the atmosphere circumambient.
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.917728481253
+Syntactic Similarity without tokens: 0.953194432839
+Semantic Score: 0.786546111107
+Semantic Score without stopwords: 0.597497045994
+LCS Length: 9
+LCS: the in the that the and every of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.454796850681
+Semantic similarity verbs: 0.386927634478
+
+Pairing: 17
+New Sentence: 1850                                 THE POWER OF WORDS                                 by Edgar Allan Poe    OINOS.
+Reference: 
+24 The sons of Rachel; Joseph, and Benjamin.
+Similar Sentence is from: genesis
+Syntactic Score: 0.839250557884
+Syntactic Similarity without tokens: 0.856575521977
+Semantic Score: 0.259546458721
+Semantic Score without stopwords: 0.660167694092
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.645465791225
+Semantic similarity verbs: nan
+
+Pairing: 18
+New Sentence: This wild star- it is now three centuries since, with clasped hands, and with streaming eyes, at the feet of my beloved- I spoke it- with a few passionate sentences- into birth.
+Reference: 
+4 There were giants in the earth in those days; and also after that,
+when the sons of God came in unto the daughters of men, and they bare
+children to them, the same became mighty men which were of old, men of
+renown.
+Similar Sentence is from: genesis
+Syntactic Score: 0.860756256669
+Syntactic Similarity without tokens: 0.929342205173
+Semantic Score: 0.72541898489
+Semantic Score without stopwords: 0.628060221672
+LCS Length: 3
+LCS: and the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.497235924006
+Semantic similarity verbs: 0.3391302526
+
+Pairing: 19
+New Sentence: Its brilliant flowers are the dearest of all unfulfilled dreams, and its raging volcanoes are the passions of the most turbulent and unhallowed of hearts.
+Reference: 
+5 And God saw that the wickedness of man was great in the earth, and
+that every imagination of the thoughts of his heart was only evil
+continually.
+Similar Sentence is from: genesis
+Syntactic Score: 0.83741089642
+Syntactic Similarity without tokens: 0.886998208467
+Semantic Score: 0.692383825779
+Semantic Score without stopwords: 0.632758796215
+LCS Length: 6
+LCS: the of and of the of 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.651944637299
+Semantic similarity verbs: 0.299028009176
+
+Pairing: 20
+New Sentence: I mean to say that the Deity does not create.
+Reference: 
+14 And let it come to
+pass, that the damsel to whom I shall say, Let down thy pitcher, I
+pray thee, that I may drink; and she shall say, Drink, and I will give
+thy camels drink also.
+Similar Sentence is from: genesis
+Syntactic Score: 0.885015220913
+Syntactic Similarity without tokens: 0.893527431728
+Semantic Score: 0.756993472576
+Semantic Score without stopwords: 0.573256313801
+LCS Length: 3
+LCS: to that the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.310560047626
+Semantic similarity verbs: 0.598148882389
+
+Pairing: 21
+New Sentence: Now the mathematicians who saw that the results of any given impulse were absolutely endless- and who saw that a portion of these results were accurately traceable through the agency of algebraic analysis- who saw, too, the facility of the retrogradation- these men saw, at the same time, that this species of analysis itself, had within itself a capacity for indefinite progress- that there were no bounds conceivable to its advancement and applicability, except within the intellect of him who advanced or applied it.
+Reference: 
+9 That he may give me the cave of
+Machpelah, which he hath, which is in the end of his field; for as
+much money as it is worth he shall give it me for a possession of a
+buryingplace amongst you.
+Similar Sentence is from: genesis
+Syntactic Score: 0.895681005528
+Syntactic Similarity without tokens: 0.8937953277
+Semantic Score: 0.806079447269
+Semantic Score without stopwords: 0.560041487217
+LCS Length: 6
+LCS: the the of a of a 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.405256330967
+Semantic similarity verbs: 0.387949198484
+
+Pairing: 22
+New Sentence: And not only could such a thing do this, but at any epoch, should a given result be afforded him- should one of these numberless comets, for example, be presented to his inspection- he could have no difficulty in determining, by the analytic retrogradation, to what original impulse it was due.
+Reference: 
+4 And they said, Go to, let us build us a city and a tower, whose
+top may reach unto heaven; and let us make us a name, lest we be
+scattered abroad upon the face of the whole earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.881890840511
+Syntactic Similarity without tokens: 0.917509650267
+Semantic Score: 0.766441822052
+Semantic Score without stopwords: 0.568077147007
+LCS Length: 6
+LCS: And a a be of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.415639907122
+Semantic similarity verbs: 0.51280105114
+
+Pairing: 23
+New Sentence: Is not every word an impulse on the air?
+Reference: 
+14 They, and every beast after his kind,
+and all the cattle after their kind, and every creeping thing that
+creepeth upon the earth after his kind, and every fowl after his kind,
+every bird of every sort.
+Similar Sentence is from: genesis
+Syntactic Score: 0.798029184869
+Syntactic Similarity without tokens: 0.885252321822
+Semantic Score: 0.734375298023
+Semantic Score without stopwords: 0.641852080822
+LCS Length: 2
+LCS: every the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.487205326557
+Semantic similarity verbs: 0.0970596894622
+
+Pairing: 24
+New Sentence: The seeming creatures which are now, throughout the universe, so perpetually springing into being, can only be considered as the mediate or indirect, not as the direct or immediate results of the Divine creative power.
+Reference: 
+16 And the bow shall be in the cloud; and I will look upon it, that
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.829536850049
+Syntactic Similarity without tokens: 0.846704260076
+Semantic Score: 0.788304269314
+Semantic Score without stopwords: 0.603637516499
+LCS Length: 6
+LCS: the be the the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.581301271915
+Semantic similarity verbs: 0.550768911839
+
+Pairing: 25
+New Sentence: I can comprehend you thus far- that certain operations of what we term Nature, or the natural laws, will, under certain conditions, give rise to that which has all the appearance of creation.
+Reference: 
+12 And God said, This is the token of the covenant which I make
+between me and you and every living creature that is with you, for
+perpetual generations.
+Similar Sentence is from: genesis
+Syntactic Score: 0.894195860548
+Syntactic Similarity without tokens: 0.948780381387
+Semantic Score: 0.815498173237
+Semantic Score without stopwords: 0.537853360176
+LCS Length: 3
+LCS: I you that 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.369472801685
+Semantic similarity verbs: 0.489069700241
+
+Pairing: 26
+New Sentence: For wisdom, ask of the angels freely, that it may be given!
+Reference: 
+19 For I know him, that he will command his children and his
+household after him, and they shall keep the way of the LORD, to do
+justice and judgment; that the LORD may bring upon Abraham that which
+he hath spoken of him.
+Similar Sentence is from: genesis
+Syntactic Score: 0.799276574204
+Syntactic Similarity without tokens: 0.864686161101
+Semantic Score: 0.712343335152
+Semantic Score without stopwords: 0.625882863998
+LCS Length: 5
+LCS: For of the that may 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.490953624249
+Semantic similarity verbs: 0.430080294609
+
+Pairing: 27
+New Sentence: Let me endeavor, my Oinos, to lead you, step by step, to the conception I intend.
+Reference: 
+3 And let us arise, and go up to Bethel; and
+I will make there an altar unto God, who answered me in the day of my
+distress, and was with me in the way which I went.
+Similar Sentence is from: genesis
+Syntactic Score: 0.88173860325
+Syntactic Similarity without tokens: 0.914691582449
+Semantic Score: 0.798676371574
+Semantic Score without stopwords: 0.525688230991
+LCS Length: 4
+LCS: me my the I 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.299782574177
+Semantic similarity verbs: 0.546113193035
+
+Pairing: 28
+New Sentence: Even the spiritual vision, is it not at all points arrested by the continuous golden walls of the universe?- the walls of the myriads of the shining bodies that mere number has appeared to blend into unity?
+Reference: 
+23 And every living substance was destroyed which was upon the face
+of the ground, both man, and cattle, and the creeping things, and the
+fowl of the heaven; and they were destroyed from the earth.
+Similar Sentence is from: genesis
+Syntactic Score: 0.807610600279
+Syntactic Similarity without tokens: 0.792887580034
+Semantic Score: 0.792931079865
+Semantic Score without stopwords: 0.597318947315
+LCS Length: 7
+LCS: the of the the the of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.496847778559
+Semantic similarity verbs: 0.463520467281
+
+Pairing: 29
+New Sentence: And while I thus spoke, did there not cross your mind some thought of the physical power of words?
+Reference: 
+1 After these things the word of the LORD came unto Abram in a
+vision, saying, Fear not, Abram.
+Similar Sentence is from: genesis
+Syntactic Score: 0.81204413677
+Syntactic Similarity without tokens: 0.8801312453
+Semantic Score: 0.659173429012
+Semantic Score without stopwords: 0.591821372509
+LCS Length: 2
+LCS: of the 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.631398618221
+Semantic similarity verbs: 0.496237307787
+

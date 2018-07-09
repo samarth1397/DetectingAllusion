@@ -1,0 +1,125 @@
+Pairing: 1
+New Sentence: for out of thee shall come a Governor, that shall rule my people Israel.
+Reference: 
+38 And they shall be my people, and I will be
+their God.
+Similar Sentence is from: jeremiah-1
+Syntactic Score: 0.658002130893
+Syntactic Similarity without tokens: 0.720319154231
+Semantic Score: 0.802941560745
+Semantic Score without stopwords: 0.771817445755
+LCS Length: 4
+LCS: shall my people . 
+Jaccard of common nouns: 0.25
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.374386876822
+Semantic similarity verbs: 0.204316020012
+
+Pairing: 2
+New Sentence: for out of thee shall come a Governor, that shall rule my people Israel.
+Reference: 
+and
+they shall be my people, and I will be their God.
+Similar Sentence is from: jeremiah-1
+Syntactic Score: 0.570567092154
+Syntactic Similarity without tokens: 0.668076740062
+Semantic Score: 0.802941560745
+Semantic Score without stopwords: 0.771817445755
+LCS Length: 4
+LCS: shall my people . 
+Jaccard of common nouns: 0.25
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.374386876822
+Semantic similarity verbs: 0.204316020012
+
+Pairing: 3
+New Sentence: for out of thee shall come a Governor, that shall rule my people Israel.
+Reference: 
+so shall ye be my people, and I will be your God.
+Similar Sentence is from: jeremiah-1
+Syntactic Score: 0.556260218542
+Syntactic Similarity without tokens: 0.649767426016
+Semantic Score: 0.820883929729
+Semantic Score without stopwords: 0.762079238892
+LCS Length: 4
+LCS: shall my people . 
+Jaccard of common nouns: 0.25
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.374386876822
+Semantic similarity verbs: 0.204316020012
+
+Pairing: 4
+New Sentence: 21 And she shall bring forth a son, and thou shalt call his name JESUS.
+Reference: 
+38 And they shall be my people, and I will be
+their God.
+Similar Sentence is from: jeremiah-1
+Syntactic Score: 0.816955982268
+Syntactic Similarity without tokens: 0.964092686504
+Semantic Score: 0.679131448269
+Semantic Score without stopwords: 0.676451146603
+LCS Length: 5
+LCS: And shall , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.54853105545
+Semantic similarity verbs: 0.284797936678
+
+Pairing: 5
+New Sentence: for he shall save his people from their sins.
+Reference: 
+but they shall not
+save them at all in the time of their trouble.
+Similar Sentence is from: jeremiah-1
+Syntactic Score: 0.592701361502
+Syntactic Similarity without tokens: 0.810887167295
+Semantic Score: 0.804318070412
+Semantic Score without stopwords: 0.713550448418
+LCS Length: 4
+LCS: shall save their . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 1.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.224987581372
+Semantic similarity verbs: 1.0
+
+Pairing: 6
+New Sentence: 18 In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
+Reference: 
+38 And they shall be my people, and I will be
+their God.
+Similar Sentence is from: jeremiah-1
+Syntactic Score: 0.815966205066
+Syntactic Similarity without tokens: 0.822658341775
+Semantic Score: 0.65795224905
+Semantic Score without stopwords: 0.43794542551
+LCS Length: 4
+LCS: , and be . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.471598953009
+Semantic similarity verbs: 0.545769989491
+
+Pairing: 7
+New Sentence: 12 And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel; 1.
+Reference: 
+38 And they shall be my people, and I will be
+their God.
+Similar Sentence is from: jeremiah-1
+Syntactic Score: 0.802385787827
+Syntactic Similarity without tokens: 0.772903857519
+Semantic Score: 0.45818066597
+Semantic Score without stopwords: 0.271776676178
+LCS Length: 5
+LCS: And they , and . 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.344027042389
+
