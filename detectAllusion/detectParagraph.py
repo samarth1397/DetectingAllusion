@@ -319,7 +319,7 @@ class detectParagraph:
 		return newTuples
 
 	def writeOutput(self,newTuples,textPara,reducedParagraphs):
-		f=open(self.output+'nounSortedSentencePairs.txt','w')
+		f=open(self.outputFolder+'nounSortedSentencePairs.txt','w')
 		i=1
 		lines=list()
 		for t in newTuples:

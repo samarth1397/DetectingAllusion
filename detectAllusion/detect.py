@@ -32,6 +32,10 @@ from dependencies import *
 
 class detect:
 	
+
+	'''
+	Initialize input folder, output folder, path to dependencies, language for processing and number of available cores
+	'''
 	def __init__(self,inputFolder='../data/',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='english',cores=40):
 		self.potential=inputFolder+'potential/'
 		self.new=inputFolder+'new/'
@@ -42,6 +46,10 @@ class detect:
 		self.cores=cores
 		self.output=outputFolder
 	
+	'''
+	Loads the new text from the input folder. Returns a list of sentences. 
+	'''
+
 	def loadNew(self):
 		test=os.listdir(self.new)[0]
 		testB=open(self.new+test)
@@ -53,6 +61,11 @@ class detect:
 		text = list(filter(lambda x: len(x)>5, text))	
 		return text
 		
+	'''
+	A function to load the candidates from the input folder. 
+	Returns a dictionary where keys are the names of candidates and the corresponding value is the list of sentences of the candidate
+	'''
+
 	def loadCandidates(self):
 		books=dict()
 		for file in self.booksList:
@@ -66,6 +79,12 @@ class detect:
 			candidate = list(filter(lambda x: len(x)>5, candidate))
 			books[file]=candidate
 		return books		
+	
+	'''	
+	Split the new book into chunks. The number of chunks is equal to the number of cores. 
+	Returns a list of lists of sentences:
+	l=[[s1,s2,s3],[s4,s5,s6],[....],..................]
+	'''
 		
 	def splitChunks(self,text):
 		n = self.cores
@@ -75,7 +94,12 @@ class detect:
 		return l	
 	
 
-			
+	'''		
+	Uses the calcJacardChunk function from treefunctions.py. Each chunk of the input text is processed on a new core. The threshold decided the minimum jaccard coefficient for 
+	discarding sentences from the candidates. 
+	Returns the same data structure of books with reduced lists in the dictionary.
+	'''
+
 	def filterWithJacard(self,textChunks,books,threshold=0.35):
 
 		mapInput=[(textChunks[i],books,self.booksList) for i in range(len(textChunks))]
@@ -113,15 +137,23 @@ class detect:
 		for book in self.booksList:
 			for sent in reducedSentences[book]:
 				reducedBooks[book].append(books[book][sent])
-  		
-  		pool.close()
+  
+		pool.close()
 		return reducedBooks
 		
-			
+	'''
+	Yet to be implemented
+	'''
+
 	def filterWithTFIDF(self):
 		pass
 	
 	
+	'''
+	Generates parse trees for all the sentences in the new text. Each text chunk is processed on a separate core. Returns 3 list of lists of trees. 
+	parseTrees: [[parseTree1,parseTree2,parseTree3],[parseTree4,parseTree5,parseTree6].............]
+	'''
+
 	def parseNewBook(self,textChunks):
 		# mapInput=[(textChunks[i],self.dependencies) for i in range(len(textChunks))]
 		pool=Pool(processes=self.cores)
@@ -136,9 +168,13 @@ class detect:
 		pool.close()
 		return (parseTrees,parsedSentences,parseWithoutTokenTrees)
 	
+	'''
+	Generates parse trees for the candidate books. Each book is processed on a separate core. Returns 3 dictionaries of parse Trees. 
+	Keys of the dictionaries are names of the books and values are lists of parse trees. 
+	'''
 	def parseCandidates(self,reducedBooks):
 		booksToBeParsed=[reducedBooks[bk] for bk in self.booksList]
-		pool=Pool(processes=len(reducedBooks))
+s		pool=Pool(processes=len(reducedBooks))
 		results=pool.map(parseCandidateBooks,booksToBeParsed)
 		potentialParseTrees=dict()
 		potentialParsedSentences=dict()
@@ -152,6 +188,15 @@ class detect:
 		pool.close()
 		return (potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees)
 
+	'''
+	Calcualtes the moschiiti score between sentences in textChunks and the sentences in the candidates. Returns 2 list of dictionaries. 
+	Each dictionary is in the following format: 
+	{
+		potential1:[0.1,0.5,....]
+		potential2:[0.04,0.9,...]
+	}
+
+	'''
 
 	def syntacticScoring(self,parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees):
 		mapInput=[(parseTrees[i],potentialParseTrees,self.booksList) for i in range(len(parseTrees))]
@@ -177,6 +222,18 @@ class detect:
 		pool.close()
 		return syntaxScores,syntaxScoresWithoutTokens
 			
+	'''
+	Caclualtes the semantic similairty between sentences from the new text and sentences in reduced books. No multiprocessing in this step yet. 
+	Returns a list of dicitionaries. Each dictionary has the following format:
+
+	{
+		potential1:[(0.1,0.05,0.5,0.4,2),(),(),.........]
+		potential2:[(0.4,0.15,0.4,0.1,0),(),(),.........]
+		
+	}, i.e. values are a list of tuples where each tuple has the following similarity metrics: semantic similarity, semantic similarity without stop words, semantic similarity of nouns, 
+	semantic similarity of verbs, number of common proper nouns between the two sentences. 
+	'''
+
 	def semanticScoring(self,text,reducedBooks):
 		semanticScore=list()
 		for i in range(len(text)):
@@ -203,6 +260,23 @@ class detect:
 			semanticScore.append(scoreDict)
 		return semanticScore
 
+	'''
+	Calculates the longest common subsequence between sentences from new text and sentences from the reduced books. Returns:
+	lcsScore: list of dictionaries: Each dictionary is of the following format: 
+	{
+		potential1:[3,0,2,...........]
+		potential2:[0,2,1............] 
+
+	}
+
+	lcs: list of dictionaries: Each dictionary is of the following format: 
+	{
+		potential1:['so they human','','yes we',...........]
+		potential2:['','we can','no',........]
+
+	}
+	'''
+
 	def longestSubsequenceScoring(self,text,reducedBooks):
 		lcs=list()
 		lcsScore=list()
@@ -222,6 +296,13 @@ class detect:
 			lcs.append(scoreDict_lcs)
 			lcsScore.append(scoreDict_lcsScore)
 		return (lcsScore,lcs)
+
+	'''
+	A function to aggregate all the scoring mechanisms used till now. Returns a list of tuples. 
+	Each tuple is in the following format: 
+	(sentenceNumber, refBook, sentenceNumber in the ref,syntactic similarity, semantic similarity, semantic similarity without stopwords, semantic similarity nouns, semantic similarity verbs, average similairty, lcs length, lcs, 
+	syntactic similarity without tokens, common proper nouns, jaccard nouns, jaccard verbs, jaccard adjectives)
+	'''
 
 	def aggregateScoring(self,syntacticScore,semanticScore,lcsScore,lcsString,syntacticScoreWithoutTokens):
 		scoreTuples=list()
@@ -245,6 +326,13 @@ class detect:
 					syWithoutToken=synWithoutTokenScore_book[k]
 					scoreTuples.append((i,bk,k,sy,sm[0],sm[1],sm[2],sm[3],(sy+sm[1])/2,lscore,lstring,syWithoutToken,sm[4]))
 		return scoreTuples
+
+	'''
+	Every sentence in the new text has a large list of tuples associated with it. These tuples are sorted in the order of number of common proper nouns and in the case of tie, using the average similarity. 
+	If the first tuple in this pair has an avergae syntactic and semantic similarity greater than the threshhold, then it is added to the final filter of tuples. Currently, this mechanism chooses at most
+	only one sentence pair for every sentence in the new text but this filtering mechanism can be changed easily. 
+	'''
+
 
 	def finalFiltering(self,scoreTuples,reducedBooks,threshold=0.89):
 		totalPotentialSentences=0
@@ -271,6 +359,9 @@ class detect:
 
 		return finalTuples,diffTuples
 
+	'''
+	The final tuples are displayed in decreasing order of the jaccard of common nouns between the sentences. 
+	'''
 	def nounBasedRanking(self,finalTuples,text,reducedBooks):
 		newTuples=list()
 		for tup in finalTuples:
@@ -323,6 +414,7 @@ class detect:
 			i=i+1
 		f.writelines(lines)
 		return
+
 def main():
 	d=detect(inputFolder='../data/temp/',outputFolder='../output/temp/')
 	print('Loading books and splitting')

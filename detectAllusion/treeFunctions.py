@@ -30,6 +30,12 @@ from itertools import islice
 
 #Useful functions
 
+'''
+
+Creating a parse tree 
+
+'''
+
 def tree(): 
     return defaultdict(tree)
 
@@ -171,9 +177,6 @@ Implementation of the Partial Tree (PT) Kernel from:
 by Alessandro Moschitti
 '''
 
-'''
-The delta function is stolen from the Collins-Duffy kernel
-'''
 
 def _deltaP_(tree1, tree2, seq1, seq2, store, lam, mu, p):
 
@@ -258,6 +261,12 @@ def MoschittiPT(tree1, tree2, lam, mu, NORMALIZE_FLAG):
     else:
         return (raw_score,-1)    
     
+
+'''
+
+Parse a sentence using stanford nlp
+
+'''
     
 def getNLPToks(rawSentence):
     output = nlp.annotate(rawSentence, properties={'annotators': 'tokenize,ssplit,pos,parse','outputFormat': 'json','timeout':'50000'})
@@ -268,6 +277,10 @@ def getNLPToks(rawSentence):
         'toks':tokens, 'parse':parse
     }
   
+'''
+Function which removes tokens from a parse tree
+'''
+
 def removeTokens(tr,sent):
     for key in tr.keys():
         parse=tr[key]
@@ -287,7 +300,9 @@ def removeTokens(tr,sent):
             parse['posOrTok']='NULLWORD'
     return tr
 
-
+'''
+Jaccard score between two sentences; used for initial filtering
+'''
 def jacardScore(a, b):
     tokens_a = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
     tokens_b = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
@@ -296,6 +311,19 @@ def jacardScore(a, b):
     else:
         ratio = len(set(tokens_a).intersection(tokens_b)) / float(len(set(tokens_a).union(tokens_b)))
     return ratio    
+
+'''
+Calculates the jaccard score for each sentence in the chunk against all sentences in the potential texts. 
+Returns: a list of dictionaries: [dict1,dict2,dict3....]
+
+Each dict looks like this:
+{	potential1:[0.1,0.0,0.3,0.9,.......];
+	potential2:[0.2,0.5,...............];
+	.
+	.
+}
+
+'''
 
 def calcJacardChunk(chunkTuples):
     # print('computing chunk')
@@ -313,6 +341,15 @@ def calcJacardChunk(chunkTuples):
             scoresDict[book]=bookScore
         scoresChunk.append(scoresDict)
     return scoresChunk
+
+'''
+A function to parse every sentence in this chunk. 
+Returns 3 lists: 
+parseChunk: a list of parse trees of sentences in the chunk
+parseSentenceChunk: a list of parse trees in the stanford nlp format 
+parseWithoutTokenChunk: a list of parse trees without the tokens for every sentence in the chunk
+'''
+
 
 def parseNewText(chunk):
     #print('Parsing chunk')
@@ -335,6 +372,14 @@ def parseNewText(chunk):
         parseWithoutTokenChunk.append(removeTokens(tempTree2,sent))
     return (parseChunk,parseSentenceChunk,parseWithoutTokenChunk)      
 
+'''
+Parse every sentence in the candidate. 
+Returns 3 lists:
+pTrees: a list of parse trees of sentences in the candidate
+pSents: a list of parse trees in the stanford nlp format 
+pWithoutTokenTrees: a list of parse trees without the tokens for every sentence in the candidate
+'''
+
 def parseCandidateBooks(candidate):
     # print('parsing')
     pTrees=list()
@@ -353,6 +398,16 @@ def parseCandidateBooks(candidate):
         pWithoutTokenTrees.append(removeTokens(tempTree2,sent))
     return (pTrees,pSents,pWithoutTokenTrees)
 
+'''
+Syntactic scoring between a chunk of parse trees and all the parse trees of the potential candidates. 
+Returns a list of dictionaries: [dict1, dict2, dict3, ............]
+Each dictionary is of the following format:
+{
+	potential1: [0.9,0.072,0.64,............]
+	potential2: [0.7,0,9,0.4................]
+}
+,i.e. keys are names of potential books and the corresponding value is a list of syntactic similarity between the sentence from the chunk and all the sentences in the potential candidate.
+'''
 
 def scoreSyntax(chunkTuple):
     trChunks=chunkTuple[0]
@@ -377,6 +432,11 @@ def scoreSyntax(chunkTuple):
     print('scored')
     return chunkDicts
 
+'''
+Returns the average word vector of the sentence using the pretrained word2vec model
+'''
+
+
 def avg_feature_vector(sentence, model, num_features, index2word_set):
     words=word_tokenize(sentence)
     words=[lemmatizer.lemmatize(word.lower()) for word in words]
@@ -392,6 +452,11 @@ def avg_feature_vector(sentence, model, num_features, index2word_set):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
 
+
+'''
+Returns the average word vector of the sentence after the removal of stopwords using the pretrained word2vec model
+'''
+
 def avg_feature_vector_without_stopwords(sentence, model, num_features, index2word_set):
     words=word_tokenize(sentence)
     # words = sentence.split()
@@ -405,6 +470,11 @@ def avg_feature_vector_without_stopwords(sentence, model, num_features, index2wo
     if (n_words > 0):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
+
+
+'''
+Returns the average word vector of the nouns in the sentence using the pretrained word2vec model
+'''
 
 def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
     words=word_tokenize(sentence)
@@ -424,7 +494,12 @@ def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
             feature_vec = np.add(feature_vec, model[word])
     if (n_words > 0):
         feature_vec = np.divide(feature_vec, n_words)
-    return feature_vec  
+    return feature_vec 
+
+
+'''
+Returns the average word vector of the verbs in the sentence using the pretrained word2vec model
+'''
 
 def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
     words=word_tokenize(sentence)
@@ -445,6 +520,11 @@ def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
     if (n_words > 0):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
+
+
+'''
+Returns the jaccard index of nouns in the two sentences
+'''
 
 
 def jacardNouns(sent1,sent2):
@@ -468,6 +548,11 @@ def jacardNouns(sent1,sent2):
         ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
     return ratio
 
+
+'''
+Returns the jaccard index of nouns in the two sentences
+'''
+
 def jacardVerbs(sent1,sent2):
     words1=word_tokenize(sent1)
     words2=word_tokenize(sent2)
@@ -488,6 +573,11 @@ def jacardVerbs(sent1,sent2):
     else:
         ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
     return ratio
+
+
+'''
+Returns the jaccard index of adjectives in the two sentences
+'''
 
 def jacardAdj(sent1,sent2):
     words1=word_tokenize(sent1)
@@ -510,6 +600,10 @@ def jacardAdj(sent1,sent2):
         ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
     return ratio
 
+
+'''
+Returns the longest subsequence of words between the two sentences
+'''
 
 
 def longestSubsequence(a, b):
@@ -538,6 +632,10 @@ def longestSubsequence(a, b):
             y -= 1
     return result
 
+
+'''
+Returns the number of common proper nouns between the two sentences
+'''
 
 def commonProperNouns(sent1,sent2):
     sent1_tokens=nltk.pos_tag(word_tokenize(sent1))
