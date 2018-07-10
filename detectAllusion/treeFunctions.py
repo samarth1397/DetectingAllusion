@@ -263,9 +263,7 @@ def MoschittiPT(tree1, tree2, lam, mu, NORMALIZE_FLAG):
     
 
 '''
-
 Parse a sentence using stanford nlp
-
 '''
     
 def getNLPToks(rawSentence):
@@ -438,7 +436,7 @@ Returns the average word vector of the sentence using the pretrained word2vec mo
 
 
 def avg_feature_vector(sentence, model, num_features, index2word_set):
-    words=word_tokenize(sentence)
+    words=tokenizer.tokenize(sentence)
     words=[lemmatizer.lemmatize(word.lower()) for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
@@ -458,7 +456,7 @@ Returns the average word vector of the sentence after the removal of stopwords u
 '''
 
 def avg_feature_vector_without_stopwords(sentence, model, num_features, index2word_set):
-    words=word_tokenize(sentence)
+    words=tokenizer.tokenize(sentence)
     # words = sentence.split()
     words = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in words if token.lower().strip(string.punctuation) not in stopwords]
     feature_vec = np.zeros((num_features, ), dtype='float32')
@@ -477,7 +475,7 @@ Returns the average word vector of the nouns in the sentence using the pretraine
 '''
 
 def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
-    words=word_tokenize(sentence)
+    words=tokenizer.tokenize(sentence)
     words=[lemmatizer.lemmatize(word.lower()) for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
@@ -502,7 +500,7 @@ Returns the average word vector of the verbs in the sentence using the pretraine
 '''
 
 def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
-    words=word_tokenize(sentence)
+    words=tokenizer.tokenize(sentence)
     words=[lemmatizer.lemmatize(word.lower()) for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
@@ -528,8 +526,8 @@ Returns the jaccard index of nouns in the two sentences
 
 
 def jacardNouns(sent1,sent2):
-    words1=word_tokenize(sent1)
-    words2=word_tokenize(sent2)
+    words1=tokenizer.tokenize(sent1)
+    words2=tokenizer.tokenize(sent2)
     words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
     words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
     nouns1=[]
@@ -554,8 +552,8 @@ Returns the jaccard index of nouns in the two sentences
 '''
 
 def jacardVerbs(sent1,sent2):
-    words1=word_tokenize(sent1)
-    words2=word_tokenize(sent2)
+    words1=tokenizer.tokenize(sent1)
+    words2=tokenizer.tokenize(sent2)
     words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
     words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
     nouns1=[]
@@ -580,8 +578,8 @@ Returns the jaccard index of adjectives in the two sentences
 '''
 
 def jacardAdj(sent1,sent2):
-    words1=word_tokenize(sent1)
-    words2=word_tokenize(sent2)
+    words1=tokenizer.tokenize(sent1)
+    words2=tokenizer.tokenize(sent2)
     words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
     words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
     nouns1=[]
@@ -607,8 +605,8 @@ Returns the longest subsequence of words between the two sentences
 
 
 def longestSubsequence(a, b):
-    a=word_tokenize(a)
-    b=word_tokenize(b)
+    a=tokenizer.tokenize(a)
+    b=tokenizer.tokenize(b)
     lengths = [[0 for j in range(len(b)+1)] for i in range(len(a)+1)]
     # row 0 and column 0 are initialized to 0 already
     for i, x in enumerate(a):
@@ -638,9 +636,9 @@ Returns the number of common proper nouns between the two sentences
 '''
 
 def commonProperNouns(sent1,sent2):
-    sent1_tokens=nltk.pos_tag(word_tokenize(sent1))
-    sent2_tokens=nltk.pos_tag(word_tokenize(sent2))
-    sent1_proper=[word.lower() for (word,tag) in sent1_tokens if tag=='NNP']
-    sent2_proper=[word.lower() for (word,tag) in sent2_tokens if tag=='NNP']
+    sent1_tokens=nltk.pos_tag(tokenizer.tokenize(sent1))
+    sent2_tokens=nltk.pos_tag(tokenizer.tokenize(sent2))
+    sent1_proper=[word.lower() for (word,tag) in sent1_tokens if ((tag=='NNP') and (word not in stopwords))]
+    sent2_proper=[word.lower() for (word,tag) in sent2_tokens if ((tag=='NNP') and (word not in stopwords))]
     common=len(set(sent1_proper).intersection(sent2_proper))
     return common

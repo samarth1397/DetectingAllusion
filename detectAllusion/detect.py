@@ -141,6 +141,20 @@ class detect:
 		pool.close()
 		return reducedBooks
 		
+
+	'''
+	A function to extend the stopwords list to ignore very common proper nouns, for example 'God'
+	'''
+
+	def extendStopwords(self,text):
+		t=' '.join(text)
+		t=tokenizer.tokenize(t)
+		fdist=nltk.FreqDist(t)
+		words=fdist.most_common(100)
+		words=[word for word,score in words]
+		tags=nltk.pos_tag(words)
+		propNouns=[word for word,tag in tags if tag=='NNP']
+		stopwords.extend(propNouns)
 	'''
 	Yet to be implemented
 	'''
@@ -174,7 +188,7 @@ class detect:
 	'''
 	def parseCandidates(self,reducedBooks):
 		booksToBeParsed=[reducedBooks[bk] for bk in self.booksList]
-s		pool=Pool(processes=len(reducedBooks))
+		pool=Pool(processes=len(reducedBooks))
 		results=pool.map(parseCandidateBooks,booksToBeParsed)
 		potentialParseTrees=dict()
 		potentialParsedSentences=dict()
@@ -421,9 +435,11 @@ def main():
 	text=d.loadNew()
 	books=d.loadCandidates()
 	textChunks=d.splitChunks(text)
+
+	d.extendStopwords(text)
 	
 	print('Filtering using Jaccard')
-	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.4)
+	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.2)
 	pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")
 	pickle.dump(reducedBooks, pickling_on)
 
