@@ -113,7 +113,8 @@ class detect:
 		for book in self.booksList:
 			for sent in reducedSentences[book]:
 				reducedBooks[book].append(books[book][sent])
-  
+  		
+  		pool.close()
 		return reducedBooks
 		
 			
@@ -132,6 +133,7 @@ class detect:
 			parseTrees.append(results[i][0])
 			parsedSentences.append(results[i][1])
 			parseWithoutTokenTrees.append(results[i][2])
+		pool.close()
 		return (parseTrees,parsedSentences,parseWithoutTokenTrees)
 	
 	def parseCandidates(self,reducedBooks):
@@ -147,6 +149,7 @@ class detect:
 			potentialParsedSentences[bk]=results[i][1]
 			potentialParseWithoutTokenTrees[bk]=results[i][2]
 			i=i+1
+		pool.close()
 		return (potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees)
 
 

@@ -267,11 +267,29 @@ def getNLPToks(rawSentence):
     return {
         'toks':tokens, 'parse':parse
     }
-    
+   
+def removeTokens(tr,sent):
+    for key in tr.keys():
+        parse=tr[key]
+        childrenTok=parse['childrenTok']
+        if type(childrenTok)==list:
+            i=0
+            for word in childrenTok:
+                if word in sent.split():
+                    childrenTok[i]='NULLWORD'
+                i=i+1
+        if type(childrenTok)==str:
+            if childrenTok in sent.split():
+                childrenTok='NULLWORD'
+                i=i+1
+        posOrTok=parse['posOrTok']
+        if posOrTok in sent.split():
+            parse['posOrTok']='NULLWORD'
+    return tr
 
 def jacardScore(a, b):
-    tokens_a = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
-    tokens_b = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
+    tokens_a = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
+    tokens_b = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
     if len(set(tokens_a).union(tokens_b))==0:
         ratio=0
     else:
@@ -300,34 +318,48 @@ def calcJacardChunk(chunkTuples):
 def parseNewText(paraChunk):
     # print('Parsing chunk')
     parseChunk=list()
+    parseWithoutTokenChunk=list()
     for para in paraChunk:
         paraParse=list()
+        paraWithoutTokenParse=list()
         para=sent_tokenize(para)
         for sent in para:
             sentParse=getNLPToks(sent)
             tempTree=tree()
+            tempTree2=tree()
             generateTree(sentParse['parse'],tempTree)
+            generateTree(sentParse['parse'],tempTree2)
 #             parseSentenceChunk.append(sentParse['parse'])
             flipTree(tempTree)
+            flipTree(tempTree2)
             paraParse.append(tempTree)
+            paraWithoutTokenParse.append(removeTokens(tempTree2,sent))
         parseChunk.append(paraParse)
-    return parseChunk   
+        parseWithoutTokenChunk.append(paraWithoutTokenParse)
+    return parseChunk,parseWithoutTokenChunk   
 
 
     
 def parseCandidateBooks(candidate):
     pTrees=list()
+    pWithoutTokenTrees=list()
     for para in candidate:
         para=sent_tokenize(para)
         sentTrees=list()
+        sentWithoutTokenTrees=list()
         for sent in para:
             sentParse=getNLPToks(sent)
             tempTree=tree()
+            tempTree2=tree()
             generateTree(sentParse['parse'],tempTree)
+            generateTree(sentParse['parse'],tempTree2)
             flipTree(tempTree)
+            flipTree(tempTree2)
             sentTrees.append(tempTree)
+            sentWithoutTokenTrees.append(removeTokens(tempTree2,sent))
         pTrees.append(sentTrees)
-    return pTrees
+        pWithoutTokenTrees.append(sentWithoutTokenTrees)
+    return pTrees,pWithoutTokenTrees
 
 
 def scoreSyntax(chunkTuple):
@@ -352,9 +384,10 @@ def scoreSyntax(chunkTuple):
             sentScoreDict[book]=df
         chunkDicts.append(sentScoreDict)
     return chunkDicts
-
 def avg_feature_vector(sentence, model, num_features, index2word_set):
-    words = sentence.split()
+    words=word_tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0
@@ -366,15 +399,117 @@ def avg_feature_vector(sentence, model, num_features, index2word_set):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
 
+def avg_feature_vector_without_stopwords(sentence, model, num_features, index2word_set):
+    words=word_tokenize(sentence)
+    # words = sentence.split()
+    words = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in words if token.lower().strip(string.punctuation) not in stopwords]
+    feature_vec = np.zeros((num_features, ), dtype='float32')
+    n_words = 0
+    for word in words:
+        if word in index2word_set:
+            n_words += 1
+            feature_vec = np.add(feature_vec, model[word])
+    if (n_words > 0):
+        feature_vec = np.divide(feature_vec, n_words)
+    return feature_vec  
+
+def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
+    words=word_tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # words = sentence.split()
+    # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
+    nouns=[]
+    for word,pos in nltk.pos_tag(words):
+        if pos.startswith('NN'):
+            nouns.append(word.lower().strip(string.punctuation))   
+
+    feature_vec = np.zeros((num_features, ), dtype='float32')
+    n_words = 0
+    for word in nouns:
+        if word in index2word_set:
+            n_words += 1
+            feature_vec = np.add(feature_vec, model[word])
+    if (n_words > 0):
+        feature_vec = np.divide(feature_vec, n_words)
+    return feature_vec  
+
+def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
+    words=word_tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # words = sentence.split()
+    # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
+    verbs=[]
+    for word,pos in nltk.pos_tag(words):
+        if pos.startswith('VB'):
+            verbs.append(word.lower().strip(string.punctuation))   
+
+    feature_vec = np.zeros((num_features, ), dtype='float32')
+    n_words = 0
+    for word in verbs:
+        if word in index2word_set:
+            n_words += 1
+            feature_vec = np.add(feature_vec, model[word])
+    if (n_words > 0):
+        feature_vec = np.divide(feature_vec, n_words)
+    return feature_vec  
+
+
+
 def jacardNouns(sent1,sent2):
+    words1=word_tokenize(sent1)
+    words2=word_tokenize(sent2)
+    words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
+    words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
     nouns1=[]
-    for word,pos in nltk.pos_tag(word_tokenize(sent1)):
+    for word,pos in nltk.pos_tag(words_1):
         if pos.startswith('NN'):
-            nouns1.append(word)
+            nouns1.append(word.lower().strip(string.punctuation))
     nouns2=[]
-    for word,pos in nltk.pos_tag(word_tokenize(sent2)):
+    for word,pos in nltk.pos_tag(words_2):
         if pos.startswith('NN'):
-            nouns2.append(word)
+            nouns2.append(word.lower().strip(string.punctuation))
+#     print(nouns1)
+#     print(nouns2)
+    if len(set(nouns1).union(nouns2))==0:
+        ratio=0
+    else:
+        ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
+    return ratio
+
+def jacardVerbs(sent1,sent2):
+    words1=word_tokenize(sent1)
+    words2=word_tokenize(sent2)
+    words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
+    words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
+    nouns1=[]
+    for word,pos in nltk.pos_tag(words_1):
+        if pos.startswith('VB'):
+            nouns1.append(word.lower().strip(string.punctuation))
+    nouns2=[]
+    for word,pos in nltk.pos_tag(words_2):
+        if pos.startswith('VB'):
+            nouns2.append(word.lower().strip(string.punctuation))
+#     print(nouns1)
+#     print(nouns2)
+    if len(set(nouns1).union(nouns2))==0:
+        ratio=0
+    else:
+        ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
+    return ratio
+
+def jacardAdj(sent1,sent2):
+    words1=word_tokenize(sent1)
+    words2=word_tokenize(sent2)
+    words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
+    words_2=[lemmatizer.lemmatize(word.lower()) for word in words2]
+    nouns1=[]
+    for word,pos in nltk.pos_tag(words_1):
+        if pos.startswith('JJ'):
+            nouns1.append(word.lower().strip(string.punctuation))
+    nouns2=[]
+    for word,pos in nltk.pos_tag(words_2):
+        if pos.startswith('JJ'):
+            nouns2.append(word.lower().strip(string.punctuation))
 #     print(nouns1)
 #     print(nouns2)
     if len(set(nouns1).union(nouns2))==0:
@@ -385,5 +520,37 @@ def jacardNouns(sent1,sent2):
 
 
 
+def longestSubsequence(a, b):
+    a=word_tokenize(a)
+    b=word_tokenize(b)
+    lengths = [[0 for j in range(len(b)+1)] for i in range(len(a)+1)]
+    # row 0 and column 0 are initialized to 0 already
+    for i, x in enumerate(a):
+        for j, y in enumerate(b):
+            if x == y:
+                lengths[i+1][j+1] = lengths[i][j] + 1
+            else:
+                lengths[i+1][j+1] = max(lengths[i+1][j], lengths[i][j+1])
+    # read the substring out from the matrix
+    result = ""
+    x, y = len(a), len(b)
+    while x != 0 and y != 0:
+        if lengths[x][y] == lengths[x-1][y]:
+            x -= 1
+        elif lengths[x][y] == lengths[x][y-1]:
+            y -= 1
+        else:
+            assert a[x-1] == b[y-1]
+            result = a[x-1] + " " +result
+            x -= 1
+            y -= 1
+    return result
 
 
+def commonProperNouns(sent1,sent2):
+    sent1_tokens=nltk.pos_tag(word_tokenize(sent1))
+    sent2_tokens=nltk.pos_tag(word_tokenize(sent2))
+    sent1_proper=[word.lower() for (word,tag) in sent1_tokens if tag=='NNP']
+    sent2_proper=[word.lower() for (word,tag) in sent2_tokens if tag=='NNP']
+    common=len(set(sent1_proper).intersection(sent2_proper))
+    return common

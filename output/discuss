@@ -1,0 +1,21 @@
+Pairing: 22
+New Sentence: Every time he got money he got drunk; and every time he got drunk he raised Cain around town; and every time he raised Cain he got jailed.
+Reference: 
+1 And Adam knew Eve his wife; and she conceived, and bare Cain, and
+said, I have gotten a man from the LORD.
+Similar Sentence is from: genesis
+Syntactic Score: 0.791883477812
+Syntactic Similarity without tokens: 0.862099665498
+Semantic Score: 0.729740917683
+Semantic Score without stopwords: 0.63096165657
+LCS Length: 5
+LCS: ; and Cain and . 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.526088654995
+Semantic similarity verbs: 0.521661162376
+
+
+
+
