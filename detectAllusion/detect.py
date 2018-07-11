@@ -432,6 +432,10 @@ class detect:
 		return newTuples
 
 
+	'''
+	A function to write out the tuples along with the sentences into a file
+	'''
+
 	def writeOutput(self,newTuples,text,reducedBooks):
 		f=open(self.output+'nounSortedSentencePairs.txt','w')
 		i=1

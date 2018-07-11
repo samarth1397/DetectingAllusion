@@ -431,7 +431,12 @@ class detectParagraph:
 					syWithoutToken=synWithoutTokenScore_book[k]
 					scoreTuples.append((i,bk,k,sy,sm[0],sm[1],sm[2],sm[3],(sy+sm[1])/2,lscore,lstring,syWithoutToken,sm[4]))
 		return scoreTuples
-
+	
+	'''
+	Every paragraph in the new text has a large list of tuples associated with it. These tuples are sorted in the order of number of common proper nouns and in the case of tie, using the average similarity. 
+	If the first tuple in this pair has an avergae syntactic and semantic similarity greater than the threshhold, then it is added to the final filter of tuples. Currently, this mechanism chooses at most
+	only one paragraph pair for every paragraph in the new text but this filtering mechanism can be changed easily. 
+	'''
 
 	def finalFiltering(self,scoreTuples,reducedParagraphs,threshold=0.89):
 		totalPotentialSentences=0
@@ -459,6 +464,10 @@ class detectParagraph:
 		return finalTuples,diffTuples
 
 
+	'''
+	The final tuples are displayed in decreasing order of the jaccard of common nouns between the paragraphs. 
+	'''
+
 	def nounBasedRanking(self,finalTuples,textPara,reducedParagraphs):
 		newTuples=list()
 		for tup in finalTuples:
@@ -470,6 +479,10 @@ class detectParagraph:
 			newTuples.append(tup+(nounScore,verbScore,adjScore))
 		newTuples.sort(key=itemgetter(13,8),reverse=True)
 		return newTuples
+
+	'''
+	A function to write out the tuples along with the paragraphs into a file
+	'''
 
 	def writeOutput(self,newTuples,textPara,reducedParagraphs):
 		f=open(self.outputFolder+'nounSortedSentencePairs.txt','w')
