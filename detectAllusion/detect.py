@@ -25,13 +25,16 @@ from multiprocessing import Pool
 from nltk import word_tokenize,pos_tag
 from nltk.corpus import wordnet 
 from operator import itemgetter
+import io
 from treeFunctions import *
 from dependencies import *
 
 	
+'''
+A class which contains all the methods required for detecting sentence-level allusions between an input text and a list of candidates
+'''
 
 class detect:
-	
 
 	'''
 	Initialize input folder, output folder, path to dependencies, language for processing and number of available cores
@@ -248,31 +251,71 @@ class detect:
 	semantic similarity of verbs, number of common proper nouns between the two sentences. 
 	'''
 
-	def semanticScoring(self,text,reducedBooks):
-		semanticScore=list()
-		for i in range(len(text)):
-			scoreDict=dict()
-			s1=avg_feature_vector(text[i],model,300,index2word_set)
-			s1ws=avg_feature_vector_without_stopwords(text[i],model,300,index2word_set)
-			s1n=avg_feature_vector_nouns(text[i],model,300,index2word_set)
-			s1v=avg_feature_vector_verbs(text[i],model,300,index2word_set)
-			for bk in self.booksList:
-				df=list()
-				for j in range(len(reducedBooks[bk])):
-					s2=avg_feature_vector(reducedBooks[bk][j],model,300,index2word_set)
-					s2ws=avg_feature_vector_without_stopwords(reducedBooks[bk][j],model,300,index2word_set)
-					s2n=avg_feature_vector_nouns(reducedBooks[bk][j],model,300,index2word_set)
-					s2v=avg_feature_vector_verbs(reducedBooks[bk][j],model,300,index2word_set)
-					semScore=1 - spatial.distance.cosine(s1, s2)
-					semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
-					semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
-					semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
-					properNouns=commonProperNouns(text[i],reducedBooks[bk][j])
-					df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs,properNouns))
+	def semanticScoring(self,text,reducedBooks,monolingual=True,lang1=None,lang2=None):
+		if monolingual:
+			semanticScore=list()
+			for i in range(len(text)):
+				scoreDict=dict()
+				s1=avg_feature_vector(text[i],model,300,index2word_set)
+				s1ws=avg_feature_vector_without_stopwords(text[i],model,300,index2word_set)
+				s1n=avg_feature_vector_nouns(text[i],model,300,index2word_set)
+				s1v=avg_feature_vector_verbs(text[i],model,300,index2word_set)
+				for bk in self.booksList:
+					df=list()
+					for j in range(len(reducedBooks[bk])):
+						s2=avg_feature_vector(reducedBooks[bk][j],model,300,index2word_set)
+						s2ws=avg_feature_vector_without_stopwords(reducedBooks[bk][j],model,300,index2word_set)
+						s2n=avg_feature_vector_nouns(reducedBooks[bk][j],model,300,index2word_set)
+						s2v=avg_feature_vector_verbs(reducedBooks[bk][j],model,300,index2word_set)
+						semScore=1 - spatial.distance.cosine(s1, s2)
+						semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
+						semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
+						semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
+						properNouns=commonProperNouns(text[i],reducedBooks[bk][j])
+						df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs,properNouns))
 
-				scoreDict[bk]=df
-			semanticScore.append(scoreDict)
-		return semanticScore
+					scoreDict[bk]=df
+				semanticScore.append(scoreDict)
+			return semanticScore
+		else:
+			if lang1=='german':
+				path1='/home/users2/mehrotsh/Downloads/wiki.multi.de.vec.txt'
+			if lang1=='english':
+				path1='/home/users2/mehrotsh/Downloads/wiki.multi.en.vec.txt'
+			if lang2=='german':
+				path2='/home/users2/mehrotsh/Downloads/wiki.multi.de.vec.txt'
+			if lang2=='english':
+				path2='/home/users2/mehrotsh/Downloads/wiki.multi.en.vec.txt'
+
+			l1_embeddings, l1_id2word, l1_word2id = load_vec(path1)
+			l2_embeddings, l2_id2word, l2_word2id = load_vec(path2)
+
+			semanticScore=list()
+			for i in range(len(text)):
+				scoreDict=dict()
+				s1=fasttext_avg_feature_vector(text[i],l1_embeddings,300,l1_word2id)
+				s1ws=fasttext_avg_feature_vector_without_stopwords(text[i],l1_embeddings,300,l1_word2id)
+				s1n=fasttext_avg_feature_vector_nouns(text[i],l1_embeddings,300,l1_word2id)
+				s1v=fasttext_avg_feature_vector_verbs(text[i],l1_embeddings,300,l1_word2id)
+				for bk in self.booksList:
+					df=list()
+					for j in range(len(reducedBooks[bk])):
+						s2=fasttext_avg_feature_vector(reducedBooks[bk][j],l2_embeddings,300,l2_word2id)
+						s2ws=fasttext_avg_feature_vector_without_stopwords(reducedBooks[bk][j],l2_embeddings,300,l2_word2id)
+						s2n=fasttext_avg_feature_vector_nouns(reducedBooks[bk][j],l2_embeddings,300,l2_word2id)
+						s2v=fasttext_avg_feature_vector_verbs(reducedBooks[bk][j],l2_embeddings,300,l2_word2id)
+						semScore=1 - spatial.distance.cosine(s1, s2)
+						semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
+						semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
+						semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
+						properNouns=commonProperNouns_multilingual(text[i],reducedBooks[bk][j])
+						df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs,properNouns))
+					scoreDict[bk]=df
+				semanticScore.append(scoreDict)
+			return semanticScore
+
+
+
 
 	'''
 	Calculates the longest common subsequence between sentences from new text and sentences from the reduced books. Returns:
@@ -471,7 +514,7 @@ def main():
 	pickle.dump(syntacticScore, pickling_on)
 
 	print('Semantic scoring')
-	semanticScore=d.semanticScoring(text,reducedBooks)
+	semanticScore=d.semanticScoring(text,reducedBooks,monolingual=False,lang1='english',lang2='english')
 
 	# print('Semantic Score: ',len(semanticScore))
 
