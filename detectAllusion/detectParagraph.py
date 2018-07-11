@@ -29,6 +29,10 @@ from treeFunctionsParagraph import *
 from dependencies import *
 
 
+'''
+a class which can search for allusions between an input text and a set of candidate texts
+'''
+
 class detectParagraph:
 
 	def __init__(self, inputFolder='../data/',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='english',cores=40):
@@ -38,7 +42,12 @@ class detectParagraph:
 		self.booksList=os.listdir(self.potential)
 		self.dependencies=dependencies+'stanford-corenlp-full-2018-02-27/'
 		self.cores=cores
+		self.outputFolder=outputFolder
 
+	'''
+	Loads the 'new' text and splits it into sentences
+	Returns: [sent1,sent2,sent3,.........]
+	'''
 	
 	def loadNew(self):
 		test=os.listdir(self.new)[0]
@@ -50,6 +59,16 @@ class detectParagraph:
 		text=sent_tokenize(text)
 		text = list(filter(lambda x: len(x)>5, text))
 		return text
+
+	'''
+	Loads the candidate texts and splits them into sentences.
+	Returns: 
+	{
+		potential1: [s1,s2,s3,.........]
+		potential2:	[s1,s2,s3,.........]
+
+	}
+	'''
 
 	def loadCandidates(self):
 		books=dict()
@@ -64,6 +83,11 @@ class detectParagraph:
 			candidate = list(filter(lambda x: len(x)>5, candidate))
 			books[file]=candidate
 		return books		
+
+	'''
+	Splits the input text into paragraphs: list of lists of sentences
+	Returns: [[s1,s2,s3],[s2,s3,s4],[...],..........]
+	'''
 
 
 	def splitNewPara(self,text,numOfSents=3):
@@ -82,6 +106,15 @@ class detectParagraph:
 				break
 		return textPara
 
+
+	'''
+	Splits the candidate books into paragraphs:
+	Returns:
+	{
+		potential1:[[s1,s2,s3],[s2,s3,s4],[...],.......]
+		potential2:[[s1,s2,s3],[s2,s3,s4],[...],.......]
+	}
+	'''
 
 	def splitCandidatesPara(self,books,numOfSents=3):
 		booksPara=dict()
@@ -103,6 +136,12 @@ class detectParagraph:
 			booksPara[file]=candidatePara
 		return booksPara
 
+	'''
+	Divides paragraphs into chunks for multiprocessing at the later stages. The number of chunks is equal to the number of cores 
+	Returns: [[p1,p2,p3,p4],[p5,p6,p7,p8],............]. 
+	where, each p: [si,si+1,si+2]
+	'''
+
 	def splitChunks(self,textPara):
 		n = self.cores
 		num = float(len(textPara))/n
@@ -111,7 +150,18 @@ class detectParagraph:
 		return l	
 
 			
-	def filterWithJacard(self,textChunks,booksPara,threshold=0.30):
+	'''
+	A function which reduces the number of paragraphs present in the potential candidates. 
+
+	Returns: 
+	{
+		potential1:[[s1,s2,s3],[s2,s3,s4],[...],.......]
+		potential2:[[s1,s2,s3],[s5,s6,s7],.......]
+	}
+	'''
+
+
+	def filterWithJacard(self,textChunks,booksPara,threshold=0.1):
 
 		mapInput=[(textChunks[i],booksPara,self.booksList) for i in range(len(textChunks))]
 	
@@ -153,6 +203,14 @@ class detectParagraph:
 		return reducedParagraphs
 		
 
+	'''
+	Syntactic parsing of the new book. 
+	Returns 2 data structures.of the form:
+	[chunk1,chuunk2,chunk3,.........]=[[p1,p2,p3,p4],[p5,p6,p7,p8],[......],..........]=
+
+	[[[ptree1,ptree2,ptree3],[ptree2,ptree3,ptree4],[ptree3,ptree4,ptree5],[ptree4,ptree5,ptree6]],[p5,p6,p7,p8]]
+	'''
+
 	def parseNewBook(self,textChunks):
 		# mapInput=[(textChunks[i],self.dependencies) for i in range(len(textChunks))]
 		pool=Pool(processes=self.cores)
@@ -165,6 +223,15 @@ class detectParagraph:
 			parseWithoutTokenTrees.append(results[i][1])
 		pool.close()
 		return parseTrees,parseWithoutTokenTrees
+
+	'''
+	Function to parse the candidates. Each candidate is processed on a separate core. 
+	Returns: 2 dictionaryies of the following format:
+	{
+		potential1=[[ptree1,ptree2,ptree3],[ptree2,ptree3,ptree4],...........]
+		potential2=[[ptree1,ptree2,ptree3],[ptree2,ptree3,ptree4],...........]
+	}
+	'''
 
 	def parseCandidates(self,reducedParagraphs):
 		booksToBeParsed=[reducedParagraphs[bk] for bk in self.booksList]
@@ -179,6 +246,19 @@ class detectParagraph:
 			i=i+1
 		pool.close()
 		return potentialParseTrees,potentialParseWithoutTokenTrees
+
+
+	'''
+	Returns 2 lists after computing the moschitti score between pairs of sentences. 
+	The lists are in the following format: [dict1,dict2,dict3,dict4,............]
+	Each dictionary is in the following format:
+	{
+		potential1:[0.1,0.5,....]
+		potential2:[0.04,0.9,...]
+	}
+
+	The scores represent the average pairwise moschitti score between sentences from two paragraphs
+	'''
 
 	def syntacticScoring(self,parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees):
 		
@@ -207,31 +287,98 @@ class detectParagraph:
 		pool.close()
 		return syntacticScore,syntacticScoreWithoutTokens
 
-	def semanticScoring(self,textPara,reducedParagraphs):
-		semanticScore=list()
-		for i in range(len(textPara)):
-			scoreDict=dict()
-			s1=avg_feature_vector(textPara[i],model,300,index2word_set)
-			s1ws=avg_feature_vector_without_stopwords(textPara[i],model,300,index2word_set)
-			s1n=avg_feature_vector_nouns(textPara[i],model,300,index2word_set)
-			s1v=avg_feature_vector_verbs(textPara[i],model,300,index2word_set)
-			for bk in self.booksList:
-				df=list()
-				for j in range(len(reducedParagraphs[bk])):
-					s2=avg_feature_vector(reducedParagraphs[bk][j],model,300,index2word_set)
-					s2ws=avg_feature_vector_without_stopwords(reducedParagraphs[bk][j],model,300,index2word_set)
-					s2n=avg_feature_vector_nouns(reducedParagraphs[bk][j],model,300,index2word_set)
-					s2v=avg_feature_vector_verbs(reducedParagraphs[bk][j],model,300,index2word_set)
-					semScore=1 - spatial.distance.cosine(s1, s2)
-					semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
-					semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
-					semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
-					properNouns=commonProperNouns(textPara[i],reducedParagraphs[bk][j])
-					df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs,properNouns))
+	'''	
+	Caclualtes the semantic similairty between paragraphs from the new text and paragraphs in reduced books. No multiprocessing in this step yet. 
+	Returns a list of dicitionaries. Each dictionary has the following format:
 
-				scoreDict[bk]=df
-			semanticScore.append(scoreDict)
-		return semanticScore
+	{
+		potential1:[(0.1,0.05,0.5,0.4,2),(),(),.........]
+		potential2:[(0.4,0.15,0.4,0.1,0),(),(),.........]
+		
+	}, i.e. values are a list of tuples where each tuple has the following similarity metrics: semantic similarity, semantic similarity without stop words, semantic similarity of nouns, 
+	semantic similarity of verbs, number of common proper nouns between the two paragraphs. 
+	'''
+	
+	def semanticScoring(self,textPara,reducedParagraphs,monolingual=True,lang1=None,lang2=None):
+		if monolingual:
+			semanticScore=list()
+			for i in range(len(textPara)):
+				scoreDict=dict()
+				s1=avg_feature_vector(textPara[i],model,300,index2word_set)
+				s1ws=avg_feature_vector_without_stopwords(textPara[i],model,300,index2word_set)
+				s1n=avg_feature_vector_nouns(textPara[i],model,300,index2word_set)
+				s1v=avg_feature_vector_verbs(textPara[i],model,300,index2word_set)
+				for bk in self.booksList:
+					df=list()
+					for j in range(len(reducedParagraphs[bk])):
+						s2=avg_feature_vector(reducedParagraphs[bk][j],model,300,index2word_set)
+						s2ws=avg_feature_vector_without_stopwords(reducedParagraphs[bk][j],model,300,index2word_set)
+						s2n=avg_feature_vector_nouns(reducedParagraphs[bk][j],model,300,index2word_set)
+						s2v=avg_feature_vector_verbs(reducedParagraphs[bk][j],model,300,index2word_set)
+						semScore=1 - spatial.distance.cosine(s1, s2)
+						semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
+						semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
+						semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
+						properNouns=commonProperNouns(textPara[i],reducedParagraphs[bk][j])
+						df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs,properNouns))
+
+					scoreDict[bk]=df
+				semanticScore.append(scoreDict)
+			return semanticScore
+		else:
+			if lang1=='german':
+				path1='/home/users2/mehrotsh/Downloads/wiki.multi.de.vec.txt'
+			if lang1=='english':
+				path1='/home/users2/mehrotsh/Downloads/wiki.multi.en.vec.txt'
+			if lang2=='german':
+				path2='/home/users2/mehrotsh/Downloads/wiki.multi.de.vec.txt'
+			if lang2=='english':
+				path2='/home/users2/mehrotsh/Downloads/wiki.multi.en.vec.txt'
+
+			l1_embeddings, l1_id2word, l1_word2id = load_vec(path1)
+			l2_embeddings, l2_id2word, l2_word2id = load_vec(path2)
+
+			semanticScore=list()
+			for i in range(len(textPara)):
+				scoreDict=dict()
+				s1=fasttext_avg_feature_vector(textPara[i],l1_embeddings,300,l1_word2id)
+				s1ws=fasttext_avg_feature_vector_without_stopwords(textPara[i],l1_embeddings,300,l1_word2id)
+				s1n=fasttext_avg_feature_vector_nouns(textPara[i],l1_embeddings,300,l1_word2id)
+				s1v=fasttext_avg_feature_vector_verbs(textPara[i],l1_embeddings,300,l1_word2id)
+				for bk in self.booksList:
+					df=list()
+					for j in range(len(reducedParagraphs[bk])):
+						s2=fasttext_avg_feature_vector(reducedParagraphs[bk][j],l2_embeddings,300,l2_word2id)
+						s2ws=fasttext_avg_feature_vector_without_stopwords(reducedParagraphs[bk][j],l2_embeddings,300,l2_word2id)
+						s2n=fasttext_avg_feature_vector_nouns(reducedParagraphs[bk][j],l2_embeddings,300,l2_word2id)
+						s2v=fasttext_avg_feature_vector_verbs(reducedParagraphs[bk][j],l2_embeddings,300,l2_word2id)
+						semScore=1 - spatial.distance.cosine(s1, s2)
+						semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
+						semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
+						semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
+						properNouns=commonProperNouns_multilingual(textPara[i],reducedParagraphs[bk][j])
+						df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs,properNouns))
+					scoreDict[bk]=df
+				semanticScore.append(scoreDict)
+			return semanticScore
+
+	'''
+	Calculates the longest common subsequence between paragraphs from new text and paragraphs from the reduced books. Returns:
+	lcsScore: list of dictionaries: Each dictionary is of the following format: 
+	{
+		potential1:[3,0,2,...........]
+		potential2:[0,2,1............] 
+
+	}
+
+	lcs: list of dictionaries: Each dictionary is of the following format: 
+	{
+		potential1:['so they human','','yes we',...........]
+		potential2:['','we can','no',........]
+
+	}
+	'''
+
 
 
 	def longestSubsequenceScoring(self,textPara,reducedParagraphs):
@@ -253,6 +400,14 @@ class detectParagraph:
 			lcs.append(scoreDict_lcs)
 			lcsScore.append(scoreDict_lcsScore)
 		return (lcsScore,lcs)
+
+	'''
+	A function to aggregate all the scoring mechanisms used till now. Returns a list of tuples. 
+	Each tuple is in the following format: 
+	(sentenceNumber, refBook, sentenceNumber in the ref,syntactic similarity, semantic similarity, semantic similarity without stopwords, semantic similarity nouns, semantic similarity verbs, average similairty, lcs length, lcs, 
+	syntactic similarity without tokens, common proper nouns, jaccard nouns, jaccard verbs, jaccard adjectives)
+	'''
+
 
 	def aggregateScoring(self,syntacticScore,semanticScore,lcsScore,lcsString,syntacticScoreWithoutTokens):
 		scoreTuples=list()
@@ -307,8 +462,6 @@ class detectParagraph:
 	def nounBasedRanking(self,finalTuples,textPara,reducedParagraphs):
 		newTuples=list()
 		for tup in finalTuples:
-			print(tup[0])
-			print(len(textPara))
 			originalSent=textPara[tup[0]]
 			refSent=reducedParagraphs[tup[1]][tup[2]]
 			nounScore=jacardNouns(originalSent,refSent)

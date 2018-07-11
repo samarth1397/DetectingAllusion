@@ -565,3 +565,121 @@ def commonProperNouns(sent1,sent2):
     sent2_proper=[word.lower() for (word,tag) in sent2_tokens if tag=='NNP']
     common=len(set(sent1_proper).intersection(sent2_proper))
     return common
+
+
+'''
+Loading fast text multilingual word vectors
+'''
+
+def load_vec(emb_path, nmax=50000):
+    vectors = []
+    word2id = {}
+    with io.open(emb_path, 'r', encoding='utf-8', newline='\n', errors='ignore') as f:
+        next(f)
+        for i, line in enumerate(f):
+            word, vect = line.rstrip().split(' ', 1)
+            vect = np.fromstring(vect, sep=' ')
+            assert word not in word2id, 'word found twice'
+            vectors.append(vect)
+            word2id[word] = len(word2id)
+            if len(word2id) == nmax:
+                break
+    id2word = {v: k for k, v in word2id.items()}
+    embeddings = np.vstack(vectors)
+    return embeddings, id2word, word2id
+
+'''
+average fast text vector
+'''
+def fasttext_avg_feature_vector(sentence, embeddings, num_features, word2idset):
+    words=tokenizer.tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # words = sentence.split()
+    # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
+    feature_vec = np.zeros((num_features, ), dtype='float32')
+    n_words = 0
+    for word in words:
+        if word in word2idset:
+            n_words += 1
+            feature_vec = np.add(feature_vec, embeddings[word2idset[word]])
+    if (n_words > 0):
+        feature_vec = np.divide(feature_vec, n_words)
+    return feature_vec  
+
+'''
+average fast text vector without stopwords
+'''
+
+def fasttext_avg_feature_vector_without_stopwords(sentence, embeddings, num_features, word2idset):
+    words=tokenizer.tokenize(sentence)
+    words = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in words if lemmatizer.lemmatize(token.lower().strip(string.punctuation)) not in stopwords]
+    # words = sentence.split()
+    # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
+    feature_vec = np.zeros((num_features, ), dtype='float32')
+    n_words = 0
+    for word in words:
+        if word in word2idset:
+            n_words += 1
+            feature_vec = np.add(feature_vec, embeddings[word2idset[word]])
+    if (n_words > 0):
+        feature_vec = np.divide(feature_vec, n_words)
+    return feature_vec  
+
+'''
+average fast text vector, nouns only; change pos-tagger to multilingual pos-tagger
+'''
+def fasttext_avg_feature_vector_nouns(sentence, embeddings, num_features, word2idset):
+    words=tokenizer.tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # words = sentence.split()
+    # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
+    nouns=[]
+    for word,pos in nltk.pos_tag(words):
+        if pos.startswith('NN'):
+            nouns.append(word.lower().strip(string.punctuation))  
+    feature_vec = np.zeros((num_features, ), dtype='float32')
+    n_words = 0
+    for word in words:
+        if word in word2idset:
+            n_words += 1
+            feature_vec = np.add(feature_vec, embeddings[word2idset[word]])
+    if (n_words > 0):
+        feature_vec = np.divide(feature_vec, n_words)
+    return feature_vec  
+
+
+'''
+average fast text vector, verbs only; change pos-tagger to multilingual pos-tagger
+'''
+def fasttext_avg_feature_vector_verbs(sentence, embeddings, num_features, word2idset):
+    words=tokenizer.tokenize(sentence)
+    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # words = sentence.split()
+    # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
+    nouns=[]
+    for word,pos in nltk.pos_tag(words):
+        if pos.startswith('VB'):
+            nouns.append(word.lower().strip(string.punctuation))  
+    feature_vec = np.zeros((num_features, ), dtype='float32')
+    n_words = 0
+    for word in words:
+        if word in word2idset:
+            n_words += 1
+            feature_vec = np.add(feature_vec, embeddings[word2idset[word]])
+    if (n_words > 0):
+        feature_vec = np.divide(feature_vec, n_words)
+    return feature_vec  
+
+
+'''
+Returns the number of common proper nouns between the two sentences; change pos tagger to support multilingual tagging
+'''
+
+def commonProperNouns_multilingual(sent1,sent2):
+    sent1_tokens=nltk.pos_tag(tokenizer.tokenize(sent1))
+    sent2_tokens=nltk.pos_tag(tokenizer.tokenize(sent2))
+    sent1_proper=[word.lower() for (word,tag) in sent1_tokens if ((tag=='NNP') and (word not in stopwords))]
+    sent2_proper=[word.lower() for (word,tag) in sent2_tokens if ((tag=='NNP') and (word not in stopwords))]
+    common=len(set(sent1_proper).intersection(sent2_proper))
+    return common
+
