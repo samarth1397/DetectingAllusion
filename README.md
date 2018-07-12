@@ -20,7 +20,7 @@ If a sentence in the potential candidates does not have a minimum (user-defined)
 # Initial Setup
 * Download pre-trained google word2vec vectors 
 * Download Stanford NLP 
-# Variables and Data Structures that you will encounter 
+# Variables and Data Structures 
 * text: a list of sentences (new book): [sent1,sent2,sent3,.....]
 * books: a dicitionary where the key is a name of potential book and the value is a list of sentences.
   {book1:[sent1,sent2,....];book2:[....];......}
