@@ -295,7 +295,7 @@ def removeTokens(tr,sent):
     return tr
 
 '''
-Jaccard score between two sentences; used for initial filtering
+Jaccard score between two paragraphs; used for initial filtering; stopwords are removed and words are lemmatized
 '''
 
 def jacardScore(a, b):
@@ -307,6 +307,19 @@ def jacardScore(a, b):
         ratio = len(set(tokens_a).intersection(tokens_b)) / float(len(set(tokens_a).union(tokens_b)))
     return ratio    
 
+
+'''
+Calculates the jaccard score for each paragrapg in the chunk against all sentences in the potential texts. 
+Returns: a list of dictionaries: [dict1,dict2,dict3....]
+
+Each dict looks like this:
+{   potential1:[0.1,0.0,0.3,0.9,.......];
+    potential2:[0.2,0.5,...............];
+    .
+    .
+}
+
+'''
 
 def calcJacardChunk(chunkTuples):
     # print('computing chunk')
@@ -324,6 +337,17 @@ def calcJacardChunk(chunkTuples):
             scoresDict[book]=bookScore
         scoresChunk.append(scoresDict)
     return scoresChunk
+
+
+
+'''
+A function to parse every paragraph in this chunk. 
+Returns 2 lists: 
+parseChunk: a list of parse trees of paragraphs in the chunk: [parseTreeForPara1,parseTreeForPara2,parseTreeForPara3,.......]; each parseTreeForPara looks like this:
+[pTreeSent1,pTreeSent2,pTreeSent3]
+parseWithoutTokenChunk: a list of parse trees without the tokens for every paragraph in the chunk
+'''
+
 
 
 def parseNewText(paraChunk):
@@ -349,7 +373,14 @@ def parseNewText(paraChunk):
         parseWithoutTokenChunk.append(paraWithoutTokenParse)
     return parseChunk,parseWithoutTokenChunk   
 
-
+'''
+Parse every sentence in the candidate. 
+Returns 2 lists:
+pTrees: a list of parse trees of paragraphs in the candidate book: Returns a structure like this:
+[parseTreeForPara1,parseTreeForPara2,parseTreeForPara3,.......]; each parseTreeForPara looks like this:
+[pTreeSent1,pTreeSent2,pTreeSent3]
+pWithoutTokenTrees: a list of parse trees without the tokens for every paragraph in the candidate
+'''
     
 def parseCandidateBooks(candidate):
     pTrees=list()
@@ -372,7 +403,18 @@ def parseCandidateBooks(candidate):
         pWithoutTokenTrees.append(sentWithoutTokenTrees)
     return pTrees,pWithoutTokenTrees
 
+'''
+Syntactic scoring between a chunk of parse trees from new text and all the parse trees of the potential candidates. 
+Returns a list of dictionaries: [dict1, dict2, dict3, ............]
+Each dictionary is of the following format:
+{
+    potential1: [0.9,0.072,0.64,............]
+    potential2: [0.7,0,9,0.4................]
+}
+,i.e. keys are names of potential books and the corresponding value is a list of syntactic similarity between the paragraph from the chunk and all the paragraph in the potential candidate.
 
+Syntactic similarity between two paragraphs is calculated as the average moschitti score between all sentence pairs.
+'''
 def scoreSyntax(chunkTuple):
     trChunks=chunkTuple[0]
     potentialParseTrees=chunkTuple[1]
@@ -395,6 +437,11 @@ def scoreSyntax(chunkTuple):
             sentScoreDict[book]=df
         chunkDicts.append(sentScoreDict)
     return chunkDicts
+
+'''
+Returns the average word vector of the paragrapgh using the pretrained word2vec model
+'''
+
 def avg_feature_vector(sentence, model, num_features, index2word_set):
     words=tokenizer.tokenize(sentence)
     words=[lemmatizer.lemmatize(word.lower()) for word in words]
@@ -410,6 +457,10 @@ def avg_feature_vector(sentence, model, num_features, index2word_set):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
 
+'''
+Returns the average word vector of the paragraph after the removal of stopwords using the pretrained word2vec model
+'''
+
 def avg_feature_vector_without_stopwords(sentence, model, num_features, index2word_set):
     words=tokenizer.tokenize(sentence)
     # words = sentence.split()
@@ -423,6 +474,11 @@ def avg_feature_vector_without_stopwords(sentence, model, num_features, index2wo
     if (n_words > 0):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
+
+
+'''
+Returns the average word vector of the nouns in the paragraph using the pretrained word2vec model
+'''
 
 def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
     words=tokenizer.tokenize(sentence)
@@ -444,6 +500,11 @@ def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
 
+
+'''
+Returns the average word vector of the verbs in the paragraph using the pretrained word2vec model
+'''
+
 def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
     words=tokenizer.tokenize(sentence)
     words=[lemmatizer.lemmatize(word.lower()) for word in words]
@@ -464,7 +525,9 @@ def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
 
-
+'''
+Returns the jaccard index of nouuns in the two paragraphs
+'''
 
 def jacardNouns(sent1,sent2):
     words1=tokenizer.tokenize(sent1)
@@ -487,6 +550,11 @@ def jacardNouns(sent1,sent2):
         ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
     return ratio
 
+
+'''
+Returns the jaccard index of verbs in the two paragraphs
+'''
+
 def jacardVerbs(sent1,sent2):
     words1=tokenizer.tokenize(sent1)
     words2=tokenizer.tokenize(sent2)
@@ -507,6 +575,11 @@ def jacardVerbs(sent1,sent2):
     else:
         ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
     return ratio
+
+
+'''
+Returns the jaccard index of adjectives in the two paragraphs
+'''
 
 def jacardAdj(sent1,sent2):
     words1=tokenizer.tokenize(sent1)
@@ -529,6 +602,10 @@ def jacardAdj(sent1,sent2):
         ratio = len(set(nouns1).intersection(nouns2)) / float(len(set(nouns1).union(nouns2)))        
     return ratio
 
+
+'''
+Returns the longest subsequence of words between the two paragraphs
+'''
 
 
 def longestSubsequence(a, b):
@@ -557,6 +634,9 @@ def longestSubsequence(a, b):
             y -= 1
     return result
 
+'''
+Returns the number of common proper nouns between the two paragraphs
+'''
 
 def commonProperNouns(sent1,sent2):
     sent1_tokens=nltk.pos_tag(tokenizer.tokenize(sent1))
