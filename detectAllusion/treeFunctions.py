@@ -32,9 +32,7 @@ import io
 #Useful functions
 
 '''
-
-Creating a parse tree 
-
+Parse trees will stored as default dictionaries
 '''
 
 def tree(): 
@@ -50,6 +48,11 @@ def _findParent_(curIndent, parid, treeRef):
         tmpid = treeRef[tmpid]['parid']
     return tmpid
 
+
+
+'''
+A function to convert Stanford NLP tokens and tags into default dictionaries
+'''
 
 def generateTree(rawTokens, treeRef):
 
