@@ -85,6 +85,27 @@ class detectParagraph:
 		return books		
 
 	'''
+	temp
+	'''
+
+	def spacyExtract(self,textChunks,books):
+		spacyTextChunks=[]
+		for chunk in textChunks:
+			l=[]
+			for sent in chunk:
+				l.append(sp(sent))
+			spacyTextChunks.append(l)
+
+		spacyBooks=dict()
+		for book in self.booksList:
+			l=[]
+			for sent in books[book]:
+				l.append(sp(sent))
+			spacyBooks[book]=l
+
+		return spacyTextChunks,spacyBooks
+
+	'''
 	Splits the input text into paragraphs: list of lists of sentences
 	Returns: [[s1,s2,s3],[s2,s3,s4],[...],..........]
 	'''
@@ -161,7 +182,7 @@ class detectParagraph:
 	'''
 
 
-	def filterWithJacard(self,textChunks,booksPara,threshold=0.1):
+	def filterWithJacard(self,textChunks,booksPara,threshold=0.15):
 
 		mapInput=[(textChunks[i],booksPara,self.booksList) for i in range(len(textChunks))]
 	
@@ -538,13 +559,17 @@ def main():
 
 	textChunks=d.splitChunks(textPara)
 
-	print(len(textPara))
-	print(len(textChunks))
+	'''
+		print(len(textPara))
+		print(len(textChunks))
 
-	s=0
-	for i in textChunks:
-		s=s+len(i)
-	print(s)
+		s=0
+		for i in textChunks:
+			s=s+len(i)
+		print(s)
+	'''
+	print('spacy')
+	textChunks,books=d.spacyExtract(textChunks,books)
 	
 	
 	print('Filtering using Jaccard')

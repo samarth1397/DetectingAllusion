@@ -328,7 +328,7 @@ class detect:
 
 	lcs: list of dictionaries: Each dictionary is of the following format: 
 	{
-		potential1:['so they human','','yes we',...........]
+		potential1:[s'o they human','','yes we',...........]
 		potential2:['','we can','no',........]
 
 	}
@@ -358,7 +358,7 @@ class detect:
 	A function to aggregate all the scoring mechanisms used till now. Returns a list of tuples. 
 	Each tuple is in the following format: 
 	(sentenceNumber, refBook, sentenceNumber in the ref,syntactic similarity, semantic similarity, semantic similarity without stopwords, semantic similarity nouns, semantic similarity verbs, average similairty, lcs length, lcs, 
-	syntactic similarity without tokens, common proper nouns, jaccard nouns, jaccard verbs, jaccard adjectives)
+	syntactic similarity without tokens, common proper nouns), 
 	'''
 
 	def aggregateScoring(self,syntacticScore,semanticScore,lcsScore,lcsString,syntacticScoreWithoutTokens):
@@ -417,7 +417,7 @@ class detect:
 		return finalTuples,diffTuples
 
 	'''
-	The final tuples are displayed in decreasing order of the jaccard of common nouns between the sentences. 
+	The final tuples are displayed in decreasing order of the jaccard of common nouns between the sentences. jaccard nouns, jaccard verbs, jaccard adjectives)
 	'''
 	def nounBasedRanking(self,finalTuples,text,reducedBooks):
 		newTuples=list()
@@ -518,7 +518,7 @@ def main():
 	pickle.dump(syntacticScore, pickling_on)
 
 	print('Semantic scoring')
-	semanticScore=d.semanticScoring(text,reducedBooks,monolingual=False,lang1='english',lang2='english')
+	semanticScore=d.semanticScoring(text,reducedBooks,monolingual=True,lang1='english',lang2='english')
 
 	# print('Semantic Score: ',len(semanticScore))
 

@@ -319,7 +319,7 @@ Calculates the jaccard score for each sentence in the chunk against all sentence
 Returns: a list of dictionaries: [dict1,dict2,dict3....]
 
 Each dict looks like this:
-{	potential1:[0.1,0.0,0.3,0.9,.......];
+{	potential1:[0.1,0.0,0.3,0.9,....];
 	potential2:[0.2,0.5,...............];
 	.
 	.
