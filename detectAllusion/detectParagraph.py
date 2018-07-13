@@ -84,26 +84,7 @@ class detectParagraph:
 			books[file]=candidate
 		return books		
 
-	'''
-	temp
-	'''
 
-	def spacyExtract(self,textChunks,books):
-		spacyTextChunks=[]
-		for chunk in textChunks:
-			l=[]
-			for sent in chunk:
-				l.append(sp(sent))
-			spacyTextChunks.append(l)
-
-		spacyBooks=dict()
-		for book in self.booksList:
-			l=[]
-			for sent in books[book]:
-				l.append(sp(sent))
-			spacyBooks[book]=l
-
-		return spacyTextChunks,spacyBooks
 
 	'''
 	Splits the input text into paragraphs: list of lists of sentences
@@ -568,10 +549,7 @@ def main():
 			s=s+len(i)
 		print(s)
 	'''
-	print('spacy')
-	textChunks,books=d.spacyExtract(textChunks,books)
-	
-	
+
 	print('Filtering using Jaccard')
 	reducedBooks=d.filterWithJacard(textChunks,booksPara,threshold=0.2)
 	pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")

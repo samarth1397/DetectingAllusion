@@ -306,21 +306,29 @@ def removeTokens(tr,sent):
 Jaccard score between two sentences; used for initial filtering
 '''
 def jacardScore(a, b):
-    tokens_a = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
-    tokens_b = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
+    # tokens_a = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
+    # tokens_b = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
+    
+    # tokens_a=[token.lower().strip(string.punctuation) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
+    # tokens_b=[token.lower().strip(string.punctuation) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
+
+    # a=sp(a,disable=['parser','ner','textcat','entity'])
+    # b=sp(b,disable=['parser','ner','textcat','entity'])
+    tokens_a=[token.lemma_.lower() for token in a if token.lemma_.lower() not in stopwords]
+    tokens_b=[token.lemma_.lower() for token in b if token.lemma_.lower() not in stopwords]
+
     if len(set(tokens_a).union(tokens_b))==0:
         ratio=0
     else:
         ratio = len(set(tokens_a).intersection(tokens_b)) / float(len(set(tokens_a).union(tokens_b)))
     return ratio    
-
 '''
 Calculates the jaccard score for each sentence in the chunk against all sentences in the potential texts. 
 Returns: a list of dictionaries: [dict1,dict2,dict3....]
 
 Each dict looks like this:
 {	potential1:[0.1,0.0,0.3,0.9,....];
-	potential2:[0.2,0.5,...............];
+	potential2:[0.2,0.5,...............];xc
 	.
 	.
 }
@@ -435,13 +443,19 @@ def scoreSyntax(chunkTuple):
     return chunkDicts
 
 '''
-Returns the average word vector of the sentence using the pretrained word2vec model
+Returns the average word vector of the paragrapgh using the pretrained word2vec model
 '''
 
-
 def avg_feature_vector(sentence, model, num_features, index2word_set):
-    words=tokenizer.tokenize(sentence)
-    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # English
+    # words=tokenizer.tokenize(sentence)
+    # words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    
+    # German
+    # a=sp(sentence,disable=['parser','ner','textcat','entity'])
+    words=[token.lemma_.lower() for token in sentence if token.pos_ != 'PUNCT']
+
+    # words=[word.lower() for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
     feature_vec = np.zeros((num_features, ), dtype='float32')
@@ -454,15 +468,20 @@ def avg_feature_vector(sentence, model, num_features, index2word_set):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
 
-
 '''
-Returns the average word vector of the sentence after the removal of stopwords using the pretrained word2vec model
+Returns the average word vector of the paragraph after the removal of stopwords using the pretrained word2vec model
 '''
 
 def avg_feature_vector_without_stopwords(sentence, model, num_features, index2word_set):
-    words=tokenizer.tokenize(sentence)
-    # words = sentence.split()
-    words = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in words if lemmatizer.lemmatize(token.lower().strip(string.punctuation)) not in stopwords]
+    # English
+    # words=tokenizer.tokenize(sentence)
+    # words = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in words if token.lower().strip(string.punctuation) not in stopwords]
+    # words = [token.lower().strip(string.punctuation) for token in words if token.lower().strip(string.punctuation) not in stopwords]
+
+    # German
+    # a=sp(sentence,disable=['parser','ner','textcat','entity'])
+    words=[token.lemma_.lower() for token in sentence if token.lemma_.lower() not in stopwords]
+
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0
     for word in words:
@@ -475,18 +494,27 @@ def avg_feature_vector_without_stopwords(sentence, model, num_features, index2wo
 
 
 '''
-Returns the average word vector of the nouns in the sentence using the pretrained word2vec model
+Returns the average word vector of the nouns in the paragraph using the pretrained word2vec model
 '''
 
 def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
-    words=tokenizer.tokenize(sentence)
-    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    
+    # English
+    # words=tokenizer.tokenize(sentence)
+    # words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # words=[word.lower() for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
+    '''
     nouns=[]
     for word,pos in nltk.pos_tag(words):
         if pos.startswith('NN'):
             nouns.append(word.lower().strip(string.punctuation))   
+    '''
+
+    # German
+    # a=sp(sentence,disable=['parser','ner','textcat','entity'])
+    nouns=[token.lemma_.lower() for token in sentence if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN')) ]
 
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0
@@ -496,22 +524,33 @@ def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
             feature_vec = np.add(feature_vec, model[word])
     if (n_words > 0):
         feature_vec = np.divide(feature_vec, n_words)
-    return feature_vec 
+    return feature_vec  
 
 
 '''
-Returns the average word vector of the verbs in the sentence using the pretrained word2vec model
+Returns the average word vector of the verbs in the paragraph using the pretrained word2vec model
 '''
 
 def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
-    words=tokenizer.tokenize(sentence)
-    words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    
+    # English
+    # words=tokenizer.tokenize(sentence)
+    # words=[lemmatizer.lemmatize(word.lower()) for word in words]
+    # words=[word.lower() for word in words]
     # words = sentence.split()
     # words = [token.lower().strip(string.punctuation) for token in tokenizer.tokenize(sentence) if token.lower().strip(string.punctuation) not in stopwords]
+    
+    '''
     verbs=[]
     for word,pos in nltk.pos_tag(words):
         if pos.startswith('VB'):
             verbs.append(word.lower().strip(string.punctuation))   
+    
+    '''
+
+    # German
+    # a=sp(sentence,disable=['parser','ner','textcat','entity'])
+    verbs=[token.lemma_.lower() for token in sentence if token.pos_ == 'VERB']
 
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0
@@ -523,13 +562,14 @@ def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
         feature_vec = np.divide(feature_vec, n_words)
     return feature_vec  
 
-
 '''
-Returns the jaccard index of nouns in the two sentences
+Returns the jaccard index of nouuns in the two paragraphs
 '''
-
 
 def jacardNouns(sent1,sent2):
+    
+    # English
+    '''
     words1=tokenizer.tokenize(sent1)
     words2=tokenizer.tokenize(sent2)
     words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
@@ -542,8 +582,15 @@ def jacardNouns(sent1,sent2):
     for word,pos in nltk.pos_tag(words_2):
         if pos.startswith('NN'):
             nouns2.append(word.lower().strip(string.punctuation))
-#     print(nouns1)
-#     print(nouns2)
+    '''
+
+    # German
+    # a=sp(sent1,disable=['parser','ner','textcat','entity'])
+    nouns1=[token.lemma_.lower() for token in sent1 if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN'))]
+    # b=sp(sent2)
+    noun2=[token.lemma_.lower() for token in sent2 if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN'))]
+
+
     if len(set(nouns1).union(nouns2))==0:
         ratio=0
     else:
@@ -552,10 +599,13 @@ def jacardNouns(sent1,sent2):
 
 
 '''
-Returns the jaccard index of nouns in the two sentences
+Returns the jaccard index of verbs in the two paragraphs
 '''
 
 def jacardVerbs(sent1,sent2):
+
+    # English
+    '''
     words1=tokenizer.tokenize(sent1)
     words2=tokenizer.tokenize(sent2)
     words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
@@ -568,8 +618,14 @@ def jacardVerbs(sent1,sent2):
     for word,pos in nltk.pos_tag(words_2):
         if pos.startswith('VB'):
             nouns2.append(word.lower().strip(string.punctuation))
-#     print(nouns1)
-#     print(nouns2)
+    '''
+    
+    # German
+    # a=sp(sent1,disable=['parser','ner','textcat','entity'])
+    nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'VERB']
+    b=sp(sent2)
+    nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'VERB']
+
     if len(set(nouns1).union(nouns2))==0:
         ratio=0
     else:
@@ -578,10 +634,13 @@ def jacardVerbs(sent1,sent2):
 
 
 '''
-Returns the jaccard index of adjectives in the two sentences
+Returns the jaccard index of adjectives in the two paragraphs
 '''
 
 def jacardAdj(sent1,sent2):
+
+    # English
+    '''
     words1=tokenizer.tokenize(sent1)
     words2=tokenizer.tokenize(sent2)
     words_1=[lemmatizer.lemmatize(word.lower()) for word in words1]
@@ -594,8 +653,12 @@ def jacardAdj(sent1,sent2):
     for word,pos in nltk.pos_tag(words_2):
         if pos.startswith('JJ'):
             nouns2.append(word.lower().strip(string.punctuation))
-#     print(nouns1)
-#     print(nouns2)
+    '''
+    # a=sp(sent1,disable=['parser','ner','textcat','entity'])
+    nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'ADJ']
+    # b=sp(sent2,disable=['parser','ner','textcat','entity'])
+    nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'ADj']
+
     if len(set(nouns1).union(nouns2))==0:
         ratio=0
     else:
@@ -604,7 +667,7 @@ def jacardAdj(sent1,sent2):
 
 
 '''
-Returns the longest subsequence of words between the two sentences
+Returns the longest subsequence of words between the two paragraphs
 '''
 
 
@@ -634,18 +697,28 @@ def longestSubsequence(a, b):
             y -= 1
     return result
 
-
 '''
-Returns the number of common proper nouns between the two sentences
+Returns the number of common proper nouns between the two paragraphs
 '''
 
 def commonProperNouns(sent1,sent2):
+
+    # English
+    '''
     sent1_tokens=nltk.pos_tag(tokenizer.tokenize(sent1))
     sent2_tokens=nltk.pos_tag(tokenizer.tokenize(sent2))
-    sent1_proper=[word.lower() for (word,tag) in sent1_tokens if ((tag=='NNP') and (word not in stopwords))]
-    sent2_proper=[word.lower() for (word,tag) in sent2_tokens if ((tag=='NNP') and (word not in stopwords))]
+    sent1_proper=[word.lower() for (word,tag) in sent1_tokens if tag=='NNP']
+    sent2_proper=[word.lower() for (word,tag) in sent2_tokens if tag=='NNP']
+    '''
+
+    # German
+    # a=sp(sent1,disable=['parser','ner','textcat','entity'])
+    sent1_proper=[token.lemma_.lower() for token in sent1 if token.pos_ == 'PROPN']
+    # b=sp(sent2,disable=['parser','ner','textcat','entity'])
+    sent2_proper=[token.lemma_.lower() for token in sent2 if token.pos_ == 'PROPN']
     common=len(set(sent1_proper).intersection(sent2_proper))
     return common
+
 
 
 '''

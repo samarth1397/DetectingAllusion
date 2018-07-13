@@ -96,6 +96,28 @@ class detect:
 		l.append(text[(n-1)*int(num):])
 		return l	
 	
+	'''
+	temp
+	'''
+
+	def spacyExtract(self,textChunks,books):
+		spacyTextChunks=[]
+		for chunk in textChunks:
+			l=[]
+			for sent in chunk:
+				l.append(sp(sent))
+			spacyTextChunks.append(l)
+
+		spacyBooks=dict()
+		for book in self.booksList:
+			l=[]
+			for sent in books[book]:
+				l.append(sp(sent))
+			spacyBooks[book]=l
+
+		return spacyTextChunks,spacyBooks
+
+
 
 	'''		
 	Uses the calcJacardChunk function from treefunctions.py. Each chunk of the input text is processed on a new core. The threshold decided the minimum jaccard coefficient for 
@@ -140,11 +162,25 @@ class detect:
 		for book in self.booksList:
 			for sent in reducedSentences[book]:
 				reducedBooks[book].append(books[book][sent])
-  
+	
 		pool.close()
+		return reducedBooks,reducedSentences
+
+	'''
+	Temporary; refactor later
+	'''
+
+	def filterOriginalBooks(self,reducedSentences,books):
+		reducedBooks=dict()
+		for book in self.booksList:
+			reducedBooks[book]=list()
+	
+		for book in self.booksList:
+			for sent in reducedSentences[book]:
+				reducedBooks[book].append(books[book][sent])
+	
 		return reducedBooks
 		
-
 	'''
 	A function to extend the stopwords list to ignore very common proper nouns, for example 'God'
 	'''
@@ -483,12 +519,18 @@ def main():
 	books=d.loadCandidates()
 	textChunks=d.splitChunks(text)
 
-	d.extendStopwords(text)
+	# d.extendStopwords(text)
 	
+	print('spacy')
+	spacyTextChunks,spacyBooks=d.spacyExtract(textChunks,books)
+
 	print('Filtering using Jaccard')
-	reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.2)
-	pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")
-	pickle.dump(reducedBooks, pickling_on)
+	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooks,threshold=0.2)
+	# pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")
+	# pickle.dump(reducedBooks, pickling_on)
+
+	reducedBooks=d.filterOriginalBooks(reducedSentences,books)
+
 
 	# print('Text: ',len(text))
 	# print('original is',len(books['isaiah']))
@@ -517,8 +559,14 @@ def main():
 	pickling_on = open('../output/'+'temp/allScores.pickle',"wb")
 	pickle.dump(syntacticScore, pickling_on)
 
+	spacyText=[]
+	for chunk in spacyTextChunks:
+		for sent in chunk:
+			spacyText.append(sent)
+
+
 	print('Semantic scoring')
-	semanticScore=d.semanticScoring(text,reducedBooks,monolingual=True,lang1='english',lang2='english')
+	semanticScore=d.semanticScoring(spacyText,reducedSpacyBooks,monolingual=True,lang1='english',lang2='english')
 
 	# print('Semantic Score: ',len(semanticScore))
 
@@ -538,7 +586,7 @@ def main():
 	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
 	if len(finalTuples)>100:
 		finalTuples=finalTuples[0:100]
-	orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
+	orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
 	
 	pickling_on = open('../output/'+'temp/orderedTuples.pickle',"wb")
 	pickle.dump(orderedTuples, pickling_on)
@@ -572,8 +620,8 @@ def main():
 
 	print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
 
-	diffTuples=d.nounBasedRanking(diffTuples,text,reducedBooks)
-	d.writeOutput(diffTuples,text,reducedBooks)
+	# diffTuples=d.nounBasedRanking(diffTuples,text,reducedBooks)
+	# d.writeOutput(diffTuples,text,reducedBooks)
 	pickling_on = open('../output/'+'temp/diffTuples.pickle',"wb")
 	pickle.dump(diffTuples, pickling_on)
 '''
