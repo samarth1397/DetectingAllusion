@@ -61,7 +61,7 @@ class detect:
 		text=text.replace('\n',' ')
 		text=text.replace(':','. ')
 		text=sent_tokenize(text)
-		text = list(filter(lambda x: len(x)>5, text))	
+		text = list(filter(lambda x: len(x)>11, text))	
 		return text
 		
 	'''
@@ -79,10 +79,24 @@ class detect:
 			candidate=rawtext.replace('\n',' ')
 			candidate=rawtext.replace(':','. ')
 			candidate=sent_tokenize(candidate)
-			candidate = list(filter(lambda x: len(x)>5, candidate))
+			candidate = list(filter(lambda x: len(x)>11, candidate))
 			books[file]=candidate
 		return books		
 	
+	'''
+	Temporary function: discards the extremely long sentences from the new text which might cause timeout errors during parsing. 
+	'''
+
+	def discardLongSentencesNew(self,text,maxLen=100):
+		i=0
+		for sent in text:
+			if len(word_tokenize(sent))>maxLen:
+				i=i+1
+				text.remove(sent)
+		print('Number of discarded sentences=: ',i+1)
+		print('Number of leftover sentences in text: ',len(text))
+		return text
+
 	'''	
 	Split the new book into chunks. The number of chunks is equal to the number of cores. 
 	Returns a list of lists of sentences:
@@ -97,7 +111,7 @@ class detect:
 		return l	
 	
 	'''
-	temp
+	temporary function to perform basic processing using spacy. Need to refactor. 
 	'''
 
 	def spacyExtract(self,textChunks,books):
@@ -182,7 +196,7 @@ class detect:
 		return reducedBooks
 		
 	'''
-	A function to extend the stopwords list to ignore very common proper nouns, for example 'God'
+	Temporary: A function to extend the stopwords list to ignore very common proper nouns from the text, for example 'God'
 	'''
 
 	def extendStopwords(self,text):
@@ -314,6 +328,8 @@ class detect:
 				semanticScore.append(scoreDict)
 			return semanticScore
 		else:
+			# refactor to automated language detection and loading of vectors
+			
 			if lang1=='german':
 				path1='/home/users2/mehrotsh/Downloads/wiki.multi.de.vec.txt'
 			if lang1=='english':

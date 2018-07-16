@@ -272,7 +272,7 @@ Parse a sentence using stanford nlp
   
 def getNLPToks(rawSentence):
     # output = nlp.annotate(rawSentence, properties={'annotators': 'tokenize,ssplit,pos,parse','outputFormat': 'json','timeout':'50000'})
-    output = nlp.annotate(rawSentence, properties={'annotators': 'tokenize,ssplit,pos,parse','outputFormat': 'json','timeout':'50000','pipelineLanguage': 'german'})
+    output = nlp.annotate(rawSentence, properties={'annotators': 'tokenize,ssplit,pos,parse','outputFormat': 'json','timeout':'1000000000'})
     output=ast.literal_eval(output)
     tokens = output['sentences'][0]['tokens']
     parse = output['sentences'][0]['parse'].split("\n")
@@ -389,6 +389,7 @@ def parseNewText(paraChunk):
             paraWithoutTokenParse.append(removeTokens(tempTree2,sent))
         parseChunk.append(paraParse)
         parseWithoutTokenChunk.append(paraWithoutTokenParse)
+    print('over')
     return parseChunk,parseWithoutTokenChunk   
 
 '''
@@ -419,6 +420,7 @@ def parseCandidateBooks(candidate):
             sentWithoutTokenTrees.append(removeTokens(tempTree2,sent))
         pTrees.append(sentTrees)
         pWithoutTokenTrees.append(sentWithoutTokenTrees)
+    print('candidate')
     return pTrees,pWithoutTokenTrees
 
 '''
@@ -455,7 +457,6 @@ def scoreSyntax(chunkTuple):
             sentScoreDict[book]=df
         chunkDicts.append(sentScoreDict)
     return chunkDicts
-
 '''
 Returns the average word vector of the paragrapgh using the pretrained word2vec model
 '''
@@ -466,8 +467,8 @@ def avg_feature_vector(sentence, model, num_features, index2word_set):
     # words=[lemmatizer.lemmatize(word.lower()) for word in words]
     
     # German
-    a=sp(sentence,disable=['parser','ner','textcat','entity'])
-    words=[token.lemma_.lower() for token in a if token.POS_ != 'PUNCT']
+    # a=sp(sentence,disable=['parser','ner','textcat','entity'])
+    words=[token.lemma_.lower() for token in sentence if token.pos_ != 'PUNCT']
 
     # words=[word.lower() for word in words]
     # words = sentence.split()
@@ -493,8 +494,8 @@ def avg_feature_vector_without_stopwords(sentence, model, num_features, index2wo
     # words = [token.lower().strip(string.punctuation) for token in words if token.lower().strip(string.punctuation) not in stopwords]
 
     # German
-    a=sp(sentence,disable=['parser','ner','textcat','entity'])
-    words=[token.lemma_.lower() for token in a if token.lemma_.lower() not in stopwords]
+    # a=sp(sentence,disable=['parser','ner','textcat','entity'])
+    words=[token.lemma_.lower() for token in sentence if token.lemma_.lower() not in stopwords]
 
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0
@@ -527,8 +528,8 @@ def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
     '''
 
     # German
-    a=sp(sentence,disable=['parser','ner','textcat','entity'])
-    nouns=[token.lemma_.lower() for token in a if ((token.POS_ == 'NOUN') or (token.POS_ == 'PROPN')) ]
+    # a=sp(sentence,disable=['parser','ner','textcat','entity'])
+    nouns=[token.lemma_.lower() for token in sentence if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN')) ]
 
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0
@@ -563,8 +564,8 @@ def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
     '''
 
     # German
-    a=sp(sentence,disable=['parser','ner','textcat','entity'])
-    verbs=[token.lemma_.lower() for token in a if token.POS_ == 'VERB']
+    # a=sp(sentence,disable=['parser','ner','textcat','entity'])
+    verbs=[token.lemma_.lower() for token in sentence if token.pos_ == 'VERB']
 
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0
@@ -599,10 +600,10 @@ def jacardNouns(sent1,sent2):
     '''
 
     # German
-    a=sp(sent1,disable=['parser','ner','textcat','entity'])
-    nouns1=[token.lemma_.lower() for token in a if ((token.POS_ == 'NOUN') or (token.POS_ == 'PROPN'))]
-    b=sp(sent2)
-    noun2=[token.lemma_.lower() for token in b if ((token.POS_ == 'NOUN') or (token.POS_ == 'PROPN'))]
+    # a=sp(sent1,disable=['parser','ner','textcat','entity'])
+    nouns1=[token.lemma_.lower() for token in sent1 if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN'))]
+    # b=sp(sent2)
+    nouns2=[token.lemma_.lower() for token in sent2 if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN'))]
 
 
     if len(set(nouns1).union(nouns2))==0:
@@ -635,10 +636,10 @@ def jacardVerbs(sent1,sent2):
     '''
     
     # German
-    a=sp(sent1,disable=['parser','ner','textcat','entity'])
-    nouns1=[token.lemma_.lower() for token in a if token.POS_ == 'VERB']
-    b=sp(sent2)
-    nouns2=[token.lemma_.lower() for token in b if token.POS_ == 'VERB']
+    # a=sp(sent1,disable=['parser','ner','textcat','entity'])
+    nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'VERB']
+    # b=sp(sent2)
+    nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'VERB']
 
     if len(set(nouns1).union(nouns2))==0:
         ratio=0
@@ -668,10 +669,10 @@ def jacardAdj(sent1,sent2):
         if pos.startswith('JJ'):
             nouns2.append(word.lower().strip(string.punctuation))
     '''
-    a=sp(sent1,disable=['parser','ner','textcat','entity'])
-    nouns1=[token.lemma_.lower() for token in a if token.POS_ == 'ADJ']
-    b=sp(sent2,disable=['parser','ner','textcat','entity'])
-    nouns2=[token.lemma_.lower() for token in b if token.POS_ == 'ADj']
+    # a=sp(sent1,disable=['parser','ner','textcat','entity'])
+    nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'ADJ']
+    # b=sp(sent2,disable=['parser','ner','textcat','entity'])
+    nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'ADj']
 
     if len(set(nouns1).union(nouns2))==0:
         ratio=0
@@ -726,10 +727,10 @@ def commonProperNouns(sent1,sent2):
     '''
 
     # German
-    a=sp(sent1,disable=['parser','ner','textcat','entity'])
-    sent1_proper=[token.lemma_.lower() for token in a if token.POS_ == 'PROPN']
-    b=sp(sent2,disable=['parser','ner','textcat','entity'])
-    sent2_proper=[token.lemma_.lower() for token in b if token.POS_ == 'PROPN']
+    # a=sp(sent1,disable=['parser','ner','textcat','entity'])
+    sent1_proper=[token.lemma_.lower() for token in sent1 if token.pos_ == 'PROPN']
+    # b=sp(sent2,disable=['parser','ner','textcat','entity'])
+    sent2_proper=[token.lemma_.lower() for token in sent2 if token.pos_ == 'PROPN']
     common=len(set(sent1_proper).intersection(sent2_proper))
     return common
 

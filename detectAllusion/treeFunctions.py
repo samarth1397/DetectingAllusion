@@ -271,7 +271,7 @@ Parse a sentence using stanford nlp
 '''
     
 def getNLPToks(rawSentence):
-    output = nlp.annotate(rawSentence, properties={'annotators': 'tokenize,ssplit,pos,parse','outputFormat': 'json','timeout':'50000'})
+    output = nlp.annotate(rawSentence, properties={'annotators': 'tokenize,ssplit,pos,parse','outputFormat': 'json','timeout':'1000000000'})
     output=ast.literal_eval(output)
     tokens = output['sentences'][0]['tokens']
     parse = output['sentences'][0]['parse'].split("\n")
@@ -306,9 +306,11 @@ def removeTokens(tr,sent):
 Jaccard score between two sentences; used for initial filtering
 '''
 def jacardScore(a, b):
+    # with lemmatization
     # tokens_a = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
     # tokens_b = [lemmatizer.lemmatize(token.lower().strip(string.punctuation)) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
     
+    # without lemmatization
     # tokens_a=[token.lower().strip(string.punctuation) for token in tokenizer.tokenize(a) if token.lower().strip(string.punctuation) not in stopwords]
     # tokens_b=[token.lower().strip(string.punctuation) for token in tokenizer.tokenize(b) if token.lower().strip(string.punctuation) not in stopwords]
 
@@ -380,6 +382,7 @@ def parseNewText(chunk):
         flipTree(tempTree2)
         parseChunk.append(tempTree)
         parseWithoutTokenChunk.append(removeTokens(tempTree2,sent))
+    print('over')
     return (parseChunk,parseSentenceChunk,parseWithoutTokenChunk)      
 
 '''
@@ -406,6 +409,7 @@ def parseCandidateBooks(candidate):
         flipTree(tempTree2)
         pTrees.append(tempTree)
         pWithoutTokenTrees.append(removeTokens(tempTree2,sent))
+    print('candidate')
     return (pTrees,pSents,pWithoutTokenTrees)
 
 '''
@@ -588,7 +592,7 @@ def jacardNouns(sent1,sent2):
     # a=sp(sent1,disable=['parser','ner','textcat','entity'])
     nouns1=[token.lemma_.lower() for token in sent1 if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN'))]
     # b=sp(sent2)
-    noun2=[token.lemma_.lower() for token in sent2 if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN'))]
+    nouns2=[token.lemma_.lower() for token in sent2 if ((token.pos_ == 'NOUN') or (token.pos_ == 'PROPN'))]
 
 
     if len(set(nouns1).union(nouns2))==0:
@@ -623,7 +627,7 @@ def jacardVerbs(sent1,sent2):
     # German
     # a=sp(sent1,disable=['parser','ner','textcat','entity'])
     nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'VERB']
-    b=sp(sent2)
+    # b=sp(sent2)
     nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'VERB']
 
     if len(set(nouns1).union(nouns2))==0:

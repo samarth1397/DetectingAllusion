@@ -57,7 +57,7 @@ class detectParagraph:
 		text=text.replace('\n',' ')
 		text=text.replace(':','. ')
 		text=sent_tokenize(text)
-		text = list(filter(lambda x: len(x)>5, text))
+		text = list(filter(lambda x: len(x)>11, text))
 		return text
 
 	'''
@@ -80,7 +80,7 @@ class detectParagraph:
 			candidate=rawtext.replace('\n',' ')
 			candidate=rawtext.replace(':','. ')
 			candidate=sent_tokenize(candidate)
-			candidate = list(filter(lambda x: len(x)>5, candidate))
+			candidate = list(filter(lambda x: len(x)>11, candidate))
 			books[file]=candidate
 		return books		
 
@@ -151,9 +151,31 @@ class detectParagraph:
 		l.append(textPara[(n-1)*int(num):])
 		return l	
 
+
+	'''
+	temporary function to perform basic processing using spacy. Allows for multilingual processing. Need to refactor. 
+	'''
+
+	def spacyExtract(self,textChunks,books):
+		spacyTextChunks=[]
+		for chunk in textChunks:
+			l=[]
+			for para in chunk:
+				l.append(sp(para))
+			spacyTextChunks.append(l)
+
+		spacyBooksPara=dict()
+		for book in self.booksList:
+			l=[]
+			for para in books[book]:
+				l.append(sp(para))
+			spacyBooksPara[book]=l
+
+		return spacyTextChunks,spacyBooksPara
+
 			
 	'''
-	A function which reduces the number of paragraphs present in the potential candidates. 
+	A function which reduces the number of paragraphs present in the potential candidates. Pass spacy text chunks and spacy paragraphs
 
 	Returns: 
 	{
@@ -182,6 +204,7 @@ class detectParagraph:
 			for book in self.booksList:
 				para[book]=list(filter(lambda tup: tup[0]>threshold,para[book]))
 		
+		# reduced paragraph numbers
 		reducedPara=dict()
 		for book in self.booksList:
 			reducedPara[book]=list()		
@@ -193,6 +216,7 @@ class detectParagraph:
 		for book in self.booksList:
 			reducedPara[book]=list(set(reducedPara[book]))
 		
+		# the actual reduced paragraphs 
 		reducedParagraphs=dict()
 		for book in self.booksList:
 			reducedParagraphs[book]=list()
@@ -202,6 +226,22 @@ class detectParagraph:
 				reducedParagraphs[book].append(booksPara[book][para])
   		
 		pool.close()
+		return reducedParagraphs,reducedPara
+
+
+	'''
+	Temporary; refactor later. pass the origincal paragraphs and reduced paragraph numbers
+	'''
+
+	def filterOriginalBooks(self,reducedPara,booksPara):
+		reducedParagraphs=dict()
+		for book in self.booksList:
+			reducedParagraphs[book]=list()
+	
+		for book in self.booksList:
+			for para in reducedPara[book]:
+				reducedParagraphs[book].append(booksPara[book][para])
+	
 		return reducedParagraphs
 		
 

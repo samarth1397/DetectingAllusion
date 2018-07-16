@@ -1,12 +1,3 @@
-[0001]
-
-[0002]
-
-[0003]
-
-[0004]
-
-[[1]/0005]
 Sokratiſche
 Denkwuͤrdigkeiten
 fuͤr die lange Weile
@@ -30,16 +21,9 @@ PERS.
 
 Amſterdam, 1759.
 
-[[2]/0006]
-
-[[3]/0007]
-An das Publicum,
+#An das Publicum,
 oder
 Niemand, den Kundbaren.
-
-[[4]/0008]
-
-[[5]/0009]
 
 
 Du fuͤhrſt einen Na-
@@ -61,7 +45,6 @@ ren;
 
 
 A 3
-[6/0010]
 ren; und das kuͤnſtliche Auge, das
 Du machſt, das kuͤnſtliche Ohr, das
 Du pflanzeſt, iſt, gleich den Dei-
@@ -109,7 +92,7 @@ buͤr-
 
 
 A 4
-[8/0012]
+
 buͤrgerliche Tugenden und das Wohl
 des gemeinen Weſens zu befoͤrdern.
 Jch habe fuͤr ihn in der myſtiſchen
@@ -133,7 +116,6 @@ gemeinen Weltweiſen und guten
 Muͤnz-
 
 
-[9/0013]
 Muͤnzwaradein abgeben, als New-
 ton war. Kein Theil der Kritick
 iſt ſicherer, als die man fuͤr Gold
@@ -158,7 +140,7 @@ auf-
 
 
 A 5
-[10/0014]
+
 aufnahm; ſo ſind ſie nicht fuͤr den
 Geſchmack gemacht. Was ihre
 Wirkungen anbetrift; ſo lernte bey
@@ -169,20 +151,11 @@ nem Stuhl, der nicht ſein Thron
 war, ausgeruffen haben: VTI
 PVTO, DEVS FIO!
 
-
-[Abbildung]
 An
 
-[[11]/0015]
 An die
 Zween.
 
-[[12]/0016]
-
-[[13]/0017]
-
-
-[Abbildung]
 Das Publicum in Griechenland
 laß die Denkwuͤrdigkeiten des
 Ariſtoteles uͤber die Naturge-
@@ -201,7 +174,6 @@ Analogie war die Seele ſeiner Schluͤſ-
 ſe,
 
 
-[14/0018]
 ſe, und er gab ihnen die Jronie zu
 ihrem Leibe. Ungewißheit und Zuver-
 ſicht moͤgen mir ſo eigenthuͤmlich ſeyn
@@ -223,7 +195,6 @@ muͤſſen meiner Religion den Schleyer
 zu
 
 
-[15/0019]
 zu borgen, den ein patriotiſcher St.
 John und platoniſcher Shaftesbury
 fuͤr ihren Unglauben und Misglauben
@@ -245,7 +216,6 @@ gen in dieſer lebenden Elegie vom
 Phi-
 
 
-[16/0020]
 Philoſophen machte deſſelben Saͤtze viel-
 leicht zu einer Menge kleiner Jnſeln,
 zu deren Gemeinſchaft Bruͤcken und
@@ -257,10 +227,6 @@ Jhr partheyiſcher Tadel gleich ange-
 nehm ſeyn. Jch bin ꝛc.
 
 
-[Abbildung]
-Sokra-
-
-[[17]/0021]
 
 
 Sokratiſche
@@ -269,8 +235,6 @@ Denkwuͤrdigkeiten.
 
 Einleitung.
 
-
-[Abbildung]
 Der Geſchichte der Philoſophie iſt es
 wie der Bildſaͤule des franzoͤſi-
 ſchen Staatsminiſters ergan-
@@ -284,8 +248,7 @@ nes Unterthauen; der Scythe aber, der auf
 der
 
 
-B
-[18/0022]
+
 der Galilaͤer des Projektmachers, Julians,
 ein Zimmermann wurde, um der Gott ſei-
 nes Volks zu ſeyn, dieſer Scythe begieng ei-
@@ -337,8 +300,7 @@ die Gefaͤlligkeit, womit es die ungleichen Feh-
 ler
 
 
-B 2
-[20/0024]
+
 ler dieſer Nationalſchriftſteller uͤberſehen, ge-
 lobt zu werden verdient.
 
@@ -364,8 +326,6 @@ ihre Nachahmung zu ſchmaͤucheln ſuche. Un-
 
 ter-
 
-
-[21/0025]
 terdeſſen glaube ich zuverlaͤßiger, daß unſere
 Philoſophie eine andere Geſtalt nothwendig
 haben muͤſte, wenn man die Schickſale dieſes
@@ -393,7 +353,7 @@ verſtuͤmmelter Bruſtbilder, ganz andere Ge-
 chiſch Argus.
 
 B 3
-[22/0026]
+
 ſchoͤpfe zeigen, und ihre Sitten und Spruͤ-
 che, die Legenden ihrer Lehren und Thaten
 mit Farben nachahmen, die dem Leben naͤ-
@@ -420,7 +380,6 @@ Saͤule des macedoniſchen Juͤnglings, und
 die-
 
 
-[23/0027]
 dieſer bey dem Grabe Achills mit Eyferſucht
 an einen Herold des Ruhms denkt, wie der
 blinde Minneſaͤnger war: ſo biegt ein Eras-
@@ -478,7 +437,7 @@ anciens Peuples.
 
 **) Apoſtelgeſch. XIX. 19.
 
-[25/0029]
+
 daß er die Schriften ſeines Feindes Serto-
 rius aus dem Wege raͤumte; warum nicht
 an unſerm HErrn, daß er die Schriften ei-
@@ -507,7 +466,6 @@ unſere Ladungen uͤber Bord zu werfen, un-
 *) 2 Tim. IV. 13.
 
 B 5
-[26/0030]
 ſere Bibliothecken in Brand zu ſtecken, oder
 es wie die Hollaͤnder mit dem Gewuͤrz zu
 machen.
@@ -536,8 +494,6 @@ blos
 Chladenius iſt blos als ein nuͤtzlich Supple-
 ment unſerer ſcholaſtiſchen oder akademiſchen
 Vernunftlehre anzuſehen.
-
-[27/0031]
 blos ſeine Denkwuͤrdigkeiten wie Duͤclos
 dergleichen zur Geſchichte des XVIIIten
 Jahrhunderts fuͤr die lange Weile des ſchoͤ-
@@ -595,7 +551,6 @@ Erde;
 
 *) Siehe die folgende Anmerkung.
 
-[29/0033]
 Erde; wie viel mehr werden unſere Begriffe
 im Verborgenen gemacht, und koͤnnen als
 Gliedmaſſen unſers Verſtandes betrachtet
@@ -621,7 +576,6 @@ lichen Leidenſchaften hervor. Von dieſer
 Sei-
 
 
-[30/0034]
 Seite ahmte alſo Sokrates ſeinen Vater nach,
 einen Bildhauer, der, indem er wegnimmt
 und hauet, was am Holze nicht ſeyn ſoll,
@@ -650,7 +604,6 @@ wir von dieſem groſſen Mann nicht nur in der
 deutſchen Sprache, ſondern uͤberhaupt nicht
 ſo viel gelernt als wir haͤtten ſollen und koͤnnen.
 
-[31/0035]
 geweſen dieſe Goͤttinnen zu kleiden; den alt-
 vaͤteriſchen Gebrauch hatte Sokrates nach-
 geahmt, und ſeine Gratien wiederſprachen
@@ -676,7 +629,6 @@ zu ahnden, die ſich die Verdienſte des Bild-
 hauers
 
 
-[32/0036]
 hauers im Sokrates ſo groß vorſtellen, daß
 ſie den Weiſen daruͤber verkennen, die den
 Bildhauer vergoͤttern um deſto fuͤglicher uͤber
@@ -705,7 +657,6 @@ Buch 3.
 
 **) Roͤm. I.
 
-[33/0037]
 weiß zu brennen, das unſere Chriſtenheit
 an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
@@ -731,7 +682,7 @@ Freund-
 
 
 C
-[34/0038]
+
 Freundſchaft ohne Sinnlichkeit fuͤhlen, und
 eine metaphyſiſche Liebe ſuͤndigt vielleicht
 groͤber am Nervenſaft, als eine thieriſche an
@@ -756,7 +707,7 @@ den gebunden hielt. Jhre geſunde Vernunft,
 wor-
 
 
-[35/0039]
+
 woran es den Juden und Griechen ſo wenig
 fehlte als unſern Chriſten und Muſelmaͤn-
 nern, ſtieß ſich daran, daß der Schoͤnſte
@@ -783,7 +734,7 @@ rinn
 
 
 C 2
-[36/0040]
+
 rinn fuͤr eine Wahrſagerinn gehalten, und
 ſich innerlich uͤber ihre Aehnlichkeit mit dem
 Vater Sokrates gefreut, der es fuͤr gleich
@@ -809,7 +760,7 @@ teoren ankommt, dieſe Maͤhrchen unſerer
 Kin-
 
 
-[37/0041]
+
 Kinder und Ammen (denn Kinder und Am-
 men ſind alle verfloßne Jahrhunderte gegen
 unſer lebendes in der Kunſt zu erfahren
@@ -839,7 +790,7 @@ zu ſchreiben.
 gionsduldung wie dieſer Phariſaͤer Act. V.
 
 C 3
-[38/0042]
+
 Wunder veranlaßt habe und veranlaſſen
 koͤnne, als man den Kometen, Orakelſpruͤ-
 chen und Traͤumen ſelbſt jemals zugeſchrieben
