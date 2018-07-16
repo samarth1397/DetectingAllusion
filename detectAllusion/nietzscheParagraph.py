@@ -16,7 +16,7 @@ def main():
 	spacyTextChunks,spacyBooksPara=d.spacyExtract(textChunks,booksPara)
 
 	print('Filtering using Jaccard')
-	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooksPara,threshold=0.05)
+	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooksPara,threshold=0.07)
 	
 
 	reducedBooks=d.filterOriginalBooks(reducedSentences,booksPara)
@@ -59,7 +59,7 @@ def main():
 	pickling_on = open('../output/'+'n1/scoreTuples.pickle',"wb")
 	pickle.dump(scoreTuples, pickling_on)
 
-	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.79)
+	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.82)
 	if len(finalTuples)>100:
 		finalTuples=finalTuples[0:100]
 
@@ -95,12 +95,12 @@ def main():
 
 	# d.writeOutput(orderedTuples,text,reducedBooks)
 
-	print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
+	# print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
 
-	diffTuples=d.nounBasedRanking(diffTuples,textPara,reducedBooks)
-	d.writeOutput(diffTuples,textPara,reducedBooks)
-	pickling_on = open('../output/'+'n1/diffTuples.pickle',"wb")
-	pickle.dump(diffTuples, pickling_on)
+	# diffTuples=d.nounBasedRanking(diffTuples,textPara,reducedBooks)
+	# d.writeOutput(diffTuples,textPara,reducedBooks)
+	# pickling_on = open('../output/'+'n1/diffTuples.pickle',"wb")
+	# pickle.dump(diffTuples, pickling_on)
 
 
 

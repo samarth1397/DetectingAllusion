@@ -299,6 +299,10 @@ class detect:
 		
 	}, i.e. values are a list of tuples where each tuple has the following similarity metrics: semantic similarity, semantic similarity without stop words, semantic similarity of nouns, 
 	semantic similarity of verbs, number of common proper nouns between the two sentences. 
+
+
+	New change: Pass spacy data rather than original textPara and reducedParagraphs
+
 	'''
 
 	def semanticScoring(self,text,reducedBooks,monolingual=True,lang1=None,lang2=None):
@@ -329,7 +333,7 @@ class detect:
 			return semanticScore
 		else:
 			# refactor to automated language detection and loading of vectors
-			
+
 			if lang1=='german':
 				path1='/home/users2/mehrotsh/Downloads/wiki.multi.de.vec.txt'
 			if lang1=='english':
@@ -470,6 +474,9 @@ class detect:
 
 	'''
 	The final tuples are displayed in decreasing order of the jaccard of common nouns between the sentences. jaccard nouns, jaccard verbs, jaccard adjectives)
+
+	New change: Pass spacy data rather than original textPara and reducedParagraphs
+
 	'''
 	def nounBasedRanking(self,finalTuples,text,reducedBooks):
 		newTuples=list()

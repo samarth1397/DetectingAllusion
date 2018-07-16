@@ -87,8 +87,9 @@ class detectParagraph:
 
 
 	'''
-	Splits the input text into paragraphs: list of lists of sentences
-	Returns: [[s1,s2,s3],[s2,s3,s4],[...],..........]
+	Splits the input text into paragraphs: 
+	Returns: [p1,p2,p3,......]
+	Each paragraph comprises of 3 sentences (default)
 	'''
 
 
@@ -113,8 +114,8 @@ class detectParagraph:
 	Splits the candidate books into paragraphs:
 	Returns:
 	{
-		potential1:[[s1,s2,s3],[s2,s3,s4],[...],.......]
-		potential2:[[s1,s2,s3],[s2,s3,s4],[...],.......]
+		potential1:[p1,p2,p3,.................]
+		potential2:[p1,p2,p3,p4....]
 	}
 	'''
 
@@ -141,7 +142,6 @@ class detectParagraph:
 	'''
 	Divides paragraphs into chunks for multiprocessing at the later stages. The number of chunks is equal to the number of cores 
 	Returns: [[p1,p2,p3,p4],[p5,p6,p7,p8],............]. 
-	where, each p: [si,si+1,si+2]
 	'''
 
 	def splitChunks(self,textPara):
@@ -153,7 +153,8 @@ class detectParagraph:
 
 
 	'''
-	temporary function to perform basic processing using spacy. Allows for multilingual processing. Need to refactor. 
+	temporary function to perform basic processing using spacy. Allows for multilingual processing. Need to refactor. Currently returns the same data structures of textChunks and booksPara
+	with spacy annotated data rather than the original data. 
 	'''
 
 	def spacyExtract(self,textChunks,books):
@@ -175,12 +176,11 @@ class detectParagraph:
 
 			
 	'''
-	A function which reduces the number of paragraphs present in the potential candidates. Pass spacy text chunks and spacy paragraphs
-
+	A function which reduces the number of paragraphs present in the potential candidates. (New: Pass spacy text chunks and spacy paragraphs as parameters)
 	Returns: 
 	{
-		potential1:[[s1,s2,s3],[s2,s3,s4],[...],.......]
-		potential2:[[s1,s2,s3],[s5,s6,s7],.......]
+		potential1:[p1,p2,p5,......]
+		potential2:[p2,p3,p7,..........]
 	}
 	'''
 
@@ -339,6 +339,9 @@ class detectParagraph:
 		
 	}, i.e. values are a list of tuples where each tuple has the following similarity metrics: semantic similarity, semantic similarity without stop words, semantic similarity of nouns, 
 	semantic similarity of verbs, number of common proper nouns between the two paragraphs. 
+
+	New change: Pass spacy data rather than original textPara and reducedParagraphs
+
 	'''
 	
 	def semanticScoring(self,textPara,reducedParagraphs,monolingual=True,lang1=None,lang2=None):
@@ -367,6 +370,7 @@ class detectParagraph:
 					scoreDict[bk]=df
 				semanticScore.append(scoreDict)
 			return semanticScore
+		# Refactor: automated language detection instead of if-else and parameters
 		else:
 			if lang1=='german':
 				path1='/home/users2/mehrotsh/Downloads/wiki.multi.de.vec.txt'
@@ -508,6 +512,8 @@ class detectParagraph:
 
 	'''
 	The final tuples are displayed in decreasing order of the jaccard of common nouns between the paragraphs. 
+
+	New change: Pass spacy data rather than original textPara and reducedParagraphs	
 	'''
 
 	def nounBasedRanking(self,finalTuples,textPara,reducedParagraphs):

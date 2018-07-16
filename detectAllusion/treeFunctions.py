@@ -447,7 +447,7 @@ def scoreSyntax(chunkTuple):
     return chunkDicts
 
 '''
-Returns the average word vector of the paragrapgh using the pretrained word2vec model
+Returns the average word vector of the sentence using the pretrained word2vec model
 '''
 
 def avg_feature_vector(sentence, model, num_features, index2word_set):
@@ -473,7 +473,7 @@ def avg_feature_vector(sentence, model, num_features, index2word_set):
     return feature_vec  
 
 '''
-Returns the average word vector of the paragraph after the removal of stopwords using the pretrained word2vec model
+Returns the average word vector of the sentence after the removal of stopwords using the pretrained word2vec model
 '''
 
 def avg_feature_vector_without_stopwords(sentence, model, num_features, index2word_set):
@@ -498,7 +498,7 @@ def avg_feature_vector_without_stopwords(sentence, model, num_features, index2wo
 
 
 '''
-Returns the average word vector of the nouns in the paragraph using the pretrained word2vec model
+Returns the average word vector of the nouns in the sentence using the pretrained word2vec model
 '''
 
 def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
@@ -532,7 +532,7 @@ def avg_feature_vector_nouns(sentence, model, num_features, index2word_set):
 
 
 '''
-Returns the average word vector of the verbs in the paragraph using the pretrained word2vec model
+Returns the average word vector of the verbs in the sentence using the pretrained word2vec model
 '''
 
 def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
@@ -567,7 +567,7 @@ def avg_feature_vector_verbs(sentence, model, num_features, index2word_set):
     return feature_vec  
 
 '''
-Returns the jaccard index of nouuns in the two paragraphs
+Returns the jaccard index of nouuns in the two sentences
 '''
 
 def jacardNouns(sent1,sent2):
@@ -603,7 +603,7 @@ def jacardNouns(sent1,sent2):
 
 
 '''
-Returns the jaccard index of verbs in the two paragraphs
+Returns the jaccard index of verbs in the two sentences
 '''
 
 def jacardVerbs(sent1,sent2):
@@ -626,8 +626,8 @@ def jacardVerbs(sent1,sent2):
     
     # German
     # a=sp(sent1,disable=['parser','ner','textcat','entity'])
-    nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'VERB']
     # b=sp(sent2)
+    nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'VERB']
     nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'VERB']
 
     if len(set(nouns1).union(nouns2))==0:
@@ -638,7 +638,7 @@ def jacardVerbs(sent1,sent2):
 
 
 '''
-Returns the jaccard index of adjectives in the two paragraphs
+Returns the jaccard index of adjectives in the two sentences
 '''
 
 def jacardAdj(sent1,sent2):
@@ -659,8 +659,8 @@ def jacardAdj(sent1,sent2):
             nouns2.append(word.lower().strip(string.punctuation))
     '''
     # a=sp(sent1,disable=['parser','ner','textcat','entity'])
-    nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'ADJ']
     # b=sp(sent2,disable=['parser','ner','textcat','entity'])
+    nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'ADJ']
     nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'ADj']
 
     if len(set(nouns1).union(nouns2))==0:
@@ -717,8 +717,8 @@ def commonProperNouns(sent1,sent2):
 
     # German
     # a=sp(sent1,disable=['parser','ner','textcat','entity'])
-    sent1_proper=[token.lemma_.lower() for token in sent1 if token.pos_ == 'PROPN']
     # b=sp(sent2,disable=['parser','ner','textcat','entity'])
+    sent1_proper=[token.lemma_.lower() for token in sent1 if token.pos_ == 'PROPN']
     sent2_proper=[token.lemma_.lower() for token in sent2 if token.pos_ == 'PROPN']
     common=len(set(sent1_proper).intersection(sent2_proper))
     return common

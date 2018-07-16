@@ -266,7 +266,7 @@ def MoschittiPT(tree1, tree2, lam, mu, NORMALIZE_FLAG):
 
 
 '''
-Parse a sentence using stanford nlp
+Parse a sentence using stanford core nlp tools
 '''
 
   
@@ -393,7 +393,7 @@ def parseNewText(paraChunk):
     return parseChunk,parseWithoutTokenChunk   
 
 '''
-Parse every sentence in the candidate. 
+Parse every paragraph in the candidate. 
 Returns 2 lists:
 pTrees: a list of parse trees of paragraphs in the candidate book: Returns a structure like this:
 [parseTreeForPara1,parseTreeForPara2,parseTreeForPara3,.......]; each parseTreeForPara looks like this:
