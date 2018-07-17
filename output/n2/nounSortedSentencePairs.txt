@@ -1,0 +1,2792 @@
+Pairing: 1
+New Sentence: dann verlangt er nicht nur Glauben für den neuen Messias, sondern auch für sich, den neuen Apostel, zum Beispiel, wenn er einmal bei dem intricatesten Thema der Naturwissenschaft mit wahrhaft antikem Stolze verkündet.
+Reference: 
+Letzteres iſt wiederum höchſt bezeichnend; der Glaube iſt
+dahin, aber die Magie behält man ſich vor 1). In Betreff der Weltregierung raffen ſich die Huma-
+niſten insgemein nicht weiter auf als bis zu einer kalt re-
+ſignirten Betrachtung deſſen was unter der ringsum herr-
+ſchenden Gewalt und Mißregierung geſchieht. Aus dieſer
+Stimmung ſind hervorgegangen die vielen Bücher „vom
+Schickſal“ oder wie die Varietäten des Titels lauten mögen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.790739891968
+Syntactic Similarity without tokens: 0.800085802993
+Semantic Score: 0.895262479782
+Semantic Score without stopwords: 0.895262479782
+LCS Length: 10
+LCS: der aber die die nicht auf zu und wie des 
+Jaccard of common nouns: 0.07407407407407407
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.830090939999
+Semantic similarity verbs: 0.738970041275
+
+Pairing: 2
+New Sentence: Man hat darin den genialen Ausdruck seiner rastlosen Forschungs- und Thätigkeitslust gefunden.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.778766589302
+Syntactic Similarity without tokens: 0.815465872112
+Semantic Score: 0.874357283115
+Semantic Score without stopwords: 0.874357283115
+LCS Length: 7
+LCS: und das einen die Gott zu in 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.557672321796
+Semantic similarity verbs: 0.797462522984
+
+Pairing: 3
+New Sentence: OelNach KGW/KGB Nachberichte“ fliessen, deshalb führt er einen aus Passion irrenden Gott am Seile herbei, deshalb spielt er einmal die gänzlich befremdende Rolle eines metaphysischen Architekten.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.802022515249
+Syntactic Similarity without tokens: 0.886650271128
+Semantic Score: 0.881847321987
+Semantic Score without stopwords: 0.881847321987
+LCS Length: 6
+LCS: er einen Gott er gänzlich es 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.563108086586
+Semantic similarity verbs: 0.785211443901
+
+Pairing: 4
+New Sentence: Da uns auf diese Frage Strauss gar keine Antwort geben kann, — falls er sich scheuen sollte, seinen Gott, das heisst den aus nobler Passion irrenden Gott als diesen Schwindler zu prostituiren — so bleiben wir zunächst dabei, den Ausdruck für ebenso ungereimt als geschmacklos zu halten.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.746235684414
+Syntactic Similarity without tokens: 0.829117818833
+Semantic Score: 0.902435839176
+Semantic Score without stopwords: 0.902435839176
+LCS Length: 10
+LCS: auf er das den den zu die des er durch 
+Jaccard of common nouns: 0.05128205128205128
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.654702484608
+Semantic similarity verbs: 0.83671027422
+
+Pairing: 5
+New Sentence: Er zieht arm und schwächlich daher, dieser exstimulirte Glaube.
+Reference: 
+D
+C
+[50/0054]
+lauter Lehnſaͤtze und Zweifel. ſo gewinnt
+und verliert der Glaube gleich viel bey dem
+geſchickteſten Rabuliſten und ehrlichſten Sach-
+walter. Der Glaube iſt kein Werk der Ver-
+nunft und kann daher auch keinem Angrif
+derſelben unterliegen; weil Glauben ſo we-
+nig durch Gruͤnde geſchieht als Schmecken
+und Sehen.
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.754041795917
+Syntactic Similarity without tokens: 0.813215562074
+Semantic Score: 0.898989081383
+Semantic Score without stopwords: 0.898989081383
+LCS Length: 5
+LCS: und Glaube dem der auch 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.846323847771
+Semantic similarity verbs: 0.617732942104
+
+Pairing: 6
+New Sentence: ), so scheint er der Gegenwart nachdrücklich in’s Gewissen zu reden, weshalb sie nicht längst wisse, was sie an dem modernen Voltaire habe.
+Reference: 
+Von einer aparten, bewußten
+„Emancipation“ iſt gar nicht die Rede, weil ſich die Sache
+von ſelber verſtand. Die Frau von Stande mußte damals
+ganz wie der Mann nach einer abgeſchloſſenen, in jeder
+Hinſicht vollendeten Perſönlichkeit ſtreben. Derſelbe Her-
+gang in Geiſt und Herz, welcher den Mann vollkommen
+
+
+und Individua-
+lismus.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.780742298344
+Syntactic Similarity without tokens: 0.835328185125
+Semantic Score: 0.886044561863
+Semantic Score without stopwords: 0.886044561863
+LCS Length: 2
+LCS: der in 
+Jaccard of common nouns: 0.047619047619047616
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.618805170059
+Semantic similarity verbs: nan
+
+Pairing: 7
+New Sentence: Zeigt sich hierin, dass Strauss nie aufgehört hat, christlicher Theologe zu sein und deshalb nie gelernt hat, Philosoph zu werden, so überrascht er uns wieder dadurch, dass er nicht zwischen Glauben und Wissen zu unterscheiden vermag und fortwährend seinen sogenannten „neuen Glauben“ und die neuere Wissenschaft in Einem Athem nennt.
+Reference: 
+D
+C
+[50/0054]
+lauter Lehnſaͤtze und Zweifel. ſo gewinnt
+und verliert der Glaube gleich viel bey dem
+geſchickteſten Rabuliſten und ehrlichſten Sach-
+walter. Der Glaube iſt kein Werk der Ver-
+nunft und kann daher auch keinem Angrif
+derſelben unterliegen; weil Glauben ſo we-
+nig durch Gruͤnde geſchieht als Schmecken
+und Sehen.
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.766880989012
+Syntactic Similarity without tokens: 0.815530533935
+Semantic Score: 0.880087077618
+Semantic Score without stopwords: 0.880087077618
+LCS Length: 7
+LCS: und und und Glaube und Glauben und 
+Jaccard of common nouns: 0.045454545454545456
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.867858707905
+Semantic similarity verbs: 0.557118833065
+
+Pairing: 8
+New Sentence: die aber doch, sobald sie uns von ihrem Glauben und nicht von ihren wissenschaftlichen Erkenntnissen unterhalten wollten, in ärgerlicher Weise ihre Schranken überschreiten würden.
+Reference: 
+D
+C
+[50/0054]
+lauter Lehnſaͤtze und Zweifel. ſo gewinnt
+und verliert der Glaube gleich viel bey dem
+geſchickteſten Rabuliſten und ehrlichſten Sach-
+walter. Der Glaube iſt kein Werk der Ver-
+nunft und kann daher auch keinem Angrif
+derſelben unterliegen; weil Glauben ſo we-
+nig durch Gruͤnde geſchieht als Schmecken
+und Sehen.
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.754664592591
+Syntactic Similarity without tokens: 0.812640565322
+Semantic Score: 0.888104915619
+Semantic Score without stopwords: 0.888104915619
+LCS Length: 4
+LCS: und Glauben als und 
+Jaccard of common nouns: 0.043478260869565216
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.826971530914
+Semantic similarity verbs: 0.55179053545
+
+Pairing: 9
+New Sentence: Wie darf man bei dem Worte „alter Glaube“ ohne Weiteres allein an das Christenthum denken!
+Reference: 
+D
+C
+[50/0054]
+lauter Lehnſaͤtze und Zweifel. ſo gewinnt
+und verliert der Glaube gleich viel bey dem
+geſchickteſten Rabuliſten und ehrlichſten Sach-
+walter. Der Glaube iſt kein Werk der Ver-
+nunft und kann daher auch keinem Angrif
+derſelben unterliegen; weil Glauben ſo we-
+nig durch Gruͤnde geſchieht als Schmecken
+und Sehen.
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.771076166877
+Syntactic Similarity without tokens: 0.819138050276
+Semantic Score: 0.899544715881
+Semantic Score without stopwords: 0.899544715881
+LCS Length: 5
+LCS: dem Glaube und Glauben und 
+Jaccard of common nouns: 0.041666666666666664
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.879164457321
+Semantic similarity verbs: 0.55457675457
+
+Pairing: 10
+New Sentence: Labyrinthe?lies.
+Reference: 
+Papſt Alexander ſei ſein Caplan,
+Kaiſer Max ſein Condottiere, Venedig ſein Kämmerer, der
+König von Frankreich ſein Courier, der da kommen und
+gehen müſſe wie ihm beliebe. 2) Mit einer erſtaunlichen
+Beſonnenheit wägt er noch in der letzten Noth (1499) die
+möglichen Ausgänge ab, und verläßt ſich dabei, was ihm
+Ehre macht, auf die Güte der menſchlichen Natur; ſeinen
+Bruder Cardinal Ascanio, der ſich erbietet, im Caſtell von
+Mailand auszuharren, weiſt er ab, da ſie früher bittern
+Streit gehabt hatten. „Monſignore, nichts für ungut, Euch
+traue ich nicht, wenn Ihr ſchon mein Bruder ſeid“ — be-
+reits hatte er ſich einen Commandanten für das Caſtell,
+dieſe „Bürgſchaft ſeiner Rückkehr“ ausgeſucht, einen Mann,
+dem er nie Uebles, ſtets nur Gutes erwieſen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.766231321788
+Syntactic Similarity without tokens: 0.764092689789
+Semantic Score: 0.887528896332
+Semantic Score without stopwords: 0.887528896332
+LCS Length: 6
+LCS: und der und die von dem 
+Jaccard of common nouns: 0.04081632653061224
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.775273084641
+Semantic similarity verbs: 0.661604821682
+
+Pairing: 11
+New Sentence: das Andenken des herrlichen Hölderlin, und der bekannte Aesthetiker hatte deshalb ein Recht, bei dieser Gelegenheit von den tragischen Seelen zu reden, die an der „Wirklichkeit“ zu Grunde gehen, das Wort Wirklichkeit nämlich in jenem erwähnten Sinne als Philister-Vernunft verstanden.
+Reference: 
+Jahrhunderts
+noch in faſt völlig friedlichem Wettſtreit neben einander
+lebten, wovon die Kunſtgeſchichte Act nehmen darf. Der große Ruhmesmarkt Florenz geht hierin, wie ge-
+ſagt, allen andern Städten eine Zeitlang voran. „Scharfe
+Augen und böſe Zungen“ iſt das Signalement der Floren-
+tiner 1).
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.791945875133
+Syntactic Similarity without tokens: 0.836494771303
+Semantic Score: 0.853159964085
+Semantic Score without stopwords: 0.853159964085
+LCS Length: 4
+LCS: in die eine der 
+Jaccard of common nouns: 0.038461538461538464
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.663722634315
+Semantic similarity verbs: 0.819503903389
+
+Pairing: 12
+New Sentence: Sie wirthschaftet gern aus dem Vollen, wie grosse Herren, nimmt ein und giebt aus, so lange sie etwas auszugeben hat.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.741741665368
+Syntactic Similarity without tokens: 0.815899516586
+Semantic Score: 0.903148055077
+Semantic Score without stopwords: 0.903148055077
+LCS Length: 8
+LCS: die und die den einen es ein der 
+Jaccard of common nouns: 0.03225806451612903
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.571766018867
+Semantic similarity verbs: 0.835339844227
+
+Pairing: 13
+New Sentence: Und eben dazu hat mich von jeher meine Gemüths- und Geistesart getrieben.“ Eine solche Gemüths- und Geistesart mag man immerhin muthig nennen, doch bleibt es zweifelhaft, ob dieser Muth ein natürlicher und ursprünglicher oder nicht vielmehr ein angelernter und künstlicher ist; vielleicht hat sich Strauss nur bei Zeiten daran gewöhnt, der Störenfried von Beruf zu sein, bis er sich so allmählich einen Muth von Beruf anerzogen hat.
+Reference: 
+B. das Geſetz einer fortſchreitenden, und zwar
+ſtoßweiſe ſich äußernden Entwicklung der Republiken an
+und verlangt, daß das Staatsweſen beweglich und der
+Veränderung fähig ſei, indem nur ſo die plötzlichen Blut-
+urtheile und Verbannungen vermieden würden. Aus einem
+ähnlichen Grunde, nämlich um Privat-Gewaltthaten und
+fremde Intervention („den Tod aller Freiheit“) abzuſchneiden,
+wünſcht er gegen verhaßte Bürger eine gerichtliche Anklage
+(accusa) eingeführt zu ſehen, an deren Stelle Florenz
+von jeher nur die Uebelreden gehabt habe. Meiſterhaft
+characteriſirt er die unfreiwilligen, verſpäteten Entſchlüſſe,
+welche in Republiken bei kritiſchen Zeiten eine ſo große
+Rolle ſpielen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.773710932251
+Syntactic Similarity without tokens: 0.728789981848
+Semantic Score: 0.91188454628
+Semantic Score without stopwords: 0.91188454628
+LCS Length: 7
+LCS: und und und und nur bei Zeiten 
+Jaccard of common nouns: 0.03125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.645548284054
+Semantic similarity verbs: 0.686554014683
+
+Pairing: 14
+New Sentence: Wie sollte dies, bei einem solchen widersprechenden und sich selbst aufhebenden Charakter, einer religiösen Verehrung würdig sein und mit dem Namen „Gott“ angeredet werden dürfen, wie es eben Strauss p. 365 thut.
+Reference: 
+— Der größten Lücke des Buches
+gedenken wir in einiger Zeit durch ein beſonderes Werk
+über „die Kunſt der Renaiſſance“ abzuhelfen. Der Kampf zwiſchen den Päpſten und den Hohenſtaufen
+hinterließ zuletzt Italien in einem politiſchen Zuſtande,
+welcher von dem des übrigen Abendlandes in den weſent-
+lichſten Dingen abwich. Wenn in Frankreich, Spanien,
+England das Lehnsſyſtem ſo geartet war, daß es nach Ab-
+lauf ſeiner Lebenszeit dem monarchiſchen Einheitsſtaat in
+die Arme fallen mußte, wenn es in Deutſchland wenigſtens
+die Einheit des Reiches äußerlich feſthalten half, ſo hatte
+Italien ſich ihm faſt völlig entzogen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.80179950617
+Syntactic Similarity without tokens: 0.797867094521
+Semantic Score: 0.88025957346
+Semantic Score without stopwords: 0.88025957346
+LCS Length: 6
+LCS: einem dem es in in des 
+Jaccard of common nouns: 0.03125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.752171456814
+Semantic similarity verbs: 0.725353658199
+
+Pairing: 15
+New Sentence: Welche Kraft ist so mächtig, ein solches „Soll nicht“ vorzuschreiben?
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.815348107976
+Syntactic Similarity without tokens: 0.833985725122
+Semantic Score: 0.860867321491
+Semantic Score without stopwords: 0.860867321491
+LCS Length: 3
+LCS: und zu es 
+Jaccard of common nouns: 0.03125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.659354090691
+Semantic similarity verbs: 0.776705205441
+
+Pairing: 16
+New Sentence: „es handelt sich um etwas“, und nun müssen wir einen Satz anhören, wie diesen.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.815601900201
+Syntactic Similarity without tokens: 0.87461602912
+Semantic Score: 0.861014664173
+Semantic Score without stopwords: 0.861014664173
+LCS Length: 6
+LCS: und wird auf den der in 
+Jaccard of common nouns: 0.030303030303030304
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.526957929134
+Semantic similarity verbs: 0.787131786346
+
+Pairing: 17
+New Sentence: „dabei wird es unbestimmt bleiben, ob es sich von äusserem oder innerem Heldenthum, von Kämpfen auf offenem Felde oder in den Tiefen der Menschenbrust handelt.“ — (S. 343).
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.804711920137
+Syntactic Similarity without tokens: 0.90079551164
+Semantic Score: 0.873846113682
+Semantic Score without stopwords: 0.873846113682
+LCS Length: 6
+LCS: wird auf den der in der 
+Jaccard of common nouns: 0.027777777777777776
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.646420240402
+Semantic similarity verbs: 0.790303528309
+
+Pairing: 18
+New Sentence: Um aber das Ungereimte der anderen Wendung nachzufühlen, so empfehle ich, dieselbe in folgender Simplification sich vorzusagen.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.819287462278
+Syntactic Similarity without tokens: 0.818493298131
+Semantic Score: 0.834811985493
+Semantic Score without stopwords: 0.834811985493
+LCS Length: 10
+LCS: die der und auf eine auf einen dem der zu 
+Jaccard of common nouns: 0.027777777777777776
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.639437317848
+Semantic similarity verbs: 0.718697249889
+
+Pairing: 19
+New Sentence: „Dass auf den früheren Stufen der Religion statt Eines solchen Woher mehrere, statt Eines Gottes eine Vielheit von Göttern erscheint, kommt nach dieser Ableitung der Religion daher, dass die verschiedenen Naturkräfte oder Lebensbeziehungen, welche im Menschen das Gefühl schlechthiniger Abhängigkeit erregen, Anfangs noch in ihrer ganzen Verschiedenartigkeit auf ihn wirken, er sich noch nicht bewusst geworden ist, wie in Betreff der schlechthinigen Abhängigkeit zwischen denselben kein Unterschied, mithin auch das Woher dieser Abhängigkeit oder das Wesen, worauf sie in letzter Beziehung zurückgeht, nur Eines sein kann.“ Ein entgegengesetztes Beispiel für die kurzen Sätzchen und die affectirte Lebendigkeit, welche einige Leser so aufgeregt hat, dass sie Strauss nur noch mit Lessing zusammen nennen, findet sich Seite 8.
+Reference: 
+Letzteres iſt wiederum höchſt bezeichnend; der Glaube iſt
+dahin, aber die Magie behält man ſich vor 1). In Betreff der Weltregierung raffen ſich die Huma-
+niſten insgemein nicht weiter auf als bis zu einer kalt re-
+ſignirten Betrachtung deſſen was unter der ringsum herr-
+ſchenden Gewalt und Mißregierung geſchieht. Aus dieſer
+Stimmung ſind hervorgegangen die vielen Bücher „vom
+Schickſal“ oder wie die Varietäten des Titels lauten mögen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.765172396519
+Syntactic Similarity without tokens: 0.790978801949
+Semantic Score: 0.914120972157
+Semantic Score without stopwords: 0.914120972157
+LCS Length: 7
+LCS: der der die auf der oder die 
+Jaccard of common nouns: 0.02702702702702703
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.628532886505
+Semantic similarity verbs: 0.724588572979
+
+Pairing: 20
+New Sentence: denn jener Muth ist nicht die Mitte zwischen zwei Fehlern, sondern zwischen einer Tugend und einem Fehler — und in dieser Mitte, zwischen Tugend und Fehler, liegen alle Eigenschaften des Philisters.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.760509405918
+Syntactic Similarity without tokens: 0.82505079888
+Semantic Score: 0.905224144459
+Semantic Score without stopwords: 0.905224144459
+LCS Length: 8
+LCS: die und er dem zu er zu er 
+Jaccard of common nouns: 0.02702702702702703
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.586628437042
+Semantic similarity verbs: 0.845619857311
+
+Pairing: 21
+New Sentence: Wem sagt dies eigentlich der Philisterhäuptling?
+Reference: 
+Papſt Alexander ſei ſein Caplan,
+Kaiſer Max ſein Condottiere, Venedig ſein Kämmerer, der
+König von Frankreich ſein Courier, der da kommen und
+gehen müſſe wie ihm beliebe. 2) Mit einer erſtaunlichen
+Beſonnenheit wägt er noch in der letzten Noth (1499) die
+möglichen Ausgänge ab, und verläßt ſich dabei, was ihm
+Ehre macht, auf die Güte der menſchlichen Natur; ſeinen
+Bruder Cardinal Ascanio, der ſich erbietet, im Caſtell von
+Mailand auszuharren, weiſt er ab, da ſie früher bittern
+Streit gehabt hatten. „Monſignore, nichts für ungut, Euch
+traue ich nicht, wenn Ihr ſchon mein Bruder ſeid“ — be-
+reits hatte er ſich einen Commandanten für das Caſtell,
+dieſe „Bürgſchaft ſeiner Rückkehr“ ausgeſucht, einen Mann,
+dem er nie Uebles, ſtets nur Gutes erwieſen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.780533622793
+Syntactic Similarity without tokens: 0.857930514272
+Semantic Score: 0.86482000351
+Semantic Score without stopwords: 0.86482000351
+LCS Length: 6
+LCS: der von der ihm in die 
+Jaccard of common nouns: 0.02702702702702703
+Jaccard of common verbs: 0.041666666666666664
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.750051319599
+
+Pairing: 22
+New Sentence: denn die moralischen Qualitäten der strengeren Zucht, des ruhigeren Gehorsams haben mit der Bildung nichts zu thun und zeichneten zum Beispiel die macedonischen Heere den unvergleichlich gebildeteren Griechenheeren gegenüber aus.
+Reference: 
+— Der größten Lücke des Buches
+gedenken wir in einiger Zeit durch ein beſonderes Werk
+über „die Kunſt der Renaiſſance“ abzuhelfen. Der Kampf zwiſchen den Päpſten und den Hohenſtaufen
+hinterließ zuletzt Italien in einem politiſchen Zuſtande,
+welcher von dem des übrigen Abendlandes in den weſent-
+lichſten Dingen abwich. Wenn in Frankreich, Spanien,
+England das Lehnsſyſtem ſo geartet war, daß es nach Ab-
+lauf ſeiner Lebenszeit dem monarchiſchen Einheitsſtaat in
+die Arme fallen mußte, wenn es in Deutſchland wenigſtens
+die Einheit des Reiches äußerlich feſthalten half, ſo hatte
+Italien ſich ihm faſt völlig entzogen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.770812109678
+Syntactic Similarity without tokens: 0.75828331389
+Semantic Score: 0.881211280823
+Semantic Score without stopwords: 0.881211280823
+LCS Length: 10
+LCS: die der und den von dem die in Einheit des 
+Jaccard of common nouns: 0.02631578947368421
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.686005413532
+Semantic similarity verbs: 0.755599319935
+
+Pairing: 23
+New Sentence: Aus Furcht, und zwar vor den Socialdemokraten.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.775154825802
+Syntactic Similarity without tokens: 0.873634224386
+Semantic Score: 0.867561876774
+Semantic Score without stopwords: 0.867561876774
+LCS Length: 7
+LCS: und die auf dem der nun ein 
+Jaccard of common nouns: 0.02631578947368421
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.466386198997
+Semantic similarity verbs: 0.800962328911
+
+Pairing: 24
+New Sentence: ein ehrlicher Naturforscher glaubt an die unbedingte Gesetzmässigkeit der Welt, ohne aber das Geringste über den ethischen oder intellectuellen Werth dieser Gesetze selbst auszusagen.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.803474543293
+Syntactic Similarity without tokens: 0.852634462411
+Semantic Score: 0.862001359463
+Semantic Score without stopwords: 0.862001359463
+LCS Length: 13
+LCS: die der aber er das den dem der mit zu er es der 
+Jaccard of common nouns: 0.025
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.600212574005
+Semantic similarity verbs: 0.798046708107
+
+Pairing: 25
+New Sentence: Jeder, auch der verbissenste Orthodoxe, sagt dem Schriftsteller das Günstigste in’s Gesicht, und sei es auch nur ein Wort über seine fast Lessingische Dialektik oder über die Feinheit, Schönheit und Gültigkeit seiner ästhetischen Ansichten.
+Reference: 
+— Der größten Lücke des Buches
+gedenken wir in einiger Zeit durch ein beſonderes Werk
+über „die Kunſt der Renaiſſance“ abzuhelfen. Der Kampf zwiſchen den Päpſten und den Hohenſtaufen
+hinterließ zuletzt Italien in einem politiſchen Zuſtande,
+welcher von dem des übrigen Abendlandes in den weſent-
+lichſten Dingen abwich. Wenn in Frankreich, Spanien,
+England das Lehnsſyſtem ſo geartet war, daß es nach Ab-
+lauf ſeiner Lebenszeit dem monarchiſchen Einheitsſtaat in
+die Arme fallen mußte, wenn es in Deutſchland wenigſtens
+die Einheit des Reiches äußerlich feſthalten half, ſo hatte
+Italien ſich ihm faſt völlig entzogen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.802180808638
+Syntactic Similarity without tokens: 0.806946703451
+Semantic Score: 0.878411352634
+Semantic Score without stopwords: 0.878411352634
+LCS Length: 9
+LCS: in ein über die und es dem in des 
+Jaccard of common nouns: 0.024390243902439025
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.746617794037
+Semantic similarity verbs: 0.705980837345
+
+Pairing: 26
+New Sentence: So citirt Strauss selbst und schämt sich nicht.
+Reference: 
+Papſt Alexander ſei ſein Caplan,
+Kaiſer Max ſein Condottiere, Venedig ſein Kämmerer, der
+König von Frankreich ſein Courier, der da kommen und
+gehen müſſe wie ihm beliebe. 2) Mit einer erſtaunlichen
+Beſonnenheit wägt er noch in der letzten Noth (1499) die
+möglichen Ausgänge ab, und verläßt ſich dabei, was ihm
+Ehre macht, auf die Güte der menſchlichen Natur; ſeinen
+Bruder Cardinal Ascanio, der ſich erbietet, im Caſtell von
+Mailand auszuharren, weiſt er ab, da ſie früher bittern
+Streit gehabt hatten. „Monſignore, nichts für ungut, Euch
+traue ich nicht, wenn Ihr ſchon mein Bruder ſeid“ — be-
+reits hatte er ſich einen Commandanten für das Caſtell,
+dieſe „Bürgſchaft ſeiner Rückkehr“ ausgeſucht, einen Mann,
+dem er nie Uebles, ſtets nur Gutes erwieſen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.813372088032
+Syntactic Similarity without tokens: 0.871655613341
+Semantic Score: 0.85338228941
+Semantic Score without stopwords: 0.85338228941
+LCS Length: 4
+LCS: und ab der er 
+Jaccard of common nouns: 0.024390243902439025
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.497470408678
+Semantic similarity verbs: 0.686431884766
+
+Pairing: 27
+New Sentence: Sein Urtheil würde doch nur, um Euch zu guterletzt mit einer ächten und kostbaren Straussenfeder zu schmücken, „von eben so viel subjectiver Wahrheit als ohne jede objective Beweiskraft sein“ — nicht wahr, meine Guten?
+Reference: 
+Papſt Alexander ſei ſein Caplan,
+Kaiſer Max ſein Condottiere, Venedig ſein Kämmerer, der
+König von Frankreich ſein Courier, der da kommen und
+gehen müſſe wie ihm beliebe. 2) Mit einer erſtaunlichen
+Beſonnenheit wägt er noch in der letzten Noth (1499) die
+möglichen Ausgänge ab, und verläßt ſich dabei, was ihm
+Ehre macht, auf die Güte der menſchlichen Natur; ſeinen
+Bruder Cardinal Ascanio, der ſich erbietet, im Caſtell von
+Mailand auszuharren, weiſt er ab, da ſie früher bittern
+Streit gehabt hatten. „Monſignore, nichts für ungut, Euch
+traue ich nicht, wenn Ihr ſchon mein Bruder ſeid“ — be-
+reits hatte er ſich einen Commandanten für das Caſtell,
+dieſe „Bürgſchaft ſeiner Rückkehr“ ausgeſucht, einen Mann,
+dem er nie Uebles, ſtets nur Gutes erwieſen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.785542387531
+Syntactic Similarity without tokens: 0.849761181252
+Semantic Score: 0.864018619061
+Semantic Score without stopwords: 0.864018619061
+LCS Length: 4
+LCS: einer und von nicht 
+Jaccard of common nouns: 0.024390243902439025
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.586793839931
+Semantic similarity verbs: nan
+
+Pairing: 28
+New Sentence: Von allen schlimmen Folgen aber, die der letzte mit Frankreich geführte Krieg hinter sich drein zieht, ist vielleicht die schlimmste ein weitverbreiteter, ja allgemeiner Irrthum.
+Reference: 
+Papſt Alexander ſei ſein Caplan,
+Kaiſer Max ſein Condottiere, Venedig ſein Kämmerer, der
+König von Frankreich ſein Courier, der da kommen und
+gehen müſſe wie ihm beliebe. 2) Mit einer erſtaunlichen
+Beſonnenheit wägt er noch in der letzten Noth (1499) die
+möglichen Ausgänge ab, und verläßt ſich dabei, was ihm
+Ehre macht, auf die Güte der menſchlichen Natur; ſeinen
+Bruder Cardinal Ascanio, der ſich erbietet, im Caſtell von
+Mailand auszuharren, weiſt er ab, da ſie früher bittern
+Streit gehabt hatten. „Monſignore, nichts für ungut, Euch
+traue ich nicht, wenn Ihr ſchon mein Bruder ſeid“ — be-
+reits hatte er ſich einen Commandanten für das Caſtell,
+dieſe „Bürgſchaft ſeiner Rückkehr“ ausgeſucht, einen Mann,
+dem er nie Uebles, ſtets nur Gutes erwieſen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.804025240605
+Syntactic Similarity without tokens: 0.839291178484
+Semantic Score: 0.876501739025
+Semantic Score without stopwords: 0.876501739025
+LCS Length: 7
+LCS: der Frankreich der der die und die 
+Jaccard of common nouns: 0.022727272727272728
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.701612114906
+Semantic similarity verbs: 0.686340808868
+
+Pairing: 29
+New Sentence: — Ein neues Beispiel (S. 222).
+Reference: 
+Papſt Alexander ſei ſein Caplan,
+Kaiſer Max ſein Condottiere, Venedig ſein Kämmerer, der
+König von Frankreich ſein Courier, der da kommen und
+gehen müſſe wie ihm beliebe. 2) Mit einer erſtaunlichen
+Beſonnenheit wägt er noch in der letzten Noth (1499) die
+möglichen Ausgänge ab, und verläßt ſich dabei, was ihm
+Ehre macht, auf die Güte der menſchlichen Natur; ſeinen
+Bruder Cardinal Ascanio, der ſich erbietet, im Caſtell von
+Mailand auszuharren, weiſt er ab, da ſie früher bittern
+Streit gehabt hatten. „Monſignore, nichts für ungut, Euch
+traue ich nicht, wenn Ihr ſchon mein Bruder ſeid“ — be-
+reits hatte er ſich einen Commandanten für das Caſtell,
+dieſe „Bürgſchaft ſeiner Rückkehr“ ausgeſucht, einen Mann,
+dem er nie Uebles, ſtets nur Gutes erwieſen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.77306433994
+Syntactic Similarity without tokens: 0.799141602292
+Semantic Score: 0.895356357098
+Semantic Score without stopwords: 0.895356357098
+LCS Length: 3
+LCS: und noch das 
+Jaccard of common nouns: 0.02127659574468085
+Jaccard of common verbs: 0.045454545454545456
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.662957429886
+Semantic similarity verbs: 0.748571753502
+
+Pairing: 30
+New Sentence: Und nun wird es auch immer lustiger!
+Reference: 
+Papſt Alexander ſei ſein Caplan,
+Kaiſer Max ſein Condottiere, Venedig ſein Kämmerer, der
+König von Frankreich ſein Courier, der da kommen und
+gehen müſſe wie ihm beliebe. 2) Mit einer erſtaunlichen
+Beſonnenheit wägt er noch in der letzten Noth (1499) die
+möglichen Ausgänge ab, und verläßt ſich dabei, was ihm
+Ehre macht, auf die Güte der menſchlichen Natur; ſeinen
+Bruder Cardinal Ascanio, der ſich erbietet, im Caſtell von
+Mailand auszuharren, weiſt er ab, da ſie früher bittern
+Streit gehabt hatten. „Monſignore, nichts für ungut, Euch
+traue ich nicht, wenn Ihr ſchon mein Bruder ſeid“ — be-
+reits hatte er ſich einen Commandanten für das Caſtell,
+dieſe „Bürgſchaft ſeiner Rückkehr“ ausgeſucht, einen Mann,
+dem er nie Uebles, ſtets nur Gutes erwieſen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.795181025786
+Syntactic Similarity without tokens: 0.825286675981
+Semantic Score: 0.888630330563
+Semantic Score without stopwords: 0.888630330563
+LCS Length: 5
+LCS: und wie von für das 
+Jaccard of common nouns: 0.019230769230769232
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.719746649265
+Semantic similarity verbs: 0.800156831741
+
+Pairing: 31
+New Sentence: Ich meine, ein älterer Mann müsste doch wissen, dass die Sprache ein von den Vorfahren überkommenes und den Nachkommen zu hinterlassendes Erbstück ist, vor dem man Ehrfurcht haben soll als vor etwas Heiligem und Unschätzbarem und Unverletzlichem.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.803201271605
+Syntactic Similarity without tokens: 0.899612012569
+Semantic Score: 0.88338136673
+Semantic Score without stopwords: 0.88338136673
+LCS Length: 6
+LCS: die und den zu nun es 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.517165184021
+Semantic similarity verbs: 0.820537626743
+
+Pairing: 32
+New Sentence: Denn er sucht, dieser deutsche Geist!
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.783841917238
+Syntactic Similarity without tokens: 0.853113952084
+Semantic Score: 0.902536332607
+Semantic Score without stopwords: 0.902536332607
+LCS Length: 7
+LCS: und er er er es ein der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.537588715553
+Semantic similarity verbs: 0.772705852985
+
+Pairing: 33
+New Sentence: in welchem Falle auch der Sieg, selbst bei pomphaftestem Waffenerfolge, für die siegende Kultur keine Aufforderung zum Triumphe enthielte.
+Reference: 
+— Der größten Lücke des Buches
+gedenken wir in einiger Zeit durch ein beſonderes Werk
+über „die Kunſt der Renaiſſance“ abzuhelfen. Der Kampf zwiſchen den Päpſten und den Hohenſtaufen
+hinterließ zuletzt Italien in einem politiſchen Zuſtande,
+welcher von dem des übrigen Abendlandes in den weſent-
+lichſten Dingen abwich. Wenn in Frankreich, Spanien,
+England das Lehnsſyſtem ſo geartet war, daß es nach Ab-
+lauf ſeiner Lebenszeit dem monarchiſchen Einheitsſtaat in
+die Arme fallen mußte, wenn es in Deutſchland wenigſtens
+die Einheit des Reiches äußerlich feſthalten half, ſo hatte
+Italien ſich ihm faſt völlig entzogen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.800213206471
+Syntactic Similarity without tokens: 0.814807790142
+Semantic Score: 0.885563075542
+Semantic Score without stopwords: 0.885563075542
+LCS Length: 7
+LCS: in der in von den die die 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.595470607281
+Semantic similarity verbs: 0.687401473522
+
+Pairing: 34
+New Sentence: Dem Verständniss dieser Dinge helfen wir durch geschichtliche Studien nach, die jetzt mittelst einer Reihe anziehend und volksthümlich geschriebener Geschichtswerke auch dem Nichtgelehrten leicht gemacht sind, dabei suchen wir unsere Naturkenntnisse zu erweitern, wozu es an gemeinverständlichen Hülfsmitteln gleichfalls nicht fehlt; und endlich finden wir in den Schriften unsrer grossen Dichter, bei den Aufführungen der Werke unserer grossen Musiker eine Anregung für Geist und Gemüth, für Phantasie und Humor, die nichts zu wünschen übrig lässt.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.788735320122
+Syntactic Similarity without tokens: 0.856017093841
+Semantic Score: 0.896454870701
+Semantic Score without stopwords: 0.896454870701
+LCS Length: 7
+LCS: die und dem zu der zu der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.555203199387
+Semantic similarity verbs: 0.780719339848
+
+Pairing: 35
+New Sentence: Wenn es nun wahr wäre, dass die berühmte, „nicht zu übersehende Minderheit“, von der und in deren Namen Strauss spricht, „grosse Stücke auf Consequenz hält“, so müsste sie doch mit dem Wagenbauer Strauss eben so wenig zufrieden sein, als wir mit dem Logiker.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.78977620176
+Syntactic Similarity without tokens: 0.85109217236
+Semantic Score: 0.894975304604
+Semantic Score without stopwords: 0.894975304604
+LCS Length: 9
+LCS: die der und auf mit dem ganze der es 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.607897102833
+Semantic similarity verbs: 0.786545097828
+
+Pairing: 36
+New Sentence: Welche Gattung von Menschen muss in Deutschland zur Herrschaft gekommen sein, um so starke und einfache Gefühle verbieten oder doch ihren Ausdruck verhindern zu können?
+Reference: 
+Freilich Giovio hatte bei der allgemeinen Renten-
+einziehung auch ſeine Rente verloren und nur deßhalb zur
+Entſchädigung eine Pfründe erhalten, weil er „kein Poet“,
+d. h. kein Heide ſei. Es ſtand aber geſchrieben, daß Hadrian
+das letzte große Opfer dieſer Art ſein ſollte. Seit dem
+Unglück Roms (1527) ſtarb mit der äußerſten Ruchloſig-
+keit des Lebens auch die frevelhafte Rede ſichtlich ab.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.807471934976
+Syntactic Similarity without tokens: 0.787260797339
+Semantic Score: 0.877206623554
+Semantic Score without stopwords: 0.877206623554
+LCS Length: 3
+LCS: zur dem des 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.811323881149
+Semantic similarity verbs: 0.583710491657
+
+Pairing: 37
+New Sentence: Deshalb müssen diese Wenigen fürderhin in einem Widerspruche leben.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.784633146813
+Syntactic Similarity without tokens: 0.770638527001
+Semantic Score: 0.898977935314
+Semantic Score without stopwords: 0.898977935314
+LCS Length: 8
+LCS: die die zu ein ihn die von des 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.034482758620689655
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.708165884018
+Semantic similarity verbs: 0.834790408611
+
+Pairing: 38
+New Sentence: Und die es am besten könnten, begabtere und reichere Geister als Strauss, würden immer nur — Quark gemacht haben.
+Reference: 
+„wenn Ihr wollt, ſo
+iſt das nicht ſchwer; Ihr wiſſet ja daß jene Römerthaten
+uns nicht ſchlicht, ſondern idealiſirt (con arte accresciute)
+überliefert ſind“. Nun zwingt Jener ſeinen Verſtand, zu
+glauben, und jammert daß er nicht freiwillig glauben könne. Wenn er nur noch einen Monat mit guten Mönchen zu
+leben hätte, dann würde er ganz geiſtlich geſinnt werden!
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.787739557401
+Syntactic Similarity without tokens: 0.850970492807
+Semantic Score: 0.895762264729
+Semantic Score without stopwords: 0.895762264729
+LCS Length: 3
+LCS: und nur einen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.349291115999
+Semantic similarity verbs: 0.864479124546
+
+Pairing: 39
+New Sentence: sind wir noch Christen?
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.797889821416
+Syntactic Similarity without tokens: 0.819098283248
+Semantic Score: 0.884973883629
+Semantic Score without stopwords: 0.884973883629
+LCS Length: 5
+LCS: die er der der und 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.629338741302
+Semantic similarity verbs: 0.7263250947
+
+Pairing: 40
+New Sentence: Er ist also im Rechte zu zweifeln, ob der „Wagen“, dem sich seine „werthen Leser anvertrauen mussten, allen Anforderungen entspräche.“ Er entspricht ihnen gewiss nicht.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.797516002033
+Syntactic Similarity without tokens: 0.868843264115
+Semantic Score: 0.885329306126
+Semantic Score without stopwords: 0.885329306126
+LCS Length: 5
+LCS: der dem der er in 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.55055385828
+Semantic similarity verbs: 0.812144577503
+
+Pairing: 41
+New Sentence: Bei keinem Lebenswerk eurer grossen Genien habt ihr mitgeholfen, und jetzt wollt ihr ein Dogma daraus machen, dass keinem mehr geholfen werde?
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.778210902354
+Syntactic Similarity without tokens: 0.840639324068
+Semantic Score: 0.90423643589
+Semantic Score without stopwords: 0.90423643589
+LCS Length: 6
+LCS: und der den die zu in 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.695953547955
+Semantic similarity verbs: 0.84379273653
+
+Pairing: 42
+New Sentence: Daraus erklärt sich auch zum Theil der ausserordentliche Erfolg jenes Buches.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.799004504457
+Syntactic Similarity without tokens: 0.842108471089
+Semantic Score: 0.882964015007
+Semantic Score without stopwords: 0.882964015007
+LCS Length: 2
+LCS: der der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.515273034573
+Semantic similarity verbs: 0.828277111053
+
+Pairing: 43
+New Sentence: diesen“,Nach KGW/KGB Nachberichte sagt er, „habe ich doch eine regelrecht fixirte Sprache mit durchweg festgestellter und treulich beobachteter Grammatik und Orthographie vor mir und bin ganz dem Gedanken hingegeben, während ich im Deutschen jeden Augenlick gestört werde durch die Naseweisheit des Schreibers, der seine grammatischen und orthographischen Grillen und knolligen Einfälle durchsetzen will.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.798605974168
+Syntactic Similarity without tokens: 0.872736583753
+Semantic Score: 0.88202559948
+Semantic Score without stopwords: 0.88202559948
+LCS Length: 8
+LCS: die der und die eine zu der zu 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.047619047619047616
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.459240406752
+Semantic similarity verbs: 0.849141538143
+
+Pairing: 44
+New Sentence: An diesem gerade erkennt er den Charakter der von ihm patentirten „deutschen Kultur“.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.772028177372
+Syntactic Similarity without tokens: 0.73277593874
+Semantic Score: 0.907361626625
+Semantic Score without stopwords: 0.907361626625
+LCS Length: 9
+LCS: er der ihm an der er ihm die und 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.694986641407
+Semantic similarity verbs: 0.796921670437
+
+Pairing: 45
+New Sentence: man kann Philister sein und doch Kulturmensch — darin liegt der Humor, der dem armen Hölderlin fehlte, an dessen Mangel er zu Grunde ging.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.783395659265
+Syntactic Similarity without tokens: 0.854672827897
+Semantic Score: 0.895422697067
+Semantic Score without stopwords: 0.895422697067
+LCS Length: 7
+LCS: und der dem er zu ein der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.645958483219
+Semantic similarity verbs: 0.764582693577
+
+Pairing: 46
+New Sentence: ich glaube, man muss genau hinhören, sonst kann man glauben, eine höfliche Entschuldigung oder eine geflüsterte Galanterie zu hören.
+Reference: 
+„wenn Ihr wollt, ſo
+iſt das nicht ſchwer; Ihr wiſſet ja daß jene Römerthaten
+uns nicht ſchlicht, ſondern idealiſirt (con arte accresciute)
+überliefert ſind“. Nun zwingt Jener ſeinen Verſtand, zu
+glauben, und jammert daß er nicht freiwillig glauben könne. Wenn er nur noch einen Monat mit guten Mönchen zu
+leben hätte, dann würde er ganz geiſtlich geſinnt werden!
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.774072799231
+Syntactic Similarity without tokens: 0.843133457933
+Semantic Score: 0.904052197933
+Semantic Score without stopwords: 0.904052197933
+LCS Length: 4
+LCS: glauben und zu er 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.10526315789473684
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.913576185703
+
+Pairing: 47
+New Sentence: Denn er selbst, der Philister, irrt, aber hat noch nie ein Wunder gethan.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.761017300129
+Syntactic Similarity without tokens: 0.807852280715
+Semantic Score: 0.916226148605
+Semantic Score without stopwords: 0.916226148605
+LCS Length: 8
+LCS: er der ein es zu an des und 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.637590050697
+Semantic similarity verbs: 0.805630207062
+
+Pairing: 48
+New Sentence: Wie klug war mein Freund, dass er, durch jene chimärische Spuk-Gestalt über den Straussischen Lessing und über Strauss aufgeklärt, nicht mehr weiter lesen mochte.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.787652775141
+Syntactic Similarity without tokens: 0.856663988566
+Semantic Score: 0.88955694437
+Semantic Score without stopwords: 0.88955694437
+LCS Length: 5
+LCS: er den über des ihn 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.494522064924
+Semantic similarity verbs: 0.771755754948
+
+Pairing: 49
+New Sentence: gerade die Vernunft sollte ihm sagen, wie wenig durch die Vernunft über das Ansich der Dinge auszumachen ist.
+Reference: 
+[422/0432]
+mannsgilde einſtweilen zehn Wagen bauen (wozu in der
+Folge noch mehrere kommen ſollten), nicht ſowohl um die
+Tribute zu tragen als um ſie zu ſymboliſiren, und Andrea
+del Sarto, der einige davon ausſchmückte, gab denſelben
+ohne Zweifel die herrlichſte Geſtalt. Solche Tribut- und
+Trophäenwagen gehörten bereits zu jeder feſtlichen Gelegen-
+heit, auch wenn man nicht viel aufzuwenden hatte. Die
+Sieneſen proclamirten 1477 das Bündniß zwiſchen Ferrante
+und Sixtus IV., wozu auch ſie gehörten, durch das Her-
+umführen eines Wagens, in welchem „Einer als Friedens-
+göttin gekleidet auf einem Harniſch und andern Waffen
+ſtand 1)“.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.798603929668
+Syntactic Similarity without tokens: 0.822119974725
+Semantic Score: 0.877504587173
+Semantic Score without stopwords: 0.877504587173
+LCS Length: 8
+LCS: die die zu wenn man auch in und 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.424475371838
+Semantic similarity verbs: 0.738568007946
+
+Pairing: 50
+New Sentence: um wie viel mehr sind wir aufgefordert, ihre Schwärmerei unter die Controle der Vernunft zu stellen.
+Reference: 
+[471/0481]
+Nun kommen die härtern Gemüther an die Reihe;
+wer längſt nicht mehr gebeichtet hat, beichtet nunmehr; un-
+gerecht vorenthaltenes Gut wird zurückgegeben, unheil-
+ſchwangere Schmähreden werden zurückgenommen. Redner
+wie Bernardino da Siena 1) gingen ſehr emſig und genau
+auf den täglichen Verkehr der Menſchen und deſſen Sitten-
+geſetz ein. Wenige unſerer heutigen Theologen möchten
+wohl eine Morgenpredigt zu halten verſucht ſein „über
+Contracte, Reſtitutionen, Staatsrenten (monte) und Aus-
+ſtattung von Töchtern“, wie er einſt im Dom von Florenz
+eine hielt.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.78623650754
+Syntactic Similarity without tokens: 0.8207338397
+Semantic Score: 0.889808356762
+Semantic Score without stopwords: 0.889808356762
+LCS Length: 5
+LCS: wie der zu und eine 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.398270010948
+Semantic similarity verbs: 0.693426847458
+
+Pairing: 51
+New Sentence: Betrachten wir einen Augenblick die hauptsächlichen Gründe jener Sympathie, die den gelehrten Arbeiterstand und die Philister-Kultur verknüpfen, so finden wir auch den Weg, der uns zu dem als klassisch anerkannten Schriftsteller Strauss und damit zu unserem letzten Hauptthema führt.
+Reference: 
+[422/0432]
+mannsgilde einſtweilen zehn Wagen bauen (wozu in der
+Folge noch mehrere kommen ſollten), nicht ſowohl um die
+Tribute zu tragen als um ſie zu ſymboliſiren, und Andrea
+del Sarto, der einige davon ausſchmückte, gab denſelben
+ohne Zweifel die herrlichſte Geſtalt. Solche Tribut- und
+Trophäenwagen gehörten bereits zu jeder feſtlichen Gelegen-
+heit, auch wenn man nicht viel aufzuwenden hatte. Die
+Sieneſen proclamirten 1477 das Bündniß zwiſchen Ferrante
+und Sixtus IV., wozu auch ſie gehörten, durch das Her-
+umführen eines Wagens, in welchem „Einer als Friedens-
+göttin gekleidet auf einem Harniſch und andern Waffen
+ſtand 1)“.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.810766859715
+Syntactic Similarity without tokens: 0.828276313591
+Semantic Score: 0.865264058113
+Semantic Score without stopwords: 0.865264058113
+LCS Length: 12
+LCS: die zu als zu und der und nicht und durch das und 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.588511407375
+Semantic similarity verbs: 0.661138534546
+
+Pairing: 52
+New Sentence: Was kann es uns angehen, ob die schönen Kapitelchen neu geschrieben sind!
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.843873739431
+Syntactic Similarity without tokens: 0.850670814166
+Semantic Score: 0.831895530224
+Semantic Score without stopwords: 0.831895530224
+LCS Length: 3
+LCS: die es s 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.580289065838
+Semantic similarity verbs: 0.775228381157
+
+Pairing: 53
+New Sentence: Ich bin in der unangenehmen Lage, etwas Hartes, dessen Härte man durch etwas Spitzes mildert, nicht zu kennen; Strauss freilich erzählt (S. 367) sogar von einer „durch Zusammenrütteln gemilderten Schärfe“.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.828517621774
+Syntactic Similarity without tokens: 0.913689728474
+Semantic Score: 0.846035599709
+Semantic Score without stopwords: 0.846035599709
+LCS Length: 6
+LCS: der zu einer durch ein der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.637205302715
+Semantic similarity verbs: 0.788221657276
+
+Pairing: 54
+New Sentence: Bewahren wir uns aber vorläufig auch in Hinsicht auf diese Schwärmerei einen Grad von Vorsicht.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.80489690451
+Syntactic Similarity without tokens: 0.869404262024
+Semantic Score: 0.869098067284
+Semantic Score without stopwords: 0.869098067284
+LCS Length: 7
+LCS: aber auf einen in es ein ihn 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.450915932655
+Semantic similarity verbs: 0.842964231968
+
+Pairing: 55
+New Sentence: Dann wird es doch wenigstens etwas lebhafter und lauter zugehen als jetzt, wo uns die schleichende Filzsocken-Begeisterung unseres himmlischen Führers und die laulichte Beredsamkeit seines Mundes auf die Dauer müde und ekel machen.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.802433861687
+Syntactic Similarity without tokens: 0.863007650727
+Semantic Score: 0.871547996998
+Semantic Score without stopwords: 0.871547996998
+LCS Length: 6
+LCS: die und die auf die ein 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.465299516916
+Semantic similarity verbs: 0.776938736439
+
+Pairing: 56
+New Sentence: „Aber ein klassischer Schriftsteller bleibt er doch!“ Nun wir werden sehen.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.769097648016
+Syntactic Similarity without tokens: 0.823165386292
+Semantic Score: 0.902931988239
+Semantic Score without stopwords: 0.902931988239
+LCS Length: 10
+LCS: und aber er zu er die des er ein der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.567195236683
+Semantic similarity verbs: 0.84436994791
+
+Pairing: 57
+New Sentence: „es giebt Schwärmer ohne Fähigkeit, und dann sind sie wirklich gefährliche Leute.“ Einstweilen begehren wir, dieser Vernunft-Controle halber, nur eine ehrliche Antwort auf drei Fragen.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.776837260325
+Syntactic Similarity without tokens: 0.779674094361
+Semantic Score: 0.894067823887
+Semantic Score without stopwords: 0.894067823887
+LCS Length: 5
+LCS: es giebt und dann den 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.047619047619047616
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.560861766338
+Semantic similarity verbs: 0.830865204334
+
+Pairing: 58
+New Sentence: so dass Einer von ihnen, für Alle, im hohen Alter sagen konnte.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.763944860379
+Syntactic Similarity without tokens: 0.82407292732
+Semantic Score: 0.906026959419
+Semantic Score without stopwords: 0.906026959419
+LCS Length: 4
+LCS: und aber über zu 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.525202274323
+Semantic similarity verbs: 0.844904363155
+
+Pairing: 59
+New Sentence: „in Arthur Schopenhauers Schriften braucht man bloss zu blättern, obwohl man übrigens gut thut, nicht bloss darin zu blättern, sondern sie zu studiren, u.s.w.“ (p. 141).
+Reference: 
+[422/0432]
+mannsgilde einſtweilen zehn Wagen bauen (wozu in der
+Folge noch mehrere kommen ſollten), nicht ſowohl um die
+Tribute zu tragen als um ſie zu ſymboliſiren, und Andrea
+del Sarto, der einige davon ausſchmückte, gab denſelben
+ohne Zweifel die herrlichſte Geſtalt. Solche Tribut- und
+Trophäenwagen gehörten bereits zu jeder feſtlichen Gelegen-
+heit, auch wenn man nicht viel aufzuwenden hatte. Die
+Sieneſen proclamirten 1477 das Bündniß zwiſchen Ferrante
+und Sixtus IV., wozu auch ſie gehörten, durch das Her-
+umführen eines Wagens, in welchem „Einer als Friedens-
+göttin gekleidet auf einem Harniſch und andern Waffen
+ſtand 1)“.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.796361630828
+Syntactic Similarity without tokens: 0.852512101034
+Semantic Score: 0.873491108418
+Semantic Score without stopwords: 0.873491108418
+LCS Length: 6
+LCS: in nicht zu zu der man 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.711377561092
+
+Pairing: 60
+New Sentence: und gerade dass Strauss um einen Grad weniger feige ist, das macht ihn zum Führer, während es andererseits auch für seinen Muth eine sehr bestimmte Grenzlinie giebt.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.790057386884
+Syntactic Similarity without tokens: 0.838212606045
+Semantic Score: 0.879794001579
+Semantic Score without stopwords: 0.879794001579
+LCS Length: 5
+LCS: und eine er in ein 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.450915932655
+Semantic similarity verbs: 0.698506236076
+
+Pairing: 61
+New Sentence: Jetzt arbeitet er, so hart wie der vierte Stand, der Sclavenstand, arbeitet, sein Studium ist nicht mehr eine Beschäftigung, sondern eine Noth, er sieht weder rechts noch links und geht durch alle Geschäfte und ebenso durch alle Bedenklichkeiten, die das Leben im Schoosse trägt, mit jener halben Aufmerksamkeit oder mit jenem widrigen Erholungs-Bedürfnisse hindurch, welches dem erschöpften Arbeiter zu eigen ist.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.782368249322
+Syntactic Similarity without tokens: 0.842449852699
+Semantic Score: 0.887260198593
+Semantic Score without stopwords: 0.887260198593
+LCS Length: 11
+LCS: der der eine er noch mit dem zu er nun ihn 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.463030904531
+Semantic similarity verbs: 0.782812178135
+
+Pairing: 62
+New Sentence: Er benimmt sich, als ob das Leben für ihn nur otium sei, aber sine dignitate.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.766524654287
+Syntactic Similarity without tokens: 0.736042329263
+Semantic Score: 0.906669735909
+Semantic Score without stopwords: 0.902991950512
+LCS Length: 11
+LCS: als ihn nur ein der der zu von und den zu 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.677236735821
+Semantic similarity verbs: 0.83060926199
+
+Pairing: 63
+New Sentence: Es ist zuzugeben, dass der gebildete Philister im Durchschnitt um einen Grad weniger freimüthig ist als Strauss, oder wenigstens bei öffentlichen Kundgebungen sich mehr zurückhält.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.777507179664
+Syntactic Similarity without tokens: 0.835826209953
+Semantic Score: 0.891696751118
+Semantic Score without stopwords: 0.891696751118
+LCS Length: 6
+LCS: der einen zu er nach nun 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.575560510159
+Semantic similarity verbs: 0.764585256577
+
+Pairing: 64
+New Sentence: er benimmt sich wie der stolzeste Müssiggänger des Glücks.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.800700842036
+Syntactic Similarity without tokens: 0.867839337065
+Semantic Score: 0.868501901627
+Semantic Score without stopwords: 0.868501901627
+LCS Length: 6
+LCS: er der des es ein der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.550007820129
+Semantic similarity verbs: 0.799654662609
+
+Pairing: 65
+New Sentence: — Wenn S. 72 dieser grosse Held in Worten, Strauss, die Geschichte von der Auferstehung Jesu als „welthistorischen Humbug“ bezeichnet, so wollen wir hier, unter dem Gesichtspunkte des Grammatikers, ihn nur fragen, wen er eigentlich bezichtigt, diesen „welthistorischen Humbug,“ das heisst einen auf Betrug Anderer und auf persönlichen Gewinn abzielenden Schwindel auf dem Gewissen zu haben.
+Reference: 
+[145/0155]
+Brief „an die Nachwelt“ 1) iſt die Rechenſchaft des alten,
+hochberühmten Mannes, der die öffentliche Neugier zufrie-
+den ſtellen muß; bei der Nachwelt möchte er wohl Ruhm
+genießen, bei den Zeitgenoſſen aber ſich lieber denſelben
+verbitten 2); in ſeinen Dialogen von Glück und Unglück 3)
+hat bei Anlaß des Ruhmes der Gegenredner, welcher deſſen
+Nichtigkeit beweist, den ſtärkern Accent für ſich. Soll man
+es aber ſtrenge nehmen, wenn es Petrarca noch immer
+freut, daß der paläologiſche Autokrator von Byzanz 4) ihn
+durch ſeine Schriften ſo genau kennt wie Kaiſer Carl IV. Denn in der That ging ſein Ruf ſchon bei
+Lebzeiten über Italien hinaus.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.787676668995
+Syntactic Similarity without tokens: 0.796083086316
+Semantic Score: 0.880129516125
+Semantic Score without stopwords: 0.880129516125
+LCS Length: 5
+LCS: in von der ihn Denn 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.790900230408
+Semantic similarity verbs: 0.758049368858
+
+Pairing: 66
+New Sentence: Wird dem Katholicismus gesagt, dass er seine Macht diktatorisch zusammenfasst, so ist er selbst mit einem Diktator verglichen.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.778568745239
+Syntactic Similarity without tokens: 0.823115859702
+Semantic Score: 0.888982176781
+Semantic Score without stopwords: 0.888982176781
+LCS Length: 7
+LCS: dem er einem der an kommt die 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.041666666666666664
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.682794988155
+Semantic similarity verbs: 0.769904255867
+
+Pairing: 67
+New Sentence: Es giebt aber in dem Bekenntnissbuche eine paradiesische Seite, die Seite 294.  dieses Pergamen lass’ dir vor allem entrollen, beglücktester Philister!
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.79376052595
+Syntactic Similarity without tokens: 0.863775824712
+Semantic Score: 0.873609244823
+Semantic Score without stopwords: 0.873609244823
+LCS Length: 6
+LCS: aber dem die der zu es 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.504625499249
+Semantic similarity verbs: 0.77078050375
+
+Pairing: 68
+New Sentence: und eben deshalb stellt sich fast Niemand die Frage, was wohl bei einer solchen Beschäftigung mit den Wissenschaften für die Kultur herauskommen könne, selbst vorausgesetzt, dass überall die beste Befähigung und der ehrlichste Wille, für die Kultur zu wirken, vorhanden sei.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.770730294519
+Syntactic Similarity without tokens: 0.802373696077
+Semantic Score: 0.89627623558
+Semantic Score without stopwords: 0.89627623558
+LCS Length: 7
+LCS: die die der zu ein er des 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.509509563446
+Semantic similarity verbs: 0.824187517166
+
+Pairing: 69
+New Sentence: Nun meint Pascal überhaupt, dass die Menschen so angelegentlich ihre Geschäfte und ihre Wissenschaften betrieben, um nur damit den wichtigsten Fragen zu entfliehen, die jede Einsamkeit, jede wirkliche Musse ihnen aufdringen würde, eben jenen Fragen nach dem Warum, Woher, Wohin.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.823450830059
+Syntactic Similarity without tokens: 0.805946623359
+Semantic Score: 0.847689449787
+Semantic Score without stopwords: 0.843252420425
+LCS Length: 5
+LCS: die nach dem fällt die 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.047619047619047616
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.628302454948
+Semantic similarity verbs: 0.56932336092
+
+Pairing: 70
+New Sentence: Aber geben wir immerhin den Logiker preis.
+Reference: 
+D
+C
+[50/0054]
+lauter Lehnſaͤtze und Zweifel. ſo gewinnt
+und verliert der Glaube gleich viel bey dem
+geſchickteſten Rabuliſten und ehrlichſten Sach-
+walter. Der Glaube iſt kein Werk der Ver-
+nunft und kann daher auch keinem Angrif
+derſelben unterliegen; weil Glauben ſo we-
+nig durch Gruͤnde geſchieht als Schmecken
+und Sehen.
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.787355864207
+Syntactic Similarity without tokens: 0.825568373246
+Semantic Score: 0.878181397915
+Semantic Score without stopwords: 0.878181397915
+LCS Length: 5
+LCS: und der auch als und 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.662013173103
+Semantic similarity verbs: 0.624908149242
+
+Pairing: 71
+New Sentence: MassstabNach KGW/KGB Nachberichte für den Werth der siegenden ein sehr relativer und würde unter Verhältnissen durchaus nicht zu einem Siegesjubel oder zu einer Selbstglorification berechtigen.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.81676420708
+Syntactic Similarity without tokens: 0.901988531938
+Semantic Score: 0.84807151556
+Semantic Score without stopwords: 0.84807151556
+LCS Length: 5
+LCS: der und zu zu es 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.283827871084
+Semantic similarity verbs: 0.760409653187
+
+Pairing: 72
+New Sentence: Die mittlere Instanz zwischen dem Einzelnen und der Menschheit aber ist die Nation.“ — (S. 141).
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.789085093105
+Syntactic Similarity without tokens: 0.817483448102
+Semantic Score: 0.873331606388
+Semantic Score without stopwords: 0.873331606388
+LCS Length: 8
+LCS: und aber der noch einen zu in der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.577039718628
+Semantic similarity verbs: 0.809290111065
+
+Pairing: 73
+New Sentence: „ein Buch handelt von etwas“ und.
+Reference: 
+[152/0162]
+Styliſiren“ (operosius excolenda) nach Florenz zu über-
+ſenden; ſonſt möchte es ihm ergehen wie all Jenen, deren
+Thaten, von der Hülfe der Gelehrten entblößt, „im großen
+„Schutthaufen menſchlicher Gebrechlichkeit verborgen liegen
+„bleiben“. Der König (oder doch ſein humaniſtiſch ge-
+ſinnter Kanzler) ging darauf ein und verſprach wenigſtens,
+es ſollten die bereits portugieſiſch abgefaßten Annalen über
+die africaniſchen Dinge in italieniſcher Ueberſetzung nach
+Florenz zur lateiniſchen Bearbeitung verabfolgt werden; ob
+dieß wirklich geſchah, iſt nicht bekannt. So ganz leer, wie
+dergleichen Prätenſionen auf den erſten Blick ſcheinen, ſind
+ſie keinesweges; die Redaction, in welcher die Sachen (auch
+die wichtigſten) vor Mit- und Nachwelt treten, iſt nichts
+weniger als gleichgültig.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.835300306086
+Syntactic Similarity without tokens: 0.868560885839
+Semantic Score: 0.826263785362
+Semantic Score without stopwords: 0.826263785362
+LCS Length: 6
+LCS: ein und es wie auf in 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.047619047619047616
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.479439795017
+Semantic similarity verbs: 0.688431978226
+
+Pairing: 74
+New Sentence: woher, wohin, wozu alle Wissenschaft, wenn sie nicht zur Kultur führen soll?
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.778773311818
+Syntactic Similarity without tokens: 0.789878214678
+Semantic Score: 0.882411599159
+Semantic Score without stopwords: 0.882411599159
+LCS Length: 3
+LCS: zur dann den 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.413722842932
+Semantic similarity verbs: 0.760312378407
+
+Pairing: 75
+New Sentence: Ob nun die jetzt noch nöthige, grosse und mühsame Arbeit von Strauss gethan ist, geht uns so lange nichts an, als wir fragen, ob er das Gebäude selbst in guten Proportionen und überall als Ganzes hingestellt hat.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.760544126099
+Syntactic Similarity without tokens: 0.796866580469
+Semantic Score: 0.89951467514
+Semantic Score without stopwords: 0.89951467514
+LCS Length: 7
+LCS: die und er das in ein der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.574434876442
+Semantic similarity verbs: 0.831900238991
+
+Pairing: 76
+New Sentence: und sollte es wahr sein, dass das Christenthum keine andere himmlische Beschäftigung kennt, als Musiciren und Singen, so mag dies freilich für den Straussischen Philister keine tröstliche Aussicht sein.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.779248904602
+Syntactic Similarity without tokens: 0.875198645536
+Semantic Score: 0.880619049072
+Semantic Score without stopwords: 0.880619049072
+LCS Length: 7
+LCS: und das den dem die der zu 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.531861305237
+Semantic similarity verbs: 0.775961577892
+
+Pairing: 77
+New Sentence: es hat edle, hat geistvolle Schwärmer gegeben, ein Schwärmer kann anregen, erheben, kann auch historisch sehr nachhaltig wirken; aber zum Lebensführer werden wir ihn nicht wählen wollen.
+Reference: 
+[422/0432]
+mannsgilde einſtweilen zehn Wagen bauen (wozu in der
+Folge noch mehrere kommen ſollten), nicht ſowohl um die
+Tribute zu tragen als um ſie zu ſymboliſiren, und Andrea
+del Sarto, der einige davon ausſchmückte, gab denſelben
+ohne Zweifel die herrlichſte Geſtalt. Solche Tribut- und
+Trophäenwagen gehörten bereits zu jeder feſtlichen Gelegen-
+heit, auch wenn man nicht viel aufzuwenden hatte. Die
+Sieneſen proclamirten 1477 das Bündniß zwiſchen Ferrante
+und Sixtus IV., wozu auch ſie gehörten, durch das Her-
+umführen eines Wagens, in welchem „Einer als Friedens-
+göttin gekleidet auf einem Harniſch und andern Waffen
+ſtand 1)“.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.780271626492
+Syntactic Similarity without tokens: 0.788471593944
+Semantic Score: 0.877537548542
+Semantic Score without stopwords: 0.877537548542
+LCS Length: 10
+LCS: der noch nicht die als zu und die zu viel 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.037037037037037035
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.841986477375
+
+Pairing: 78
+New Sentence: Sie meinen doch wohl nur dies.
+Reference: 
+[152/0162]
+Styliſiren“ (operosius excolenda) nach Florenz zu über-
+ſenden; ſonſt möchte es ihm ergehen wie all Jenen, deren
+Thaten, von der Hülfe der Gelehrten entblößt, „im großen
+„Schutthaufen menſchlicher Gebrechlichkeit verborgen liegen
+„bleiben“. Der König (oder doch ſein humaniſtiſch ge-
+ſinnter Kanzler) ging darauf ein und verſprach wenigſtens,
+es ſollten die bereits portugieſiſch abgefaßten Annalen über
+die africaniſchen Dinge in italieniſcher Ueberſetzung nach
+Florenz zur lateiniſchen Bearbeitung verabfolgt werden; ob
+dieß wirklich geſchah, iſt nicht bekannt. So ganz leer, wie
+dergleichen Prätenſionen auf den erſten Blick ſcheinen, ſind
+ſie keinesweges; die Redaction, in welcher die Sachen (auch
+die wichtigſten) vor Mit- und Nachwelt treten, iſt nichts
+weniger als gleichgültig.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.760526588881
+Syntactic Similarity without tokens: 0.800116159041
+Semantic Score: 0.89624941349
+Semantic Score without stopwords: 0.89624941349
+LCS Length: 5
+LCS: zu der es nicht wie 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.395637691021
+Semantic similarity verbs: 0.79570043087
+
+Pairing: 79
+New Sentence: aber „ausringen“ wird entweder von der Wäscherin gesagt oder vom Helden, der den Kampf vollendet hat und stirbt; „ausringen“ im Sinne von „sich entwickeln“ ist Straussendeutsch, ebenso wie (S. 223).
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.788156104235
+Syntactic Similarity without tokens: 0.750344309529
+Semantic Score: 0.868386387825
+Semantic Score without stopwords: 0.868386387825
+LCS Length: 5
+LCS: aber der den der in 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.621188282967
+Semantic similarity verbs: 0.76269030571
+
+Pairing: 80
+New Sentence: Er wird uns auf Abwege führen, wenn wir seinen Einfluss nicht unter die Controle der Vernunft stellen.“ Wir wissen noch mehr, es kann auch geistlose Schwärmer geben, Schwärmer, die nicht anregen, nicht erheben und die sich doch Aussicht machen, als Lebensführer historisch sehr nachhaltig zu wirken und die Zukunft zu beherrschen.
+Reference: 
+„Darum öffne ſich die Erde und ver-
+ſchlinge ſolche Verbrecher lebendig ſammt ihren Gönnern.“
+An einer andern Stelle äußert Maſſuccio, weil die Macht
+der Mönche doch weſentlich auf der Furcht vor dem Jenſeits
+beruhe, einen ganz merkwürdigen Wunſch. „es gäbe keine
+beſſere Züchtigung für ſie, als wenn Gott recht bald das
+Fegefeuer aufhöbe; dann könnten ſie nicht mehr von Al-
+moſen leben und müßten wieder zur Hacke greifen“. Die Bettel-
+mönche in den
+Novellen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.730282955939
+Syntactic Similarity without tokens: 0.730418239719
+Semantic Score: 0.925784707069
+Semantic Score without stopwords: 0.925784707069
+LCS Length: 6
+LCS: die und die doch als und 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.837862551212
+
+Pairing: 81
+New Sentence: Er ahnt nichts von der fundamentalen Antinomie des Idealismus und von dem höchst relativen Sinne aller Wissenschaft und Vernunft.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.768907699804
+Syntactic Similarity without tokens: 0.841022876382
+Semantic Score: 0.886498689651
+Semantic Score without stopwords: 0.886498689651
+LCS Length: 9
+LCS: der und dem die über der zu in der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.466797471046
+Semantic similarity verbs: 0.795702219009
+
+Pairing: 82
+New Sentence: um so williger werden aber diejenigen Schriftsteller angehört, welche keine wichtigere Meinung als jene öffentliche kennen und deshalb wetteifernd beflissen sind, den Krieg zu preisen und den mächtigen Phänomenen seiner Einwirkung auf Sittlichkeit, Kultur und Kunst jubilirend nachzugehen.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.761342913494
+Syntactic Similarity without tokens: 0.782854226644
+Semantic Score: 0.893729507923
+Semantic Score without stopwords: 0.893729507923
+LCS Length: 5
+LCS: welche jene und den zu 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.529118359089
+Semantic similarity verbs: 0.8013484478
+
+Pairing: 83
+New Sentence: Man arbeitet sich durch einen Gang zu einer Produktion empor!
+Reference: 
+die Armen und
+Talentvollen, die er in ſeinem Hauſe nährte und erzog
+„per l'amore di Dio“, neben jenen Vornehmen, die ſich
+hier gewöhnen mußten mit dem bloßen Talent unter einem
+Dache zu wohnen. Der Gonzaga hatte ihm eigentlich
+300 Goldgulden jährlich zu bezahlen, deckte ihm aber den
+ganzen Ausfall, welcher oft eben ſoviel betrug. Er wußte,
+daß Vittorino keinen Heller für ſich bei Seite legte und
+ahnte ohne Zweifel, daß die Miterziehung der Unbemittel-
+ten die ſtillſchweigende Bedingung ſei, unter welcher der
+wunderbare Mann ihm diente.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.742038886065
+Syntactic Similarity without tokens: 0.816902489316
+Semantic Score: 0.912883400917
+Semantic Score without stopwords: 0.912883400917
+LCS Length: 6
+LCS: in die hier unter eigentlich und 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.733726680279
+Semantic similarity verbs: 0.787279725075
+
+Pairing: 84
+New Sentence: Wer es aber wagt, ihre Bilder umzuwerfen, der wird sich schwerlich scheuen, ihr, aller Entrüstung zum Trotz, in’s Gesicht zu sagen, dass sie selbst verlernt habe, zwischen lebendig und todt, ächt und unächt, original und nachgemacht, Gott und Götze zu unterscheiden, und dass ihr der gesunde, männliche Instinkt für das Wirkliche und Rechte verloren gegangen sei.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.737855285485
+Syntactic Similarity without tokens: 0.76909210294
+Semantic Score: 0.91704761982
+Semantic Score without stopwords: 0.91704761982
+LCS Length: 5
+LCS: es der s und zu 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.03333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.583186745644
+Semantic similarity verbs: 0.844513356686
+
+Pairing: 85
+New Sentence: Niemand hat ein Verlangen, darüber etwas zu wissen, als vielleicht einige bornirte Widersacher der Straussischen Erkenntnisse, die hinter denselben wahrhaft satanische Glaubenssätze wittern und es wünschen müssen, dass Strauss durch Kundgebung solcher satanischer Hintergedanken seine gelehrten Behauptungen compromittire.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.765978335647
+Syntactic Similarity without tokens: 0.806990508649
+Semantic Score: 0.887491285801
+Semantic Score without stopwords: 0.887491285801
+LCS Length: 7
+LCS: der die dem die zu es ein 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.527958035469
+Semantic similarity verbs: 0.801764249802
+
+Pairing: 86
+New Sentence: — Das Recht, nach seinem vierzigsten Jahre seine Biographie zu schreiben, mag Jeder haben.
+Reference: 
+[552/0562]
+Luca die Paſſion nach dem Evangelium Johannis; merk-
+würdiger Weiſe iſt dem Armen die Gottheit Chriſti ein-
+leuchtend, während ihm deſſen Menſchheit Mühe macht;
+dieſe möchte er gerne ſo ſichtbar begreifen, „als käme ihm
+Chriſtus aus einem Walde entgegen“ — worauf ihn ſein
+Freund zur Demuth verweist, indem dieß nur Zweifel
+ſeien, welche der Satan ſende. Später fällt ihm ein un-
+gelöſtes Jugendgelübde einer Wallfahrt nach der Impruneta
+ein; der Freund verſpricht es zu erfüllen an ſeiner Statt. Dazwiſchen kommt der Beichtvater, ein Mönch aus Savo-
+narola's Kloſter wie er ihn erbeten hatte, giebt ihm zunächſt
+jene oben erwähnte Erläuterung über die Anſicht des Tho-
+mas von Aquino wegen des Tyrannenmordes, und ermahnt
+ihn dann, den Tod mit Kraft zu ertragen.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.794591588454
+Syntactic Similarity without tokens: 0.820644633476
+Semantic Score: 0.858034551144
+Semantic Score without stopwords: 0.858034551144
+LCS Length: 5
+LCS: nach zu der ein über 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.043478260869565216
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.666776776314
+Semantic similarity verbs: 0.771060466766
+
+Pairing: 87
+New Sentence: Die Stärke des Bildungsphilisters kommt an’s Licht, wenn er seine Schwachheit eingesteht.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.795639909064
+Syntactic Similarity without tokens: 0.801586480499
+Semantic Score: 0.856856763363
+Semantic Score without stopwords: 0.856856763363
+LCS Length: 4
+LCS: und er er er 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.474612176418
+Semantic similarity verbs: 0.781355679035
+
+Pairing: 88
+New Sentence: Da hattet ihr so ein herrliches, göttliches Spielzeug, das durch euch zerbrochen wurde.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.75346479121
+Syntactic Similarity without tokens: 0.816309202245
+Semantic Score: 0.896718680859
+Semantic Score without stopwords: 0.896718680859
+LCS Length: 5
+LCS: das noch zu es ein 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.292665660381
+Semantic similarity verbs: 0.811200141907
+
+Pairing: 89
+New Sentence: Eine wahre Essenkehrer-Phantasie!
+Reference: 
+Freilich Giovio hatte bei der allgemeinen Renten-
+einziehung auch ſeine Rente verloren und nur deßhalb zur
+Entſchädigung eine Pfründe erhalten, weil er „kein Poet“,
+d. h. kein Heide ſei. Es ſtand aber geſchrieben, daß Hadrian
+das letzte große Opfer dieſer Art ſein ſollte. Seit dem
+Unglück Roms (1527) ſtarb mit der äußerſten Ruchloſig-
+keit des Lebens auch die frevelhafte Rede ſichtlich ab.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.769872687333
+Syntactic Similarity without tokens: 0.783635023267
+Semantic Score: 0.880190730095
+Semantic Score without stopwords: 0.880190730095
+LCS Length: 5
+LCS: der nur er das dem 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.773378252983
+Semantic similarity verbs: 0.534484028816
+
+Pairing: 90
+New Sentence: Ich möchte wissen, wie ein Hallelujah aus Straussens Munde klänge.
+Reference: 
+„wenn Ihr wollt, ſo
+iſt das nicht ſchwer; Ihr wiſſet ja daß jene Römerthaten
+uns nicht ſchlicht, ſondern idealiſirt (con arte accresciute)
+überliefert ſind“. Nun zwingt Jener ſeinen Verſtand, zu
+glauben, und jammert daß er nicht freiwillig glauben könne. Wenn er nur noch einen Monat mit guten Mönchen zu
+leben hätte, dann würde er ganz geiſtlich geſinnt werden!
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.770962615106
+Syntactic Similarity without tokens: 0.835816852547
+Semantic Score: 0.877458572388
+Semantic Score without stopwords: 0.877458572388
+LCS Length: 3
+LCS: glauben und zu 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.10526315789473684
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.45071849227
+Semantic similarity verbs: 0.872184097767
+
+Pairing: 91
+New Sentence: sagt er sich und nimmt eine feierlichere Miene an, als ihm sonst gewöhnlich ist.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.790250898522
+Syntactic Similarity without tokens: 0.835551424344
+Semantic Score: 0.85708540678
+Semantic Score without stopwords: 0.85708540678
+LCS Length: 7
+LCS: und aber der er einen der ein 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.848469853401
+
+Pairing: 92
+New Sentence: Es ist wahrlich eine rechte Pein, eine schöne, alte, klassische Schriften besitzende Sprache von Ignoranten und Eseln misshandeln zu sehen.“ Das ruft euch der heilige Zorn Schopenhauers zu, und ihr dürft nicht sagen, dass ihr ungewarnt geblieben wärt.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.754780066759
+Syntactic Similarity without tokens: 0.854215865039
+Semantic Score: 0.892453253269
+Semantic Score without stopwords: 0.892453253269
+LCS Length: 9
+LCS: Das der und aber auf den den dem ihn 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.489284545183
+Semantic similarity verbs: 0.838638663292
+
+Pairing: 93
+New Sentence: „Aber man kann ohne Stellung sein und doch nicht am Boden liegen.“ Wir verstehen Sie wohl, Sie leicht geschürzter Magister!
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.779311272292
+Syntactic Similarity without tokens: 0.852253326765
+Semantic Score: 0.866899132729
+Semantic Score without stopwords: 0.866899132729
+LCS Length: 4
+LCS: und der es der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.442480117083
+Semantic similarity verbs: 0.749545097351
+
+Pairing: 94
+New Sentence: Nach dieser allerneuesten Belehrung möchte es sich aber empfehlen, nicht mehr von ihnen, als den „Gesunden“ zu reden, sondern von den Schwächlichen oder mit Steigerung, von den Schwachen.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.80051547584
+Syntactic Similarity without tokens: 0.873776894443
+Semantic Score: 0.843987524509
+Semantic Score without stopwords: 0.843987524509
+LCS Length: 6
+LCS: aber den den mit die es 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.479855746031
+Semantic similarity verbs: 0.799549639225
+
+Pairing: 95
+New Sentence: Aber, dass etwas im Jahre 1872 geschrieben wird und im Jahre 1872 auch schon moderig riecht, bleibt mir bedenklich.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.79156960475
+Syntactic Similarity without tokens: 0.886013693032
+Semantic Score: 0.852495968342
+Semantic Score without stopwords: 0.852495968342
+LCS Length: 4
+LCS: wird er er es 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.423628538847
+Semantic similarity verbs: 0.820955634117
+
+Pairing: 96
+New Sentence: Trotzdem sei es gesagt.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.787901184767
+Syntactic Similarity without tokens: 0.81607969544
+Semantic Score: 0.855445027351
+Semantic Score without stopwords: 0.855445027351
+LCS Length: 4
+LCS: eine einen zu ihn 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.345427393913
+Semantic similarity verbs: 0.773066580296
+
+Pairing: 97
+New Sentence: Denn etwas feige ist nun einmal, wie wir bereits wissen, unser Bildungs-Philister, selbst bei den stärksten Sympathien.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.756331142963
+Syntactic Similarity without tokens: 0.830956212418
+Semantic Score: 0.884599328041
+Semantic Score without stopwords: 0.884599328041
+LCS Length: 5
+LCS: und eine er in ein 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.450915932655
+Semantic similarity verbs: 0.772745609283
+
+Pairing: 98
+New Sentence: um so erbaulicher ist ihm aber dieser Freimuth bei einem Anderen; zu Hause und unter seines Gleichen klatscht er sogar lärmend Beifall und nur gerade schriftlich mag er nicht bekennen, wie sehr ihm das alles von Strauss nach dem Herzen gesagt ist.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.754473330724
+Syntactic Similarity without tokens: 0.81705669651
+Semantic Score: 0.88588398695
+Semantic Score without stopwords: 0.88588398695
+LCS Length: 6
+LCS: aber zu er nach nun ihn 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.541758477688
+Semantic similarity verbs: 0.763296425343
+
+Pairing: 99
+New Sentence: Herr, reden Sie doch wie ein Mensch aus dieser Welt!
+Reference: 
+D
+C
+[50/0054]
+lauter Lehnſaͤtze und Zweifel. ſo gewinnt
+und verliert der Glaube gleich viel bey dem
+geſchickteſten Rabuliſten und ehrlichſten Sach-
+walter. Der Glaube iſt kein Werk der Ver-
+nunft und kann daher auch keinem Angrif
+derſelben unterliegen; weil Glauben ſo we-
+nig durch Gruͤnde geſchieht als Schmecken
+und Sehen.
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.776610573935
+Syntactic Similarity without tokens: 0.806326842206
+Semantic Score: 0.863700449467
+Semantic Score without stopwords: 0.863700449467
+LCS Length: 6
+LCS: und und der der kann auch 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.646835744381
+Semantic similarity verbs: 0.536290347576
+
+Pairing: 100
+New Sentence: Von allen diesen Schrecken, von dem finsteren Ernste des Nachdenkens, in den man sonst bei den Fragen über den Werth des Daseins und die Pflichten des Menschen von selbst verfällt, ahnt man nichts mehr, wenn der genialische Magister an uns vorübergaukelt, „leicht geschürzt und mit Absicht“, ja leichter geschürzt als sein Rousseau, von dem er uns zu erzählen weiss, dass er sich von unten entblösste und nach oben zu drapirte, während Goethe sich unten drapirt und oben entblösst haben soll.
+Reference: 
+Das Weitere, die Com-
+munion, der Abſchied und die Hinrichtung, wird auf ſehr
+rührende Weiſe geſchildert; beſonders hervorzuheben iſt aber
+der eine Zug, daß Boscoli, indem er das Haupt auf den
+Block legte, den Henker bat, noch einen Augenblick mit dem
+Hieb zu warten. „er hatte nämlich die ganze Zeit über
+(ſeit der Verkündigung des Todesurtheils) nach einer engen
+Vereinigung mit Gott geſtrebt ohne ſie nach Wunſch zu
+erreichen, nun gedachte er in dieſem Augenblick durch volle
+Anſtrengung ſich gänzlich Gott hinzugeben“. Offenbar iſt
+es ein Ausdruck Savonarola's, der — halbverſtanden —
+ihn beunruhigt hatte.
+Similar Sentence is from: burckhardt_renaissance_1860.txt
+Syntactic Score: 0.78203236736
+Syntactic Similarity without tokens: 0.873084837044
+Semantic Score: 0.858027517796
+Semantic Score without stopwords: 0.858027517796
+LCS Length: 12
+LCS: und die der mit dem zu er nach zu es ein der 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.627133727074
+Semantic similarity verbs: 0.778714954853
+

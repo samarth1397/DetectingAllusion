@@ -111,7 +111,16 @@ class detect:
 		return l	
 	
 	'''
-	temporary function to perform basic processing using spacy. Need to refactor. 
+	temporary function to perform basic processing using spacy. Returns the text chunks and books in the same data structure. 
+	spacyTextChunks=[[s1,s2,s3],[s4,s5,s6],[....],..................]
+	spacyBooks=
+	{
+		potential1=[s1,s2,s3,............]
+		potentail2=[s1,s2,......]	
+
+	}
+	where each 's' is the sentence after spacy processing. Each token's lemma and pos tag has been identified. 
+
 	'''
 
 	def spacyExtract(self,textChunks,books):
@@ -122,6 +131,13 @@ class detect:
 				l.append(sp(sent))
 			spacyTextChunks.append(l)
 
+
+		# 'new' text in spacy format in a large list instead of list of lists. 
+		spacyText=[]
+		for chunk in spacyTextChunks:
+			for sent in chunk:
+				spacyText.append(spacyText)
+
 		spacyBooks=dict()
 		for book in self.booksList:
 			l=[]
@@ -129,14 +145,16 @@ class detect:
 				l.append(sp(sent))
 			spacyBooks[book]=l
 
-		return spacyTextChunks,spacyBooks
+		return spacyTextChunks,spacyBooks,spacyText
 
 
 
 	'''		
 	Uses the calcJacardChunk function from treefunctions.py. Each chunk of the input text is processed on a new core. The threshold decided the minimum jaccard coefficient for 
 	discarding sentences from the candidates. 
-	Returns the same data structure of books with reduced lists in the dictionary.
+	Returns the same data structure of spacy books with reduced lists in the dictionary.
+
+	New change: pass spacy text chunks and spacy books as parameters instead of the original text. 
 	'''
 
 	def filterWithJacard(self,textChunks,books,threshold=0.35):
@@ -150,14 +168,12 @@ class detect:
 		for scoreChunk in results:
 			for score in scoreChunk:
 				jacardScores.append(score)
-				
-		#pickling_on = open(self.output+'pickled/jacardScores.pickle',"wb")
-		#pickle.dump(jacardScores, pickling_on)
-		
+
 		for sent in jacardScores:
 			for book in self.booksList:
 				sent[book]=list(filter(lambda tup: tup[0]>threshold,sent[book]))
 		
+		# a dictionary where the keys are potential book names, and values are sentence numbers
 		reducedSentences=dict()
 		for book in self.booksList:
 			reducedSentences[book]=list()		
@@ -181,7 +197,7 @@ class detect:
 		return reducedBooks,reducedSentences
 
 	'''
-	Temporary; refactor later
+	Temporary; refactor later; Currently, uses the reducedSentences data structure to filter the books data structure. 
 	'''
 
 	def filterOriginalBooks(self,reducedSentences,books):
@@ -301,7 +317,7 @@ class detect:
 	semantic similarity of verbs, number of common proper nouns between the two sentences. 
 
 
-	New change: Pass spacy data rather than original textPara and reducedParagraphs
+	New change: Pass spacy data as parameters to this function rather than original text and reducedBooks: text==SpacyText, reducedBooks==spacyReducedBooks
 
 	'''
 
@@ -388,6 +404,8 @@ class detect:
 		potential2:['','we can','no',........]
 
 	}
+
+	Note: pass original text and not spacy processed text as parameters
 	'''
 
 	def longestSubsequenceScoring(self,text,reducedBooks):
@@ -465,6 +483,8 @@ class detect:
 
 		finalTuples.sort(key=lambda tup: tup[8])
 
+		# identifying tuples which have large difference in semantic and syntactic similarity and atleast one of semantic or semantic similarity is greater than 0.8
+
 		diffTuples=list()
 		for tup in scoreTuples:
 			if (tup[3]>0.8 and abs(tup[3]-tup[4])>=0.12) or (tup[4]>0.8 and abs(tup[3]-tup[4])>=0.12):
@@ -475,7 +495,7 @@ class detect:
 	'''
 	The final tuples are displayed in decreasing order of the jaccard of common nouns between the sentences. jaccard nouns, jaccard verbs, jaccard adjectives)
 
-	New change: Pass spacy data rather than original textPara and reducedParagraphs
+	New change: Pass spacy data rather than original text and reducedBooks. This is because a few more metrics are being calculated in this step which use the spacy processed text. 
 
 	'''
 	def nounBasedRanking(self,finalTuples,text,reducedBooks):
@@ -492,11 +512,11 @@ class detect:
 
 
 	'''
-	A function to write out the tuples along with the sentences into a file
+	A function to write out the tuples along with the sentences into a file. Pass the original text and reduced books as parameters. 
 	'''
 
-	def writeOutput(self,newTuples,text,reducedBooks):
-		f=open(self.output+'nounSortedSentencePairs.txt','w')
+	def writeOutput(self,newTuples,text,reducedBooks,fileName='nounSortedSentencePairs.txt'):
+		f=open(self.output+fileName,'w')
 		i=1
 		lines=list()
 		for t in newTuples:
@@ -535,6 +555,8 @@ class detect:
 		f.writelines(lines)
 		return
 
+# A main function to demonstrate the use of the package
+
 def main():
 	d=detect(inputFolder='../data/temp/',outputFolder='../output/temp/')
 	print('Loading books and splitting')
@@ -545,21 +567,12 @@ def main():
 	# d.extendStopwords(text)
 	
 	print('spacy')
-	spacyTextChunks,spacyBooks=d.spacyExtract(textChunks,books)
+	spacyTextChunks,spacyBooks,spacyText=d.spacyExtract(textChunks,books)
 
 	print('Filtering using Jaccard')
 	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooks,threshold=0.2)
-	# pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")
-	# pickle.dump(reducedBooks, pickling_on)
 
 	reducedBooks=d.filterOriginalBooks(reducedSentences,books)
-
-
-	# print('Text: ',len(text))
-	# print('original is',len(books['isaiah']))
-	# print('reduced isaiah',len(reducedBooks['isaiah']))
-
-	# print('textChunks: ',len(textChunks))
 
 
 	print('Syntactic parsing')
@@ -567,31 +580,20 @@ def main():
 	pickling_on = open('../output/'+'temp/parseTrees.pickle',"wb")
 	pickle.dump(parseTrees, pickling_on)
 
-	# print('Parse trees',len(parseTrees))
-
 	potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees=d.parseCandidates(reducedBooks)
-	# print(len(parseTrees))
-	# print(len(parseTrees['isaiah']))
+
 	pickling_on = open('../output/'+'temp/potentialParseTrees.pickle',"wb")
 	pickle.dump(potentialParseTrees, pickling_on)
 
-	# print('Potential Parse Trees isaiah ',len(potentialParseTrees['isaiah']))
-
 	print('Moschitti scoring')
 	syntacticScore,syntacticScoreWithoutTokens=d.syntacticScoring(parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees)
+
 	pickling_on = open('../output/'+'temp/allScores.pickle',"wb")
 	pickle.dump(syntacticScore, pickling_on)
-
-	spacyText=[]
-	for chunk in spacyTextChunks:
-		for sent in chunk:
-			spacyText.append(sent)
 
 
 	print('Semantic scoring')
 	semanticScore=d.semanticScoring(spacyText,reducedSpacyBooks,monolingual=True,lang1='english',lang2='english')
-
-	# print('Semantic Score: ',len(semanticScore))
 
 	print('Extracting longest subsequence')
 	lcsScore,lcs=d.longestSubsequenceScoring(text,reducedBooks)
@@ -600,15 +602,13 @@ def main():
 
 	scoreTuples=d.aggregateScoring(syntacticScore,semanticScore,lcsScore,lcs,syntacticScoreWithoutTokens)
 
-	# print(len(scoreTuples))
-
-
 	pickling_on = open('../output/'+'temp/scoreTuples.pickle',"wb")
 	pickle.dump(scoreTuples, pickling_on)
 
 	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
 	if len(finalTuples)>100:
 		finalTuples=finalTuples[0:100]
+	
 	orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
 	
 	pickling_on = open('../output/'+'temp/orderedTuples.pickle',"wb")
@@ -639,14 +639,15 @@ def main():
 		print('\n\n')
 		i=i+1
 
-	# d.writeOutput(orderedTuples,text,reducedBooks)
+	d.writeOutput(orderedTuples,text,reducedBooks)
 
-	print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
+	# print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
 
-	# diffTuples=d.nounBasedRanking(diffTuples,text,reducedBooks)
-	# d.writeOutput(diffTuples,text,reducedBooks)
+	diffTuples=d.nounBasedRanking(diffTuples,spacyText,reducedSpacyBooks)
+
 	pickling_on = open('../output/'+'temp/diffTuples.pickle',"wb")
 	pickle.dump(diffTuples, pickling_on)
+
 '''
 	i=1
 	for t in diffTuples:

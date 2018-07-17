@@ -6,11 +6,11 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import RegexpTokenizer
 import spacy
 
-# Load stanford nlp
+# Load stanford nlp: Change file path
 # nlp=StanfordCoreNLP('/home/users2/mehrotsh/scripts/packages/stanford-corenlp-full-2018-02-27/')
-nlp=StanfordCoreNLP('/home/users2/mehrotsh/scripts/packages/stanford-corenlp-full-2018-02-27/',memory='8g',lang='de',timeout=1000000000)
+nlp=StanfordCoreNLP('/home/users2/mehrotsh/scripts/packages/stanford-corenlp-full-2018-02-27/',memory='8g',lang='de',timeout=1000000000) 
 
-# English word2vec
+# English word2vec: Change file path
 # model = gensim.models.KeyedVectors.load_word2vec_format('../../GoogleNews-vectors-negative300.bin', binary=True) 
 # index2word_set = set(model.wv.index2word)
 
@@ -33,7 +33,7 @@ stopwords.extend(string.punctuation)
 # English lemmatization
 lemmatizer=WordNetLemmatizer()
 
-# Load spacy for lemmatization and POS Tagging in German
+# Load spacy for lemmatization and POS Tagging in German: Change language as per requirement
 sp=spacy.load('de',disable=['parser','ner','textcat','entity'])
 # sp=spacy.load('en', disable=['parser','ner','textcat','entity'])
 
