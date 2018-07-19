@@ -26,7 +26,7 @@ def main():
 
 	# Using the jaccarding coefficient to filter out sentences from the potential candidates
 	print('Filtering using Jaccard')
-	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooksPara,threshold=0.05) #filtering on spacy data structure
+	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooksPara,threshold=0.03) #filtering on spacy data structure
 	reducedBooks=d.filterOriginalBooks(reducedSentences,booksPara) #filtering on the original books
 
 	pickling_on = open('../output/'+'n1-lim/reducedBooks.pickle',"wb")

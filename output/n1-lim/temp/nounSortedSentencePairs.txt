@@ -1,0 +1,1700 @@
+Pairing: 1
+New Sentence: eine Gottheit musste häufig den Verlauf der Tragödie dem Publicum gewissermaassen garantieren und jeden Zweifel an der Realität des Mythus nehmen. in ähnlicher Weise, wie Descartes die Realität der empirischen Welt nur durch die Appellation an die Wahrhaftigkeit Gottes und seine Unfähigkeit zur Lüge zu beweisen vermochte. Dieselbe göttliche Wahrhaftigkeit braucht Euripides noch einmal am Schlusse seines Drama’s, um die Zukunft seiner Helden dem Publicum sicher zu stellen; dies ist die Aufgabe des berüchtigten deusErratum.
+Reference: 
+Der Gott lachte ohne Zweifel unter seinen guͤldenen Bart , als ihm die kuͤzliche Aufgabe zu Sokrates Zeiten vorgelegt wurde . Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.754912460165
+Syntactic Similarity without tokens: 0.844945659732
+Semantic Score: 0.832612514496
+Semantic Score without stopwords: 0.832612514496
+LCS Length: 2
+LCS: zweifel euripides 
+Jaccard of common nouns: 0.125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7011526227
+Semantic similarity verbs: 0.654417514801
+
+Pairing: 2
+New Sentence: Die Bewegung auf der Linie des Charakteristischen geht schnell weiter. während noch Sophokles ganze Charactere malt und zu ihrer raffinirten Entfaltung den Mythus ins Joch spannt, malt Euripides bereits nur noch grosse einzelne Charakterzüge, die sich in heftigen Leidenschaften zu äussern wissen; in der neuern attischen Komödie giebt es nur noch Masken mit einem Ausdruck, leichtsinnige Alte, geprellte Kuppler, verschmitzte Sclaven in unermüdlicher Wiederholung. Wohin ist jetzt der mythenbildende Geist der Musik?
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.721240400911
+Syntactic Similarity without tokens: 0.769339656068
+Semantic Score: 0.87167429924
+Semantic Score without stopwords: 0.87167429924
+LCS Length: 3
+LCS: sophokles euripides grosse 
+Jaccard of common nouns: 0.06896551724137931
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.474198758602
+Semantic similarity verbs: 0.633988559246
+
+Pairing: 3
+New Sentence: Welche Kraft war dies, die den Prometheus von seinen Geiern befreite und den Mythus zum Vehikel dionysischer Weisheit umwandelte? Dies ist die heraklesmässige Kraft der Musik. als welche, in der Tragödie zu ihrer höchsten Erscheinung gekommen, den Mythus mit neuer tiefsinnigster Bedeutsamkeit zu interpretiren weiss; wie wir dies als das mächtigste Vermögen der Musik früher schon zu charakterisiren hatten.
+Reference: 
+Sokrates war also bescheiden genung seine Schulweisheit mit der Kunst eines alten Weibes zu vergleichen , welches blos der Arbeit der Mutter und ihrer zeitigen Frucht zu Huͤlfe kommt , und beyden Handreichung thut . Siehe die folgende Anmerkung . Die Kraft der Traͤgheit und die ihr entgegengesetzt scheinende Kraft des Stolzes , die man durch so viel Erscheinungen und Beobachtungen veranlasset worden in unserm Willen anzunehmen , bringen die Unwissenheit , und die daraus entspringende Jrrthuͤmer und Vorurtheile nebst allen ihren schwesterlichen Leidenschaften hervor .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.679372729403
+Syntactic Similarity without tokens: 0.793721374368
+Semantic Score: 0.912109553814
+Semantic Score without stopwords: 0.912109553814
+LCS Length: 2
+LCS: kraft kraft 
+Jaccard of common nouns: 0.06896551724137931
+Jaccard of common verbs: 0.07692307692307693
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.801387786865
+Semantic similarity verbs: 0.813438951969
+
+Pairing: 4
+New Sentence: womit freilich sein Wesen völlig zerstört ist, mag auch Aristoteles gerade dieser Auffassung des Chors seine Beistimmung geben. Jene Verrückung der Chorposition, welche Sophokles jedenfalls durch seine Praxis und, der Ueberlieferung nach, sogar durch eine Schrift anempfohlen hat, ist der erste Schritt zur Vernichtung des Chors, deren Phasen in Euripides, Agathon und der neueren Komödie mit erschreckender Schnelligkeit auf einander folgen. Die optimistische Dialektik treibt mit der Geissel ihrer Syllogismen die Musik aus der Tragödie.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.751467917764
+Syntactic Similarity without tokens: 0.790221550511
+Semantic Score: 0.850117325783
+Semantic Score without stopwords: 0.850117325783
+LCS Length: 2
+LCS: sophokles euripides 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.632054328918
+Semantic similarity verbs: 0.593572497368
+
+Pairing: 5
+New Sentence: Auch hier gewahren wir den Sieg der Erscheinung über das Allgemeine und die Lust an dem einzelnen gleichsam anatomischen Präparat, wir athmen bereits die Luft einer theoretischen Welt, welcher die wissenschaftliche Erkenntniss höher gilt als die künstlerische Wiederspiegelung einer Weltregel. Die Bewegung auf der Linie des Charakteristischen geht schnell weiter. während noch Sophokles ganze Charactere malt und zu ihrer raffinirten Entfaltung den Mythus ins Joch spannt, malt Euripides bereits nur noch grosse einzelne Charakterzüge, die sich in heftigen Leidenschaften zu äussern wissen; in der neuern attischen Komödie giebt es nur noch Masken mit einem Ausdruck, leichtsinnige Alte, geprellte Kuppler, verschmitzte Sclaven in unermüdlicher Wiederholung.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.721165599633
+Syntactic Similarity without tokens: 0.73796130794
+Semantic Score: 0.882011711597
+Semantic Score without stopwords: 0.882011711597
+LCS Length: 3
+LCS: sophokles euripides grosse 
+Jaccard of common nouns: 0.05555555555555555
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.579452455044
+Semantic similarity verbs: 0.652749300003
+
+Pairing: 6
+New Sentence: Das schärfste Wort aber für jene neue und unerhörte Hochschätzung des Wissens und der Einsicht sprach Sokrates, als er sich als den Einzigen vorfand, der sich eingestehe, nichts zu wissen; während er, auf seiner kritischen Wanderung durch Athen, bei den grössten Staatsmännern, Rednern, Dichtern und Künstlern vorsprechend, überall die Einbildung des Wissens antraf. Mit Staunen erkannte er, dass alle jene Berühmtheiten selbst über ihren Beruf ohne richtige und sichere Einsicht seien und denselben nur aus Instinct trieben. „Nur aus Instinct“.
+Reference: 
+Er entgieng der grossen Niederlage des dritten Feldzuges eben so gluͤcklich wie der Pest , die zu seiner Zeit Athen zweymal heimsuchte . Die Ehrfurcht gegen das Wort in seinem Herzen , auf dessen Laut er immer aufmerksam war , entschuldigte ihn Staatsversammlungen beyzuwohnen . Als er lange genung glaubte gelebt zu haben , bot er sich selbst zu einer Stelle im Rath an , worinn er als Mitglied , Aeltermann und Oberhaupt gesessen , und wo er sich mit seiner Unschicklichkeit in Sammlung der Stimmen und andern Gebraͤuchen laͤcherlich , auch mit seinem Eigensinn , den er dem unrechten Verfahren einer Sache entgegen setzen muste , als ein Aufruͤhrer verdaͤchtig gemacht haben soll .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6584334697
+Syntactic Similarity without tokens: 0.729950175372
+Semantic Score: 0.92670327425
+Semantic Score without stopwords: 0.92670327425
+LCS Length: 1
+LCS: wort 
+Jaccard of common nouns: 0.05555555555555555
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.755454778671
+Semantic similarity verbs: 0.839246332645
+
+Pairing: 7
+New Sentence: In der Dichtung des Volksliedes sehen wir also die Sprache auf das Stärkste angespannt, die Musik nachzuahmen. deshalb beginnt mit Archilochus eine neue Welt der Poesie, die der homerischen in ihrem tiefsten Grunde widerspricht. Hiermit haben wir das einzig mögliche Verhältniss zwischen Poesie und Musik, Wort und Ton bezeichnet.
+Reference: 
+Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche . Unterdessen glaube ich zuverlaͤßiger , daß unsere Philosophie eine andere Gestalt nothwendig haben muͤste , wenn man die Schicksale dieses Namens oder Wortes .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.699261147169
+Syntactic Similarity without tokens: 0.798316673995
+Semantic Score: 0.903897404671
+Semantic Score without stopwords: 0.903897404671
+LCS Length: 1
+LCS: nachzuahmen 
+Jaccard of common nouns: 0.05128205128205128
+Jaccard of common verbs: 0.058823529411764705
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.805540800095
+Semantic similarity verbs: 0.831033051014
+
+Pairing: 8
+New Sentence: Dionysus war bereits von der tragischen Bühne verscheucht und zwar durch eine aus Euripides redende dämonische Macht. Auch Euripides war in gewissem Sinne nur Maske. die Gottheit, die aus ihm redete, war nicht Dionysus, auch nicht Apollo, sondern ein ganz neugeborner Dämon, genannt Sokrates.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.767352071873
+Syntactic Similarity without tokens: 0.801640549572
+Semantic Score: 0.845843672752
+Semantic Score without stopwords: 0.845843672752
+LCS Length: 2
+LCS: euripides sokrates 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.546507537365
+Semantic similarity verbs: 0.584298610687
+
+Pairing: 9
+New Sentence: Was jetzt noch von Musik übrig ist, das ist entweder Aufregungs- oder Erinnerungsmusik d.h. entweder ein Stimulanzmittel für stumpfe und verbrauchte Nerven oder Tonmalerei. Für die erstere kommt es auf den untergelegten Text kaum noch an. schon bei Euripides geht es, wenn seine Helden oder Chöre erst zu singen anfangen, recht lüderlich zu; wohin mag es bei seinen frechen Nachfolgern gekommen sein?
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.747507259247
+Syntactic Similarity without tokens: 0.801936096092
+Semantic Score: 0.851366221905
+Semantic Score without stopwords: 0.851366221905
+LCS Length: 2
+LCS: euripides gekommen 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.43930003047
+Semantic similarity verbs: 0.750445723534
+
+Pairing: 10
+New Sentence: Der platonische Dialog war gleichsam der Kahn, auf dem sich die schiffbrüchige ältere Poesie sammt allen ihren Kindern rettete. auf einen engen Raum zusammengedrängt und dem einen Steuermann Sokrates ängstlich unterthänig fuhren sie jetzt in eine neue Welt hinein, die an dem phantastischen Bilde dieses Aufzugs sich nie satt sehen konnte. Wirklich hat für die ganze Nachwelt Plato das Vorbild einer neuen Kunstform gegeben, das Vorbild des Roman’s.
+Reference: 
+Sie besassen aber mehr die Gabe zu erfinden und vorzutragen , als zu behalten und zu urtheilen ; daher hatte Sokrates immer Gelegenheit ihr Gedaͤchtnis und ihre Urtheilskraft zu vertreten , und sie fuͤr Leichtsinn und Eitelkeit zu warnen . Kurz , Sokrates lockte seine Mitbuͤrger aus den Labyrinthen ihrer gelehrten Sophisten zu einer Wahrheit , die im Verborgenen liegt , zu einer heimlichen Weisheit , und von den Goͤtzenaltaͤren ihrer andaͤchtigen und staatsklugen Priester zum Dienst eines unbekanten Gottes . Plato sagte es den Atheniensern ins Gesichte , daß Sokrates ihren Arm den Goͤttern gegeben waͤre sie von ihren Thorheiten zu uͤberzeugen und zu seiner Nachfolge in der Tugend aufzumuntern .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.744546208458
+Syntactic Similarity without tokens: 0.844597526912
+Semantic Score: 0.873462080956
+Semantic Score without stopwords: 0.873462080956
+LCS Length: 3
+LCS: sokrates plato gegeben 
+Jaccard of common nouns: 0.04878048780487805
+Jaccard of common verbs: 0.05555555555555555
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.578408718109
+Semantic similarity verbs: 0.834321975708
+
+Pairing: 11
+New Sentence: Der sterbende Sokrates wurde das neue, noch nie sonst geschaute Ideal der edlen griechischen Jugend. vor allen hat sich der typische hellenische Jüngling, Plato, mit aller inbrünstigen Hingebung seiner Schwärmerseele vor diesem Bilde niedergeworfen. Denken wir uns jetzt das eine grosse Cyklopenauge des Sokrates auf die Tragödie gewandt, jenes Auge, in dem nie der holde Wahnsinn künstlerischer Begeisterung geglüht hat — denken wir uns, wie es jenem Auge versagt war, in die dionysischen Abgründe mit Wohlgefallen zu schauen — was eigentlich musste es in der „erhabenen und hochgepriesenen“ tragischen Kunst, wie sie Plato nennt, erblicken?
+Reference: 
+Sie besassen aber mehr die Gabe zu erfinden und vorzutragen , als zu behalten und zu urtheilen ; daher hatte Sokrates immer Gelegenheit ihr Gedaͤchtnis und ihre Urtheilskraft zu vertreten , und sie fuͤr Leichtsinn und Eitelkeit zu warnen . Kurz , Sokrates lockte seine Mitbuͤrger aus den Labyrinthen ihrer gelehrten Sophisten zu einer Wahrheit , die im Verborgenen liegt , zu einer heimlichen Weisheit , und von den Goͤtzenaltaͤren ihrer andaͤchtigen und staatsklugen Priester zum Dienst eines unbekanten Gottes . Plato sagte es den Atheniensern ins Gesichte , daß Sokrates ihren Arm den Goͤttern gegeben waͤre sie von ihren Thorheiten zu uͤberzeugen und zu seiner Nachfolge in der Tugend aufzumuntern .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.721269252176
+Syntactic Similarity without tokens: 0.785978813001
+Semantic Score: 0.894416630268
+Semantic Score without stopwords: 0.894416630268
+LCS Length: 3
+LCS: sokrates plato sokrates 
+Jaccard of common nouns: 0.04878048780487805
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.520577788353
+Semantic similarity verbs: 0.83791667223
+
+Pairing: 12
+New Sentence: Demgemäss darf uns Euripides als der Dichter des aesthetischen Sokratismus gelten. Sokrates aber war jener zweite Zuschauer, der die ältere Tragödie nicht begriff und deshalb nicht achtete; mit ihm im Bunde wagte Euripides, der Herold eines neuen Kunstschaffens zu sein. Wenn an diesem die ältere Tragödie zu Grunde ging, so ist also der aesthetische Sokratismus das mörderische Princip.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.758783701974
+Syntactic Similarity without tokens: 0.740766142761
+Semantic Score: 0.832006037235
+Semantic Score without stopwords: 0.832006037235
+LCS Length: 2
+LCS: euripides sokrates 
+Jaccard of common nouns: 0.047619047619047616
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.515727996826
+Semantic similarity verbs: 0.585141956806
+
+Pairing: 13
+New Sentence: Wie konnte er aus zu hoher Achtung vor seinem Publicum — sein Publicum missachten? Euripides fühlte sich — das ist die Lösung des eben dargestellten Räthsels — als Dichter wohl über die Masse, nicht aber über zwei seiner Zuschauer erhaben. die Masse brachte er auf die Bühne, jene beiden Zuschauer verehrte er als die allein urtheilsfähigen Richter und Meister aller seiner Kunst.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.712508465361
+Syntactic Similarity without tokens: 0.722231035024
+Semantic Score: 0.888812601566
+Semantic Score without stopwords: 0.888812601566
+LCS Length: 1
+LCS: euripides 
+Jaccard of common nouns: 0.045454545454545456
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.611742794514
+Semantic similarity verbs: 0.603778541088
+
+Pairing: 14
+New Sentence: wenn er nur überhaupt überzeugt sein dürfte, dass der Verstorbene auch jetzt noch bei Verstande sei. Will man aber in aller Kürze und ohne den Anspruch, damit etwas Erschöpfendes zu sagen, dasjenige bezeichnen, was Euripides mit Menander und Philemon gemein hat und was für jene so aufregend vorbildlich wirkte. so genügt es zu sagen, dass der Zuschauer von Euripides auf die Bühne gebracht worden ist.
+Reference: 
+Der Gott lachte ohne Zweifel unter seinen guͤldenen Bart , als ihm die kuͤzliche Aufgabe zu Sokrates Zeiten vorgelegt wurde . Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.706206142263
+Syntactic Similarity without tokens: 0.807307299251
+Semantic Score: 0.883567869663
+Semantic Score without stopwords: 0.883567869663
+LCS Length: 1
+LCS: euripides 
+Jaccard of common nouns: 0.045454545454545456
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.269742637873
+Semantic similarity verbs: 0.688858509064
+
+Pairing: 15
+New Sentence: er ging in den Tod, mit jener Ruhe, mit der er nach Plato’s Schilderung als der letzte der Zecher im frühen Tagesgrauen das Symposion verlässt, um einen neuen Tag zu beginnen; indess hinter ihm, auf den Bänken und auf der Erde, die verschlafenen Tischgenossen zurückbleiben, um von Sokrates, dem wahrhaften Erotiker, zu träumen. Der sterbende Sokrates wurde das neue, noch nie sonst geschaute Ideal der edlen griechischen Jugend. vor allen hat sich der typische hellenische Jüngling, Plato, mit aller inbrünstigen Hingebung seiner Schwärmerseele vor diesem Bilde niedergeworfen.
+Reference: 
+Sie besassen aber mehr die Gabe zu erfinden und vorzutragen , als zu behalten und zu urtheilen ; daher hatte Sokrates immer Gelegenheit ihr Gedaͤchtnis und ihre Urtheilskraft zu vertreten , und sie fuͤr Leichtsinn und Eitelkeit zu warnen . Kurz , Sokrates lockte seine Mitbuͤrger aus den Labyrinthen ihrer gelehrten Sophisten zu einer Wahrheit , die im Verborgenen liegt , zu einer heimlichen Weisheit , und von den Goͤtzenaltaͤren ihrer andaͤchtigen und staatsklugen Priester zum Dienst eines unbekanten Gottes . Plato sagte es den Atheniensern ins Gesichte , daß Sokrates ihren Arm den Goͤttern gegeben waͤre sie von ihren Thorheiten zu uͤberzeugen und zu seiner Nachfolge in der Tugend aufzumuntern .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.719697271858
+Syntactic Similarity without tokens: 0.806297892741
+Semantic Score: 0.865187883377
+Semantic Score without stopwords: 0.865187883377
+LCS Length: 3
+LCS: sokrates sokrates plato 
+Jaccard of common nouns: 0.044444444444444446
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.598597824574
+Semantic similarity verbs: 0.682752370834
+
+Pairing: 16
+New Sentence: Mag nun auch Euripides uns durch seinen Widerruf zu trösten suchen, es gelingt ihm nicht. der herrlichste Tempel liegt in Trümmern; was nützt uns die Wehklage des Zerstörers und sein Geständniss, dass es der schönste aller Tempel gewesen sei? Und selbst dass Euripides zur Strafe von den Kunstrichtern aller Zeiten in einen Drachen verwandelt worden ist — wen möchte diese erbärmliche Compensation befriedigen?
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.758590470612
+Syntactic Similarity without tokens: 0.777155210522
+Semantic Score: 0.850116729736
+Semantic Score without stopwords: 0.850116729736
+LCS Length: 1
+LCS: euripides 
+Jaccard of common nouns: 0.043478260869565216
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.598603248596
+Semantic similarity verbs: 0.620144665241
+
+Pairing: 17
+New Sentence: Aber mit der gleichen Sicherheit darf behauptet werden, dass niemals bis auf Euripides Dionysus aufgehört hat, der tragische Held zu sein, sondern dass alle die berühmten Figuren der griechischen Bühne Prometheus, Oedipus u. s. w. nur Masken jenes ursprünglichen Helden Dionysus sind. Dass hinter allen diesen Masken eine Gottheit steckt, das ist der eine wesentliche Grund für die so oft angestaunte typische „Idealität“ jener berühmten Figuren. Es hat ich weiss nicht wer behauptet, dass alle Individuen als Individuen komisch und damit untragisch seien.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.73037815155
+Syntactic Similarity without tokens: 0.786923349395
+Semantic Score: 0.856297194958
+Semantic Score without stopwords: 0.856297194958
+LCS Length: 2
+LCS: euripides u 
+Jaccard of common nouns: 0.041666666666666664
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.449703544378
+Semantic similarity verbs: 0.566742002964
+
+Pairing: 18
+New Sentence: Auch der göttliche Plato redet vom schöpferischen Vermögen des Dichters, insofern dies nicht die bewusste Einsicht ist, zu allermeist nur ironisch und stellt es der Begabung des Wahrsagers und Traumdeuters gleich; sei doch der Dichter nicht eher fähig zu dichten als bis er bewusstlos geworden sei, und kein Verstand mehr in ihm wohne. Euripides unternahm es, wie es auch Plato unternommen hat, das Gegenstück des „unverständigen“ Dichters der Welt zu zeigen; sein aesthetischer Grundsatz „alles muss bewusst sein, um schön zu sein“, ist, wie ich sagte, der Parallelsatz zu dem sokratischen „alles muss bewusst sein, um gut zu sein“. Demgemäss darf uns Euripides als der Dichter des aesthetischen Sokratismus gelten.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.757710623723
+Syntactic Similarity without tokens: 0.739042050125
+Semantic Score: 0.859393775463
+Semantic Score without stopwords: 0.859393775463
+LCS Length: 1
+LCS: geworden 
+Jaccard of common nouns: 0.038461538461538464
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.546219706535
+Semantic similarity verbs: 0.652280509472
+
+Pairing: 19
+New Sentence: Euripides unternahm es, wie es auch Plato unternommen hat, das Gegenstück des „unverständigen“ Dichters der Welt zu zeigen; sein aesthetischer Grundsatz „alles muss bewusst sein, um schön zu sein“, ist, wie ich sagte, der Parallelsatz zu dem sokratischen „alles muss bewusst sein, um gut zu sein“. Demgemäss darf uns Euripides als der Dichter des aesthetischen Sokratismus gelten. Sokrates aber war jener zweite Zuschauer, der die ältere Tragödie nicht begriff und deshalb nicht achtete; mit ihm im Bunde wagte Euripides, der Herold eines neuen Kunstschaffens zu sein.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.747947325557
+Syntactic Similarity without tokens: 0.730614557224
+Semantic Score: 0.846119642258
+Semantic Score without stopwords: 0.846119642258
+LCS Length: 2
+LCS: euripides sokrates 
+Jaccard of common nouns: 0.037037037037037035
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.555449426174
+Semantic similarity verbs: 0.607827544212
+
+Pairing: 20
+New Sentence: Wenn zuletzt behauptet wurde, dass Euripides den Zuschauer auf die Bühne gebracht habe, um zugleich damit den Zuschauer zum Urtheil über das Drama erst wahrhaft zu befähigen, so entsteht der Schein, als ob die ältere tragische Kunst aus einem Missverhältniss zum Zuschauer nicht herausgekommen sei. und man möchte versucht sein, die radicale Tendenz des Euripides, ein entsprechendes Verhältniss zwischen Kunstwerk und Publicum zu erzielen, als einen Fortschritt über Sophokles hinaus zu preisen. Nun aber ist „Publicum“ nur ein Wort und durchaus keine gleichartige und in sich verharrende Grösse.
+Reference: 
+An das Publicum , oder Niemand , den Kundbaren . Du fuͤhrst einen Namen , und brauchst keinen Beweis Deines Daseyns , Du findest Glauben , und thust keine Zeichen denselben zu verdienen , Du erhaͤltst Ehre , und hast weder Begrif noch Gefuͤhl davon . Wir wissen , daß es keinen Goͤtzen in der Welt giebt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.716565552359
+Syntactic Similarity without tokens: 0.859649408162
+Semantic Score: 0.872630059719
+Semantic Score without stopwords: 0.872630059719
+LCS Length: 1
+LCS: publicum 
+Jaccard of common nouns: 0.037037037037037035
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.775813579559
+Semantic similarity verbs: 0.675211310387
+
+Pairing: 21
+New Sentence: Man vergegenwärtige sich nur die Consequenzen der sokratischen Sätze. „Tugend ist Wissen; es wird nur gesündigt aus Unwissenheit; der Tugendhafte ist der Glückliche“. in diesen drei Grundformen des Optimismus liegt der Tod der Tragödie.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.736829873635
+Syntactic Similarity without tokens: 0.812866256355
+Semantic Score: 0.861244320869
+Semantic Score without stopwords: 0.861244320869
+LCS Length: 1
+LCS: unwissenheit 
+Jaccard of common nouns: 0.03333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.64653801918
+Semantic similarity verbs: 0.489544689655
+
+Pairing: 22
+New Sentence: Euripides ist der Schauspieler mit dem klopfenden Herzen, mit den zu Berge stehenden Haaren; als sokratischer Denker entwirft er den Plan, als leidenschaftlicher Schauspieler führt er ihn aus. Reiner Künstler ist er weder im Entwerfen noch im Ausführen. So ist das euripideische Drama ein zugleich kühles und feuriges Ding, zum Erstarren und zum Verbrennen gleich befähigt; es ist ihm unmöglich, die apollinische Wirkung des Epos zu erreichen, während es andererseits sich von den dionysischen Elementen möglichst gelöst hat, und jetzt, um überhaupt zu wirken, neue Erregungsmittel braucht, die nun nicht mehr innerhalb der beiden einzigen Kunsttriebe, des apollinischen und des dionysischen, liegen können.
+Reference: 
+Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.748590755931
+Syntactic Similarity without tokens: 0.71760646232
+Semantic Score: 0.84209048748
+Semantic Score without stopwords: 0.84209048748
+LCS Length: 1
+LCS: euripides 
+Jaccard of common nouns: 0.03333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.661527991295
+Semantic similarity verbs: 0.575876832008
+
+Pairing: 23
+New Sentence: Ihr sollt den dionysischen Festzug von Indien nach Griechenland geleiten! Rüstet euch zu hartem Streite, aber glaubt an die Wunder eures Gottes! Von diesen exhortativen Tönen in die Stimmung zurückgleitend, die dem Beschaulichen geziemt, wiederhole ich, dass nur von den Griechen gelernt werden kann, was ein solches wundergleiches plötzliches Aufwachen der Tragödie für den innersten Lebensgrund eines Volkes zu bedeuten hat.
+Reference: 
+Das Publicum in Griechenland laß die Denkwuͤrdigkeiten des Aristoteles uͤber die Naturgeschichte der Thiere , und Alexander verstand sie . Wo ein gemeiner Leser nichts als Schimmel sehen moͤchte , wird der Affect der Freundschaft Jhnen , Meine Herren , in diesen Blaͤttern vielleicht ein mikroskopisch Waͤldchen entdecken . Jch habe uͤber den Sokrates auf eine sokratische Art geschrieben .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.720598177823
+Syntactic Similarity without tokens: 0.772305878258
+Semantic Score: 0.864025115967
+Semantic Score without stopwords: 0.864025115967
+LCS Length: 1
+LCS: griechenland 
+Jaccard of common nouns: 0.03225806451612903
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.68349391222
+Semantic similarity verbs: 0.799987256527
+
+Pairing: 24
+New Sentence: „Idol“Nach KGW/KGB Nachberichte zum Abbild tief im hellenischen Wesen begründet liegt. Um uns aber der Terminologie Plato’s zu bedienen, so wäre von den tragischen Gestalten der hellenischen Bühne etwa so zu reden. der eine wahrhaft reale Dionysus erscheint in einer Vielheit der Gestalten, in der Maske eines kämpfenden Helden und gleichsam in das Netz des Einzelwillens verstrickt.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.747546652165
+Syntactic Similarity without tokens: 0.88188143464
+Semantic Score: 0.868601799011
+Semantic Score without stopwords: 0.868601799011
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.03125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.706959426403
+Semantic similarity verbs: 0.785658478737
+
+Pairing: 25
+New Sentence: Bei dieser, dem Gotte gegenüber durchaus dienenden Stellung ist er doch der höchste, nämlich dionysische Ausdruck der Natur und redet darum, wie diese, in der Begeisterung Orakel- und Weisheitssprüche. als der mitleidende ist er zugleich der weise, aus dem Herzen der Welt die Wahrheit verkündende. So entsteht denn jene phantastische und so anstössig scheinende Figur des weisen und begeisterten Satyrs, der zugleich „der tumbe Mensch“ im Gegensatz zum Gotte ist.
+Reference: 
+Jn Vergleichung eines Xenophons und Platons wuͤrde vielleicht der Styl des Sokrates nach den Meissel eines Bildhauers ausgesehen haben und seine Schreibart mehr plastisch als malerisch gewesen seyn . Die Kunstrichter waren mit seinen Anspielungen nicht zufrieden , und tadelten die Gleichnisse seines muͤndlichen Vortrages bald als zu weit hergeholt , bald als poͤbelhaft . Alcibiades aber verglich seinen Parabel gewissen heiligen Bildern der Goͤtter und Goͤttinnen , die man nach damaliger Mode in einem kleinen Gehaͤuse trug , auf denen nichts als die Gestalt eines ziegenfuͤßigen Satyrs zu sehen war .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.748085055032
+Syntactic Similarity without tokens: 0.81542744157
+Semantic Score: 0.866067826748
+Semantic Score without stopwords: 0.866067826748
+LCS Length: 1
+LCS: satyrs 
+Jaccard of common nouns: 0.029411764705882353
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.67623436451
+Semantic similarity verbs: 0.697564303875
+
+Pairing: 26
+New Sentence: als der mitleidende ist er zugleich der weise, aus dem Herzen der Welt die Wahrheit verkündende. So entsteht denn jene phantastische und so anstössig scheinende Figur des weisen und begeisterten Satyrs, der zugleich „der tumbe Mensch“ im Gegensatz zum Gotte ist. Abbild der Natur und ihrer stärksten Triebe, ja Symbol derselben und zugleich Verkünder ihrer Weisheit und Kunst.
+Reference: 
+Jn Vergleichung eines Xenophons und Platons wuͤrde vielleicht der Styl des Sokrates nach den Meissel eines Bildhauers ausgesehen haben und seine Schreibart mehr plastisch als malerisch gewesen seyn . Die Kunstrichter waren mit seinen Anspielungen nicht zufrieden , und tadelten die Gleichnisse seines muͤndlichen Vortrages bald als zu weit hergeholt , bald als poͤbelhaft . Alcibiades aber verglich seinen Parabel gewissen heiligen Bildern der Goͤtter und Goͤttinnen , die man nach damaliger Mode in einem kleinen Gehaͤuse trug , auf denen nichts als die Gestalt eines ziegenfuͤßigen Satyrs zu sehen war .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.742645955177
+Syntactic Similarity without tokens: 0.85188615377
+Semantic Score: 0.841010391712
+Semantic Score without stopwords: 0.841010391712
+LCS Length: 1
+LCS: satyrs 
+Jaccard of common nouns: 0.02857142857142857
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.663025617599
+Semantic similarity verbs: 0.470876127481
+
+Pairing: 27
+New Sentence: welche aesthetische Wirkung entsteht, wenn jene an sich getrennten Kunstmächte des Apollinischen und des Dionysischen neben einander in Thätigkeit gerathen? Oder in kürzerer Form. wie verhält sich die Musik zu Bild und Begriff?
+Reference: 
+Es giebt in dem Tempel der Gelehrsamkeit wuͤrklich einen Goͤtzen , der unter seinem Bilde die Aufschrift der philosophischen Geschichte traͤgt ; und dem es an Hohenpriestern und Leviten nicht gefehlt . Stanley und Brucker haben uns Kolossen geliefert , die eben so sonderbar und unvollendet sind als jenes Bild der Schoͤnheit , das ein Grieche aus den Reitzen aller Schoͤnen , deren Eindruck ihm Absicht und Zufall verschaffen konnte , zusammensetzte . Meisterstuͤcke , die von gelehrten Kennern der Kuͤnste immer sehr moͤchten bewundert und gesucht ; von Klugen hingegen als abentheuerliche Gewaͤchse und Chimaͤren in der Stille belacht oder auch fuͤr die lange Weile und in theatralischen Zeichnungen nachgeahmt werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.71704172233
+Syntactic Similarity without tokens: 0.728301756983
+Semantic Score: 0.903192043304
+Semantic Score without stopwords: 0.903192043304
+LCS Length: 1
+LCS: bild 
+Jaccard of common nouns: 0.02702702702702703
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.790191709995
+Semantic similarity verbs: 0.628622055054
+
+Pairing: 28
+New Sentence: Aus dem Lächeln dieses Dionysus sind die olympischen Götter, aus seinen Thränen die Menschen entstanden. In jener Existenz als zerstückelter Gott hat Dionysus die Doppelnatur eines grausamen verwilderten Dämons und eines milden sanftmüthigen Herrschers. Die Hoffnung der Epopten ging aber auf eine Wiedergeburt des Dionysus, die wir jetzt als das Ende der Individuation ahnungsvoll zu begreifen haben.
+Reference: 
+Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs . Wenn kein junger Sperling ohne unsern Gott auf die Erde faͤllt ; so ist kein Denkmal alter Zeiten fuͤr uns verloren gegangen , das wir zu beklagen haͤtten . Sollte seine Vorsorge sich nicht uͤber Schriften erstrecken , da Er Selbst ein Schriftsteller geworden , und der Geist Gottes so genau gewesen den Werth der ersten verbotenen Buͤcher aufzuzeichnen , die ein frommer Eyfer unserer Religion dem Feuer geopfert ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.757779929377
+Syntactic Similarity without tokens: 0.825408514821
+Semantic Score: 0.84944409132
+Semantic Score without stopwords: 0.84944409132
+LCS Length: 1
+LCS: gott 
+Jaccard of common nouns: 0.02631578947368421
+Jaccard of common verbs: 0.07692307692307693
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.686019539833
+Semantic similarity verbs: 0.818296551704
+
+Pairing: 29
+New Sentence: in deren Choral die Zukunftsweise der deutschen Musik zuerst erklang. So tief, muthig und seelenvoll, so überschwänglich gut und zart tönte dieser Choral Luther’s, als der erste dionysische Lockruf, der aus dichtverwachsenem Gebüsch, im Nahen des Frühlings, hervordringt. Ihm antwortete in wetteiferndem Wiederhall jener weihevoll übermüthige Festzug dionysischer Schwärmer, denen wir die deutsche Musik danken — und denen wir die Wiedergeburt des deutschen Mythus danken werden!
+Reference: 
+Von dieser Seite ahmte also Sokrates seinen Vater nach , einen Bildhauer , der , indem er wegnimmt und hauet , was am Holze nicht seyn soll , eben dadurch die Form des Bildes foͤrdert . Daher hatten die grossen Maͤnner seiner Zeit zureichenden Grund uͤber ihn zu schreyen , daß er alle Eichen ihrer Waͤlder faͤlle , alle ihre Kloͤtzer verderbe , und aus ihrem Holze nichts als Spaͤne zu machen verstuͤnde . Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.757714417671
+Syntactic Similarity without tokens: 0.852358321557
+Semantic Score: 0.833040833473
+Semantic Score without stopwords: 0.833040833473
+LCS Length: 1
+LCS: deutschen 
+Jaccard of common nouns: 0.02631578947368421
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.654036104679
+Semantic similarity verbs: 0.599335253239
+
+Pairing: 30
+New Sentence: istNach KGW/KGB Nachberichte angehöre — durfte vor allem nicht gegen das neue Kunstwerk gerichtet werden. und so sehen wir denn Plato bestrebt über die Wirklichkeit hinaus zu gehn und die jener Pseudo-Wirklichkeit zu Grunde liegende Idee darzustellen. Damit aber war der Denker Plato auf einem Umwege ebendahin gelangt, wo er als Dichter stets heimisch gewesen war und von wo aus Sophokles und die ganze ältere Kunst feierlich gegen jenen Vorwurf protestirten.
+Reference: 
+Sie besassen aber mehr die Gabe zu erfinden und vorzutragen , als zu behalten und zu urtheilen ; daher hatte Sokrates immer Gelegenheit ihr Gedaͤchtnis und ihre Urtheilskraft zu vertreten , und sie fuͤr Leichtsinn und Eitelkeit zu warnen . Kurz , Sokrates lockte seine Mitbuͤrger aus den Labyrinthen ihrer gelehrten Sophisten zu einer Wahrheit , die im Verborgenen liegt , zu einer heimlichen Weisheit , und von den Goͤtzenaltaͤren ihrer andaͤchtigen und staatsklugen Priester zum Dienst eines unbekanten Gottes . Plato sagte es den Atheniensern ins Gesichte , daß Sokrates ihren Arm den Goͤttern gegeben waͤre sie von ihren Thorheiten zu uͤberzeugen und zu seiner Nachfolge in der Tugend aufzumuntern .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.737969185807
+Syntactic Similarity without tokens: 0.876696310062
+Semantic Score: 0.867501020432
+Semantic Score without stopwords: 0.867501020432
+LCS Length: 1
+LCS: plato 
+Jaccard of common nouns: 0.025
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.599213898182
+Semantic similarity verbs: 0.821228384972
+
+Pairing: 31
+New Sentence: und insbesondere erregte ihr die dionysische Musik Schrecken und Grausen. Wenn die Musik scheinbar bereits als eine apollinische Kunst bekannt war, so war sie dies doch nur, genau genommen, als Wellenschlag des Rhythmus, dessen bildnerische Kraft zur Darstellung apollinischer Zustände entwickelt wurde. Die Musik des Apollo war dorische Architektonik in Tönen, aber in nur angedeuteten Tönen, wie sie der Kithara zu eigen sind.
+Reference: 
+Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche . Unterdessen glaube ich zuverlaͤßiger , daß unsere Philosophie eine andere Gestalt nothwendig haben muͤste , wenn man die Schicksale dieses Namens oder Wortes .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.731756068471
+Syntactic Similarity without tokens: 0.839076216569
+Semantic Score: 0.878037035465
+Semantic Score without stopwords: 0.878037035465
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.024390243902439025
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.79297631979
+Semantic similarity verbs: 0.716975390911
+
+Pairing: 32
+New Sentence: Bei diesem unlösbaren Conflicte war, als er einmal vor das Forum des griechischen Staates gezogen war, nur eine einzige Form der Verurtheilung geboten, die Verbannung; als etwas durchaus Räthselhaftes, Unrubricirbares, Unaufklärbares hätte man ihn über die Grenze weisen dürfen, ohne dass irgend eine Nachwelt im Recht gewesen wäre, die Athener einer schmählichen That zu zeihen. Dass aber der Tod und nicht nur die Verbannung über ihn ausgesprochen wurde, das scheint Sokrates selbst, mit völliger Klarheit und ohne den natürlichen Schauder vor dem Tode, durchgesetzt zu haben. er ging in den Tod, mit jener Ruhe, mit der er nach Plato’s Schilderung als der letzte der Zecher im frühen Tagesgrauen das Symposion verlässt, um einen neuen Tag zu beginnen; indess hinter ihm, auf den Bänken und auf der Erde, die verschlafenen Tischgenossen zurückbleiben, um von Sokrates, dem wahrhaften Erotiker, zu träumen.
+Reference: 
+Das freche Gestaͤndniß darin war gewissermassen eine Beleidigung , die man aber dem aufrichtigen Klienten und Kandidaten scheint vergeben zu haben , weil sie auf ihn selbst am schwersten zuruͤck fiel . Das Loos der Unwissenheit und die Bloͤße derselben macht eben so unversoͤhnliche Feinde als die Ueberlegenheit an Verdiensten und die Schau davon . War Sokrates wirklich unwissend , so muste ihm auch die Schande unwissend seyn , die vernuͤnftige Leute sich ergruͤbeln , unwissend zu scheinen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.759812502479
+Syntactic Similarity without tokens: 0.801967691374
+Semantic Score: 0.854051172733
+Semantic Score without stopwords: 0.854051172733
+LCS Length: 2
+LCS: scheint sokrates 
+Jaccard of common nouns: 0.022727272727272728
+Jaccard of common verbs: 0.05263157894736842
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.59666711092
+Semantic similarity verbs: 0.792743206024
+
+Pairing: 33
+New Sentence: O über diese Griechen! seufzen wir; sie werfen uns unsre Aesthetik um! Daran aber gewöhnt, wiederholten wir den Schlegel’schen Spruch, so oft der Chor zur Sprache kam.
+Reference: 
+Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern . so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.708638456036
+Syntactic Similarity without tokens: 0.819696364283
+Semantic Score: 0.88712656498
+Semantic Score without stopwords: 0.88712656498
+LCS Length: 2
+LCS: griechen daran 
+Jaccard of common nouns: 0.021739130434782608
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.526527345181
+Semantic similarity verbs: 0.824176728725
+
+Pairing: 34
+New Sentence: Ganz anders reflectirte Euripides. Die Wirkung der Tragödie beruhte niemals auf der epischen Spannung, auf der anreizenden Ungewissheit, was sich jetzt und nachher ereignen werde. vielmehr auf jenen grossen rhetorisch-lyrischen Scenen, in denen die Leidenschaft und die Dialektik des Haupthelden zu einem breiten und mächtigen Strome anschwoll.
+Reference: 
+Aus dieser sokratischen Unwissenheit fluͤssen als leichte Folgen die Sonderbarkeiten seiner Lehr- und Denkart . Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.751638644837
+Syntactic Similarity without tokens: 0.841356906498
+Semantic Score: 0.865728199482
+Semantic Score without stopwords: 0.865728199482
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.019230769230769232
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.550521075726
+
+Pairing: 35
+New Sentence: Nun aber schien Sokrates die tragische Kunst nicht einmal „die Wahrheit zu sagen“. abgesehen davon, dass sie sich an den wendet, der „nicht viel Verstand besitzt“, also nicht an den Philosophen. ein zweifacher Grund, von ihr fern zu bleiben.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.684169308383
+Syntactic Similarity without tokens: 0.835280790958
+Semantic Score: 0.917452454567
+Semantic Score without stopwords: 0.917452454567
+LCS Length: 1
+LCS: wahrheit 
+Jaccard of common nouns: 0.017857142857142856
+Jaccard of common verbs: 0.037037037037037035
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.723083615303
+Semantic similarity verbs: 0.878670334816
+
+Pairing: 36
+New Sentence: vielmehr auf jenen grossen rhetorisch-lyrischen Scenen, in denen die Leidenschaft und die Dialektik des Haupthelden zu einem breiten und mächtigen Strome anschwoll. Zum Pathos, nicht zur Handlung bereitete Alles vor. und was nicht zum Pathos vorbereitete, das galt als verwerflich.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.756013403302
+Syntactic Similarity without tokens: 0.84903926366
+Semantic Score: 0.838906109333
+Semantic Score without stopwords: 0.838906109333
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.017857142857142856
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.608617544174
+
+Pairing: 37
+New Sentence: euch, meinen Brüdern, werfe ich diese Krone zu! Das Lachen sprach ich heilig. ihr höheren Menschen, lernt mir — lachen!“  Also sprach Zarathustra; vierter Theil S. 87.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.744553246323
+Syntactic Similarity without tokens: 0.78137903598
+Semantic Score: 0.871663033962
+Semantic Score without stopwords: 0.871663033962
+LCS Length: 2
+LCS: sprach menschen 
+Jaccard of common nouns: 0.017543859649122806
+Jaccard of common verbs: 0.04
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.789777636528
+Semantic similarity verbs: 0.816577017307
+
+Pairing: 38
+New Sentence: Kann man aber mit einem Menschen noch verkehren, der im Stande ist, sich über Beethoven und Shakespeare zu unterhalten? Mag Jeder nach seinem Gefühl diese Frage beantworten. er wird mit der Antwort jedenfalls beweisen, was er sich unter „Bildung“ vorstellt, vorausgesetzt dass er die Frage überhaupt zu beantworten sucht und nicht vor Ueberraschung bereits verstummt ist.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.702334781882
+Syntactic Similarity without tokens: 0.850635902782
+Semantic Score: 0.914885699749
+Semantic Score without stopwords: 0.914885699749
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.017241379310344827
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.672940433025
+Semantic similarity verbs: 0.875940978527
+
+Pairing: 39
+New Sentence: Das Lachen sprach ich heilig. ihr höheren Menschen, lernt mir — lachen!“  Also sprach Zarathustra; vierter Theil S. 87. Vorwort an Richard Wagner.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.723585491293
+Syntactic Similarity without tokens: 0.698127817468
+Semantic Score: 0.859527587891
+Semantic Score without stopwords: 0.859527587891
+LCS Length: 2
+LCS: sprach menschen 
+Jaccard of common nouns: 0.017241379310344827
+Jaccard of common verbs: 0.041666666666666664
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.798979341984
+Semantic similarity verbs: 0.77776324749
+
+Pairing: 40
+New Sentence: Der griechische Künstler insbesondere empfand im Hinblick auf diese Gottheiten ein dunkles Gefühl wechselseitiger Abhängigkeit. und gerade im Prometheus des Aeschylus ist dieses Gefühl symbolisirt. Der titanische Künstler fand in sich den trotzigen Glauben, Menschen schaffen und olympische Götter wenigstens vernichten zu können.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.700638358842
+Syntactic Similarity without tokens: 0.846959453616
+Semantic Score: 0.894094228745
+Semantic Score without stopwords: 0.894094228745
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.01694915254237288
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.711801290512
+Semantic similarity verbs: 0.740401029587
+
+Pairing: 41
+New Sentence: Sodann wachsen die anderen symbolischen Kräfte, die der Musik, in Rhythmik, Dynamik und Harmonie, plötzlich ungestüm. Um diese Gesammtentfesselung aller symbolischen Kräfte zu fassen, muss der Mensch bereits auf jener Höhe der Selbstentäusserung angelangt sein, die in jenen Kräften sich symbolisch aussprechen will. der dithyrambische Dionysusdiener wird somit nur von Seinesgleichen verstanden!
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.742452267479
+Syntactic Similarity without tokens: 0.85136927577
+Semantic Score: 0.854292571545
+Semantic Score without stopwords: 0.854292571545
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.016666666666666666
+Jaccard of common verbs: 0.07407407407407407
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.661462843418
+Semantic similarity verbs: 0.821975290775
+
+Pairing: 42
+New Sentence: „Es ist ein Traum! Ich will ihn weiter träumen!“ Wie man mir auch von Personen erzählt hat, die die Causalität eines und desselben Traumes über drei und mehr aufeinanderfolgende Nächte hin fortzusetzen im Stande waren. Thatsachen, welche deutlich Zeugniss dafür abgeben, dass unser innerstes Wesen, der gemeinsame Untergrund von uns allen, mit tiefer Lust und freudiger Nothwendigkeit den Traum an sich erfährt.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.703808698454
+Syntactic Similarity without tokens: 0.778999838496
+Semantic Score: 0.886925578117
+Semantic Score without stopwords: 0.886925578117
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.016666666666666666
+Jaccard of common verbs: 0.037037037037037035
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.734607815742
+Semantic similarity verbs: 0.746298909187
+
+Pairing: 43
+New Sentence: in dem allerwesentlichsten Punkte ist jene apollinische Täuschung durchbrochen und vernichtet. Das Drama, das in so innerlich erleuchteter Deutlichkeit aller Bewegungen und Gestalten, mit Hülfe der Musik, sich vor uns ausbreitet, als ob wir das Gewebe am Webstuhl im Auf- und Niederzucken entstehen sehen — erreicht als Ganzes eine Wirkung, die jenseits aller apollinischen Kunstwirkungen liegt. In der Gesammtwirkung der Tragödie erlangt das Dionysische wieder das Uebergewicht; sie schliesst mit einem Klange, der niemals von dem Reiche der apollinischen Kunst her tönen könnte.
+Reference: 
+Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern . so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.690229895447
+Syntactic Similarity without tokens: 0.78187270651
+Semantic Score: 0.915215313435
+Semantic Score without stopwords: 0.915215313435
+LCS Length: 1
+LCS: kunst 
+Jaccard of common nouns: 0.01639344262295082
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.794554114342
+Semantic similarity verbs: 0.830356121063
+
+Pairing: 44
+New Sentence: — wie er es bei den Indern war, wie er es, allem Anschein nach, bei uns, den „modernen“ Menschen und Europäern ist? Giebt es einen Pessimismus der Stärke? Eine intellektuelle Vorneigung für das Harte, Schauerliche, Böse, Problematische des Daseins aus Wohlsein, aus überströmender Gesundheit, aus Fülle des Daseins?
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.75630526907
+Syntactic Similarity without tokens: 0.805217927617
+Semantic Score: 0.852132976055
+Semantic Score without stopwords: 0.852132976055
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.015625
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.713918447495
+Semantic similarity verbs: 0.474934726954
+
+Pairing: 45
+New Sentence: aesthetischelies. ästhetischeNach KGW/KGB Nachberichte Wissenschaft gewonnen haben, wenn wir nicht nur zur logischen Einsicht, sondern zur unmittelbaren Sicherheit der Anschauung gekommen sind, dass die Fortentwickelung der Kunst an die Duplicität des Apollinischen und des Dionysischen gebunden ist. in ähnlicher Weise, wie die Generation von der Zweiheit der Geschlechter, bei fortwährendem Kampfe und nur periodisch eintretender Versöhnung, abhängt.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.734797371275
+Syntactic Similarity without tokens: 0.750120535274
+Semantic Score: 0.872063338757
+Semantic Score without stopwords: 0.872063338757
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.015151515151515152
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.693676650524
+Semantic similarity verbs: 0.72512280941
+
+Pairing: 46
+New Sentence: Dieser Wechsel affectvoll eindringlicher, doch nur halb gesungener Rede und ganz gesungener Interjection, der im Wesen des stilo rappresentativo liegt, dies rasch wechselnde Bemühen, bald auf den Begriff und die Vorstellung, bald auf den musikalischen Grund des Zuhörers zu wirken, ist etwas so gänzlich Unnatürliches und den Kunsttrieben des Dionysischen und des Apollinischen in gleicher Weise so innerlich Widersprechendes, dass man auf einen Ursprung des Recitativs zu schliessen hat, der ausserhalb aller künstlerischen Instincte liegt. Das Recitativ ist nach dieser Schilderung zu definierenErratum. definirenlies.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.694323299668
+Syntactic Similarity without tokens: 0.736809921686
+Semantic Score: 0.914166688919
+Semantic Score without stopwords: 0.914166688919
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.014285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.789430856705
+Semantic similarity verbs: 0.65816116333
+
+Pairing: 47
+New Sentence: sie zeigt dieselben charakteristischen Merkmale, die ich soeben aus dem Geiste des Undionysischen ableitete — dass sie die dionysische Weisheit und Kunst bekämpft, dass sie den Mythus aufzulösen trachtet, dass sie an Stelle eines metaphysischen Trostes eine irdische Consonanz, ja einen eigenen deus ex machina setzt, nämlich den Gott der Maschinen und Schmelztiegel, d.h. die im Dienste des höheren Egoismus erkannten und verwendeten Kräfte der Naturgeister, dass sie an eine Correctur der Welt durch das Wissen, an ein durch die Wissenschaft geleitetes Leben glaubt und auch wirklich im Stande ist, den einzelnen Menschen in einen allerengsten Kreis von lösbaren Aufgaben zu bannen, innerhalb dessen er heiter zum Leben sagt. „Ich will dich. du bist werth erkannt zu werden“.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.660365571002
+Syntactic Similarity without tokens: 0.702821555389
+Semantic Score: 0.94403475523
+Semantic Score without stopwords: 0.94403475523
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.013513513513513514
+Jaccard of common verbs: 0.06451612903225806
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.762423455715
+Semantic similarity verbs: 0.846193552017
+
+Pairing: 48
+New Sentence: eine ganze Schaar fühlt sich in dieser Weise verzaubert. Der Dithyramb ist deshalb wesentlich von jedem anderen Chorgesange unterschieden. Die Jungfrauen, die, mit Lorbeerzweigen in der Hand, feierlich zum Tempel des Apollo ziehn und dabei ein Prozessionslied singen, bleiben, wer sie sind, und behalten ihren bürgerlichen Namen.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.710877391056
+Syntactic Similarity without tokens: 0.841858163854
+Semantic Score: 0.909831106663
+Semantic Score without stopwords: 0.909831106663
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.59629368782
+Semantic similarity verbs: 0.77789580822
+
+Pairing: 49
+New Sentence: unbewegte,lies. unbewegteNach KGW/KGB Nachberichte aus weiten Augen blickende Anschauung, die die Bilder vor sich sieht. Der Schauspieler in diesem dramatisirten Epos bleibt im tiefsten Grunde immer noch Rhapsode; die Weihe des inneren Träumens liegt auf allen seinen Actionen, so dass er niemals ganz Schauspieler ist.
+Reference: 
+Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.701870561398
+Syntactic Similarity without tokens: 0.691278362457
+Semantic Score: 0.918171167374
+Semantic Score without stopwords: 0.918171167374
+LCS Length: 1
+LCS: immer 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.567217648029
+Semantic similarity verbs: 0.805182218552
+
+Pairing: 50
+New Sentence: Wozu — griechische Kunst?…. Man erräth, an welche Stelle hiermit das grosse Fragezeichen vom Werth des Daseins gesetzt war. Ist Pessimismus nothwendig das Zeichen des Niedergangs, Verfalls, des Missrathenseins, der ermüdeten und geschwächten Instinkte?
+Reference: 
+Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern . so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.768647875016
+Syntactic Similarity without tokens: 0.690013884364
+Semantic Score: 0.828158855438
+Semantic Score without stopwords: 0.850405395031
+LCS Length: 2
+LCS: kunst gesetzt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.536468505859
+Semantic similarity verbs: 0.682962119579
+
+Pairing: 51
+New Sentence: Aus der höchsten Freude tönt der Schrei des Entsetzens oder der sehnende Klagelaut über einen unersetzlichen Verlust. In jenen griechischen Festen bricht gleichsam ein sentimentalischer Zug der Natur hervor, als ob sie über ihre Zerstückelung in Individuen zu seufzen habe. Der Gesang und die Gebärdensprache solcher zwiefach gestimmter Schwärmer war für die homerisch-griechische Welt etwas Neues und Unerhörtes.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.750361749324
+Syntactic Similarity without tokens: 0.789315553302
+Semantic Score: 0.866553366184
+Semantic Score without stopwords: 0.866553366184
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.685087800026
+Semantic similarity verbs: 0.700119554996
+
+Pairing: 52
+New Sentence: die Empfindung dieses Contrastes, dieses Wechselspieles ist eigentlich, was sich im Ganzen des Liedes ausspricht und was überhaupt den lyrischen Zustand ausmacht. In diesem tritt gleichsam das reine Erkennen zu uns heran, um uns vom Wollen und seinem Drange zu erlösen. wir folgen; doch nur auf Augenblicke.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.713594158121
+Syntactic Similarity without tokens: 0.824867283901
+Semantic Score: 0.903283238411
+Semantic Score without stopwords: 0.903283238411
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.557457029819
+Semantic similarity verbs: 0.776772797108
+
+Pairing: 53
+New Sentence: Weisheit ist ein Verbrechen an der Natur“. solche schreckliche Sätze ruft uns der Mythus zu. der hellenische Dichter aber berührt wie ein Sonnenstrahl die erhabene und furchtbare Memnonssäule des Mythus, so dass er plötzlich zu tönen beginnt — in sophokleischen Melodieen!
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.772376334088
+Syntactic Similarity without tokens: 0.861554956559
+Semantic Score: 0.844438076019
+Semantic Score without stopwords: 0.844438076019
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.52029299736
+Semantic similarity verbs: 0.657263875008
+
+Pairing: 54
+New Sentence: was verklärt er aber, wenn er die Erscheinungswelt unter dem Bilde des leidenden Helden vorführt? Die „Realität“ dieser Erscheinungswelt am wenigsten, denn er sagt uns gerade. Seht genau hin!
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.712941931398
+Syntactic Similarity without tokens: 0.802039207519
+Semantic Score: 0.903209328651
+Semantic Score without stopwords: 0.903209328651
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.04
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.480551362038
+Semantic similarity verbs: 0.750172078609
+
+Pairing: 55
+New Sentence: sie sind die zeitlosen, ausserhalb aller Gesellschaftssphären lebenden Diener ihres Gottes geworden. Alle andere Chorlyrik der Hellenen ist nur eine ungeheure Steigerung des apollinischen Einzelsängers; während im Dithyramb eine Gemeinde von unbewussten Schauspielern vor uns steht, die sich selbst unter einander als verwandelt ansehen. Die Verzauberung ist die Voraussetzung aller dramatischen Kunst.
+Reference: 
+Aus dieser sokratischen Unwissenheit fluͤssen als leichte Folgen die Sonderbarkeiten seiner Lehr- und Denkart . Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.726235609212
+Syntactic Similarity without tokens: 0.859204561173
+Semantic Score: 0.889721572399
+Semantic Score without stopwords: 0.889721572399
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.528002858162
+Semantic similarity verbs: 0.694644510746
+
+Pairing: 56
+New Sentence: auch das Ernste, Trübe, Traurige, Finstere, die plötzlichen Hemmungen, die Neckereien des Zufalls, die bänglichen Erwartungen, kurz die ganze „göttliche Komödie“ des Lebens, mit dem Inferno, zieht an ihm vorbei, nicht nur wie ein Schattenspiel — denn er lebt und leidet mit in diesen Scenen — und doch auch nicht ohne jene flüchtige Empfindung des Scheins; und vielleicht erinnert sich Mancher, gleich mir, in den Gefährlichkeiten und Schrecken des Traumes sich mitunter ermuthigend und mit Erfolg zugerufen zu haben. „Es ist ein Traum! Ich will ihn weiter träumen!“ Wie man mir auch von Personen erzählt hat, die die Causalität eines und desselben Traumes über drei und mehr aufeinanderfolgende Nächte hin fortzusetzen im Stande waren.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.711461904908
+Syntactic Similarity without tokens: 0.772040127461
+Semantic Score: 0.903613090515
+Semantic Score without stopwords: 0.903613090515
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06896551724137931
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.721818983555
+Semantic similarity verbs: 0.837347924709
+
+Pairing: 57
+New Sentence: Das wahre Ziel wird durch ein Wahnbild verdeckt. nach diesem strecken wir die Hände aus, und jenes erreicht die Natur durch unsre Täuschung. In den Griechen wollte der „Wille“ sich selbst, in der Verklärung des Genius und der Kunstwelt, anschauen; um sich zu verherrlichen, mussten seine Geschöpfe sich selbst als verherrlichenswerth empfinden, sie mussten sich in einer höheren Sphäre wiedersehn, ohne dass diese vollendete Welt der Anschauung als Imperativ oder als Vorwurf wirkte.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.722198110417
+Syntactic Similarity without tokens: 0.858930399426
+Semantic Score: 0.891807615757
+Semantic Score without stopwords: 0.891807615757
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06896551724137931
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.694493830204
+Semantic similarity verbs: 0.783271372318
+
+Pairing: 58
+New Sentence: die Gottheit, die aus ihm redete, war nicht Dionysus, auch nicht Apollo, sondern ein ganz neugeborner Dämon, genannt Sokrates. Dies ist der neue Gegensatz. das Dionysische und das Sokratische, und das Kunstwerk der griechischen Tragödie ging an ihm zu Grunde.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.736384116091
+Syntactic Similarity without tokens: 0.789952911563
+Semantic Score: 0.877521038055
+Semantic Score without stopwords: 0.877521038055
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.041666666666666664
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.717999458313
+Semantic similarity verbs: 0.847905516624
+
+Pairing: 59
+New Sentence: Jene drei Illusionsstufen sind überhaupt nur für die edler ausgestatteten Naturen, von denen die Last und Schwere des Daseins überhaupt mit tieferer Unlust empfunden wird und die durch ausgesuchte Reizmittel über diese Unlust hinwegzutäuschen sind. Aus diesen Reizmitteln besteht alles, was wir Cultur nennen. je nach der Proportion der Mischungen haben wir eine vorzugsweise sokratische oder künstlerische oder tragische Cultur.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.705773879256
+Syntactic Similarity without tokens: 0.860063609156
+Semantic Score: 0.907099783421
+Semantic Score without stopwords: 0.907099783421
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.04
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.438433736563
+Semantic similarity verbs: 0.804749429226
+
+Pairing: 60
+New Sentence: Jenes Urproblem möchten wir vielleicht mit dieser Frage berühren. welche aesthetische Wirkung entsteht, wenn jene an sich getrennten Kunstmächte des Apollinischen und des Dionysischen neben einander in Thätigkeit gerathen? Oder in kürzerer Form.
+Reference: 
+Es giebt in dem Tempel der Gelehrsamkeit wuͤrklich einen Goͤtzen , der unter seinem Bilde die Aufschrift der philosophischen Geschichte traͤgt ; und dem es an Hohenpriestern und Leviten nicht gefehlt . Stanley und Brucker haben uns Kolossen geliefert , die eben so sonderbar und unvollendet sind als jenes Bild der Schoͤnheit , das ein Grieche aus den Reitzen aller Schoͤnen , deren Eindruck ihm Absicht und Zufall verschaffen konnte , zusammensetzte . Meisterstuͤcke , die von gelehrten Kennern der Kuͤnste immer sehr moͤchten bewundert und gesucht ; von Klugen hingegen als abentheuerliche Gewaͤchse und Chimaͤren in der Stille belacht oder auch fuͤr die lange Weile und in theatralischen Zeichnungen nachgeahmt werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.722040165748
+Syntactic Similarity without tokens: 0.704764694908
+Semantic Score: 0.890047132969
+Semantic Score without stopwords: 0.890047132969
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.708144187927
+Semantic similarity verbs: 0.538666129112
+
+Pairing: 61
+New Sentence: Und so möchte das Doppelwesen des aeschyleischen Prometheus, seine zugleich dionysische und apollinische Natur in begrifflicher Formel so ausgedrückt werden können. „Alles Vorhandene ist gerecht und ungerecht und in beidem gleich berechtigt.“ Das ist deine Welt! Das heisst eine Welt!
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.756872499997
+Syntactic Similarity without tokens: 0.853519871733
+Semantic Score: 0.854724824429
+Semantic Score without stopwords: 0.854724824429
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.713202476501
+Semantic similarity verbs: 0.583134174347
+
+Pairing: 62
+New Sentence: wobei ich z.B. an Otto Jahn denke. Vor der deutschen Musik aber mag sich der Lügner und Heuchler in Acht nehmen.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.785234978731
+Syntactic Similarity without tokens: 0.818013637128
+Semantic Score: 0.825823366642
+Semantic Score without stopwords: 0.825823366642
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.635035872459
+Semantic similarity verbs: 0.758947134018
+
+Pairing: 63
+New Sentence: selbst,lies. selbstNach KGW/KGB Nachberichte in ihrer völligen Unumschränktheit, das Bild und den Begriff nicht braucht, sondern ihn nur neben sich erträgt. Die Dichtung des Lyrikers kann nichts aussagen, was nicht in der ungeheuersten Allgemeinheit und Allgültigkeit bereits in der Musik lag, die ihn zur Bilderrede nöthigte.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.718332106033
+Syntactic Similarity without tokens: 0.705133377238
+Semantic Score: 0.892099618912
+Semantic Score without stopwords: 0.892099618912
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.72208917141
+Semantic similarity verbs: 0.810246407986
+
+Pairing: 64
+New Sentence: gleichnissartigenNach KGW/KGB Nachberichte Traumbilde, unter der apollinischen Traumeinwirkung sichtbar. Jener bild- und begrifflose Wiederschein des Urschmerzes in der Musik, mit seiner Erlösung im Scheine, erzeugt jetzt eine zweite Spiegelung, als einzelnes Gleichniss oder Exempel. Seine Subjectivität hat der Künstler bereits in dem dionysischen Prozess aufgegeben.
+Reference: 
+Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern . so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.78430991045
+Syntactic Similarity without tokens: 0.864825081316
+Semantic Score: 0.824960768223
+Semantic Score without stopwords: 0.824960768223
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.579742610455
+Semantic similarity verbs: 0.691886782646
+
+Pairing: 65
+New Sentence: Und es wäre das Zeichen des idealischen Zuschauers, auf die Bühne zu laufen und den Gott von seinen Martern zu befreien? Wir hatten an ein aesthetisches Publicum geglaubt und den einzelnen Zuschauer für um so befähigter gehalten, je mehr er im Stande war, das Kunstwerk als Kunst d.h. aesthetisch zu nehmen; und jetzt deutete uns der Schlegel’sche Ausdruck an, dass der vollkommne idealische Zuschauer die Welt der Scene gar nicht aesthetisch, sondern leibhaft empirisch auf sich wirken lasse. O über diese Griechen!
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.691732890886
+Syntactic Similarity without tokens: 0.781294937001
+Semantic Score: 0.917477190495
+Semantic Score without stopwords: 0.917477190495
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.74139893055
+Semantic similarity verbs: 0.821393311024
+
+Pairing: 66
+New Sentence: Das Wahrscheinliche ist aber, dass fast Jeder, bei strenger Prüfung, sich so durch den kritisch-historischen Geist unserer Bildung zersetzt fühlt, um nur etwa auf gelehrtem Wege, durch vermittelnde Abstractionen, sich die einstmalige Existenz des Mythus glaublich zu machen. Ohne Mythus aber geht jede Cultur ihrer gesunden schöpferischen Naturkraft verlustig. erst ein mit Mythen umstellter Horizont schliesst eine ganze Culturbewegung zur Einheit ab.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.748533351644
+Syntactic Similarity without tokens: 0.864323870448
+Semantic Score: 0.860494017601
+Semantic Score without stopwords: 0.860494017601
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.038461538461538464
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.202743917704
+Semantic similarity verbs: 0.637766182423
+
+Pairing: 67
+New Sentence: Vom Standpunkte des Epos ist diese ungleiche und unregelmässige Bilderwelt der Lyrik einfach zu verurtheilen. und dies haben gewiss die feierlichen epischen Rhapsoden der apollinischen Feste im Zeitalter des Terpander gethan. In der Dichtung des Volksliedes sehen wir also die Sprache auf das Stärkste angespannt, die Musik nachzuahmen.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.716103189684
+Syntactic Similarity without tokens: 0.766920876438
+Semantic Score: 0.892885506153
+Semantic Score without stopwords: 0.892885506153
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.488806277514
+Semantic similarity verbs: 0.752400159836
+
+Pairing: 68
+New Sentence: Man soll es merken. die alexandrinische Cultur braucht einen Sclavenstand, um auf die Dauer existieren zu können. aber sie leugnet, in ihrer optimistischen Betrachtung des Daseins, die Nothwendigkeit eines solchen Standes und geht deshalb, wenn der Effect ihrer schönen Verführungs- und Beruhigungsworte von der „Würde des Menschen“ und der „Würde der Arbeit“ verbraucht ist, allmähligErratum.
+Reference: 
+Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs . Wenn kein junger Sperling ohne unsern Gott auf die Erde faͤllt ; so ist kein Denkmal alter Zeiten fuͤr uns verloren gegangen , das wir zu beklagen haͤtten . Sollte seine Vorsorge sich nicht uͤber Schriften erstrecken , da Er Selbst ein Schriftsteller geworden , und der Geist Gottes so genau gewesen den Werth der ersten verbotenen Buͤcher aufzuzeichnen , die ein frommer Eyfer unserer Religion dem Feuer geopfert ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.719860591779
+Syntactic Similarity without tokens: 0.881030470336
+Semantic Score: 0.887794077396
+Semantic Score without stopwords: 0.887794077396
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.058823529411764705
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.700369656086
+Semantic similarity verbs: 0.838159620762
+
+Pairing: 69
+New Sentence: Alle unsere Hoffnungen strecken sich vielmehr sehnsuchtsvoll nach jener Wahrnehmung aus, dass unter diesem unruhig auf und nieder zuckenden Culturleben und Bildungskrampfe eine herrliche, innerlich gesunde, uralte Kraft verborgen liegt, die freilich nur in ungeheuren Momenten sich gewaltig einmal bewegt und dann wieder einem zukünftigen Erwachen entgegenträumt. Aus diesem Abgrunde ist die deutsche Reformation hervorgewachsen. in deren Choral die Zukunftsweise der deutschen Musik zuerst erklang.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.70699420467
+Syntactic Similarity without tokens: 0.814722888646
+Semantic Score: 0.899933576584
+Semantic Score without stopwords: 0.899933576584
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.686063408852
+Semantic similarity verbs: 0.746582567692
+
+Pairing: 70
+New Sentence: Sollte es sich bei unserer Analysis ergeben haben, dass das Apollinische in der Tragödie durch seine Täuschung völlig den Sieg über das dionysische Urelement der Musik davongetragen und sich diese zu ihren Absichten, nämlich zu einer höchsten Verdeutlichung des Drama’s, nutzbar gemacht habe, so wäre freilich eine sehr wichtige Einschränkung hinzuzufügen. in dem allerwesentlichsten Punkte ist jene apollinische Täuschung durchbrochen und vernichtet. Das Drama, das in so innerlich erleuchteter Deutlichkeit aller Bewegungen und Gestalten, mit Hülfe der Musik, sich vor uns ausbreitet, als ob wir das Gewebe am Webstuhl im Auf- und Niederzucken entstehen sehen — erreicht als Ganzes eine Wirkung, die jenseits aller apollinischen Kunstwirkungen liegt.
+Reference: 
+Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern . so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.696335796434
+Syntactic Similarity without tokens: 0.802530191471
+Semantic Score: 0.910391628742
+Semantic Score without stopwords: 0.910391628742
+LCS Length: 1
+LCS: unserer 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.781870126724
+Semantic similarity verbs: 0.830061376095
+
+Pairing: 71
+New Sentence: Diese Versöhnung ist der wichtigste Moment in der Geschichte des griechischen Cultus. wohin man blickt, sind die Umwälzungen dieses Ereignisses sichtbar. Es war die Versöhnung zweier Gegner, mit scharfer Bestimmung ihrer von jetzt ab einzuhaltenden Grenzlinien und mit periodischer Uebersendung von Ehrengeschenken; im Grunde war die Kluft nicht überbrückt.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.758020567948
+Syntactic Similarity without tokens: 0.806147255584
+Semantic Score: 0.848706245422
+Semantic Score without stopwords: 0.848706245422
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.677703976631
+Semantic similarity verbs: 0.54993891716
+
+Pairing: 72
+New Sentence: Ich fürchte, wir sind dagegen mit unserer jetzigen Verehrung des Natürlichen und Wirklichen am Gegenpol alles Idealismus angelangt, nämlich in der Region der Wachsfigurencabinette. Auch in ihnen giebt es eine Kunst, wie bei gewissen beliebten Romanen der Gegenwart. nur quäle man uns nicht mit dem Anspruch, dass mit dieser Kunst der Schiller-Goethesche „Pseudoidealismus“ überwunden sei.
+Reference: 
+Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche . Unterdessen glaube ich zuverlaͤßiger , daß unsere Philosophie eine andere Gestalt nothwendig haben muͤste , wenn man die Schicksale dieses Namens oder Wortes .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.759874265703
+Syntactic Similarity without tokens: 0.864507291433
+Semantic Score: 0.845625519753
+Semantic Score without stopwords: 0.845625519753
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.818265378475
+Semantic similarity verbs: 0.562632918358
+
+Pairing: 73
+New Sentence: „Elendes Eintagsgeschlecht, des Zufalls Kinder und der Mühsal, was zwingst du mich dir zu sagen, was nicht zu hören für dich das Erspriesslichste ist? Das Allerbeste ist für dich gänzlich unerreichbar. nicht geboren zu sein, nicht zu sein, nichts zu sein.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.708554897653
+Syntactic Similarity without tokens: 0.828193926144
+Semantic Score: 0.895969629288
+Semantic Score without stopwords: 0.895969629288
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.04
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.665319025517
+Semantic similarity verbs: 0.827651083469
+
+Pairing: 74
+New Sentence: selbst,lies. selbstNach KGW/KGB Nachberichte völlig losgelöst von der Gier des Willens, reines ungetrübtes Sonnenauge ist. Diese ganze Erörterung hält daran fest, dass die Lyrik eben so abhängig ist vom Geiste der Musik als die Musik selbstErratum.
+Reference: 
+Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.721787954815
+Syntactic Similarity without tokens: 0.701771246317
+Semantic Score: 0.882734239101
+Semantic Score without stopwords: 0.882734239101
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.550145566463
+Semantic similarity verbs: 0.691805839539
+
+Pairing: 75
+New Sentence: selbstNach KGW/KGB Nachberichte völlig losgelöst von der Gier des Willens, reines ungetrübtes Sonnenauge ist. Diese ganze Erörterung hält daran fest, dass die Lyrik eben so abhängig ist vom Geiste der Musik als die Musik selbstErratum. selbst,lies.
+Reference: 
+Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.721787954815
+Syntactic Similarity without tokens: 0.701771246317
+Semantic Score: 0.882734239101
+Semantic Score without stopwords: 0.882734239101
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.550145566463
+Semantic similarity verbs: 0.691805839539
+
+Pairing: 76
+New Sentence: Diese ganze Erörterung hält daran fest, dass die Lyrik eben so abhängig ist vom Geiste der Musik als die Musik selbstErratum. selbst,lies. selbstNach KGW/KGB Nachberichte in ihrer völligen Unumschränktheit, das Bild und den Begriff nicht braucht, sondern ihn nur neben sich erträgt.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.711398471187
+Syntactic Similarity without tokens: 0.697336023294
+Semantic Score: 0.892561495304
+Semantic Score without stopwords: 0.892561495304
+LCS Length: 1
+LCS: eben 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.672339558601
+Semantic similarity verbs: 0.776941597462
+
+Pairing: 77
+New Sentence: um von den gemeineren und fast noch kräftigeren Illusionen, die der Wille in jedem Augenblick bereit hält, zu schweigen. Jene drei Illusionsstufen sind überhaupt nur für die edler ausgestatteten Naturen, von denen die Last und Schwere des Daseins überhaupt mit tieferer Unlust empfunden wird und die durch ausgesuchte Reizmittel über diese Unlust hinwegzutäuschen sind. Aus diesen Reizmitteln besteht alles, was wir Cultur nennen.
+Reference: 
+Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.690874667406
+Syntactic Similarity without tokens: 0.814536866166
+Semantic Score: 0.912337660789
+Semantic Score without stopwords: 0.912337660789
+LCS Length: 1
+LCS: denen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.506780445576
+Semantic similarity verbs: 0.798295021057
+
+Pairing: 78
+New Sentence: Im Wesentlichen sah und hörte jetzt der Zuschauer seinen Doppelgänger auf der euripideischen Bühne und freute sich, dass jener so gut zu reden verstehe. Bei dieser Freude blieb es aber nicht. man lernte selbst bei Euripides sprechen, und dessen rühmt er sich selbst im Wettkampfe mit Aeschylus.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.735091257136
+Syntactic Similarity without tokens: 0.830602249415
+Semantic Score: 0.86785197258
+Semantic Score without stopwords: 0.86785197258
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06896551724137931
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.24704374373
+Semantic similarity verbs: 0.867503643036
+
+Pairing: 79
+New Sentence: Man weiss ja alles, was geschehen wird; wer wird abwarten wollen, dass dies wirklich geschieht? — da ja hier keinesfalls das aufregende Verhältniss eines wahrsagenden Traumes zu einer später eintretenden Wirklichkeit stattfindet. Ganz anders reflectirte Euripides.
+Reference: 
+Aus dieser sokratischen Unwissenheit fluͤssen als leichte Folgen die Sonderbarkeiten seiner Lehr- und Denkart . Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.72661155499
+Syntactic Similarity without tokens: 0.831733639733
+Semantic Score: 0.876241445541
+Semantic Score without stopwords: 0.876241445541
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.041666666666666664
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.722248077393
+
+Pairing: 80
+New Sentence: kränzt euch mit Epheu, nehmt den Thyrsusstab zur Hand und wundert euch nicht, wenn Tiger und Panther sich schmeichelnd zu euren Knien niederlegen. Jetzt wagt es nur, tragische Menschen zu sein. denn ihr sollt erlöst werden.
+Reference: 
+Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern . so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.723701008506
+Syntactic Similarity without tokens: 0.813713446602
+Semantic Score: 0.87911427021
+Semantic Score without stopwords: 0.87911427021
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.748709142208
+Semantic similarity verbs: 0.8276014328
+
+Pairing: 81
+New Sentence: „die alte Weise; was weckt sie mich?“ Und was uns früher wie ein hohles Seufzen aus dem Mittelpunkte des Seins anmuthete, das will uns jetzt nur sagen, wie „öd und leer das Meer.“ Und wo wir athemlos zu erlöschen wähnten, im krampfartigen Sichausrecken aller Gefühle, und nur ein Weniges uns mit dieser Existenz zusammenknüpfte, hören und sehen wir jetzt nur den zum Tode verwundeten und doch nicht sterbenden Helden, mit seinem verzweiflungsvollen Rufe. Im Sterben mich zu sehnen, vor Sehnsucht nicht zu sterben!“ Und wenn früher der Jubel des Horns nach solchem Uebermaass und solcher Ueberzahl verzehrender Qualen fast wie der Qualen höchste uns das Herz zerschnitt, so steht jetzt zwischen uns und diesem „Jubel an sich“ der jauchzende Kurwenal, dem Schiffe, das Isolden trägt, zugewandt. So gewaltig auch das Mitleiden in uns hineingreift, in einem gewissen Sinne rettet uns doch das Mitleiden vor dem Urleiden der Welt, wie das Gleichnissbild des Mythus uns vor dem unmittelbaren Anschauen der höchsten Weltidee, wie der Gedanke und das Wort uns vor dem ungedämmten Ergusse des unbewussten Willens rettet.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.669866985819
+Syntactic Similarity without tokens: 0.795705253321
+Semantic Score: 0.932639956474
+Semantic Score without stopwords: 0.932639956474
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.05263157894736842
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.823262691498
+Semantic similarity verbs: 0.842526555061
+
+Pairing: 82
+New Sentence: Giebt es einen Pessimismus der Stärke? Eine intellektuelle Vorneigung für das Harte, Schauerliche, Böse, Problematische des Daseins aus Wohlsein, aus überströmender Gesundheit, aus Fülle des Daseins? Giebt es vielleicht ein Leiden an der Ueberfülle selbst?
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.745011440517
+Syntactic Similarity without tokens: 0.789760055448
+Semantic Score: 0.85747641325
+Semantic Score without stopwords: 0.85747641325
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.572575628757
+Semantic similarity verbs: 0.474934726954
+
+Pairing: 83
+New Sentence: Unter solchen Stimmungen und Erkenntnissen jubelt die schwärmende Schaar der Dionysusdiener. deren Macht sie selbst vor ihren eignen Augen verwandelt, so dass sie sich als wiederhergestellte Naturgenien, als Satyrn, zu erblicken wähnen. Die spätere Constitution des Tragödienchors ist die künstlerische Nachahmung jenes natürlichen Phänomens; bei der nun allerdings eine Scheidung von dionysischen Zuschauern und dionysischen Verzauberten nöthig wurde.
+Reference: 
+Es giebt in dem Tempel der Gelehrsamkeit wuͤrklich einen Goͤtzen , der unter seinem Bilde die Aufschrift der philosophischen Geschichte traͤgt ; und dem es an Hohenpriestern und Leviten nicht gefehlt . Stanley und Brucker haben uns Kolossen geliefert , die eben so sonderbar und unvollendet sind als jenes Bild der Schoͤnheit , das ein Grieche aus den Reitzen aller Schoͤnen , deren Eindruck ihm Absicht und Zufall verschaffen konnte , zusammensetzte . Meisterstuͤcke , die von gelehrten Kennern der Kuͤnste immer sehr moͤchten bewundert und gesucht ; von Klugen hingegen als abentheuerliche Gewaͤchse und Chimaͤren in der Stille belacht oder auch fuͤr die lange Weile und in theatralischen Zeichnungen nachgeahmt werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.732870033873
+Syntactic Similarity without tokens: 0.86404075512
+Semantic Score: 0.868058204651
+Semantic Score without stopwords: 0.868058204651
+LCS Length: 1
+LCS: deren 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.566095948219
+Semantic similarity verbs: 0.672255396843
+
+Pairing: 84
+New Sentence: Dies war aber nicht die Meinung jener Erfinder des Recitativs. vielmehr glauben sie selbst und mit ihnen ihr Zeitalter, dass durch jenen stilo rappresentativo das Geheimniss der antiken Musik gelöst sei, aus dem sich allein die ungeheure Wirkung eines Orpheus, Amphion, ja auch der griechischen Tragödie erklären lasse. Der neue Stil galt als die Wiedererweckung der wirkungsvollsten Musik, der altgriechischen.
+Reference: 
+Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.729053476249
+Syntactic Similarity without tokens: 0.776895571097
+Semantic Score: 0.870618104935
+Semantic Score without stopwords: 0.870618104935
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.367021083832
+Semantic similarity verbs: 0.689023435116
+
+Pairing: 85
+New Sentence: Giebt es vielleicht — eine Frage für Irrenärzte — Neurosen der Gesundheit? der Volks-Jugend und -Jugendlichkeit? Worauf weist jene Synthesis von Gott und Bock im Satyr?
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.743573106315
+Syntactic Similarity without tokens: 0.775503760073
+Semantic Score: 0.855789422989
+Semantic Score without stopwords: 0.855789422989
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.535125613213
+Semantic similarity verbs: 0.629513144493
+
+Pairing: 86
+New Sentence: Wohin ist jetzt der mythenbildende Geist der Musik? Was jetzt noch von Musik übrig ist, das ist entweder Aufregungs- oder Erinnerungsmusik d.h. entweder ein Stimulanzmittel für stumpfe und verbrauchte Nerven oder Tonmalerei. Für die erstere kommt es auf den untergelegten Text kaum noch an.
+Reference: 
+Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern . so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.758356401255
+Syntactic Similarity without tokens: 0.83578440832
+Semantic Score: 0.839983701706
+Semantic Score without stopwords: 0.839983701706
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.627718865871
+Semantic similarity verbs: 0.690727889538
+
+Pairing: 87
+New Sentence: Das Wunderbare war geschehn. als der Dichter widerrief, hatte bereits seine Tendenz gesiegt. Dionysus war bereits von der tragischen Bühne verscheucht und zwar durch eine aus Euripides redende dämonische Macht.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.766849733044
+Syntactic Similarity without tokens: 0.805126788057
+Semantic Score: 0.830734014511
+Semantic Score without stopwords: 0.830734014511
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.544625937939
+Semantic similarity verbs: 0.657179415226
+
+Pairing: 88
+New Sentence: eine derartig musikalisch imitirte Schlacht sich in Marschlärm, Signalklängen u. s. w. erschöpft, und unsere Phantasie gerade bei diesen Oberflächlichkeiten festgehalten wird. Die Tonmalerei ist also in jeder Beziehung das Gegenstück zu der mythenschaffenden Kraft der wahren Musik. durch sie wird die Erscheinung noch ärmer als sie ist, während durch die dionysische Musik die einzelne Erscheinung sich zum Weltbilde bereichert und erweitert.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.736607539379
+Syntactic Similarity without tokens: 0.839503293907
+Semantic Score: 0.859493672848
+Semantic Score without stopwords: 0.859493672848
+LCS Length: 1
+LCS: u 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.547741293907
+Semantic similarity verbs: 0.682948827744
+
+Pairing: 89
+New Sentence: ohne dabei sich verhehlen zu können, dass er selbst doch zugleich auch innerlich mit jenen gestürzten Titanen und Heroen verwandt sei. Ja er musste noch mehr empfinden. sein ganzes Dasein mit aller Schönheit und Mässigung ruhte auf einem verhüllten Untergrunde des Leidens und der Erkenntniss, der ihm wieder durch jenes Dionysische aufgedeckt wurde.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.673663606151
+Syntactic Similarity without tokens: 0.802672900819
+Semantic Score: 0.920504570007
+Semantic Score without stopwords: 0.920504570007
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.551416993141
+Semantic similarity verbs: 0.803839206696
+
+Pairing: 90
+New Sentence: Diesen Ernsthaften diene zur Belehrung, dass ich von der Kunst als der höchsten Aufgabe und der eigentlich metaphysischen Thätigkeit dieses Lebens im Sinne des Mannes überzeugt bin, dem ich hier, als meinem erhabenen Vorkämpfer auf dieser Bahn, diese Schrift gewidmet haben will. Basel, Ende des Jahres 1871         1. Wir werden viel für die ästhetischeErratum.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.696216674234
+Syntactic Similarity without tokens: 0.744988990108
+Semantic Score: 0.896754026413
+Semantic Score without stopwords: 0.896754026413
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.04
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.679116666317
+Semantic similarity verbs: 0.591606318951
+
+Pairing: 91
+New Sentence: du bist werth erkannt zu werden“. Es ist ein ewiges Phänomen. immer findet der gierige Wille ein Mittel, durch eine über die Dinge gebreitete Illusion seine Geschöpfe im Leben festzuhalten und zum Weiterleben zu zwingen.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.693445122481
+Syntactic Similarity without tokens: 0.807145370208
+Semantic Score: 0.898060798645
+Semantic Score without stopwords: 0.898060798645
+LCS Length: 1
+LCS: immer 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.526049911976
+Semantic similarity verbs: 0.790917575359
+
+Pairing: 92
+New Sentence: ich selber setzte mir diese Krone auf! „Diese Krone des Lachenden, diese Rosenkranz-Krone. euch, meinen Brüdern, werfe ich diese Krone zu!
+Reference: 
+Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern . so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.762655921927
+Syntactic Similarity without tokens: 0.820038168275
+Semantic Score: 0.828592061996
+Semantic Score without stopwords: 0.828592061996
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.489011406898
+Semantic similarity verbs: 0.749180674553
+
+Pairing: 93
+New Sentence: Worauf weist jene Synthesis von Gott und Bock im Satyr? Aus welchem Selbsterlebniss, auf welchen Drang hin musste sich der Grieche den dionysischen Schwärmer und Urmenschen als Satyr denken? Und was den Ursprung des tragischen Chors betrifft.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.72272380442
+Syntactic Similarity without tokens: 0.79890370532
+Semantic Score: 0.868407905102
+Semantic Score without stopwords: 0.868407905102
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.212030097842
+Semantic similarity verbs: 0.746273696423
+
+Pairing: 94
+New Sentence: Hier bricht jedoch die apollinische Kraft, auf Wiederherstellung des fast zersprengten Individuums gerichtet, mit dem Heilbalsam einer wonnevollen Täuschung hervor. plötzlich glauben wir nur noch Tristan zu sehen, wie er bewegungslos und dumpf sich fragt. „die alte Weise; was weckt sie mich?“ Und was uns früher wie ein hohles Seufzen aus dem Mittelpunkte des Seins anmuthete, das will uns jetzt nur sagen, wie „öd und leer das Meer.“ Und wo wir athemlos zu erlöschen wähnten, im krampfartigen Sichausrecken aller Gefühle, und nur ein Weniges uns mit dieser Existenz zusammenknüpfte, hören und sehen wir jetzt nur den zum Tode verwundeten und doch nicht sterbenden Helden, mit seinem verzweiflungsvollen Rufe.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.657729856112
+Syntactic Similarity without tokens: 0.783323178334
+Semantic Score: 0.933331370354
+Semantic Score without stopwords: 0.933331370354
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.801634609699
+Semantic similarity verbs: 0.881856739521
+
+Pairing: 95
+New Sentence: Prozesslies. ProcessNach KGW/KGB Nachberichte im tragischen Künstler, und man wird die Genesis des tragischen Mythus verstanden haben. Er theilt mit der apollinischen Kunstsphäre die volle Lust am Schein und am Schauen und zugleich verneint er diese Lust und hat eine noch höhere Befriedigung an der Vernichtung der sichtbaren Scheinwelt.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7128617916
+Syntactic Similarity without tokens: 0.69569135123
+Semantic Score: 0.878015518188
+Semantic Score without stopwords: 0.878015518188
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.041666666666666664
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.647132575512
+Semantic similarity verbs: 0.772307097912
+
+Pairing: 96
+New Sentence: und gerade im Prometheus des Aeschylus ist dieses Gefühl symbolisirt. Der titanische Künstler fand in sich den trotzigen Glauben, Menschen schaffen und olympische Götter wenigstens vernichten zu können. und dies durch seine höhere Weisheit, die er freilich durch ewiges Leiden zu büssen gezwungen war.
+Reference: 
+Die Reyhe der Lehrmeister und Lehrmeisterinnen , die man dem Sokrates giebt , und die Kriton ohne Zweifel besolden muste , ist ansehnlich genung ; und doch blieb Sokrates unwissend . Das freche Gestaͤndniß darin war gewissermassen eine Beleidigung , die man aber dem aufrichtigen Klienten und Kandidaten scheint vergeben zu haben , weil sie auf ihn selbst am schwersten zuruͤck fiel . Das Loos der Unwissenheit und die Bloͤße derselben macht eben so unversoͤhnliche Feinde als die Ueberlegenheit an Verdiensten und die Schau davon .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.691087562162
+Syntactic Similarity without tokens: 0.83030683494
+Semantic Score: 0.899075090885
+Semantic Score without stopwords: 0.899075090885
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.670223176479
+Semantic similarity verbs: 0.67704564333
+
+Pairing: 97
+New Sentence: Wie schade, dass ich, was ich damals zu sagen hatte, es nicht als Dichter zu sagen wagte. ich hätte es vielleicht gekonnt! Oder mindestens als Philologe.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.69284480878
+Syntactic Similarity without tokens: 0.789672270339
+Semantic Score: 0.892561614513
+Semantic Score without stopwords: 0.892561614513
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.041666666666666664
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.299177229404
+Semantic similarity verbs: 0.838286995888
+
+Pairing: 98
+New Sentence: Jene Tragödie ist ein Protest gegen die Ausführbarkeit seiner Tendenz; ach, und sie war bereits ausgeführt! Das Wunderbare war geschehn. als der Dichter widerrief, hatte bereits seine Tendenz gesiegt.
+Reference: 
+Sokrates hatte also freylich gut unwissend seyn ; er hatte einen Genius , auf dessen Wissenschaft er sich verlassen konnte , den er liebte und fuͤrchtete als seinen Gott , an dessen Frieden ihm mehr gelegen war , als an aller Vernunft der Egypter und Griechen , dessen Stimme er glaubte , und durch dessen Wind , wie der erfahrne Doctor Hill uns bewiesen , der leere Verstand eines Sokrates so gut als der Schoos einer reinen Jungfrau , fruchtbar werden kann . Ob dieser Daͤmon des Sokrates nichts als eine herrschende Leidenschaft gewesen und bey welchem Namen sie von unsern Sittenlehrern geruffen wird , oder ob er einen Fund seiner Staatslist ; ob er ein Engel oder Kobold , eine hervorragende Jdea seiner Einbildungskraft , oder ein erschlichner und willkuͤhrlich angenommener Begrif einer mathematischen Unwissenheit ; ob dieser Daͤmon nicht vielleicht eine Quecksilberroͤhre oder den Maschinen aͤhnlicher gewesen , welchen die Leuwenhoeks ihre Offenbarungen zu verdanken haben ; ob man ihn mit dem wahrsagendem Gefuͤhl eines nuͤchternen Blinden oder mit der Gabe aus Leichdornen und Narben uͤbelgeheilter Wunden die Revolutionen des Wolkenhimmels vorher zu wissen , am bequemsten vergleichen kann . hieruͤber ist von so vielen Sophisten mit so viel Buͤndigkeit geschrieben worden , daß man erstaunen muß , wie Sokrates bey der gelobten Erkenntniß seiner Selbst , auch hierinn so unwissend gewesen , daß er einem Sinnas darauf die Antwort hat schuldig bleiben wollen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.734503736614
+Syntactic Similarity without tokens: 0.746085627002
+Semantic Score: 0.849774122238
+Semantic Score without stopwords: 0.849774122238
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.733474493027
+Semantic similarity verbs: 0.577067792416
+
+Pairing: 99
+New Sentence: Was trieb den reichbegabten und unablässig zum Schaffen gedrängten Künstler so gewaltsam von dem Wege ab, über dem die Sonne der grössten Dichternamen und der unbewölkte Himmel der Volksgunst leuchteten? Welche sonderbare Rücksicht auf den Zuschauer führte ihn dem Zuschauer entgegen? Wie konnte er aus zu hoher Achtung vor seinem Publicum — sein Publicum missachten?
+Reference: 
+Jn dem ersten hatte ihm sein Alcidiades die Erhaltung des Lebens und der Waffen zu danken , dem er auch den Preis der Tapferkeit , welcher ihm selbst zukam , uͤberließ . Jn dem zweyten wich er wie ein Parther , fiel seine Verfolger mitten im Weichen an , theilte mehr Furcht aus , als ihm eingejagt wurde und trug seinen Freund Xenophon , der vom Pferde gefallen war , auf den Schultern aus der Gefahr des Schlachtfeldes . Er entgieng der grossen Niederlage des dritten Feldzuges eben so gluͤcklich wie der Pest , die zu seiner Zeit Athen zweymal heimsuchte .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.747547359568
+Syntactic Similarity without tokens: 0.847140446283
+Semantic Score: 0.836667656898
+Semantic Score without stopwords: 0.836667656898
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.619570732117
+Semantic similarity verbs: 0.697629153728
+
+Pairing: 100
+New Sentence: der dithyrambische Dionysusdiener wird somit nur von Seinesgleichen verstanden! Mit welchem Erstaunen musste der apollinische Grieche auf ihn blicken! Mit einem Erstaunen, das um so grösser war, als sich ihm das Grausen beimischte, dass ihm jenes Alles doch eigentlich so fremd nicht sei, ja dass sein apollinisches Bewusstsein nur wie ein Schleier diese dionysische Welt vor ihm verdecke.
+Reference: 
+Was ist natuͤrlicher , als daß er sich genoͤthigt sahe immer zu fragen um kluͤger zu werden ; daß er leichtglaͤubig that , jedes Meynung fuͤr wahr annahm , und lieber die Probe der Spoͤtterey und guten Laune als eine ernsthafte Untersuchung anstellte ; daß er alle seine Schluͤsse sinnlich und nach der Aehnlichkeit machte ; Einfaͤlle sagte , weil er keine Dialectick verstand ; gleichguͤltig gegen das , was man Wahrheit hieß , auch keine Leidenschaften , besonders diejenigen nicht kannte , womit sich die Edelsten unter den Atheniensern am meisten wusten ; daß er , wie alle Jdeoten , oft so zuversichtlich und entscheidend sprach , als wenn er , unter allen Nachteulen seines Vaterlandes , die einzige waͤre , welche der Minerva auf ihrem Helm saͤße — — Es hat den Sokraten unsers Alters , den kanonischen Lehrern des Publicums und verdienstreichen Patronen des menschlichen Geschlechts noch nicht gluͤcken wollen , ihr Muster in allen suͤssen Fehlern zu erreichen . Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.656616115634
+Syntactic Similarity without tokens: 0.826605360774
+Semantic Score: 0.926071822643
+Semantic Score without stopwords: 0.926071822643
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.038461538461538464
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.674526810646
+Semantic similarity verbs: 0.800472915173
+

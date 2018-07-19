@@ -316,8 +316,8 @@ def jacardScore(a, b):
 
     # a=sp(a,disable=['parser','ner','textcat','entity'])
     # b=sp(b,disable=['parser','ner','textcat','entity'])
-    tokens_a=[token.lemma_.lower() for token in a if token.lemma_.lower() not in stopwords]
-    tokens_b=[token.lemma_.lower() for token in b if token.lemma_.lower() not in stopwords]
+    tokens_a=[token.lemma_.lower() for token in a if ((token.lemma_.lower() not in stopwords) and (token.text.lower() not in stopwords))]
+    tokens_b=[token.lemma_.lower() for token in b if ((token.lemma_.lower() not in stopwords) and (token.text.lower() not in stopwords))]
 
     if len(set(tokens_a).union(tokens_b))==0:
         ratio=0
@@ -484,7 +484,7 @@ def avg_feature_vector_without_stopwords(sentence, model, num_features, index2wo
 
     # German
     # a=sp(sentence,disable=['parser','ner','textcat','entity'])
-    words=[token.lemma_.lower() for token in sentence if token.lemma_.lower() not in stopwords]
+    words=[token.lemma_.lower() for token in sentence if ((token.lemma_.lower() not in stopwords) and (token.text.lower() not in stopwords))]
 
     feature_vec = np.zeros((num_features, ), dtype='float32')
     n_words = 0

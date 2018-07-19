@@ -319,24 +319,25 @@ class detectParagraph:
 		mapInput=[(parseTrees[i],potentialParseTrees,self.booksList) for i in range(len(parseTrees))]
 		pool=Pool(processes=self.cores)
 		results=pool.map(scoreSyntax,mapInput)
-		print(len(results))
+		# print(len(results))
 		syntacticScore=list()
 		for scoreChunk in results:
 			for score in scoreChunk:
 				syntacticScore.append(score)
-		print('syntacticScore: ',len(syntacticScore))
+		# print('syntacticScore: ',len(syntacticScore))
 		pool.close()
 
+		print('Scoring without tokens')
 		# Scoring without tokens included
 		mapInput=[(parseWithoutTokenTrees[i],potentialParseWithoutTokenTrees,self.booksList) for i in range(len(parseWithoutTokenTrees))]
 		pool=Pool(processes=self.cores)
 		results=pool.map(scoreSyntax,mapInput)
-		print(len(results))
+		# print(len(results))
 		syntacticScoreWithoutTokens=list()
 		for scoreChunk in results:
 			for score in scoreChunk:
 				syntacticScoreWithoutTokens.append(score)
-		print('syntacticScore: ',len(syntacticScore))
+		# print('syntacticScore: ',len(syntacticScore))
 		pool.close()
 		return syntacticScore,syntacticScoreWithoutTokens
 
@@ -681,9 +682,9 @@ def main():
 		print('Semantic Score without stopwords: ',t[5])
 		print('LCS Length: ',t[9])
 		print('LCS: ',t[10])
-		print('Jaccard of common nouns: ',t[12])
-		print('Jaccard of common verbs: ',t[13])
-		print('Jaccard of common adjectives: ',t[14])
+		print('Jaccard of common nouns: ',t[13])
+		print('Jaccard of common verbs: ',t[14])
+		print('Jaccard of common adjectives: ',t[15])
 		print('Semantic similarity nouns: ',t[6])
 		print('Semantic similarity verbs: ',t[7])
 		print('\n\n')
