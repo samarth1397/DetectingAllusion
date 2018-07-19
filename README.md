@@ -38,37 +38,119 @@ If a sentence in the potential candidates does not have a minimum (user-defined)
   
 # Usage
 
-A typical pipeline would look like this:
+#### Sentence level comparisons
+
+A typical pipeline would look like this, if you want to detect allusions by comparing sentences:
 
 * Load the text
 
 ```python
 from detect import *
-d=detect(inputFolder='../data/')
+d=detect(inputFolder='../data/',outputFolder='../output/',cores=30)
 text=d.loadNew()
 books=d.loadCandidates()
 textChunks=d.splitChunks(text)
 ```
+* Process the texts using Spacy
+```python
+spacyTextChunks,spacyBooks,spacyText=d.spacyExtract(textChunks,books)
+```
+
+* Filter out books using the Jaccardian Index
+```python
+reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooks,threshold=0.3) #filtering the spacy data structure
+reducedBooks=d.filterOriginalBooks(reducedSentences,books)
+```
+
 * Parse the books
 
 ```python
-reducedBooks=d.filterWithJacard(textChunks,books,threshold=0.3)
-parseTrees,parsedSentences=d.parseNewBook(textChunks)
-potentialParseTrees,potentialParsedSentences=d.parseCandidates(reducedBooks)
+parseTrees,parsedSentences,parseWithoutTokenTrees=d.parseNewBook(textChunks)
+potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees=d.parseCandidates(reducedBooks)
 ```
-* Syntactic and semantic scoring
+* Extracting similarity metrics: Syntactic, Semantic, Longest Common Subsequence
 
 ```python
-syntacticScore=d.syntacticScoring(parseTrees,potentialParseTrees)
-semanticScore=d.semanticScoring(text,reducedBooks)
-scoreTuples=d.aggeregateScoring(syntacticScore,semanticScore)
+syntacticScore,syntacticScoreWithoutTokens=d.syntacticScoring(parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees)
+semanticScore=d.semanticScoring(spacyText,reducedSpacyBooks,monolingual=True)
+lcsScore,lcs=d.longestSubsequenceScoring(text,reducedBooks)
+scoreTuples=d.aggregateScoring(syntacticScore,semanticScore,lcsScore,lcs,syntacticScoreWithoutTokens)
 ```
-* Noun based ranking
+* Final Filtering and Noun based ranking
 
 ```python
-finalTuples=d.finalFiltering(scoreTuples,reducedBooks)
-orderedTuples=d.nounBasedRanking(finalTuples,text,reducedBooks)
+finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
+orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
 ```
+
+* Write out to a file
+
+```python
+d.writeOutput(orderedTuples,text,reducedBooks)
+```
+#### Paragraph level comparisons
+
+A typical pipeline would look like this: 
+
+* Load the text
+
+```python 
+from detect import *
+d=detect(inputFolder='../data/',outputFolder='../output/',cores=30)
+text=d.loadNew()
+books=d.loadCandidates()
+textPara=d.splitNewPara(text)
+booksPara=d.splitCandidatesPara(books)
+textChunks=d.splitChunks(textPara)
+```
+* Process the texts using Spacy
+```python
+spacyTextChunks,spacyBooksPara,spacyText=d.spacyExtract(textChunks,booksPara)
+```
+
+* Filter out books using the Jaccardian Index
+```python
+reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooksPara,threshold=0.3) #filtering on spacy data structure
+reducedBooks=d.filterOriginalBooks(reducedSentences,booksPara)
+```
+
+* Parse the books
+
+```python
+parseTrees,parseWithoutTokenTrees=d.parseNewBook(textChunks)
+otentialParseTrees,potentialParseWithoutTokenTrees=d.parseCandidates(reducedBooks)
+```
+* Extracting similarity metrics: Syntactic, Semantic, Longest Common Subsequence
+
+```python
+syntacticScore,syntacticScoreWithoutTokens=d.syntacticScoring(parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees)
+semanticScore=d.semanticScoring(spacyText,reducedSpacyBooks,monolingual=True)
+lcsScore,lcs=d.longestSubsequenceScoring(textPara,reducedBooks)
+scoreTuples=d.aggregateScoring(syntacticScore,semanticScore,lcsScore,lcs,syntacticScoreWithoutTokens)
+```
+* Final Filtering and Noun based ranking
+
+```python
+finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
+orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
+```
+
+* Write out to a file
+
+```python
+d.writeOutput(orderedTuples,textPara,reducedBooks)
+```
+
+
+
+# Potential Improvements
+* Better class design to process paragraphs and sentences using a single class. (The sentence level processing is redundant since setting the number of sentences in
+a paragraph to 1 is essentiall the same thing). 
+* Automated language detection before semantic scoring and while processing the texts using Stanford NLP and Spacy
+* New syntactic similarity metrics for cross language comparison
+* Change the Jaccard Index approach to a better approach. (Maybe Filtering using TF-IDF might work)
+* Change the final filtering to some form of a classification task: Allusion or not, based on the metrics that have been extracted. 
+
 # License
 
 MIT License

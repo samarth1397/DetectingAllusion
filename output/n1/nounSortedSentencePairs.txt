@@ -20,7 +20,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.692344458639
 Syntactic Similarity without tokens: 0.754906429353
 Semantic Score: 0.759543836117
@@ -45,7 +46,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.736655537869
 Syntactic Similarity without tokens: 0.726143913478
 Semantic Score: 0.815654397011
@@ -70,7 +72,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.785615726397
 Syntactic Similarity without tokens: 0.785694535607
 Semantic Score: 0.757709681988
@@ -95,7 +98,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.765401611705
 Syntactic Similarity without tokens: 0.726391847728
 Semantic Score: 0.782114028931
@@ -121,7 +125,8 @@ als zu behalten und zu urtheilen; daher hat-
 te Sokrates immer Gelegenheit ihr Gedaͤcht-
 nis und ihre Urtheilskraft zu vertreten, und
 ſie fuͤr Leichtſinn und Eitelkeit zu warnen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.660875326629
 Syntactic Similarity without tokens: 0.726983693254
 Semantic Score: 0.901811480522
@@ -146,7 +151,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.805516869494
 Syntactic Similarity without tokens: 0.738830059278
 Semantic Score: 0.759949982166
@@ -173,7 +179,8 @@ heit und ihren Verhaͤltniſſen ſo gewohnt
 und geuͤbt, daß ſein Geſchmack an wohlge-
 bildeten Juͤnglingen uns nicht befremden
 darf.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.860825599198
 Syntactic Similarity without tokens: 0.854591844607
 Semantic Score: 0.664078712463
@@ -198,7 +205,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.748222193038
 Syntactic Similarity without tokens: 0.670591205865
 Semantic Score: 0.816583871841
@@ -225,7 +233,8 @@ heit und ihren Verhaͤltniſſen ſo gewohnt
 und geuͤbt, daß ſein Geſchmack an wohlge-
 bildeten Juͤnglingen uns nicht befremden
 darf.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.79890201476
 Syntactic Similarity without tokens: 0.783061250788
 Semantic Score: 0.706777989864
@@ -250,7 +259,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.733042065594
 Syntactic Similarity without tokens: 0.648247176233
 Semantic Score: 0.777912199497
@@ -275,7 +285,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.763294722849
 Syntactic Similarity without tokens: 0.67616547608
 Semantic Score: 0.797215819359
@@ -300,7 +311,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.834454496398
 Syntactic Similarity without tokens: 0.80559810631
 Semantic Score: 0.687257707119
@@ -327,7 +339,8 @@ erhaͤltſt Ehre, und haſt weder Be-
 grif noch Gefuͤhl davon. Wir
 wiſſen, daß es keinen Goͤtzen in
 der Welt giebt.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.705748073656
 Syntactic Similarity without tokens: 0.665624496248
 Semantic Score: 0.803732991219
@@ -360,7 +373,8 @@ einem weitſehenden Urtheilsgeiſt, ein leicht-
 glaͤubiger Schuͤler der taͤglichen Erfahrung
 hingegen einem blinden Geſchmack an So-
 krates zu ſchreiben.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.658353095363
 Syntactic Similarity without tokens: 0.695413339148
 Semantic Score: 0.8514996171
@@ -385,7 +399,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.790037293701
 Syntactic Similarity without tokens: 0.71753786616
 Semantic Score: 0.767615914345
@@ -410,7 +425,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.761619906868
 Syntactic Similarity without tokens: 0.736665039266
 Semantic Score: 0.747541487217
@@ -435,7 +451,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.759509571941
 Syntactic Similarity without tokens: 0.669040534068
 Semantic Score: 0.745378613472
@@ -461,7 +478,8 @@ tion, was Verhaͤltnis und Symmetrie der
 Linien, Schallwuͤrbel und Farben in der
 muſikaliſchen Compoſition und Malerey iſt. Der Philoſoph iſt dem Geſetz der Nachah-
 mung ſo gut unterworfen als der Poet.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.695794020772
 Syntactic Similarity without tokens: 0.710169260014
 Semantic Score: 0.867959082127
@@ -494,7 +512,8 @@ immer ein Dichter, wieder ſein Wiſſen und
 Wollen, wie Buffon uͤber die Geſchichte der
 Schoͤpfung und Montesquieu uͤber die Ge-
 ſchichte des Roͤmiſchen Reichs.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.734279181801
 Syntactic Similarity without tokens: 0.800394795697
 Semantic Score: 0.827212095261
@@ -521,7 +540,8 @@ erhaͤltſt Ehre, und haſt weder Be-
 grif noch Gefuͤhl davon. Wir
 wiſſen, daß es keinen Goͤtzen in
 der Welt giebt.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.724523310656
 Syntactic Similarity without tokens: 0.719966243527
 Semantic Score: 0.794497966766
@@ -557,7 +577,8 @@ blos
 Chladenius iſt blos als ein nuͤtzlich Supple-
 ment unſerer ſcholaſtiſchen oder akademiſchen
 Vernunftlehre anzuſehen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.733275022849
 Syntactic Similarity without tokens: 0.787322019815
 Semantic Score: 0.79734057188
@@ -582,7 +603,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.761778149104
 Syntactic Similarity without tokens: 0.705968882204
 Semantic Score: 0.785058557987
@@ -617,7 +639,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.668727243676
 Syntactic Similarity without tokens: 0.69212883545
 Semantic Score: 0.764393866062
@@ -642,7 +665,8 @@ worden ſeyn. Sokrates uͤbertraf ſie aber
 beyde an Weisheit, weil er in der Selbſter-
 kenntnis weiter als jene gekommen war, und
 wuſte, daß er nichts wuſte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.812819456789
 Syntactic Similarity without tokens: 0.763580914655
 Semantic Score: 0.701176285744
@@ -677,7 +701,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.718618472268
 Syntactic Similarity without tokens: 0.769969468268
 Semantic Score: 0.744854450226
@@ -708,7 +733,8 @@ worbenen Geſchicklichkeit? Dieſe Frage moͤch-
 te man an alle Gelehrte thun, welche die
 Werke der Alten nicht kluͤger, als jener die
 Linſen, zu brauchen wißen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.701051977533
 Syntactic Similarity without tokens: 0.783508338352
 Semantic Score: 0.864630639553
@@ -743,7 +769,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.712884248139
 Syntactic Similarity without tokens: 0.704598142614
 Semantic Score: 0.746035158634
@@ -772,7 +799,8 @@ Buch, ein verdecktes Zeugnis, ein Raͤthſel,
 das ſich nicht aufloͤſen laͤßt, ohne mit einem
 andern Kalbe, als unſerer Vernunft zu
 pfluͤgen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.68375349682
 Syntactic Similarity without tokens: 0.70095280806
 Semantic Score: 0.819486379623
@@ -805,7 +833,8 @@ immer ein Dichter, wieder ſein Wiſſen und
 Wollen, wie Buffon uͤber die Geſchichte der
 Schoͤpfung und Montesquieu uͤber die Ge-
 ſchichte des Roͤmiſchen Reichs.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.68914535566
 Syntactic Similarity without tokens: 0.729512094238
 Semantic Score: 0.842123031616
@@ -840,7 +869,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.702232583835
 Syntactic Similarity without tokens: 0.725039992921
 Semantic Score: 0.807861089706
@@ -869,7 +899,8 @@ Buch, ein verdecktes Zeugnis, ein Raͤthſel,
 das ſich nicht aufloͤſen laͤßt, ohne mit einem
 andern Kalbe, als unſerer Vernunft zu
 pfluͤgen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.655232924224
 Syntactic Similarity without tokens: 0.69065072416
 Semantic Score: 0.86122572422
@@ -910,7 +941,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.726358397731
 Syntactic Similarity without tokens: 0.74846053245
 Semantic Score: 0.794341206551
@@ -951,7 +983,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.780765333497
 Syntactic Similarity without tokens: 0.839912170347
 Semantic Score: 0.783141493797
@@ -992,7 +1025,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.655749043896
 Syntactic Similarity without tokens: 0.66299234358
 Semantic Score: 0.875908255577
@@ -1028,7 +1062,8 @@ als jenes Bild der Schoͤnheit, das ein Grie-
 che aus den Reitzen aller Schoͤnen, deren
 Eindruck ihm Abſicht und Zufall verſchaffen
 konnte, zuſammenſetzte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.67690315566
 Syntactic Similarity without tokens: 0.758680761954
 Semantic Score: 0.847708821297
@@ -1069,7 +1104,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.739614699917
 Syntactic Similarity without tokens: 0.773498109195
 Semantic Score: 0.811333715916
@@ -1097,7 +1133,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.656193777871
 Syntactic Similarity without tokens: 0.812894221072
 Semantic Score: 0.909286201
@@ -1130,7 +1167,8 @@ unſere Ladungen uͤber Bord zu werfen, un-
 
 
 *) 2 Tim.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.692703640553
 Syntactic Similarity without tokens: 0.652312012419
 Semantic Score: 0.809869647026
@@ -1156,7 +1194,8 @@ tion, was Verhaͤltnis und Symmetrie der
 Linien, Schallwuͤrbel und Farben in der
 muſikaliſchen Compoſition und Malerey iſt. Der Philoſoph iſt dem Geſetz der Nachah-
 mung ſo gut unterworfen als der Poet.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.717311842371
 Syntactic Similarity without tokens: 0.723941372007
 Semantic Score: 0.845749855042
@@ -1184,7 +1223,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.631792783571
 Syntactic Similarity without tokens: 0.79537798333
 Semantic Score: 0.930860698223
@@ -1225,7 +1265,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.769776443772
 Syntactic Similarity without tokens: 0.827369757661
 Semantic Score: 0.792794406414
@@ -1256,7 +1297,8 @@ krates zu ſchreiben. Die Reyhe der Lehrmeiſter und Lehrmei-
 die Kriton ohne Zweifel beſolden muſte, iſt
 anſehnlich genung; und doch blieb Sokrates
 unwiſſend.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.677019584149
 Syntactic Similarity without tokens: 0.74836320969
 Semantic Score: 0.884839177132
@@ -1286,7 +1328,8 @@ Schlachtfeldes. Er entgieng der groſſen Nie-
 derlage des dritten Feldzuges eben ſo gluͤck-
 lich wie der Peſt, die zu ſeiner Zeit Athen
 zweymal heimſuchte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.726125165888
 Syntactic Similarity without tokens: 0.817816069376
 Semantic Score: 0.834313333035
@@ -1327,7 +1370,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.775848937884
 Syntactic Similarity without tokens: 0.833910343181
 Semantic Score: 0.784033834934
@@ -1355,7 +1399,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.670564885751
 Syntactic Similarity without tokens: 0.817879905167
 Semantic Score: 0.888745486736
@@ -1383,7 +1428,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.736802530979
 Syntactic Similarity without tokens: 0.877600936495
 Semantic Score: 0.821589827538
@@ -1411,7 +1457,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.697665472772
 Syntactic Similarity without tokens: 0.709136849513
 Semantic Score: 0.859107136726
@@ -1452,7 +1499,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.738183414331
 Syntactic Similarity without tokens: 0.815910053512
 Semantic Score: 0.81767386198
@@ -1493,7 +1541,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.724240284063
 Syntactic Similarity without tokens: 0.778971000027
 Semantic Score: 0.831218898296
@@ -1523,7 +1572,8 @@ ner Reiſe nach Athen beſtand, Sokrates zu
 kehrte er in ſein Vaterland zuruͤck, das bey
 den Alten wegen ſeines herrlichen Weins be-
 kannt iſt.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.738792675627
 Syntactic Similarity without tokens: 0.742430866293
 Semantic Score: 0.777718305588
@@ -1551,7 +1601,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.719463280244
 Syntactic Similarity without tokens: 0.851197515543
 Semantic Score: 0.833403885365
@@ -1577,7 +1628,8 @@ tion, was Verhaͤltnis und Symmetrie der
 Linien, Schallwuͤrbel und Farben in der
 muſikaliſchen Compoſition und Malerey iſt. Der Philoſoph iſt dem Geſetz der Nachah-
 mung ſo gut unterworfen als der Poet.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.73171483343
 Syntactic Similarity without tokens: 0.753646298735
 Semantic Score: 0.820499897003
@@ -1607,7 +1659,8 @@ Schlachtfeldes. Er entgieng der groſſen Nie-
 derlage des dritten Feldzuges eben ſo gluͤck-
 lich wie der Peſt, die zu ſeiner Zeit Athen
 zweymal heimſuchte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.675804017486
 Syntactic Similarity without tokens: 0.759952304197
 Semantic Score: 0.876228153706
@@ -1648,7 +1701,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.726338863961
 Syntactic Similarity without tokens: 0.799646973945
 Semantic Score: 0.824799597263
@@ -1674,7 +1728,8 @@ Gott ſelbſt gelehrt wird zu bedenken, daß er
 nicht noͤthig bewieſen zu werden, und ein
 Satz kann noch ſo unumſtoͤßlich bewieſen
 ſeyn, ohne deswegen geglaubt zu werden.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.661559186654
 Syntactic Similarity without tokens: 0.700792330627
 Semantic Score: 0.889123260975
@@ -1715,7 +1770,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.720409795652
 Syntactic Similarity without tokens: 0.745951253349
 Semantic Score: 0.830109715462
@@ -1756,7 +1812,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.758162956675
 Syntactic Similarity without tokens: 0.816146645997
 Semantic Score: 0.792095720768
@@ -1786,7 +1843,8 @@ ner Reiſe nach Athen beſtand, Sokrates zu
 kehrte er in ſein Vaterland zuruͤck, das bey
 den Alten wegen ſeines herrlichen Weins be-
 kannt iſt.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.729981950582
 Syntactic Similarity without tokens: 0.747689882434
 Semantic Score: 0.790868401527
@@ -1816,7 +1874,8 @@ Schlachtfeldes. Er entgieng der groſſen Nie-
 derlage des dritten Feldzuges eben ſo gluͤck-
 lich wie der Peſt, die zu ſeiner Zeit Athen
 zweymal heimſuchte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.777636718374
 Syntactic Similarity without tokens: 0.762784862418
 Semantic Score: 0.769369661808
@@ -1844,7 +1903,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.684954297377
 Syntactic Similarity without tokens: 0.753314299328
 Semantic Score: 0.861031472683
@@ -1870,7 +1930,8 @@ als zu behalten und zu urtheilen; daher hat-
 te Sokrates immer Gelegenheit ihr Gedaͤcht-
 nis und ihre Urtheilskraft zu vertreten, und
 ſie fuͤr Leichtſinn und Eitelkeit zu warnen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.744669359536
 Syntactic Similarity without tokens: 0.799652089442
 Semantic Score: 0.800371050835
@@ -1900,7 +1961,8 @@ Schlachtfeldes. Er entgieng der groſſen Nie-
 derlage des dritten Feldzuges eben ſo gluͤck-
 lich wie der Peſt, die zu ſeiner Zeit Athen
 zweymal heimſuchte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.663406413004
 Syntactic Similarity without tokens: 0.719978365281
 Semantic Score: 0.880898177624
@@ -1926,7 +1988,8 @@ Gott ſelbſt gelehrt wird zu bedenken, daß er
 nicht noͤthig bewieſen zu werden, und ein
 Satz kann noch ſo unumſtoͤßlich bewieſen
 ſeyn, ohne deswegen geglaubt zu werden.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.696255764947
 Syntactic Similarity without tokens: 0.639143361342
 Semantic Score: 0.84734660387
@@ -1967,7 +2030,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.706081073115
 Syntactic Similarity without tokens: 0.752376889791
 Semantic Score: 0.83508181572
@@ -1995,7 +2059,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.695833451892
 Syntactic Similarity without tokens: 0.803382617306
 Semantic Score: 0.844817221165
@@ -2026,7 +2091,8 @@ krates zu ſchreiben. Die Reyhe der Lehrmeiſter und Lehrmei-
 die Kriton ohne Zweifel beſolden muſte, iſt
 anſehnlich genung; und doch blieb Sokrates
 unwiſſend.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.643432262144
 Syntactic Similarity without tokens: 0.696429847706
 Semantic Score: 0.89697676897
@@ -2054,7 +2120,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.714616479596
 Syntactic Similarity without tokens: 0.736965035029
 Semantic Score: 0.825007140636
@@ -2091,7 +2158,8 @@ Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald! Frank-
 reich bevoͤlkern muͤſſen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.662998566675
 Syntactic Similarity without tokens: 0.746112776097
 Semantic Score: 0.876320660114
@@ -2132,7 +2200,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.697170845776
 Syntactic Similarity without tokens: 0.745060369892
 Semantic Score: 0.841622591019
@@ -2168,7 +2237,8 @@ als jenes Bild der Schoͤnheit, das ein Grie-
 che aus den Reitzen aller Schoͤnen, deren
 Eindruck ihm Abſicht und Zufall verſchaffen
 konnte, zuſammenſetzte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.715940799972
 Syntactic Similarity without tokens: 0.791294498469
 Semantic Score: 0.822475075722
@@ -2197,7 +2267,8 @@ Buch, ein verdecktes Zeugnis, ein Raͤthſel,
 das ſich nicht aufloͤſen laͤßt, ohne mit einem
 andern Kalbe, als unſerer Vernunft zu
 pfluͤgen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.763568397159
 Syntactic Similarity without tokens: 0.759551612659
 Semantic Score: 0.75363445282
@@ -2225,7 +2296,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.716963628817
 Syntactic Similarity without tokens: 0.815256440765
 Semantic Score: 0.819341957569
@@ -2266,7 +2338,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.702284455036
 Syntactic Similarity without tokens: 0.766659187124
 Semantic Score: 0.833976745605
@@ -2307,7 +2380,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.666476435736
 Syntactic Similarity without tokens: 0.697305026863
 Semantic Score: 0.869116187096
@@ -2335,7 +2409,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.663639677491
 Syntactic Similarity without tokens: 0.847656052477
 Semantic Score: 0.870536148548
@@ -2370,7 +2445,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.706854986718
 Syntactic Similarity without tokens: 0.740893708817
 Semantic Score: 0.73173135519
@@ -2405,7 +2481,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.749965161609
 Syntactic Similarity without tokens: 0.827548024654
 Semantic Score: 0.76871919632
@@ -2433,7 +2510,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.64854812806
 Syntactic Similarity without tokens: 0.637489743841
 Semantic Score: 0.883732438087
@@ -2461,7 +2539,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.62315180531
 Syntactic Similarity without tokens: 0.820081248324
 Semantic Score: 0.908557236195
@@ -2487,7 +2566,8 @@ als zu behalten und zu urtheilen; daher hat-
 te Sokrates immer Gelegenheit ihr Gedaͤcht-
 nis und ihre Urtheilskraft zu vertreten, und
 ſie fuͤr Leichtſinn und Eitelkeit zu warnen.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.721509356686
 Syntactic Similarity without tokens: 0.744163764907
 Semantic Score: 0.808544933796
@@ -2518,7 +2598,8 @@ krates zu ſchreiben. Die Reyhe der Lehrmeiſter und Lehrmei-
 die Kriton ohne Zweifel beſolden muſte, iſt
 anſehnlich genung; und doch blieb Sokrates
 unwiſſend.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.760143518633
 Syntactic Similarity without tokens: 0.798980016213
 Semantic Score: 0.771136581898
@@ -2546,7 +2627,8 @@ geſehen haͤtte. Ein Menſch, der uͤberzeugt
 iſt, daß er nichts weiß, kann, ohne ſich ſelbſt
 Luͤgen zu ſtrafen, kein Kenner ſeines guten
 Herzens ſeyn.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.721541771588
 Syntactic Similarity without tokens: 0.790593014865
 Semantic Score: 0.802368760109
@@ -2574,7 +2656,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.630859375647
 Syntactic Similarity without tokens: 0.807451293752
 Semantic Score: 0.89214348793
@@ -2602,7 +2685,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.652139300087
 Syntactic Similarity without tokens: 0.838751604012
 Semantic Score: 0.869858920574
@@ -2628,7 +2712,8 @@ tion, was Verhaͤltnis und Symmetrie der
 Linien, Schallwuͤrbel und Farben in der
 muſikaliſchen Compoſition und Malerey iſt. Der Philoſoph iſt dem Geſetz der Nachah-
 mung ſo gut unterworfen als der Poet.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.657053012203
 Syntactic Similarity without tokens: 0.690159309243
 Semantic Score: 0.863819360733
@@ -2663,7 +2748,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.754712739412
 Syntactic Similarity without tokens: 0.76470438084
 Semantic Score: 0.648216307163
@@ -2693,7 +2779,8 @@ Schlachtfeldes. Er entgieng der groſſen Nie-
 derlage des dritten Feldzuges eben ſo gluͤck-
 lich wie der Peſt, die zu ſeiner Zeit Athen
 zweymal heimſuchte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.637474047459
 Syntactic Similarity without tokens: 0.723532697005
 Semantic Score: 0.878643989563
@@ -2719,7 +2806,8 @@ tion, was Verhaͤltnis und Symmetrie der
 Linien, Schallwuͤrbel und Farben in der
 muſikaliſchen Compoſition und Malerey iſt. Der Philoſoph iſt dem Geſetz der Nachah-
 mung ſo gut unterworfen als der Poet.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.671583735316
 Syntactic Similarity without tokens: 0.686886148465
 Semantic Score: 0.844091534615
@@ -2747,7 +2835,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.65629783103
 Syntactic Similarity without tokens: 0.638899368436
 Semantic Score: 0.859340906143
@@ -2778,7 +2867,8 @@ krates zu ſchreiben. Die Reyhe der Lehrmeiſter und Lehrmei-
 die Kriton ohne Zweifel beſolden muſte, iſt
 anſehnlich genung; und doch blieb Sokrates
 unwiſſend.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.684762093403
 Syntactic Similarity without tokens: 0.66214045936
 Semantic Score: 0.826489269733
@@ -2819,7 +2909,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.734673143598
 Syntactic Similarity without tokens: 0.751442411546
 Semantic Score: 0.778884828091
@@ -2849,7 +2940,8 @@ Schlachtfeldes. Er entgieng der groſſen Nie-
 derlage des dritten Feldzuges eben ſo gluͤck-
 lich wie der Peſt, die zu ſeiner Zeit Athen
 zweymal heimſuchte.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.686523908759
 Syntactic Similarity without tokens: 0.76223729123
 Semantic Score: 0.82563072443
@@ -2877,7 +2969,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.649838937273
 Syntactic Similarity without tokens: 0.704409325179
 Semantic Score: 0.860796749592
@@ -2912,7 +3005,8 @@ an Sokrates uͤberſehen ſollte, wie die artige
 Welt an einem Toußaint die kleinen Roma-
 ne ſeiner Leidenſchaften, als Schoͤnfleck-
 chen ſeiner Sitten.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.717655296278
 Syntactic Similarity without tokens: 0.785374533088
 Semantic Score: 0.740576505661
@@ -2953,7 +3047,8 @@ mie zu ihren Zweck kommt, alle die
 Menſchen reich zu machen, welche
 durch des Marqvis von Mirabeau
 fruchtbare Maximen bald!
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.711277980652
 Syntactic Similarity without tokens: 0.716128529396
 Semantic Score: 0.797062397003
@@ -2981,7 +3076,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.725445494204
 Syntactic Similarity without tokens: 0.699322575645
 Semantic Score: 0.782210588455
@@ -3012,7 +3108,8 @@ krates zu ſchreiben. Die Reyhe der Lehrmeiſter und Lehrmei-
 die Kriton ohne Zweifel beſolden muſte, iſt
 anſehnlich genung; und doch blieb Sokrates
 unwiſſend.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.6366887614
 Syntactic Similarity without tokens: 0.693822850439
 Semantic Score: 0.871597707272
@@ -3040,7 +3137,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.625790323082
 Syntactic Similarity without tokens: 0.799036984207
 Semantic Score: 0.879314482212
@@ -3068,7 +3166,8 @@ eines alten Weibes zu vergleichen, welches
 blos der Arbeit der Mutter und ihrer zeiti-
 gen Frucht zu Huͤlfe kommt, und beyden
 Handreichung thut.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.662255782418
 Syntactic Similarity without tokens: 0.762060416105
 Semantic Score: 0.839102804661
@@ -3094,7 +3193,8 @@ tion, was Verhaͤltnis und Symmetrie der
 Linien, Schallwuͤrbel und Farben in der
 muſikaliſchen Compoſition und Malerey iſt. Der Philoſoph iſt dem Geſetz der Nachah-
 mung ſo gut unterworfen als der Poet.
-Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+
+ Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
 Syntactic Score: 0.641074581253
 Syntactic Similarity without tokens: 0.706640322715
 Semantic Score: 0.860058248043

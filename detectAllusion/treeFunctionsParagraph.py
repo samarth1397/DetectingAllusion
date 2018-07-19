@@ -689,6 +689,11 @@ Returns the longest subsequence of words between the two paragraphs
 def longestSubsequence(a, b):
     a=tokenizer.tokenize(a)
     b=tokenizer.tokenize(b)
+
+    # Removing stopwords
+    a=[w.lower() for w in a if w.lower() not in stopwords]
+    b=[w.lower() for w in b if w.lower() not in stopwords]
+    
     lengths = [[0 for j in range(len(b)+1)] for i in range(len(a)+1)]
     # row 0 and column 0 are initialized to 0 already
     for i, x in enumerate(a):
