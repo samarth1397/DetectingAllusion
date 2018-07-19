@@ -1,0 +1,1700 @@
+Pairing: 1
+New Sentence: freilich aber zeigt sie es mit der gefährlichen Kühnheit ihres Wahlspruches. fiat veritas pereat vita. Machen wir uns jetzt ein Bild von dem geistigen Vorgange, der hierdurch in der Seele des modernen Menschen herbeigeführt wird.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.742490622444969
+Syntactic Similarity without tokens: 0.7991478894415572
+Semantic Score: 0.854419469833374
+Semantic Score without stopwords: 0.854419469833374
+LCS Length: 1
+LCS: bild 
+Jaccard of common nouns: 0.16666666666666666
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.9574793577194214
+Semantic similarity verbs: 0.6927953958511353
+
+Pairing: 2
+New Sentence: Denke man sich zum Beispiel einen Griechen an einer solchen Bildung vorübergehend, er würde wahrnehmen, dass für die neueren Menschen „gebildet“ und „historisch gebildet“ so zusammenzugehören scheinen, als ob sie eins und nur durch die Zahl der Worte verschieden wären. Spräche er nun seinen Satz aus. es kann Einer sehr gebildet und doch historisch gar nicht gebildet sein, so würde man glauben, gar nicht recht gehört zu haben und den Kopf schütteln.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7304895621529207
+Syntactic Similarity without tokens: 0.7830599746565372
+Semantic Score: 0.8685011863708496
+Semantic Score without stopwords: 0.8685011863708496
+LCS Length: 2
+LCS: menschen satz 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.690939724445343
+Semantic similarity verbs: 0.7045104503631592
+
+Pairing: 3
+New Sentence: nicht zu lehrenlies. zu lehren nichtNach KGW/KGB Nachberichte vermochten! Ob nun der Sinn der Lehre Glück oder Resignation oder Tugend oder Busse ist, darin sind die überhistorischen Menschen mit einander nie einig gewesen; aber, allen historischen Betrachtungsarten des Vergangenen entgegen, kommen sie zur vollen Einmüthigkeit des Satzes.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7526186395713798
+Syntactic Similarity without tokens: 0.8860908894519941
+Semantic Score: 0.8538970351219177
+Semantic Score without stopwords: 0.8538970351219177
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.10526315789473684
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6767567992210388
+Semantic similarity verbs: 0.7284375429153442
+
+Pairing: 4
+New Sentence: Niemand wird zweifeln. das Leben ist die höhere, die herrschende Gewalt, denn ein Erkennen, welches das Leben vernichtete, würde sich selbst mit vernichtet haben. Das Erkennen setzt das Leben voraus, hat also an der Erhaltung des Lebens dasselbe Interesse, welches jedes Wesen an seiner eignen Fortexistenz hat.
+Reference: 
+So aber jemand Gott liebt , der wird von ihm erkannt . — — wie Sokrates vom Apoll fuͤr einen Weisen . Wie aber das Korn aller unserer natuͤrlichen Weisheit verwesen , in Unwissenheit vergehen muß , und wie aus diesem Tode , aus diesem Nichts das Leben und Wesen einer hoͤheren Erkenntniß hervorkeimen und neugeschaffen werde ; so weit reicht die Nase eines Sophisten nicht .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.706177961033923
+Syntactic Similarity without tokens: 0.7367322691611824
+Semantic Score: 0.896120548248291
+Semantic Score without stopwords: 0.896120548248291
+LCS Length: 2
+LCS: leben wesen 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.8621209263801575
+Semantic similarity verbs: 0.6129733324050903
+
+Pairing: 5
+New Sentence: so erscheint es vermessen oder selbst ruchlos, ein solches Alterthum durch ein Neuthum zu ersetzen und einer solchen Zahlen-Anhäufung von Pietäten und Verehrungen die Einer des Werdenden und Gegenwärtigen entgegenzustellen. Hier wird es deutlich, wie nothwendig der Mensch, neben der monumentalischen und antiquarischen Art, die Vergangenheit zu betrachten, oft genug eine dritte Art nöthig hat, die kritische. und zwar auch diese wiederum im Dienste des Lebens.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7061237000190741
+Syntactic Similarity without tokens: 0.8942180495556992
+Semantic Score: 0.8968472480773926
+Semantic Score without stopwords: 0.8968472480773926
+LCS Length: 1
+LCS: art 
+Jaccard of common nouns: 0.09523809523809523
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.8526120185852051
+Semantic similarity verbs: 0.727865993976593
+
+Pairing: 6
+New Sentence: warum redest du mir nicht von deinem Glücke und siehst mich nur an? Das Thier will auch antworten und sagen, das kommt daher dass ich immer gleich vergesse, was ich sagen wollte — da vergass es aber auch schon diese Antwort und schwieg. so dass der Mensch sich darob verwunderte.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6865234957637276
+Syntactic Similarity without tokens: 0.9066502722071151
+Semantic Score: 0.9179145693778992
+Semantic Score without stopwords: 0.9179145693778992
+LCS Length: 1
+LCS: daher 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.7213979363441467
+Semantic similarity verbs: 0.848947286605835
+
+Pairing: 7
+New Sentence: zu lehren nichtNach KGW/KGB Nachberichte vermochten! Ob nun der Sinn der Lehre Glück oder Resignation oder Tugend oder Busse ist, darin sind die überhistorischen Menschen mit einander nie einig gewesen; aber, allen historischen Betrachtungsarten des Vergangenen entgegen, kommen sie zur vollen Einmüthigkeit des Satzes. das Vergangene und das Gegenwärtige ist Eines und dasselbe, nämlich in aller Mannichfaltigkeit typisch gleich und als Allgegenwart unvergänglicher Typen ein stillstehendes Gebilde von unverändertem Werthe und ewig gleicher Bedeutung.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7446929718506153
+Syntactic Similarity without tokens: 0.9012499727328193
+Semantic Score: 0.8554487824440002
+Semantic Score without stopwords: 0.8554487824440002
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6408035755157471
+Semantic similarity verbs: 0.7284375429153442
+
+Pairing: 8
+New Sentence: Und so möge mein Satz verstanden und erwogen werden. die Geschichte wird nur von starken Persönlichkeiten ertragen, die schwachen löscht sie vollends aus. Das liegt darin, dass sie das Gefühl und die Empfindung verwirrt, wo diese nicht kräftig genug sind, die Vergangenheit an sich zu messen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7221236584220595
+Syntactic Similarity without tokens: 0.8417877554284192
+Semantic Score: 0.8716854453086853
+Semantic Score without stopwords: 0.8716854453086853
+LCS Length: 1
+LCS: satz 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5485251545906067
+Semantic similarity verbs: 0.7753817439079285
+
+Pairing: 9
+New Sentence: werdet ihr fragen. Der Delphische Gott ruft euch, gleich am Anfange eurer Wanderung nach jenem Ziele, seinen Spruch entgegen „Erkenne dich selbst“. Es ist ein schwerer Spruch.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7507276522158356
+Syntactic Similarity without tokens: 0.8804876273556701
+Semantic Score: 0.8324804902076721
+Semantic Score without stopwords: 0.8324804902076721
+LCS Length: 1
+LCS: gott 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4935333728790283
+Semantic similarity verbs: 0.6900044679641724
+
+Pairing: 10
+New Sentence: Ja, sie beweist, wie gemein und ekelhaft uniform die Masse ist. soll man die Wirkung der Schwerkräfte Dummheit, Nachäfferei, Liebe und Hunger Gesetze nennen? Nun, wir wollen es zugeben, aber damit steht dann auch der Satz fest.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6960456582338622
+Syntactic Similarity without tokens: 0.8441281771142262
+Semantic Score: 0.8914075493812561
+Semantic Score without stopwords: 0.8914075493812561
+LCS Length: 1
+LCS: satz 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5211701989173889
+Semantic similarity verbs: 0.8138676285743713
+
+Pairing: 11
+New Sentence: So aber wie der junge Mensch durch die Geschichte läuft, so laufen wir Modernen durch die Kunstkammern, so hören wir Concerte. Man fühlt wohl, das klingt anders als jenes, das wirkt anders als jenes. dies Gefühl der Befremdung immer mehr zu verlieren, über nichts mehr übermässig zu erstaunen, endlich alles sich gefallen zu lassenErratum.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7447511162151697
+Syntactic Similarity without tokens: 0.7952776143139864
+Semantic Score: 0.8608696460723877
+Semantic Score without stopwords: 0.8608696460723877
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6459117531776428
+Semantic similarity verbs: 0.6860724687576294
+
+Pairing: 12
+New Sentence: wohingegen die Schaar der scheinbaren Tugenden zu jeder Zeit geehrt und prunkend einherzog. Der Wahrheit dienen Wenige in Wahrheit, weil nur Wenige den reinen Willen haben gerecht zu sein und selbst von diesen wieder die Wenigsten die Kraft, gerecht sein zu können. Es genügt durchaus nicht, den Willen dazu allein zu haben.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7624149100779816
+Syntactic Similarity without tokens: 0.8681832576596515
+Semantic Score: 0.8250026702880859
+Semantic Score without stopwords: 0.8250026702880859
+LCS Length: 1
+LCS: wahrheit 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.45803070068359375
+Semantic similarity verbs: 0.5415574908256531
+
+Pairing: 13
+New Sentence: und zwar dadurch, dass sie dem Menschen durch fortwährendes Verschieben der Horizont-Perspektiven, durch Beseitigung einer umhüllenden Atmosphäre nicht mehr erlaubt, unhistorisch zu empfinden und zu handeln. Er zieht sich dann aus der Unendlichkeit des Horizontes auf sich selbst, in den kleinsten egoistischen Bezirk zurück und muss darin verdorren und trocken werden. wahrscheinlich bringt er es zur Klugheit.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7257572336404635
+Syntactic Similarity without tokens: 0.8921847891687555
+Semantic Score: 0.8879793882369995
+Semantic Score without stopwords: 0.8879793882369995
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7087520956993103
+Semantic similarity verbs: 0.777605414390564
+
+Pairing: 14
+New Sentence: Der Mensch hingegen stemmt sich gegen die grosse und immer grössere Last des Vergangenen. diese drückt ihn nieder oder beugt ihn seitwärts, diese beschwert seinen Gang als eine unsichtbare und dunkle Bürde, welche er zum Scheine einmal verläugnen kann, und welche er im Umgange mit seines Gleichen gar zu gern verläugnet. um ihren Neid zu wecken.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7602052558605757
+Syntactic Similarity without tokens: 0.8941390356593941
+Semantic Score: 0.8467932343482971
+Semantic Score without stopwords: 0.8467932343482971
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.058823529411764705
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6310443878173828
+Semantic similarity verbs: 0.6932248473167419
+
+Pairing: 15
+New Sentence: Dann wird seine Vergangenheit kritisch betrachtet, dann greift man mit dem Messer an seine Wurzeln, dann schreitet man grausam über alle Pietäten hinweg. Es ist immer ein gefährlicher, nämlich für das Leben selbst gefährlicher Prozess. und Menschen oder Zeiten, die auf diese Weise dem Leben dienen, dass sie eine Vergangenheit richten und vernichten, sind immer gefährliche und gefährdete Menschen und Zeiten.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7268897828128987
+Syntactic Similarity without tokens: 0.916820041357735
+Semantic Score: 0.8726687431335449
+Semantic Score without stopwords: 0.8726687431335449
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.671593427658081
+Semantic similarity verbs: 0.6735019087791443
+
+Pairing: 16
+New Sentence: „Denn Alles was entsteht, ist werth, dass es zu Grunde geht. Drum besser wär’s, dass nichts entstünde.“ Es gehört sehr viel Kraft dazu, leben zu können und zu vergessen, in wie fern leben und ungerecht sein Eins ist. Luther selbst hat einmal gemeint, dass die Welt nur durch eine Vergesslichkeit Gottes entstanden sei; wenn Gott nämlich an das „schwere Geschütz“ gedacht hätte, er würde die Welt nicht geschaffen haben.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7311947235579537
+Syntactic Similarity without tokens: 0.7774111420259735
+Semantic Score: 0.8594116568565369
+Semantic Score without stopwords: 0.8594116568565369
+LCS Length: 1
+LCS: welt 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7999550700187683
+Semantic similarity verbs: 0.6745558381080627
+
+Pairing: 17
+New Sentence: Das Mittel aber, das verruchte Mittel, das man anwendet, um sie zu blenden, ist allzu helles, allzu plötzliches, allzu wechselndes Licht. Der junge Mensch wird durch alle Jahrtausende gepeitscht. Jünglinge, die nichts von einem Kriege, einer diplomatischen Action, einer Handelspolitik verstehen, werden der Einführung in die politische Geschichte für würdig befunden.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7257395609795009
+Syntactic Similarity without tokens: 0.7993156481963096
+Semantic Score: 0.8731269836425781
+Semantic Score without stopwords: 0.8731269836425781
+LCS Length: 1
+LCS: mensch 
+Jaccard of common nouns: 0.058823529411764705
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.8156901001930237
+Semantic similarity verbs: 0.7501484751701355
+
+Pairing: 18
+New Sentence: man braucht an ihm nur zu schütteln, so fällt einem die Weisheit mit Geprassel in den Schooss; doch die Weisheit ist faul und jeder Apfel hat seinen Wurm. Glaubt es mir. wenn die Menschen in der wissenschaftlichen Fabrik arbeiten und nutzbar werden sollen, bevor sie reif sind, so ist in Kurzem die Wissenschaft ebenso ruinirt, wie die allzuzeitig in dieser Fabrik verwendeten Sclaven.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7633730552069697
+Syntactic Similarity without tokens: 0.768630898827496
+Semantic Score: 0.8241048455238342
+Semantic Score without stopwords: 0.8241048455238342
+LCS Length: 1
+LCS: glaubt 
+Jaccard of common nouns: 0.058823529411764705
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6252717971801758
+Semantic similarity verbs: 0.7333552837371826
+
+Pairing: 19
+New Sentence: Der junge Mensch wird durch alle Jahrtausende gepeitscht. Jünglinge, die nichts von einem Kriege, einer diplomatischen Action, einer Handelspolitik verstehen, werden der Einführung in die politische Geschichte für würdig befunden. So aber wie der junge Mensch durch die Geschichte läuft, so laufen wir Modernen durch die Kunstkammern, so hören wir Concerte.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7196290192848162
+Syntactic Similarity without tokens: 0.804421103031458
+Semantic Score: 0.866409182548523
+Semantic Score without stopwords: 0.866409182548523
+LCS Length: 1
+LCS: mensch 
+Jaccard of common nouns: 0.05555555555555555
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.8433343172073364
+Semantic similarity verbs: 0.65568608045578
+
+Pairing: 20
+New Sentence: Das heisst eben doch nur. die Menschen sollen zu den Zwecken der Zeit abgerichtet werden, um so zeitig als möglich mit Hand anzulegen; sie sollen in der Fabrik der allgemeinen Utilitäten arbeiten, bevor sie reif sind, ja damit sie gar nicht mehr reif werden — weil dies ein Luxus wäre, der „dem Arbeitsmarkte“ eine Menge von Kraft entziehen würde. Man blendet einige Vögel, damit sie schöner singen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7070934954633782
+Syntactic Similarity without tokens: 0.9152779198700861
+Semantic Score: 0.8772874474525452
+Semantic Score without stopwords: 0.8772874474525452
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.05555555555555555
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6380481123924255
+Semantic similarity verbs: 0.7436970472335815
+
+Pairing: 21
+New Sentence: In Deutschland ist es nicht viel länger als ein Jahrhundert her, dass in einigen jungen Menschen ein natürlicher Instinct für das, was man Poesie nennt, erwachte. Denkt man etwa, dass die Generationen vorher und zu jener Zeit von jener ihnen innerlich fremden und unnatürlichen Kunst gar nicht geredet hätten? Man weiss das Gegentheil.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6996104835934123
+Syntactic Similarity without tokens: 0.8199244936465262
+Semantic Score: 0.9048987030982971
+Semantic Score without stopwords: 0.9048987030982971
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.05263157894736842
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7829313278198242
+Semantic similarity verbs: 0.8056303858757019
+
+Pairing: 22
+New Sentence: Das scheint Alles jenen Cynikern nichts; aber Erben des Weltprozesses! Spitzen und Zielscheiben des Weltprozesses! Sinn und Lösung aller Werde-Räthsel überhaupt, ausgedrückt im modernen Menschen, der reifsten Frucht am Baume der Erkenntniss!
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7386915594872181
+Syntactic Similarity without tokens: 0.8272555096123856
+Semantic Score: 0.8435336351394653
+Semantic Score without stopwords: 0.8435336351394653
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.05263157894736842
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7026140093803406
+Semantic similarity verbs: 0.5395780801773071
+
+Pairing: 23
+New Sentence: Seht euch nur die Religion der historischen Macht an, gebt Acht auf die Priester der Ideen-Mythologie und ihre zerschundenen Kniee! Sind nicht sogar alle Tugenden im Gefolge dieses neuen Glaubens? Oder ist es nicht Selbstlosigkeit, wenn der historische Mensch sich zum objectiven Spiegelglas ausblasen lässt?
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7338252750994718
+Syntactic Similarity without tokens: 0.765204241120157
+Semantic Score: 0.8702168464660645
+Semantic Score without stopwords: 0.8702168464660645
+LCS Length: 1
+LCS: mensch 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.722656786441803
+Semantic similarity verbs: 0.7526459097862244
+
+Pairing: 24
+New Sentence: Ich will ein Beispiel zu Hülfe nehmen. In Deutschland ist es nicht viel länger als ein Jahrhundert her, dass in einigen jungen Menschen ein natürlicher Instinct für das, was man Poesie nennt, erwachte. Denkt man etwa, dass die Generationen vorher und zu jener Zeit von jener ihnen innerlich fremden und unnatürlichen Kunst gar nicht geredet hätten?
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6900060661563953
+Syntactic Similarity without tokens: 0.8439357337316975
+Semantic Score: 0.9066988229751587
+Semantic Score without stopwords: 0.9066988229751587
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7829313278198242
+Semantic similarity verbs: 0.7998654842376709
+
+Pairing: 25
+New Sentence: wahrscheinlich bringt er es zur Klugheit. nie zur Weisheit. Er lässt mit sich reden, rechnet und verträgt sich mit den Thatsachen, wallt nicht auf, blinzelt und versteht es, den eigenen Vortheil oder den seiner Partei im fremden Vortheil und Nachtheil zu suchen; er verlernt die überflüssige Scham und wird so schrittweise zum Hartmann’schen „Manne“ und „Greise“.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.710795748441575
+Syntactic Similarity without tokens: 0.7543506238052947
+Semantic Score: 0.8940026164054871
+Semantic Score without stopwords: 0.8940026164054871
+LCS Length: 1
+LCS: weisheit 
+Jaccard of common nouns: 0.045454545454545456
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5288736820220947
+Semantic similarity verbs: 0.7963767051696777
+
+Pairing: 26
+New Sentence: „sei ein Mann und folge mir nicht nach!“ Glücklicher Weise bewahrt sie aber auch das Gedächtniss an die grossen Kämpfer gegen die Geschichte, das heisst gegen die blinde Macht des Wirklichen und stellt sich dadurch selbst an den Pranger, dass sie Jene gerade als die eigentlichen historischen Naturen heraushebt, die sich um das „So ist es“ wenig kümmerten, um vielmehr mit heiterem Stolze einem „So soll es sein“ zu folgen. Nicht ihr Geschlecht zu Grabe zu tragen, sondern ein neues Geschlecht zu begründen — das treibt sie unablässig vorwärts. und wenn sie selbst als Spätlinge geboren werden, — es giebt eine Art zu leben, dies vergessen zu machen; — die kommenden Geschlechter werden sie nur als Erstlinge kennen.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6737152981320611
+Syntactic Similarity without tokens: 0.8766530114730936
+Semantic Score: 0.9221630096435547
+Semantic Score without stopwords: 0.9221630096435547
+LCS Length: 1
+LCS: giebt 
+Jaccard of common nouns: 0.04
+Jaccard of common verbs: 0.038461538461538464
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6860636472702026
+Semantic similarity verbs: 0.8568472862243652
+
+Pairing: 27
+New Sentence: Wäre die Geschichte überhaupt nichts weiter als „das Weltsystem von Leidenschaft und Irrthum“, so würde der Mensch so in ihr lesen müssen, wie Goethe den Werther zu lesen rieth, gleich als ob sie riefe. „sei ein Mann und folge mir nicht nach!“ Glücklicher Weise bewahrt sie aber auch das Gedächtniss an die grossen Kämpfer gegen die Geschichte, das heisst gegen die blinde Macht des Wirklichen und stellt sich dadurch selbst an den Pranger, dass sie Jene gerade als die eigentlichen historischen Naturen heraushebt, die sich um das „So ist es“ wenig kümmerten, um vielmehr mit heiterem Stolze einem „So soll es sein“ zu folgen. Nicht ihr Geschlecht zu Grabe zu tragen, sondern ein neues Geschlecht zu begründen — das treibt sie unablässig vorwärts.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7095400941464787
+Syntactic Similarity without tokens: 0.8766309033160419
+Semantic Score: 0.901614785194397
+Semantic Score without stopwords: 0.901614785194397
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.038461538461538464
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6639105677604675
+Semantic similarity verbs: 0.7646383047103882
+
+Pairing: 28
+New Sentence: Erst durch diese Wahrhaftigkeit wird die Noth, das innere Elend des modernen Menschen an den Tag kommen, und an die Stelle jener ängstlich versteckenden Convention und Maskerade können dann, als wahre Helferinnen, Kunst und Religion treten, um gemeinsam eine Cultur anzupflanzen, die wahren Bedürfnissen entspricht und die nicht, wie die jetzige allgemeine BildungErratum. Bildung,lies. BildungNach KGW/KGB Nachberichte nur lehrt, sich über diese Bedürfnisse zu belügen und dadurch zur wandelnden Lüge zu werden.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7229980554677538
+Syntactic Similarity without tokens: 0.7576587859254946
+Semantic Score: 0.8742331266403198
+Semantic Score without stopwords: 0.8742331266403198
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.038461538461538464
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.787003219127655
+Semantic similarity verbs: 0.7432833313941956
+
+Pairing: 29
+New Sentence: Meint man doch, es gäbe gar keine andre Möglichkeit als eben unsere jetzige höchst leidige Wirklichkeit. Prüfe nur Einer die Litteratur des höheren Schul- und Erziehungswesens aus den letzten Jahrzehnten gerade darauf hin. der Prüfende wird zu seinem unmuthigen Erstaunen gewahr werden, wie gleichförmig bei allen Schwankungen der Vorschläge, bei aller Heftigkeit der Widersprüche die gesammte Absicht der Erziehung gedacht wird, wie unbedenklich das bisherige Ergebniss, der „gebildete Mensch“, wie er jetzt verstanden wird, als nothwendiges und vernünftiges Fundament jeder weiteren Erziehung angenommen ist.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6813709216181373
+Syntactic Similarity without tokens: 0.827730431593314
+Semantic Score: 0.9204221367835999
+Semantic Score without stopwords: 0.9204221367835999
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.037037037037037035
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7183930277824402
+Semantic similarity verbs: 0.851797342300415
+
+Pairing: 30
+New Sentence: Jetzt dorrt die Pietät ab, die gelehrtenhafte Gewöhnung besteht ohne sie fort und dreht sich egoistisch-selbstgefällig um ihren eignen Mittelpunkt. Dann erblickt man wohl das widrige Schauspiel einer blinden Sammelwuth, eines rastlosen Zusammenscharrens alles einmal Dagewesenen. Der Mensch hüllt sich in Moderduft; es gelingt ihm selbst eine bedeutendere Anlage, ein edleres Bedürfniss durch die antiquarische Manier zu unersättlicher Neubegier, richtiger Alt- und Allbegier herabzustimmen; oftmals sinkt er so tief, dass er zuletzt mit jeder Kost zufrieden ist und mit Lust selbst den Staub bibliographischer Quisquilien frisst.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7219429293952413
+Syntactic Similarity without tokens: 0.7962045773880531
+Semantic Score: 0.8687512278556824
+Semantic Score without stopwords: 0.8687512278556824
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.03571428571428571
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7375917434692383
+Semantic similarity verbs: 0.7377278208732605
+
+Pairing: 31
+New Sentence: — Doch darüber kein ernstes Wort mehr, da es möglich ist, ein heiteres zu sagen. Das rasend-unbedachte Zersplittern und Zerfasern aller Fundamente, ihre Auflösung in ein immer fliessendes und zerfliessendes Werden, das unermüdliche Zerspinnen und Historisiren alles Gewordenen durch den modernen Menschen, die grosse Kreuzspinne im Knoten des Weltall-Netzes — das mag den Moralisten, den Künstler, den Frommen, auch wohl den Staatsmann beschäftigen und bekümmern; uns soll es heute einmal erheitern, dadurch dass wir dies alles im glänzenden Zauberspiegel eines philosophischen Parodisten sehen, in dessen Kopfe die Zeit über sich selbst zum ironischen Bewusstsein, und zwar deutlich „bis zur Verruchtheit“ (um Goethisch zu reden)Erratum. reden),lies.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7394660049906583
+Syntactic Similarity without tokens: 0.7502557241396429
+Semantic Score: 0.8727033138275146
+Semantic Score without stopwords: 0.8727033138275146
+LCS Length: 1
+LCS: sehen 
+Jaccard of common nouns: 0.03225806451612903
+Jaccard of common verbs: 0.05263157894736842
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7364203333854675
+Semantic similarity verbs: 0.777704119682312
+
+Pairing: 32
+New Sentence: Sind die Persönlichkeiten erst in der geschilderten Weise zu ewiger Subjectlosigkeit, oder wie man sagt, Objectivität ausgeblasen. so vermag nichts mehr auf sie zu wirken; es mag was Gutes und Rechtes geschehen, als That, als Dichtung, als Musik. sofort sieht der ausgehöhlte Bildungsmensch über das Werk hinweg und fragt nach der Historie des Autors.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7214975131790623
+Syntactic Similarity without tokens: 0.7906149392094342
+Semantic Score: 0.892345130443573
+Semantic Score without stopwords: 0.892345130443573
+LCS Length: 1
+LCS: weise 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.491159051656723
+Semantic similarity verbs: 0.7634480595588684
+
+Pairing: 33
+New Sentence: Und trotzdem wurde die hellenische Cultur kein Aggregat, Dank jenem apollinischen Spruche. Die Griechen lernten allmählich das Chaos zu organisiren, dadurch dass sie sich, nach der delphischen Lehre, auf sich selbst, das heisst auf ihre ächten Bedürfnisse zurück besannen und die Schein-Bedürfnisse absterben liessen. So ergriffen sie wieder von sich Besitz; sie blieben nicht lange die überhäuften Erben und Epigonen des ganzen Orients; sie wurden selbst, nach beschwerlichem Kampfe mit sich selbst, durch die praktische Auslegung jenes Spruches, die glücklichsten Bereicherer und Mehrer des ererbten Schatzes und die Erstlinge und Vorbilder aller kommenden Culturvölker.
+Reference: 
+So aber jemand Gott liebt , der wird von ihm erkannt . — — wie Sokrates vom Apoll fuͤr einen Weisen . Wie aber das Korn aller unserer natuͤrlichen Weisheit verwesen , in Unwissenheit vergehen muß , und wie aus diesem Tode , aus diesem Nichts das Leben und Wesen einer hoͤheren Erkenntniß hervorkeimen und neugeschaffen werde ; so weit reicht die Nase eines Sophisten nicht .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7320995206499642
+Syntactic Similarity without tokens: 0.8017914026367272
+Semantic Score: 0.8811222910881042
+Semantic Score without stopwords: 0.8811222910881042
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5970223546028137
+Semantic similarity verbs: 0.7742992639541626
+
+Pairing: 34
+New Sentence: sofern es erlaubt ist eine monumentalische, eine antiquarische und eine kritische Art der Historie zu unterscheiden. Die Geschichte gehört vor Allem dem Thätigen und Mächtigen, dem, der einen grossen Kampf kämpft, der Vorbilder, Lehrer, Tröster braucht und sie unter seinen Genossen und in der Gegenwart nicht zu finden vermag. So gehörte sie Schillern.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7920485960088035
+Syntactic Similarity without tokens: 0.7673472128718151
+Semantic Score: 0.8205849528312683
+Semantic Score without stopwords: 0.8205849528312683
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5840103626251221
+Semantic similarity verbs: 0.7517644166946411
+
+Pairing: 35
+New Sentence: an dessen Stelle dann vielleicht Systeme von Einzelegoismen, Verbrüderungen zum Zweck raubsüchtiger Ausbeutung der Nicht-Brüder und ähnliche Schöpfungen utilitarischer Gemeinheit auf dem Schauplatze der Zukunft auftreten werden. Man fahre nur fort, um diesen Schöpfungen vorzuarbeiten, die Geschichte vom Standpunkte der Massen zu schreiben und nach jenen Gesetzen in ihr zu suchen, die aus den Bedürfnissen dieser Massen abzuleiten sind, also nach den Bewegungsgesetzen der niederen Lehm- und Thonschichten der Gesellschaft. Die Massen scheinen mir nur in dreierlei Hinsicht einen Blick zu verdienen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7709124030083495
+Syntactic Similarity without tokens: 0.9160474964164648
+Semantic Score: 0.8412299752235413
+Semantic Score without stopwords: 0.8412299752235413
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5984289646148682
+Semantic similarity verbs: 0.7710229158401489
+
+Pairing: 36
+New Sentence: Das ihm entgegengerufene Wort der neueren Zeit. „memento vivere“ klingt, offen zu reden, noch ziemlich verschüchtert, kommt nicht aus voller Kehle und hat beinahe etwas Unehrliches. Denn die Menschheit sitzt noch fest auf dem Memento mori und verräth es durch ihr universales historisches Bedürfniss.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7374495762164457
+Syntactic Similarity without tokens: 0.8070613991861288
+Semantic Score: 0.8743492960929871
+Semantic Score without stopwords: 0.8743492960929871
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07692307692307693
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.45007219910621643
+Semantic similarity verbs: 0.7726345062255859
+
+Pairing: 37
+New Sentence: Es ist nicht die Gerechtigkeit, die hier zu Gericht sitzt; es ist noch weniger die Gnade, die hier das Urtheil verkündet. sondern das Leben allein, jene dunkle, treibende, unersättlich sich selbst begehrende Macht. Sein Spruch ist immer ungnädig, immer ungerecht, weil er nie aus einem reinen Borne der Erkenntniss geflossen ist; aber in den meisten Fällen würde der Spruch ebenso ausfallen, wenn ihn die Gerechtigkeit selber spräche.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7281411237149021
+Syntactic Similarity without tokens: 0.7674141545051764
+Semantic Score: 0.8828157782554626
+Semantic Score without stopwords: 0.8828157782554626
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.47924864292144775
+Semantic similarity verbs: 0.6591854691505432
+
+Pairing: 38
+New Sentence: Und da euch das Ewig-Weibliche nie hinanziehen wird, so zieht ihr es zu euch herab und nehmt, als Neutra, auch die Geschichte als ein Neutrum. Damit man aber nicht glaube, dass ich im Ernste die Geschichte mit dem Ewig-Weiblichen vergleiche, so will ich vielmehr klärlich aussprechen, dass ich sie im Gegentheil für das Ewig-Männliche halte. nur dass es für die, welche durch und durch „historisch gebildet“ sind, ziemlich gleichgültig sein muss, ob sie das Eine oder das Andere ist.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7167348608306547
+Syntactic Similarity without tokens: 0.8544028589934407
+Semantic Score: 0.8940353989601135
+Semantic Score without stopwords: 0.8940353989601135
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.05263157894736842
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6008344888687134
+Semantic similarity verbs: 0.824384868144989
+
+Pairing: 39
+New Sentence: Nun dann thut wenigstens das Höchste und Grösste; vielleicht macht man euch dann wirklich Platz, auch wenn ihr zuletzt kommt. Nur aus der höchsten Kraft der Gegenwart dürft ihr das Vergangene deuten. nur in der stärksten Anspannung eurer edelsten Eigenschaften werdet ihr errathen, was in dem Vergangnen wissens- und bewahrenswürdig und gross ist.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7182019282458412
+Syntactic Similarity without tokens: 0.7164717454410181
+Semantic Score: 0.8924521803855896
+Semantic Score without stopwords: 0.8924521803855896
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.42521435022354126
+Semantic similarity verbs: 0.775388240814209
+
+Pairing: 40
+New Sentence: So macht der historische Sinn seine Diener passiv und retrospectiv; und beinahe nur aus augenblicklicher Vergesslichkeit, wenn gerade jener Sinn intermittirt, wird der am historischen Fieber Erkrankte activ, um, sobald die Action vorüber ist, seine That zu seciren, durch analytische Betrachtung am Weiterwirken zu hindern und sie endlich zur „Historie“ abzuhäuten. In diesem Sinne leben wir noch im Mittelalter, ist Historie immer noch eine verkappte Theologie. wie ebenfalls die Ehrfurcht, mit welcher der unwissenschaftliche Laie die wissenschaftliche Kaste behandelt, eine vom Clerus her vererbte Ehrfurcht ist.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.762206039597746
+Syntactic Similarity without tokens: 0.9221561445090004
+Semantic Score: 0.847998857498169
+Semantic Score without stopwords: 0.847998857498169
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5147460103034973
+Semantic similarity verbs: 0.6769359111785889
+
+Pairing: 41
+New Sentence: So wird das Individuum zaghaft und unsicher und darf sich nicht mehr glauben. es versinkt in sich selbst, ins Innerliche, das heisst hier nur. in den zusammengehäuften Wust des Erlernten, das nicht nach aussen wirkt, der Belehrung, die nicht Leben wird.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7485082919520991
+Syntactic Similarity without tokens: 0.849566710505163
+Semantic Score: 0.861649751663208
+Semantic Score without stopwords: 0.861649751663208
+LCS Length: 1
+LCS: glauben 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.47518694400787354
+Semantic similarity verbs: 0.8006234169006348
+
+Pairing: 42
+New Sentence: Allmählich fehlt alle Congruenz zwischen dem Mann und seinem historischen Bereiche; kleine vorlaute Burschen sehen wir mit den Römern umgehen als wären diese ihresgleichen. und in den Ueberresten griechischer Dichter wühlen und graben sie,Erratum. graben, sielies.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7579475970463877
+Syntactic Similarity without tokens: 0.7139768603321901
+Semantic Score: 0.8517870306968689
+Semantic Score without stopwords: 0.8517870306968689
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5177600383758545
+Semantic similarity verbs: 0.6548860669136047
+
+Pairing: 43
+New Sentence: So wird die Geschichte zu einem Compendium der thatsächlichen Unmoral. Wie schwer würde sich der irren, der die Geschichte zugleich als Richterin dieser thatsächlichen Unmoral ansähe! Es beleidigt zum Beispiel die Moral, dass ein Raffael sechs und dreissig Jahr alt sterben musste.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7651181165874665
+Syntactic Similarity without tokens: 0.8772975215944425
+Semantic Score: 0.8444393277168274
+Semantic Score without stopwords: 0.8444393277168274
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7548580169677734
+Semantic similarity verbs: 0.6781323552131653
+
+Pairing: 44
+New Sentence: es peinigt ihn, gleichsam nur zu einer Secte reden zu müssen und innerhalb seines Volkes nicht mehr nothwendig zu sein. Vielleicht vergräbt er seinen Schatz jetzt lieber, weil er Ekel empfindet, von einer Secte anspruchsvoll patronisirt zu werden, während sein Herz voll von Mitleid mit Allen ist. Der Instinct des Volkes kommt ihm nicht mehr entgegen; es ist unnütz, ihm die Arme sehnsuchtsvoll entgegenzubreiten.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7046163565877492
+Syntactic Similarity without tokens: 0.7723235332434524
+Semantic Score: 0.9043715000152588
+Semantic Score without stopwords: 0.9043715000152588
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5100098252296448
+Semantic similarity verbs: 0.7664667367935181
+
+Pairing: 45
+New Sentence: — Plato hielt es für nothwendig, dass die erste Generation seiner neuen Gesellschaft (im vollkommenen Staate) mit der Hülfe einer kräftigen Nothlüge erzogen werde; die Kinder sollten glauben lernen, dass sie alle schon eine Zeit lang träumend unter der Erde gewohnt hätten, woselbst sie von dem Werkmeister der Natur zurechtgeknetet und geformt wären. Unmöglich, sich gegen diese Vergangenheit aufzulehnen! Unmöglich, dem Werke der Götter entgegenzuwirken!
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7267948606738234
+Syntactic Similarity without tokens: 0.8098936858751131
+Semantic Score: 0.8815379738807678
+Semantic Score without stopwords: 0.8815379738807678
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7855154871940613
+Semantic similarity verbs: 0.7496022582054138
+
+Pairing: 46
+New Sentence: Es ist wahr, er hat in sich eine solche Zartheit und Erregbarkeit der Empfindung ausgebildet, dass ihm gar nichts Menschliches fern bleibt; die verschiedensten Zeiten und Personen klingen sofort auf seiner Lyra in verwandten Tönen nach. er ist zum nachtönenden Passivum geworden, das durch sein Ertönen wieder auf andere derartige Passiva wirkt. bis endlich die ganze Luft einer Zeit von solchen durcheinander schwirrenden zarten und verwandten Nachklängen erfüllt ist.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.729647870497491
+Syntactic Similarity without tokens: 0.7638673915917893
+Semantic Score: 0.8782051801681519
+Semantic Score without stopwords: 0.8782051801681519
+LCS Length: 1
+LCS: geworden 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5072119832038879
+Semantic similarity verbs: 0.6951618790626526
+
+Pairing: 47
+New Sentence: Uebrigens hat man bei solchen Autoren sein Urtheil näher nach dem Grundsatze zu motiviren, dass jeder Mann gerade so viel Eitelkeit hat als es ihm an Verstande fehlt. Nein, seid wenigstens ehrlich! Sucht nicht den Schein der künstlerischen Kraft, die wirklich Objectivität zu nennen ist, sucht nicht den Schein der Gerechtigkeit, wenn ihr nicht zu dem furchtbaren Berufe des Gerechten geweiht seid.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7104950934836205
+Syntactic Similarity without tokens: 0.8349483581924404
+Semantic Score: 0.8967747688293457
+Semantic Score without stopwords: 0.8967747688293457
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.533963680267334
+Semantic similarity verbs: 0.6491714119911194
+
+Pairing: 48
+New Sentence: Ob die Gefahren unseres Lebens und unserer Cultur nun von diesen wüsten, zahn- und geschmacklosen Greisen, ob sie von jenen sogenannten „Männern“ Hartmanns kommen. beiden gegenüber wollen wir das Recht unserer Jugend mit den Zähnen festhalten und nicht müde werden, in unserer Jugend die Zukunft gegen jene Zukunftsbilder-Stürmer zu vertheidigen. Bei diesem Kampfe müssen wir aber auch eine besonders schlimme Wahrnehmung machen.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7517592593690025
+Syntactic Similarity without tokens: 0.7993129676461994
+Semantic Score: 0.8546087741851807
+Semantic Score without stopwords: 0.8546087741851807
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5943568348884583
+Semantic similarity verbs: 0.6889731287956238
+
+Pairing: 49
+New Sentence: Glaubt einer GeschichtsschreibungErratum. Geschichtschreibunglies. GeschichtsschreibungNach KGW/KGB Nachberichte nicht, wenn sie nicht aus dem Haupte der seltensten Geister herausspringt; immer aber werdet ihr merken, welcher Qualität ihr Geist ist, wenn sie genöthigt wird, etwas Allgemeines auszusprechen oder etwas Allbekanntes noch einmal zu sagen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6950190332461789
+Syntactic Similarity without tokens: 0.5837693650618335
+Semantic Score: 0.9110515713691711
+Semantic Score without stopwords: 0.9110515713691711
+LCS Length: 1
+LCS: glaubt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4977469742298126
+Semantic similarity verbs: 0.852452278137207
+
+Pairing: 50
+New Sentence: Dein Wissen vollendet nicht die Natur, sondern tödtet nur deine eigene. Miss nur einmal deine Höhe als Wissender an deiner Tiefe als Könnender. Freilich kletterst du an den Sonnenstrahlen des Wissens aufwärts zum Himmel, aber auch abwärts zum Chaos.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7528717537647932
+Syntactic Similarity without tokens: 0.8964724255992801
+Semantic Score: 0.8528611063957214
+Semantic Score without stopwords: 0.8528611063957214
+LCS Length: 1
+LCS: wissen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6989393830299377
+Semantic similarity verbs: 0.5163784027099609
+
+Pairing: 51
+New Sentence: Was bleibt ihm jetzt noch übrig als seinen begeisterten Hass gegen jenen hemmenden Bann, gegen die in der sogenannten Bildung seines Volkes aufgerichteten Schranken zu kehren, um als Richter wenigstens das zu verurtheilen, was für ihn den Lebenden und Lebenzeugenden Vernichtung und Entwürdigung ist. so tauscht er die tiefe Einsicht seines Schicksals gegen die göttliche Lust des Schaffenden und Helfenden ein und endet als einsamer Wissender, als übersatter Weiser. Es ist das schmerzlichste Schauspiel.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7406454284762216
+Syntactic Similarity without tokens: 0.7923027247690767
+Semantic Score: 0.8648101091384888
+Semantic Score without stopwords: 0.8648101091384888
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.47802916169166565
+Semantic similarity verbs: 0.6737046241760254
+
+Pairing: 52
+New Sentence: Bildung,lies. BildungNach KGW/KGB Nachberichte nur lehrt, sich über diese Bedürfnisse zu belügen und dadurch zur wandelnden Lüge zu werden. In welche unnatürlichen, künstlichen und jedenfalls unwürdigen Lagen muss in einer Zeit, die an der allgemeinen Bildung leidet, die wahrhaftigste aller Wissenschaften, die ehrliche nackte Göttin Philosophie gerathen!
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6963902548712391
+Syntactic Similarity without tokens: 0.6891127627451276
+Semantic Score: 0.9087880849838257
+Semantic Score without stopwords: 0.9087880849838257
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5379994511604309
+Semantic similarity verbs: 0.7258619666099548
+
+Pairing: 53
+New Sentence: nicht obwohl, sondern gerade weil seine Richter den Kanon der monumentalen Kunst, das heisst nach der gegebenen Erklärung, der Kunst, die zu allen Zeiten „Effect gemacht hat,“ feierlich proclamirt haben. während ihnen für alle noch nicht monumentale, weil gegenwärtige Kunst erstens das Bedürfniss, zweitens die reine Neigung, drittens eben jene Auctorität der Historie abgeht. Dagegen verräth ihnen ihr Instinct, dass die Kunst durch die Kunst todtgeschlagen werden könne.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.782466478807823
+Syntactic Similarity without tokens: 0.8824400048658343
+Semantic Score: 0.8226408362388611
+Semantic Score without stopwords: 0.8226408362388611
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6925990581512451
+Semantic similarity verbs: 0.6847872734069824
+
+Pairing: 54
+New Sentence: diese aussprechend, verbreitend, mit vollen Händen ausstreuend, hofft er ein Bedürfniss zu pflanzen. und aus dem starken Bedürfniss wird einmal die starke That entstehen. Und damit ich keinen Zweifel lasse, woher ich das Beispiel jener Noth, jenes Bedürfnisses, jener Erkenntniss nehme.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7488586356360234
+Syntactic Similarity without tokens: 0.869343434335464
+Semantic Score: 0.8558026552200317
+Semantic Score without stopwords: 0.8558026552200317
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.622079610824585
+Semantic similarity verbs: 0.7327531576156616
+
+Pairing: 55
+New Sentence: Denn von jedem Einzelnen forderte der unbewusste Parodist „die volle Hingabe der Persönlichkeit an den Weltprozess um seines Zieles, der Welterlösung willen“. oder noch heller und klarer. „die Bejahung des Willens zum Leben wird als das vorläufig allein Richtige proclamirt; denn nur in der vollen Hingabe an das Leben und seine Schmerzen, nicht in feiger persönlicher Entsagung und Zurückziehung, ist etwas für den Weltprozess zu leisten“, „das Streben nach individueller Willensverneinung ist eben so thöricht und nutzlos, ja noch thörichter als der Selbstmord“.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7189747672085719
+Syntactic Similarity without tokens: 0.8743160565073729
+Semantic Score: 0.8856714963912964
+Semantic Score without stopwords: 0.8856714963912964
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5814763903617859
+Semantic similarity verbs: 0.6235727071762085
+
+Pairing: 56
+New Sentence: anzuerkennen,lies. anzuerkennenNach KGW/KGB Nachberichte — so würden wir trotzdem genöthigt werden zu fragen, ob es ewig unsere Bestimmung sein müsse, Zöglinge des sinkenden Alterthums zu sein. irgend wann einmal mag es erlaubt sein, unser Ziel schrittweise höher und ferner zu stecken, irgend wann einmal sollten wir uns das Lob zusprechen dürfen, den Geist der alexandrinisch-römischen Cultur in uns — auch durch unsere universale Historie — so fruchtbringend und grossartig nachgeschaffen zu haben, um nun, als den edelsten Lohn, uns die noch gewaltigere Aufgabe stellen zu dürfen, hinter diese alexandrinische Welt zurück und über sie hinaus zu streben, und unsere Vorbilder muthigen Blicks in der altgriechischen Urwelt des Grossen, Natürlichen und Menschlichen zu suchen.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6990501595999802
+Syntactic Similarity without tokens: 0.6779410687581442
+Semantic Score: 0.9051786661148071
+Semantic Score without stopwords: 0.9051786661148071
+LCS Length: 1
+LCS: menschlichen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.531410276889801
+Semantic similarity verbs: 0.7836124897003174
+
+Pairing: 57
+New Sentence: Und dann — prüft euch nur, ob ihr gerecht sein könntet, wenn ihr es wolltet! Als Richter müsstet ihr höher stehen, als der zu Richtende; während ihr nur später gekommen seid. Die Gäste die zuletzt zur Tafel kommen, sollen mit Recht die letzten Plätze erhalten.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7698140503242579
+Syntactic Similarity without tokens: 0.80697397741127
+Semantic Score: 0.8333490490913391
+Semantic Score without stopwords: 0.8333490490913391
+LCS Length: 1
+LCS: gekommen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5059795379638672
+Semantic similarity verbs: 0.7164004445075989
+
+Pairing: 58
+New Sentence: Ja man geht so weit anzunehmen, dass der, den ein Moment der Vergangenheit gar nichts angehe, berufen sei ihn darzustellen. So verhalten sich häufig Philologen und Griechen zu einander. sie gehen sich gar nichts an — das nennt man dann wohl auch „Objectivität“!
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.712317288707998
+Syntactic Similarity without tokens: 0.8658706338292993
+Semantic Score: 0.8907887935638428
+Semantic Score without stopwords: 0.8907887935638428
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.37298157811164856
+Semantic similarity verbs: 0.7670942544937134
+
+Pairing: 59
+New Sentence: Jetzt weiss er es. in allen Zeiten war es anders, es kommt nicht darauf an, wie du bist. In schwermüthiger Gefühllosigkeit lässt er Meinung auf Meinung an sich vorübergehen und begreift das Wort und die Stimmung Hölderlins beim Lesen des Laertius Diogenes über Leben und Lehren griechischer Philosophen.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7569859354723266
+Syntactic Similarity without tokens: 0.8966926468870439
+Semantic Score: 0.8449941873550415
+Semantic Score without stopwords: 0.8449941873550415
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7070688009262085
+Semantic similarity verbs: 0.7219802141189575
+
+Pairing: 60
+New Sentence: Die historische Bildung und der bürgerliche Universal-Rock herrschen zu gleicher Zeit. Während noch nie so volltönend von der „freien Persönlichkeit“ geredet worden ist, sieht man nicht einmal Persönlichkeiten, geschweige denn freie, sondern lauter ängstlich verhüllte Universal-Menschen. Das Individuum hat sich ins Innerliche zurückgezogen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.74721682983697
+Syntactic Similarity without tokens: 0.8502622672603198
+Semantic Score: 0.8539057374000549
+Semantic Score without stopwords: 0.8539057374000549
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5304244160652161
+Semantic similarity verbs: 0.7358724474906921
+
+Pairing: 61
+New Sentence: Nun ist sogar noch eine fürchterliche Species von Historikern übrig, tüchtige, strenge und ehrliche Charaktere — aber enge Köpfe; hier ist der gute Wille gerecht zu sein eben so vorhanden wie das Pathos des Richterthums. aber alle Richtersprüche sind falsch, ungefähr aus dem gleichen Grunde, aus dem die Urtheilssprüche der gewöhnlichen Geschworenen-Collegien falsch sind. Wie unwahrscheinlich ist also die Häufigkeit des historischen Talentes!
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7655945715303334
+Syntactic Similarity without tokens: 0.8553639621377683
+Semantic Score: 0.8346589803695679
+Semantic Score without stopwords: 0.8346589803695679
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6333275437355042
+Semantic similarity verbs: nan
+
+Pairing: 62
+New Sentence: Sein Spruch ist immer ungnädig, immer ungerecht, weil er nie aus einem reinen Borne der Erkenntniss geflossen ist; aber in den meisten Fällen würde der Spruch ebenso ausfallen, wenn ihn die Gerechtigkeit selber spräche. „Denn Alles was entsteht, ist werth, dass es zu Grunde geht. Drum besser wär’s, dass nichts entstünde.“ Es gehört sehr viel Kraft dazu, leben zu können und zu vergessen, in wie fern leben und ungerecht sein Eins ist.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7393577393917782
+Syntactic Similarity without tokens: 0.7814251060054982
+Semantic Score: 0.8604544997215271
+Semantic Score without stopwords: 0.8604544997215271
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6552315354347229
+Semantic similarity verbs: 0.6984685659408569
+
+Pairing: 63
+New Sentence: wahrscheinlich also nicht eher, als bis die Astronomen wieder zu Astrologen geworden sind. Bis dahin wird die monumentale Historie jene volle Wahrhaftigkeit nicht brauchen können. immer wird sie das Ungleiche annähern, verallgemeinern und endlich gleichsetzen, immer wird sie die Verschiedenheit der Motive und Anlässe abschwächen, um auf Kosten der causae die effectus monumental, nämlich vorbildlich und nachahmungswürdig, hinzustellen.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7429055226176309
+Syntactic Similarity without tokens: 0.8008306248357422
+Semantic Score: 0.8559707403182983
+Semantic Score without stopwords: 0.8559707403182983
+LCS Length: 1
+LCS: geworden 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.29746749997138977
+Semantic similarity verbs: 0.6690942645072937
+
+Pairing: 64
+New Sentence: Wie er aber gelebt hat, sagt uns in übermässiger Steinschrift-Deutlichkeit jene berühmte Seite mit den gross gedruckten Sätzen, über welche das ganze zeitgemässe Bildungs-Hefenthum in blindes Entzücken und entzückte Tobsucht gerathen ist, weil es in diesen Sätzen seine eigene Rechtfertigung, und zwar seine Rechtfertigung im apokalyptischen Lichte zu lesen glaubte. Denn von jedem Einzelnen forderte der unbewusste Parodist „die volle Hingabe der Persönlichkeit an den Weltprozess um seines Zieles, der Welterlösung willen“. oder noch heller und klarer.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7131812336208436
+Syntactic Similarity without tokens: 0.7746562218091501
+Semantic Score: 0.8849944472312927
+Semantic Score without stopwords: 0.8849944472312927
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5299220681190491
+Semantic similarity verbs: 0.7463861107826233
+
+Pairing: 65
+New Sentence: sie gehen sich gar nichts an — das nennt man dann wohl auch „Objectivität“! Wo nun gerade das Höchste und Seltenste dargestellt werden soll, da ist das absichtliche und zur Schau getragene Unbetheiligtsein, die hervorgesuchte nüchtern flache Motivirungskunst geradezu empörend — wenn nämlich die Eitelkeit des Historikers zu dieser objectiv sich gebärdenden Gleichgültigkeit treibt. Uebrigens hat man bei solchen Autoren sein Urtheil näher nach dem Grundsatze zu motiviren, dass jeder Mann gerade so viel Eitelkeit hat als es ihm an Verstande fehlt.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7106599387880048
+Syntactic Similarity without tokens: 0.7918526036165588
+Semantic Score: 0.8872635960578918
+Semantic Score without stopwords: 0.8872635960578918
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5788367390632629
+Semantic similarity verbs: 0.7053596377372742
+
+Pairing: 66
+New Sentence: nur dass es für die, welche durch und durch „historisch gebildet“ sind, ziemlich gleichgültig sein muss, ob sie das Eine oder das Andere ist. sind sie doch selbst weder Mann noch Weib, nicht einmal Communia, sondern immer nur Neutra oder, gebildeter ausgedrückt, eben nur die Ewig-Objectiven. Sind die Persönlichkeiten erst in der geschilderten Weise zu ewiger Subjectlosigkeit, oder wie man sagt, Objectivität ausgeblasen.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7139776777958005
+Syntactic Similarity without tokens: 0.8691082658881629
+Semantic Score: 0.8833466172218323
+Semantic Score without stopwords: 0.8833466172218323
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.44714540243148804
+Semantic similarity verbs: 0.7714203596115112
+
+Pairing: 67
+New Sentence: das Unhistorische und das Ueberhistorische sind die natürlichen Gegenmittel gegen die Ueberwucherung des Lebens durch das Historische, gegen die historische Krankheit. Es ist wahrscheinlich, dass wir, die Historisch-Kranken, auch an den Gegenmitteln zu leiden haben. Aber dass wir an ihnen leiden, ist kein Beweis gegen die Richtigkeit des gewählten Heilverfahrens.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7538113433014844
+Syntactic Similarity without tokens: 0.8466862631882313
+Semantic Score: 0.8430936336517334
+Semantic Score without stopwords: 0.8430936336517334
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4918946325778961
+Semantic similarity verbs: 0.5602068901062012
+
+Pairing: 68
+New Sentence: Das hat er nicht gesagt. dafür hat er in die von ihm durchsäuerten Generationen jene Bewunderung vor der „Macht der Geschichte“ gepflanzt, die praktisch alle Augenblicke in nackte Bewunderung des Erfolges umschlägt und zum Götzendienste des Thatsächlichen führt. für welchen Dienst man sich jetzt die sehr mythologische und ausserdem recht gut deutsche Wendung „den Thatsachen Rechnung tragen“ allgemein eingeübt hat.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7085415769567501
+Syntactic Similarity without tokens: 0.8608068303572695
+Semantic Score: 0.8877853155136108
+Semantic Score without stopwords: 0.8877853155136108
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7178077101707458
+Semantic similarity verbs: 0.8018572926521301
+
+Pairing: 69
+New Sentence: ihre „Bildung“ war vielmehr lange Zeit ein Chaos von ausländischen, semitischen, babylonischen, lydischen aegyptischen Formen und Begriffen und ihre Religion ein wahrer Götterkampf des ganzen Orients. ähnlich etwa wie jetzt die „deutsche Bildung“ und Religion ein in sich kämpfendes Chaos des gesammten Auslandes, der gesammten Vorzeit ist. Und trotzdem wurde die hellenische Cultur kein Aggregat, Dank jenem apollinischen Spruche.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7756430947349039
+Syntactic Similarity without tokens: 0.873898919098361
+Semantic Score: 0.8186241984367371
+Semantic Score without stopwords: 0.8186241984367371
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6887908577919006
+Semantic similarity verbs: nan
+
+Pairing: 70
+New Sentence: Als ob es auch die Aufgabe jeder Zeit wäre, gegen Alles, was einmal war, gerecht sein zu müssen! Zeiten und Generationen haben sogar niemals Recht, Richter aller früheren Zeiten und Generationen zu sein. sondern immer nur Einzelnen und zwar den Seltensten fällt einmal eine so unbequeme Mission zu.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7607619096419064
+Syntactic Similarity without tokens: 0.8751968296930974
+Semantic Score: 0.8334097862243652
+Semantic Score without stopwords: 0.8334097862243652
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6497425436973572
+Semantic similarity verbs: nan
+
+Pairing: 71
+New Sentence: absichtlichNach KGW/KGB Nachberichte fördert, ermuthigt und — benutzt. Man benutzt sie aber gegen die Jugend, um diese zu jener überall erstrebten Mannesreife des Egoismus abzurichten, man benutzt sie, um den natürlichen Widerwillen der Jugend durch eine verklärende, nämlich wissenschaftlich-magische Beleuchtung jenes männlich-unmännlichen Egoismus zu brechen. Ja man weiss, was die Historie durch ein gewisses Uebergewicht vermag, man weiss es nur zu genau.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7390063874103763
+Syntactic Similarity without tokens: 0.89487411357311
+Semantic Score: 0.8549790978431702
+Semantic Score without stopwords: 0.8549790978431702
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.7570596933364868
+
+Pairing: 72
+New Sentence: Dagegen sagt freilich unsere lustige Person mit jener bewunderungswürdigen Dialektik, welche gerade so ächt ist als ihre Bewunderer bewunderungswürdig sind. „So wenig es sich mit dem Begriffe der Entwickelung vertragen würde, dem Weltprozess eine unendliche Dauer in der Vergangenheit zuzuschreiben, weil dann jede irgend denkbare Entwickelung bereits durchlaufen sein müsste, was doch nicht der Fall ist“, (oErratum. oNach KGW/KGB Nachberichte Schelm!)
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7051482238801549
+Syntactic Similarity without tokens: 0.8864030035369086
+Semantic Score: 0.8888049125671387
+Semantic Score without stopwords: 0.8888049125671387
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5680844783782959
+Semantic similarity verbs: 0.789928138256073
+
+Pairing: 73
+New Sentence: Aber sie sollen einmal heraus, und man soll nur immer lachen. Ich willErratum. willNach KGW/KGB Nachberichte also sagen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7507858247671932
+Syntactic Similarity without tokens: 0.7592869393447568
+Semantic Score: 0.8430648446083069
+Semantic Score without stopwords: 0.8430648446083069
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.7659996747970581
+
+Pairing: 74
+New Sentence: Damit man aber nicht glaube, dass ich im Ernste die Geschichte mit dem Ewig-Weiblichen vergleiche, so will ich vielmehr klärlich aussprechen, dass ich sie im Gegentheil für das Ewig-Männliche halte. nur dass es für die, welche durch und durch „historisch gebildet“ sind, ziemlich gleichgültig sein muss, ob sie das Eine oder das Andere ist. sind sie doch selbst weder Mann noch Weib, nicht einmal Communia, sondern immer nur Neutra oder, gebildeter ausgedrückt, eben nur die Ewig-Objectiven.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7038085566097128
+Syntactic Similarity without tokens: 0.8599583270031638
+Semantic Score: 0.889957845211029
+Semantic Score without stopwords: 0.889957845211029
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.058823529411764705
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6025125980377197
+Semantic similarity verbs: 0.8010972142219543
+
+Pairing: 75
+New Sentence: Doch scheint es mir, dass man gleichsam nur die Obertöne jedes originalen geschichtlichen Haupttones vernimmt. das Derbe und Mächtige des Originals ist aus dem sphärisch-dünnen und spitzen Saitenklange nicht mehr zu errathen. Dafür weckte der Originalton meistens Thaten, Nöthe, Schrecken, dieser lullt uns ein und macht uns zu weichlichen Geniessern; es ist als ob man die heroische Symphonie für zwei Flöten eingerichtet und zum Gebrauch von träumenden Opiumrauchern bestimmt habe.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.73491453945742
+Syntactic Similarity without tokens: 0.7658295419274341
+Semantic Score: 0.8587465286254883
+Semantic Score without stopwords: 0.8587465286254883
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5108762383460999
+Semantic similarity verbs: 0.6907342672348022
+
+Pairing: 76
+New Sentence: Soviel zur Erinnerung an die Schäden, welche die monumentale Historie unter den Mächtigen und Thätigen, seien sie nun gut oder böse, anrichten kann. was wirkt sie aber erst, wenn sich ihrer die Ohnmächtigen und Unthätigen bemächtigen und bedienen! Nehmen wir das einfachste und häufigste Beispiel.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7267733112721133
+Syntactic Similarity without tokens: 0.9254698184955754
+Semantic Score: 0.8667868971824646
+Semantic Score without stopwords: 0.8667868971824646
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.41519859433174133
+Semantic similarity verbs: 0.6673815846443176
+
+Pairing: 77
+New Sentence: was wir von Herzen glauben. Jene erschreckende Verknöcherung der Zeit, jenes unruhige Klappern mit den Knochen — wie es uns David Strauss naiv als schönste Thatsächlichkeit geschildert hat — wird bei Hartmann nicht nur von hinten, ex causis efficientibus, sondern sogar von vorne, ex causa finali, gerechtfertigt; von dem jüngsten Tage her lässt der Schalk das Licht über unsere Zeit strahlen, und da findet sich, dass sie sehr gut ist, nämlich für den, der möglichst stark an Unverdaulichkeit des Lebens leiden will und jenen jüngsten Tag nicht rasch genug heranwünschen kann. Zwar nennt Hartmann das Lebensalter, welchem die Menschheit sich jetzt nähert, das „Mannesalter“.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6965057105369493
+Syntactic Similarity without tokens: 0.7956466662358496
+Semantic Score: 0.8965691924095154
+Semantic Score without stopwords: 0.8965691924095154
+LCS Length: 1
+LCS: glauben 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.594219446182251
+Semantic similarity verbs: 0.8393590450286865
+
+Pairing: 78
+New Sentence: Oder sollte als Wächter des grossen geschichtlichen Welt-Harem ein Geschlecht von Eunuchen nöthig sein? Denen steht freilich die reine Objectivität schön zu Gesichte. Scheint es doch fast, als wäre es die Aufgabe, die Geschichte zu bewachen, dass nichts aus ihr heraus komme als eben Geschichten, aber ja kein Geschehen!, zu verhüten, dass durch sie die Persönlichkeiten „frei“ werden, soll heissen wahrhaftig gegen sich, wahrhaftig gegen Andere, und zwar in Wort und That.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6874578305210753
+Syntactic Similarity without tokens: 0.8179942100138312
+Semantic Score: 0.9055150151252747
+Semantic Score without stopwords: 0.9055150151252747
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7690024375915527
+Semantic similarity verbs: 0.6772338151931763
+
+Pairing: 79
+New Sentence: So sind sie Kunstkenner, weil sie die Kunst überhaupt beseitigen möchten, so gebärden sie sich als Aerzte, während sie es im Grunde auf Giftmischerei abgesehen haben, so bilden sie ihre Zunge und ihren Geschmack aus, um aus ihrer Verwöhntheit zu erklären, warum sie alles das, was ihnen von nahrhafter Kunstspeise angeboten wird, so beharrlich ablehnen. Denn sie wollen nicht, dass das Grosse entsteht. ihr Mittel ist zu sagen „seht, das Grosse ist schon da!“ In Wahrheit geht sie dieses Grosse, das schon da ist, so wenig an, wie das, was entsteht.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7110295059719536
+Syntactic Similarity without tokens: 0.7720274032836405
+Semantic Score: 0.8815414309501648
+Semantic Score without stopwords: 0.8815414309501648
+LCS Length: 2
+LCS: grosse schon 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.3505038321018219
+Semantic similarity verbs: 0.7250123023986816
+
+Pairing: 80
+New Sentence: „Der denkende Leser wird auch ohne weitere Andeutungen verstehen, wie eine auf diesen Principien errichtete praktische Philosophie sich gestalten würde, und dass eine solche nicht die Entzweiung, sondern nur die volle Versöhnung mit dem Leben enthalten kann.“ Der denkende Leser wird es verstehen. und man konnte Hartmann missverstehen! Und wie unsäglich lustig ist es, dass man ihn missverstand!
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7198468873200478
+Syntactic Similarity without tokens: 0.8448236728986334
+Semantic Score: 0.8725775480270386
+Semantic Score without stopwords: 0.8725775480270386
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5031552910804749
+Semantic similarity verbs: 0.7949811816215515
+
+Pairing: 81
+New Sentence: Greift man solche Masken an, weil man glaubt, es sei ihnen Ernst, und nicht bloss um ein Possenspiel zu thun, — da sie allesammt den Ernst affichiren — so hat man plötzlich nur Lumpen und bunte Flicken in den Händen. Deshalb soll man sich nicht mehr täuschen lassen, deshalb soll man sie anherrschen. „zieht eure Jacken aus oder seid, was ihr scheint.“ Es soll nicht mehr jeder Ernsthafte von Geblüt zu einem Don Quixote werden, da er Besseres zu thun hat, als sich mit solchen vermeintlichen Realitäten herumzuschlagen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6870877321190848
+Syntactic Similarity without tokens: 0.911541559277755
+Semantic Score: 0.9050206542015076
+Semantic Score without stopwords: 0.9050206542015076
+LCS Length: 1
+LCS: glaubt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.05
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.589391827583313
+Semantic similarity verbs: 0.775312066078186
+
+Pairing: 82
+New Sentence: In solchen Wirkungen ist der Historie die Kunst entgegengesetzt. und nur wenn die Historie es erträgt, zum Kunstwerk umgebildet, also reines Kunstgebilde zu werden, kann sie vielleicht Instincte erhalten oder sogar wecken. Eine solche Geschichtschreibung würde aber durchaus dem analytischen und unkünstlerischen Zuge unserer Zeit widersprechen, ja von ihr als Fälschung empfunden werden.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.691062343982657
+Syntactic Similarity without tokens: 0.8353778112088465
+Semantic Score: 0.9008837938308716
+Semantic Score without stopwords: 0.9008837938308716
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.058823529411764705
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5330387949943542
+Semantic similarity verbs: 0.7891159057617188
+
+Pairing: 83
+New Sentence: Aber dass wir an ihnen leiden, ist kein Beweis gegen die Richtigkeit des gewählten Heilverfahrens. Und hier erkenne ich die Mission jener Jugend, jenes ersten Geschlechtes von Kämpfern und Schlangentödtern, das einer glücklicheren und schöneren Bildung und Menschlichkeit voranzieht, ohne von diesem zukünftigen Glücke und der einstmaligen Schönheit mehr zu haben als eine verheissende Ahnung. Diese Jugend wird an dem Uebel und an den Gegenmitteln zugleich leiden.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7328579417805516
+Syntactic Similarity without tokens: 0.8461837173488768
+Semantic Score: 0.8589179515838623
+Semantic Score without stopwords: 0.8589179515838623
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6273424625396729
+Semantic similarity verbs: 0.6795921325683594
+
+Pairing: 84
+New Sentence: So verhalten sich häufig Philologen und Griechen zu einander. sie gehen sich gar nichts an — das nennt man dann wohl auch „Objectivität“! Wo nun gerade das Höchste und Seltenste dargestellt werden soll, da ist das absichtliche und zur Schau getragene Unbetheiligtsein, die hervorgesuchte nüchtern flache Motivirungskunst geradezu empörend — wenn nämlich die Eitelkeit des Historikers zu dieser objectiv sich gebärdenden Gleichgültigkeit treibt.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6988122043463272
+Syntactic Similarity without tokens: 0.7835662197233586
+Semantic Score: 0.8924582004547119
+Semantic Score without stopwords: 0.8924582004547119
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5510360598564148
+Semantic similarity verbs: 0.7352334260940552
+
+Pairing: 85
+New Sentence: HistorieNach KGW/KGB Nachberichte, aber wir brauchen sie anders, als sie der verwöhnte Müssiggänger im Garten des Wissens braucht, mag derselbe auch vornehm auf unsere derben und anmuthlosen Bedürfnisse und Nöthe herabsehen. Das heisst, wir brauchen sie zum Leben und zur That, nicht zur bequemen Abkehr vom Leben und von der That oder gar zur Beschönigung des selbstsüchtigen Lebens und der feigen und schlechten That. Nur soweit die Historie dem Leben dient, wollen wir ihr dienen.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7321854480883272
+Syntactic Similarity without tokens: 0.886745474144695
+Semantic Score: 0.85903400182724
+Semantic Score without stopwords: 0.85903400182724
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5576147437095642
+Semantic similarity verbs: 0.6235635876655579
+
+Pairing: 86
+New Sentence: Wer nicht Einiges grösser und höher erlebt hat als Alle, wird auch nichts Grosses und Hohes aus der Vergangenheit zu deuten wissen. Der Spruch der Vergangenheit ist immer ein Orakelspruch. nur als Baumeister der Zukunft, als Wissende der Gegenwart werdet ihr ihn verstehen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7119060497924704
+Syntactic Similarity without tokens: 0.8544189593815346
+Semantic Score: 0.8768400549888611
+Semantic Score without stopwords: 0.8768400549888611
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.444253146648407
+Semantic similarity verbs: 0.8391649723052979
+
+Pairing: 87
+New Sentence: Hegel hat uns einmal gelehrt, „wenn der Geist einen Ruck macht, da sind wir Philosophen auch dabei“. unsere Zeit machte einen Ruck zur Selbstironie, und siehe! da war auch E. von Hartmann dabei und hatte seine berühmte Philosophie des Unbewussten — oder um deutlicher zu reden — seine Philosophie der unbewussten Ironie geschrieben.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7860936465369871
+Syntactic Similarity without tokens: 0.873626253730306
+Semantic Score: 0.8018271923065186
+Semantic Score without stopwords: 0.8018271923065186
+LCS Length: 1
+LCS: gelehrt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.504836916923523
+Semantic similarity verbs: 0.743181049823761
+
+Pairing: 88
+New Sentence: „zieht eure Jacken aus oder seid, was ihr scheint.“ Es soll nicht mehr jeder Ernsthafte von Geblüt zu einem Don Quixote werden, da er Besseres zu thun hat, als sich mit solchen vermeintlichen Realitäten herumzuschlagen. Jedenfalls aber muss er scharf hinsehen, bei jeder Maske sein Halt Werda! rufen und ihr die Larve in den Nacken ziehen.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6955031079691714
+Syntactic Similarity without tokens: 0.7836171320865601
+Semantic Score: 0.8923820853233337
+Semantic Score without stopwords: 0.8923820853233337
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4395710825920105
+Semantic similarity verbs: 0.7463095188140869
+
+Pairing: 89
+New Sentence: denn er wollte natürlicher und dadurch deutscher werden. Nun scheint er sich aber in diesem „Dadurch“ verrechnet zu haben. aus der Schule der Convention entlaufen, liess er sich nun gehen, wie und wohin er eben Lust hatte und machte im Grunde schlottericht und beliebig in halber Vergesslichkeit nach, was er früher peinlich und oft mit Glück nachmachte.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6971818544373125
+Syntactic Similarity without tokens: 0.7265445167638526
+Semantic Score: 0.8906604051589966
+Semantic Score without stopwords: 0.8906604051589966
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5077049136161804
+Semantic similarity verbs: 0.7131440043449402
+
+Pairing: 90
+New Sentence: ein Solcher glaubt nicht mehr an sein eigenes Sein, glaubt nicht mehr an sich, sieht alles in bewegte Punkte auseinander fliessen und verliert sich in diesem Strome des Werdens. er wird wie der rechte Schüler Heraklits zuletzt kaum mehr wagen den Finger zu heben. Zu allem Handeln gehört Vergessen.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6993266816393281
+Syntactic Similarity without tokens: 0.8998071732886742
+Semantic Score: 0.8884561061859131
+Semantic Score without stopwords: 0.8884561061859131
+LCS Length: 1
+LCS: glaubt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6282029151916504
+Semantic similarity verbs: 0.8656553030014038
+
+Pairing: 91
+New Sentence: Dies wäre eine Mythologie und eine schlechte obendrein. zudem vergässe man, dass jener Moment gerade der kräftigste und selbstthätigste Zeugungsmoment im Innern des Künstlers ist, ein Compositionsmoment allerhöchster Art, dessen Resultat wohl ein künstlerisch wahres, nicht ein historisch wahres Gemälde sein wird. In dieser Weise die Geschichte objectiv denken ist die stille Arbeit des Dramatikers; nämlich Alles aneinander denken, das Vereinzelte zum Ganzen weben.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7077670225745265
+Syntactic Similarity without tokens: 0.8732498340815731
+Semantic Score: 0.8798079490661621
+Semantic Score without stopwords: 0.8798079490661621
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7210326790809631
+Semantic similarity verbs: 0.7102673053741455
+
+Pairing: 92
+New Sentence: mag er noch so weit, noch so schnell laufen, die Kette läuft mit. Es ist ein Wunder. der Augenblick, im Husch da, im Husch vorüber, vorher ein Nichts, nachher ein Nichts, kommt doch noch als Gespenst wieder und stört die Ruhe eines späteren Augenblicks.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7319016042092998
+Syntactic Similarity without tokens: 0.7549238720369801
+Semantic Score: 0.8544807434082031
+Semantic Score without stopwords: 0.8544807434082031
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.09090909090909091
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6343657970428467
+Semantic similarity verbs: 0.6168779134750366
+
+Pairing: 93
+New Sentence: Sie brauchen sich nur einmal bequem hinzusetzen, so gelingt es ihnen, auch ihr kleines Studienbereich jener gemischt-populären Bedürfniss-Neubegier aufzuschliessen. Für diesen Bequemlichkeitsakt praetendirt man hinterdrein den Namen „bescheidene Herablassung des Gelehrten zu seinem Volke“. während im Grunde der Gelehrte nur zu sich, soweit er nicht Gelehrter, sondern Pöbel ist, herabstieg.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7817798579262438
+Syntactic Similarity without tokens: 0.8957754178196766
+Semantic Score: 0.8043563365936279
+Semantic Score without stopwords: 0.8043563365936279
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4372684359550476
+Semantic similarity verbs: 0.7091177105903625
+
+Pairing: 94
+New Sentence: Was bleibt ihm nun wiederum als seine tiefe Erkenntniss. diese aussprechend, verbreitend, mit vollen Händen ausstreuend, hofft er ein Bedürfniss zu pflanzen. und aus dem starken Bedürfniss wird einmal die starke That entstehen.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7763261752772976
+Syntactic Similarity without tokens: 0.8794084976905416
+Semantic Score: 0.8094215393066406
+Semantic Score without stopwords: 0.8094215393066406
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4988740086555481
+Semantic similarity verbs: 0.6975186467170715
+
+Pairing: 95
+New Sentence: Wer sieht und hört hier nicht die historische Bildung, die nur das Wort „werden“ kennt, wie sie sich zur parodischen Missgestalt absichtlich vermummt, wie sie durch die vorgehaltene groteske Fratze die muthwilligsten Dinge über sich selbst sagt! Denn was verlangt eigentlich dieser letzte schalkische Anruf der Arbeiter im Weinberge von diesen? In welcher Arbeit sollen sie rüstig vorwärts streben?
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6873359823773194
+Syntactic Similarity without tokens: 0.7491948939674689
+Semantic Score: 0.8954808115959167
+Semantic Score without stopwords: 0.8954808115959167
+LCS Length: 1
+LCS: wer 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.41115790605545044
+Semantic similarity verbs: 0.7497345209121704
+
+Pairing: 96
+New Sentence: War er schon als Knabe „fertig“, so ist er nun bereits überfertig. man braucht an ihm nur zu schütteln, so fällt einem die Weisheit mit Geprassel in den Schooss; doch die Weisheit ist faul und jeder Apfel hat seinen Wurm. Glaubt es mir.
+Reference: 
+Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse . Was man glaubt , hat daher nicht noͤthig bewiesen zu werden , und ein Satz kann noch so unumstoͤßlich bewiesen seyn , ohne deswegen geglaubt zu werden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7881352011727079
+Syntactic Similarity without tokens: 0.7294528039171513
+Semantic Score: 0.7930850982666016
+Semantic Score without stopwords: 0.7930850982666016
+LCS Length: 1
+LCS: glaubt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4202565550804138
+Semantic similarity verbs: 0.7392637133598328
+
+Pairing: 97
+New Sentence: Ja er hätte sagen müssen, dass alle nach ihm kommenden Dinge eigentlich nur als eine musikalische Coda des weltgeschichtlichen Rondos, noch eigentlicher, als überflüssig zu schätzen seien. Das hat er nicht gesagt. dafür hat er in die von ihm durchsäuerten Generationen jene Bewunderung vor der „Macht der Geschichte“ gepflanzt, die praktisch alle Augenblicke in nackte Bewunderung des Erfolges umschlägt und zum Götzendienste des Thatsächlichen führt.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat . Es fehlt Dir nicht an Augen und Ohren , die aber nicht sehen , nicht hoͤren ; und das kuͤnstliche Auge , das Du machst , das kuͤnstliche Ohr , das Du pflanzest , ist , gleich den Deinigen , blind und taub .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7014351135660478
+Syntactic Similarity without tokens: 0.7702219758246144
+Semantic Score: 0.8796616196632385
+Semantic Score without stopwords: 0.8796616196632385
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0625
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6776682734489441
+Semantic similarity verbs: 0.8050780892372131
+
+Pairing: 98
+New Sentence: Noch ist der Krieg nicht beendet, und schon ist er in bedrucktes Papier hunderttausendfach umgesetzt, schon wird er als neuestes Reizmittel dem ermüdeten Gaumen der nach Historie Gierigen vorgesetzt. Es scheint fast unmöglich, dass ein starker und voller Ton selbst durch das mächtigste Hineingreifen in die Saiten erzeugt werde. sofort verhallt er wieder, im nächsten Augenblicke bereits klingt er historisch zart verflüchtigt und kraftlos ab.
+Reference: 
+Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7036607286358135
+Syntactic Similarity without tokens: 0.7630325706828437
+Semantic Score: 0.8770371675491333
+Semantic Score without stopwords: 0.8770371675491333
+LCS Length: 1
+LCS: schon 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5671932697296143
+Semantic similarity verbs: 0.7205398082733154
+
+Pairing: 99
+New Sentence: das Monumentale soll durchaus nicht wieder entstehen, und dazu nützt gerade das, was einmal die Auctorität des Monumentalen aus der Vergangenheit her hat. So sind sie Kunstkenner, weil sie die Kunst überhaupt beseitigen möchten, so gebärden sie sich als Aerzte, während sie es im Grunde auf Giftmischerei abgesehen haben, so bilden sie ihre Zunge und ihren Geschmack aus, um aus ihrer Verwöhntheit zu erklären, warum sie alles das, was ihnen von nahrhafter Kunstspeise angeboten wird, so beharrlich ablehnen. Denn sie wollen nicht, dass das Grosse entsteht.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.69969004476997
+Syntactic Similarity without tokens: 0.8581955217383375
+Semantic Score: 0.8806598782539368
+Semantic Score without stopwords: 0.8806598782539368
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6364893913269043
+Semantic similarity verbs: 0.6896246075630188
+
+Pairing: 100
+New Sentence: davon legt ihr Leben Zeugniss ab. Die monumentalische Historie ist das Maskenkleid, in dem sich ihr Hass gegen die Mächtigen und Grossen ihrer Zeit für gesättigte Bewunderung der Mächtigen und Grossen vergangener Zeiten ausgiebt, in welchem verkappt sie den eigentlichen Sinn jener historischen Betrachtungsart in den entgegengesetzten umkehren; ob sie es deutlich wissen oder nicht, sie handeln jedenfalls so, als ob ihr Wahlspruch wäre. lasst die Todten die Lebendigen begraben.
+Reference: 
+Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt und kann auf keine andere Art ausgemacht werden . Was ist gewisser als des Menschen Ende , und von welcher Wahrheit gibt es eine allgemeinere und bewaͤhrtere Erkenntnis ? Niemand ist gleichwol so klug solche zu glauben , als der , wie Moses zuverstehen giebt , von Gott selbst gelehrt wird zu bedenken , daß er sterben muͤsse .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.6828200148713797
+Syntactic Similarity without tokens: 0.8469011922015146
+Semantic Score: 0.897342324256897
+Semantic Score without stopwords: 0.897342324256897
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5298899412155151
+Semantic similarity verbs: 0.8040629625320435
+

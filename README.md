@@ -8,7 +8,7 @@ A python package which searches for potential allusions and references made by a
 * New Text: The book which might be making allusions to other books
 * Potential Candidates: The books to which the references might have been made
 
-# Methodology
+# Overview of Methodology
 * Every sentence in the new text is compared with every other sentence in the potential candidates for structural and semantic similarity. 
 * Structural similarity is calculated using the Moschitti Score. 
 * Semantic similarity is calculated using the cosine similarity between the average word vectors of two sentences. Pre-trained google word2vec vectors are used. 
@@ -16,10 +16,15 @@ A python package which searches for potential allusions and references made by a
 If a sentence in the potential candidates does not have a minimum (user-defined) jaccardian index (word overlap) with any of the sentences in the new text, then this sentence is discarded right at the start, i.e. before the semnatic and similarity checks. 
 * We then order the pairs of sentences(sentence from new text paired with a sentence from the potential candidates) based on their average similairty and discard of all the pairs that are below the threshold (again, user-defined). 
 * Finally, we rank the left over sentence pairs based on the jaccard index of nouns in the two sentences. This is because increased presence of nouns indicates higher chances of actual allusions and ranks these sentences above the potential false positives. 
+* Currently, the system extracts a number of semantic and syntactic similarity metrics and displays them to the user in the final output. However, the system only uses the Moschitti score and cosine of word2vec to filter out the tuples. 
 
 # Initial Setup
 * Download pre-trained google word2vec vectors 
-* Download Stanford NLP 
+* Download Stanford NLP and the packages for the languages that you want to process
+* Download spacy models for the languages that you want to process
+* You might also have to download certain modules from NLTK which are not downloaded automatically. Hence, you might get some errors when you are running it for the first time. 
+
+
 # Variables and Data Structures 
 * text: a list of sentences (new book): [sent1,sent2,sent3,.....]
 * books: a dicitionary where the key is a name of potential book and the value is a list of sentences.
@@ -83,7 +88,7 @@ finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
 orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
 ```
 
-* Write out to a file
+* Write out the sentence pairs to a file
 
 ```python
 d.writeOutput(orderedTuples,text,reducedBooks)
@@ -135,7 +140,7 @@ finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
 orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
 ```
 
-* Write out to a file
+* Write out the paragraph pairs to a file
 
 ```python
 d.writeOutput(orderedTuples,textPara,reducedBooks)
