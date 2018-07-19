@@ -6,7 +6,7 @@ from detectParagraph import *
 def main():
 
 	# An object to detect allusions
-	d=detectParagraph(inputFolder='../data/n2/',outputFolder='../output/n2/',cores=32)
+	d=detectParagraph(inputFolder='../data/n1/',outputFolder='../output/n1/',cores=32)
 	
 	# Loading the data
 	print('Loading books and splitting')
@@ -29,27 +29,27 @@ def main():
 	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooksPara,threshold=0.05) #filtering on spacy data structure
 	reducedBooks=d.filterOriginalBooks(reducedSentences,booksPara) #filtering on the original books
 
-	pickling_on = open('../output/'+'n2/reducedBooks.pickle',"wb")
+	pickling_on = open('../output/'+'n1/reducedBooks.pickle',"wb")
 	pickle.dump(reducedBooks, pickling_on)
 
 	# Syntactic parsing of the new text
 	print('Syntactic parsing')
 	parseTrees,parseWithoutTokenTrees=d.parseNewBook(textChunks)
 
-	pickling_on = open('../output/'+'n2/parseTrees.pickle',"wb")
+	pickling_on = open('../output/'+'n1/parseTrees.pickle',"wb")
 	pickle.dump(parseTrees, pickling_on)
 
 	# Syntactic parsing of the candidates
 	potentialParseTrees,potentialParseWithoutTokenTrees=d.parseCandidates(reducedBooks)
 
-	pickling_on = open('../output/'+'n2/potentialParseTrees.pickle',"wb")
+	pickling_on = open('../output/'+'n1/potentialParseTrees.pickle',"wb")
 	pickle.dump(potentialParseTrees, pickling_on)
 
 	# Syntactic similarity scoring using the Moschitti score
 	print('Moschitti scoring')
 	syntacticScore,syntacticScoreWithoutTokens=d.syntacticScoring(parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees)
 
-	pickling_on = open('../output/'+'n2/allScores.pickle',"wb")
+	pickling_on = open('../output/'+'n1/allScores.pickle',"wb")
 	pickle.dump(syntacticScore, pickling_on)
 
 	# Semantic scoring  
@@ -64,7 +64,7 @@ def main():
 	print('Average scoring')
 	scoreTuples=d.aggregateScoring(syntacticScore,semanticScore,lcsScore,lcs,syntacticScoreWithoutTokens)
 
-	pickling_on = open('../output/'+'n2/scoreTuples.pickle',"wb")
+	pickling_on = open('../output/'+'n1/scoreTuples.pickle',"wb")
 	pickle.dump(scoreTuples, pickling_on)
 
 	# Extracting a limited number of paragraph pairs
@@ -75,7 +75,7 @@ def main():
 	# Ranking the tuples using jaccard index of nouns
 	orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
 	
-	pickling_on = open('../output/'+'n2/orderedTuples.pickle',"wb")
+	pickling_on = open('../output/'+'n1/orderedTuples.pickle',"wb")
 	pickle.dump(orderedTuples, pickling_on)
 
 	# Printing out the final tuples on the terminal

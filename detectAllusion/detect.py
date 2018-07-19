@@ -136,7 +136,7 @@ class detect:
 		spacyText=[]
 		for chunk in spacyTextChunks:
 			for sent in chunk:
-				spacyText.append(spacyText)
+				spacyText.append(sent)
 
 		spacyBooks=dict()
 		for book in self.booksList:
@@ -380,7 +380,7 @@ class detect:
 						semScore_withoutStop=1 - spatial.distance.cosine(s1ws, s2ws)
 						semScore_nouns=1 - spatial.distance.cosine(s1n, s2n)
 						semScore_verbs=1 - spatial.distance.cosine(s1v, s2v)
-						properNouns=commonProperNouns_multilingual(text[i],reducedBooks[bk][j])
+						properNouns=commonProperNouns(text[i],reducedBooks[bk][j])
 						df.append((semScore,semScore_withoutStop,semScore_nouns,semScore_verbs,properNouns))
 					scoreDict[bk]=df
 				semanticScore.append(scoreDict)
@@ -558,7 +558,11 @@ class detect:
 # A main function to demonstrate the use of the package
 
 def main():
-	d=detect(inputFolder='../data/temp/',outputFolder='../output/temp/')
+
+	# Creating an object to detect sentence level allusions
+	d=detect(inputFolder='../data/temp/',outputFolder='../output/temp/',cores=30)
+	
+	# loading the data
 	print('Loading books and splitting')
 	text=d.loadNew()
 	books=d.loadCandidates()
@@ -566,54 +570,66 @@ def main():
 
 	# d.extendStopwords(text)
 	
+	# processing using spacy
 	print('spacy')
 	spacyTextChunks,spacyBooks,spacyText=d.spacyExtract(textChunks,books)
 
+	# filtering using jaccard
 	print('Filtering using Jaccard')
-	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooks,threshold=0.2)
+	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooks,threshold=0.3) #filtering the spacy data structure
+	reducedBooks=d.filterOriginalBooks(reducedSentences,books) #filtering the original data structure
 
-	reducedBooks=d.filterOriginalBooks(reducedSentences,books)
+	pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")
+	pickle.dump(reducedBooks, pickling_on)
 
-
+	# Syntactic parsing of the new text
 	print('Syntactic parsing')
 	parseTrees,parsedSentences,parseWithoutTokenTrees=d.parseNewBook(textChunks)
+
 	pickling_on = open('../output/'+'temp/parseTrees.pickle',"wb")
 	pickle.dump(parseTrees, pickling_on)
 
+	# Syntactic parsing of the potential candidates
 	potentialParseTrees,potentialParsedSentences,potentialParseWithoutTokenTrees=d.parseCandidates(reducedBooks)
 
 	pickling_on = open('../output/'+'temp/potentialParseTrees.pickle',"wb")
 	pickle.dump(potentialParseTrees, pickling_on)
 
-	print('Moschitti scoring')
+	# Syntactic scoring using the moschitti score
+	print('Moschitti scorings')
 	syntacticScore,syntacticScoreWithoutTokens=d.syntacticScoring(parseTrees,potentialParseTrees,parseWithoutTokenTrees,potentialParseWithoutTokenTrees)
 
 	pickling_on = open('../output/'+'temp/allScores.pickle',"wb")
 	pickle.dump(syntacticScore, pickling_on)
 
-
+	# Semantic scoring using word2vec
 	print('Semantic scoring')
 	semanticScore=d.semanticScoring(spacyText,reducedSpacyBooks,monolingual=True,lang1='english',lang2='english')
 
+	# Extracting the longest common subsequence
 	print('Extracting longest subsequence')
 	lcsScore,lcs=d.longestSubsequenceScoring(text,reducedBooks)
 
+	# Aggregating the syntactic and semantic scores
 	print('Average scoring')
-
 	scoreTuples=d.aggregateScoring(syntacticScore,semanticScore,lcsScore,lcs,syntacticScoreWithoutTokens)
 
 	pickling_on = open('../output/'+'temp/scoreTuples.pickle',"wb")
 	pickle.dump(scoreTuples, pickling_on)
 
+	# Extracting a limited number of sentence pairs
 	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
 	if len(finalTuples)>100:
 		finalTuples=finalTuples[0:100]
 	
+	# Sorting the extracted tuples using Noun based ranking
 	orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
 	
 	pickling_on = open('../output/'+'temp/orderedTuples.pickle',"wb")
 	pickle.dump(orderedTuples, pickling_on)
 
+
+	# Printing final results on the terminal
 	print('Final results: \n\n\n')
 
 	i=1
@@ -639,40 +655,16 @@ def main():
 		print('\n\n')
 		i=i+1
 
+	# Writing the output into a file
 	d.writeOutput(orderedTuples,text,reducedBooks)
 
-	# print('\n\n Tuples with large difference in syntactic and semantic value: \n\n\n')
+	# Sorting the tuples which had high differences
 
 	diffTuples=d.nounBasedRanking(diffTuples,spacyText,reducedSpacyBooks)
 
 	pickling_on = open('../output/'+'temp/diffTuples.pickle',"wb")
 	pickle.dump(diffTuples, pickling_on)
 
-'''
-	i=1
-	for t in diffTuples:
-		print('Pairing: ',i)
-		print('\n')
-		print('New Sentence: ',text[t[0]])
-		print('\n')
-		print('Reference: \n',reducedBooks[t[1]][t[2]])
-		print('\n')
-		print('Similar Sentence is from: ',t[1])
-		print('Syntactic Score: ',t[3])
-		print('Syntactic Similarity without tokens: ',t[11])
-		print('Semantic Score: ',t[4])
-		print('Semantic Score without stopwords: ',t[5])
-		print('LCS Length: ',t[9])
-		print('LCS: ',t[10])
-		print('Jaccard of common nouns: ',t[12])
-		print('Jaccard of common verbs: ',t[13])
-		print('Jaccard of common adjectives: ',t[14])
-		print('Semantic similarity nouns: ',t[6])
-		print('Semantic similarity verbs: ',t[7])
-		print('\n\n')
-		i=i+1
-
-'''
 
 
 if __name__=="__main__":

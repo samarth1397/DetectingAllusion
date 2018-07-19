@@ -839,15 +839,4 @@ def fasttext_avg_feature_vector_verbs(sentence, embeddings, num_features, word2i
     return feature_vec  
 
 
-'''
-Returns the number of common proper nouns between the two sentences; change pos tagger to support multilingual tagging
-'''
-
-def commonProperNouns_multilingual(sent1,sent2):
-    sent1_tokens=nltk.pos_tag(tokenizer.tokenize(sent1))
-    sent2_tokens=nltk.pos_tag(tokenizer.tokenize(sent2))
-    sent1_proper=[word.lower() for (word,tag) in sent1_tokens if ((tag=='NNP') and (word not in stopwords))]
-    sent2_proper=[word.lower() for (word,tag) in sent2_tokens if ((tag=='NNP') and (word not in stopwords))]
-    common=len(set(sent1_proper).intersection(sent2_proper))
-    return common
 
