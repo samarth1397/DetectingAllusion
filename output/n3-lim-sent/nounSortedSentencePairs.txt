@@ -1,0 +1,1700 @@
+Pairing: 1
+New Sentence: er findet im Grunde (oder richtiger.
+Reference: 
+Sokrates scheint ein aufrichtiger Mann gewesen zu seyn , dessen Handlungen von dem Grund seines Herzens , und nicht von dem Eindruck , den andere davon haben , bestimmt worden .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8473775902676475
+Syntactic Similarity without tokens: 0.8617051752302336
+Semantic Score: 0.7632772922515869
+Semantic Score without stopwords: 0.7632772922515869
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.16666666666666666
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7535431385040283
+Semantic similarity verbs: 0.4871487021446228
+
+Pairing: 2
+New Sentence: „Schmerz und Langeweile ist unser Sein und Koth             die Welt — nichts Andres.
+Reference: 
+Wir wissen , daß es keinen Goͤtzen in der Welt giebt .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.800696858918894
+Syntactic Similarity without tokens: 0.9248608029512277
+Semantic Score: 0.805058479309082
+Semantic Score without stopwords: 0.805058479309082
+LCS Length: 1
+LCS: welt 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.7386292815208435
+Semantic similarity verbs: nan
+
+Pairing: 3
+New Sentence: In Deutschland ist es nicht viel länger als ein Jahrhundert her, dass in einigen jungen Menschen ein natürlicher Instinct für das, was man Poesie nennt, erwachte.
+Reference: 
+Daher kann die Verwirrung in dem Muͤnzwesen Deutschlands so groß nicht seyn , als die in die Lehrbuͤcher eingeschlichen , so unter uns gaͤng und gebe sind .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.830498638392094
+Syntactic Similarity without tokens: 0.9372002478999837
+Semantic Score: 0.8018109798431396
+Semantic Score without stopwords: 0.791344165802002
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.834624171257019
+Semantic similarity verbs: 0.6306343078613281
+
+Pairing: 4
+New Sentence: Denn welches ist doch der Gegensatz zwischen dem Thun und Treiben der Menschen und dem Gange der Dinge?
+Reference: 
+Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7856863841466735
+Syntactic Similarity without tokens: 0.9192883882347881
+Semantic Score: 0.8224295973777771
+Semantic Score without stopwords: 0.8251239657402039
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.125
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7340040802955627
+Semantic similarity verbs: nan
+
+Pairing: 5
+New Sentence: „Nichts lebt, das würdig „Wär deiner Regungen, und keinen Seufzer verdient             die Erde.
+Reference: 
+Wenn kein junger Sperling ohne unsern Gott auf die Erde faͤllt ; so ist kein Denkmal alter Zeiten fuͤr uns verloren gegangen , das wir zu beklagen haͤtten .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.820153750966155
+Syntactic Similarity without tokens: 0.8769307931979498
+Semantic Score: 0.767944872379303
+Semantic Score without stopwords: 0.767944872379303
+LCS Length: 1
+LCS: erde 
+Jaccard of common nouns: 0.1111111111111111
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.8054119348526001
+Semantic similarity verbs: 0.6210655570030212
+
+Pairing: 6
+New Sentence: sicherlich aber wäre die Welt erlöster, wenn sie von diesen Männern und Greisen erlöst wäre.
+Reference: 
+Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7982456140350878
+Syntactic Similarity without tokens: 0.9010133883103767
+Semantic Score: 0.7975947260856628
+Semantic Score without stopwords: 0.7975947260856628
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6923132538795471
+Semantic similarity verbs: nan
+
+Pairing: 7
+New Sentence: Denkt man etwa, dass die Generationen vorher und zu jener Zeit von jener ihnen innerlich fremden und unnatürlichen Kunst gar nicht geredet hätten?
+Reference: 
+Sokrates war also bescheiden genung seine Schulweisheit mit der Kunst eines alten Weibes zu vergleichen , welches blos der Arbeit der Mutter und ihrer zeitigen Frucht zu Huͤlfe kommt , und beyden Handreichung thut .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7340425531914894
+Syntactic Similarity without tokens: 0.9014540653667042
+Semantic Score: 0.8791074752807617
+Semantic Score without stopwords: 0.8660700917243958
+LCS Length: 1
+LCS: kunst 
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7942833304405212
+Semantic similarity verbs: 0.5539879202842712
+
+Pairing: 8
+New Sentence: Denen, die unermüdlich den modernen Schlacht- und Opferruf „Theilung der Arbeit!
+Reference: 
+Sokrates war also bescheiden genung seine Schulweisheit mit der Kunst eines alten Weibes zu vergleichen , welches blos der Arbeit der Mutter und ihrer zeitigen Frucht zu Huͤlfe kommt , und beyden Handreichung thut .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8226812321349899
+Syntactic Similarity without tokens: 0.8284926512561918
+Semantic Score: 0.7842743992805481
+Semantic Score without stopwords: 0.7871279120445251
+LCS Length: 1
+LCS: arbeit 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6747885942459106
+Semantic similarity verbs: nan
+
+Pairing: 9
+New Sentence: Das Erkennen setzt das Leben voraus, hat also an der Erhaltung des Lebens dasselbe Interesse, welches jedes Wesen an seiner eignen Fortexistenz hat.
+Reference: 
+Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7933777856007358
+Syntactic Similarity without tokens: 0.9023053601182514
+Semantic Score: 0.8361368179321289
+Semantic Score without stopwords: 0.8225117325782776
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.07142857142857142
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6488219499588013
+Semantic similarity verbs: 0.5667559504508972
+
+Pairing: 10
+New Sentence: Aber nur die überlegene Kraft kann richten, die Schwäche muss toleriren, wenn sie nicht Stärke heucheln und die Gerechtigkeit auf dem Richterstuhle zur Schauspielerin machen will.
+Reference: 
+Die Kraft der Traͤgheit und die ihr entgegengesetzt scheinende Kraft des Stolzes , die man durch so viel Erscheinungen und Beobachtungen veranlasset worden in unserm Willen anzunehmen , bringen die Unwissenheit , und die daraus entspringende Jrrthuͤmer und Vorurtheile nebst allen ihren schwesterlichen Leidenschaften hervor .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8404329578833873
+Syntactic Similarity without tokens: 0.9116798035233541
+Semantic Score: 0.7765558362007141
+Semantic Score without stopwords: 0.7765558362007141
+LCS Length: 1
+LCS: kraft 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.9273823499679565
+Semantic similarity verbs: 0.5952495336532593
+
+Pairing: 11
+New Sentence: Die Gäste die zuletzt zur Tafel kommen, sollen mit Recht die letzten Plätze erhalten.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.800458349533371
+Syntactic Similarity without tokens: 0.8777034645879577
+Semantic Score: 0.8067793250083923
+Semantic Score without stopwords: 0.8067793250083923
+LCS Length: 1
+LCS: recht 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7072564363479614
+Semantic similarity verbs: 0.7454642653465271
+
+Pairing: 12
+New Sentence: In fünffacher Hinsicht scheint mir die Uebersättigung einer Zeit in Historie dem Leben feindlich und gefährlich zu sein.
+Reference: 
+Wenn man die Zeiten des Heydenthums kennt , in denen er lebte ; so ist es eine thoͤrichte Muͤhe ihn von einem Laster weiß zu brennen , das unsere Christenheit an Sokrates uͤbersehen sollte , wie die artige Welt an einem Toußaint die kleinen Romane seiner Leidenschaften , als Schoͤnfleckchen seiner Sitten .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8125629688611952
+Syntactic Similarity without tokens: 0.9252166924974112
+Semantic Score: 0.7868123054504395
+Semantic Score without stopwords: 0.76854008436203
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0625
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5555123686790466
+Semantic similarity verbs: 0.6028099060058594
+
+Pairing: 13
+New Sentence: — Plato hielt es für nothwendig, dass die erste Generation seiner neuen Gesellschaft (im vollkommenen Staate) mit der Hülfe einer kräftigen Nothlüge erzogen werde; die Kinder sollten glauben lernen, dass sie alle schon eine Zeit lang träumend unter der Erde gewohnt hätten, woselbst sie von dem Werkmeister der Natur zurechtgeknetet und geformt wären.
+Reference: 
+Plato sagte es den Atheniensern ins Gesichte , daß Sokrates ihren Arm den Goͤttern gegeben waͤre sie von ihren Thorheiten zu uͤberzeugen und zu seiner Nachfolge in der Tugend aufzumuntern .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7694132916921874
+Syntactic Similarity without tokens: 0.8618407684384723
+Semantic Score: 0.8170382380485535
+Semantic Score without stopwords: 0.8140321373939514
+LCS Length: 1
+LCS: plato 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.42910441756248474
+Semantic similarity verbs: 0.7731047868728638
+
+Pairing: 14
+New Sentence: in allen Zeiten war es anders, es kommt nicht darauf an, wie du bist.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8498479109144433
+Syntactic Similarity without tokens: 0.8859720256613771
+Semantic Score: 0.759863018989563
+Semantic Score without stopwords: 0.7583246231079102
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.043478260869565216
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6227758526802063
+Semantic similarity verbs: 0.6154434680938721
+
+Pairing: 15
+New Sentence: von morgen an wird keine Zeit mehr sein und keine Zeitung mehr erscheinen.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8199696313167683
+Syntactic Similarity without tokens: 0.928268111151305
+Semantic Score: 0.773475706577301
+Semantic Score without stopwords: 0.770473062992096
+LCS Length: 1
+LCS: zeit 
+Jaccard of common nouns: 0.041666666666666664
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6227758526802063
+Semantic similarity verbs: 0.5021175742149353
+
+Pairing: 16
+New Sentence: Ist vielleicht unsere Zeit ein solcher Erstling?
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.82204485608297
+Syntactic Similarity without tokens: 0.9235432628924757
+Semantic Score: 0.8035755157470703
+Semantic Score without stopwords: 0.7675390243530273
+LCS Length: 1
+LCS: zeit 
+Jaccard of common nouns: 0.041666666666666664
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6227758526802063
+Semantic similarity verbs: nan
+
+Pairing: 17
+New Sentence: Wenn wir nur dies gerade immer besser lernen, Historie zum Zwecke des Lebens zu treiben!
+Reference: 
+Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7767968673968413
+Syntactic Similarity without tokens: 0.9443106319518212
+Semantic Score: 0.8360170722007751
+Semantic Score without stopwords: 0.8360170722007751
+LCS Length: 1
+LCS: besser 
+Jaccard of common nouns: 0.04
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.1111111111111111
+Semantic similarity nouns: 0.6003652811050415
+Semantic similarity verbs: 0.6861483454704285
+
+Pairing: 18
+New Sentence: bis endlich die ganze Luft einer Zeit von solchen durcheinander schwirrenden zarten und verwandten Nachklängen erfüllt ist.
+Reference: 
+Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7546750265925101
+Syntactic Similarity without tokens: 0.9476621483331753
+Semantic Score: 0.8487879037857056
+Semantic Score without stopwords: 0.8343265652656555
+LCS Length: 1
+LCS: zeit 
+Jaccard of common nouns: 0.04
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.705703854560852
+Semantic similarity verbs: nan
+
+Pairing: 19
+New Sentence: in den zusammengehäuften Wust des Erlernten, das nicht nach aussen wirkt, der Belehrung, die nicht Leben wird.
+Reference: 
+Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8457535699702263
+Syntactic Similarity without tokens: 0.8444999309090835
+Semantic Score: 0.7707746028900146
+Semantic Score without stopwords: 0.7707746028900146
+LCS Length: 1
+LCS: leben 
+Jaccard of common nouns: 0.038461538461538464
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5573053956031799
+Semantic similarity verbs: 0.6917471289634705
+
+Pairing: 20
+New Sentence: In diesem gleichgültigen und ungefährlichen Bereiche gelingt es einem Menschen wohl zu einem kalten Dämon der Erkenntniss zu werden; und trotzdem!
+Reference: 
+Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7741093270542335
+Syntactic Similarity without tokens: 0.9262519997252251
+Semantic Score: 0.8282799124717712
+Semantic Score without stopwords: 0.8282799124717712
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.038461538461538464
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7002413272857666
+Semantic similarity verbs: 0.4858541488647461
+
+Pairing: 21
+New Sentence: Hier liess es sich leben, sagt er sich, denn es lässt sich leben, hier wird es sich leben lassen, denn wir sind zäh und nicht über Nacht umzubrechen.
+Reference: 
+Es liesse sich freylich ein so sinnreicher Versuch uͤber das Leben Sokrates schreiben , als Blackwall uͤber den Homer geliefert .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8075082468909863
+Syntactic Similarity without tokens: 0.8403608510703423
+Semantic Score: 0.8150455355644226
+Semantic Score without stopwords: 0.8150455355644226
+LCS Length: 1
+LCS: leben 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.29193517565727234
+Semantic similarity verbs: 0.6420848369598389
+
+Pairing: 22
+New Sentence: das Leben ist die höhere, die herrschende Gewalt, denn ein Erkennen, welches das Leben vernichtete, würde sich selbst mit vernichtet haben.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8275847663157974
+Syntactic Similarity without tokens: 0.7530082855660634
+Semantic Score: 0.8107860684394836
+Semantic Score without stopwords: 0.794952392578125
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4103938937187195
+Semantic similarity verbs: 0.45614054799079895
+
+Pairing: 23
+New Sentence: zu lassenNach KGW/KGB Nachberichte — das nennt man dann wohl den historischen Sinn, die historische Bildung.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8426726210177886
+Syntactic Similarity without tokens: 0.9046932683971552
+Semantic Score: 0.7837055325508118
+Semantic Score without stopwords: 0.7793793082237244
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4823809266090393
+Semantic similarity verbs: 0.6063507199287415
+
+Pairing: 24
+New Sentence: Ja dieser Gegensatz von innen und aussen macht das Aeusserliche noch barbarischer als es sein müsste, wenn ein rohes Volk nur aus sich heraus nach seinen derben Bedürfnissen wüchse.
+Reference: 
+Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8293457473770219
+Syntactic Similarity without tokens: 0.9303980357386102
+Semantic Score: 0.7926204204559326
+Semantic Score without stopwords: 0.7926204204559326
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.39011505246162415
+Semantic similarity verbs: 0.5306128859519958
+
+Pairing: 25
+New Sentence: Von dem gedankenlosen Verpflanzen der Gewächse rührt manches Unheil her.
+Reference: 
+Von dieser Seite ahmte also Sokrates seinen Vater nach , einen Bildhauer , der , indem er wegnimmt und hauet , was am Holze nicht seyn soll , eben dadurch die Form des Bildes foͤrdert .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8333528811531677
+Syntactic Similarity without tokens: 0.7603032535624928
+Semantic Score: 0.8133450746536255
+Semantic Score without stopwords: 0.7881922125816345
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5026511549949646
+Semantic similarity verbs: nan
+
+Pairing: 26
+New Sentence: da war auch E. von Hartmann dabei und hatte seine berühmte Philosophie des Unbewussten — oder um deutlicher zu reden — seine Philosophie der unbewussten Ironie geschrieben.
+Reference: 
+Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8952233919833805
+Syntactic Similarity without tokens: 0.9744332263973062
+Semantic Score: 0.7381442189216614
+Semantic Score without stopwords: 0.7245054841041565
+LCS Length: 1
+LCS: geschrieben 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5505489110946655
+Semantic similarity verbs: 0.7538666725158691
+
+Pairing: 27
+New Sentence: Nur das eine Mittel, es so leicht wie möglich anzunehmen, um es schnell wieder zu beseitigen und auszustossen.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8468805738338441
+Syntactic Similarity without tokens: 0.9417816521852254
+Semantic Score: 0.7726981043815613
+Semantic Score without stopwords: 0.7726981043815613
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.6435375213623047
+
+Pairing: 28
+New Sentence: Jedem, den man zwingt, nicht mehr unbedingt zu lieben, hat man die Wurzeln seiner Kraft abgeschnitten.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.777187600289179
+Syntactic Similarity without tokens: 0.9178767404845487
+Semantic Score: 0.8415223360061646
+Semantic Score without stopwords: 0.8417919874191284
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.33907344937324524
+Semantic similarity verbs: 0.7105403542518616
+
+Pairing: 29
+New Sentence: Der Wahrheit dienen Wenige in Wahrheit, weil nur Wenige den reinen Willen haben gerecht zu sein und selbst von diesen wieder die Wenigsten die Kraft, gerecht sein zu können.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8317754305005101
+Syntactic Similarity without tokens: 0.958269943207057
+Semantic Score: 0.786857008934021
+Semantic Score without stopwords: 0.786857008934021
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5037813186645508
+Semantic similarity verbs: 0.5417701601982117
+
+Pairing: 30
+New Sentence: Aber dass wir an ihnen leiden, ist kein Beweis gegen die Richtigkeit des gewählten Heilverfahrens.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8445266331688852
+Syntactic Similarity without tokens: 0.924722332251177
+Semantic Score: 0.7742058038711548
+Semantic Score without stopwords: 0.7734156250953674
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4495013952255249
+Semantic similarity verbs: 0.5326212644577026
+
+Pairing: 31
+New Sentence: diese drückt ihn nieder oder beugt ihn seitwärts, diese beschwert seinen Gang als eine unsichtbare und dunkle Bürde, welche er zum Scheine einmal verläugnen kann, und welche er im Umgange mit seines Gleichen gar zu gern verläugnet.
+Reference: 
+Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7736582037914262
+Syntactic Similarity without tokens: 0.9115515216145287
+Semantic Score: 0.8827041983604431
+Semantic Score without stopwords: 0.8435743451118469
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5178644061088562
+Semantic similarity verbs: 0.5720781683921814
+
+Pairing: 32
+New Sentence: zudem vergässe man, dass jener Moment gerade der kräftigste und selbstthätigste Zeugungsmoment im Innern des Künstlers ist, ein Compositionsmoment allerhöchster Art, dessen Resultat wohl ein künstlerisch wahres, nicht ein historisch wahres Gemälde sein wird.
+Reference: 
+Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8333516079867567
+Syntactic Similarity without tokens: 0.8878121935653847
+Semantic Score: 0.783786952495575
+Semantic Score without stopwords: 0.783786952495575
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7541712522506714
+Semantic similarity verbs: nan
+
+Pairing: 33
+New Sentence: Und so möge mein Satz verstanden und erwogen werden.
+Reference: 
+Haͤttet ihr mir den Antrag gethan mit einander zu versuchen , wer der beste Taschenspieler von uns in Karten waͤre ; so haͤtte ich anders antworten , und vielleicht mitspielen wollen , um euch zu zeigen , daß ihr so schlecht gelernt habt Karten machen , als ihr versteht die euch gegeben werden , nach der Kunst zu brauchen „ .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8650377944831826
+Syntactic Similarity without tokens: 0.8970137280400424
+Semantic Score: 0.7517240643501282
+Semantic Score without stopwords: 0.7517240643501282
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.06666666666666667
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.7660359740257263
+
+Pairing: 34
+New Sentence: Es ist ein Versuch, sich gleichsam a posterioreErratum.
+Reference: 
+Wer der etymologischen Mine seines Namens traut , wird diesen Anschlag einem weitsehenden Urtheilsgeist , ein leichtglaͤubiger Schuͤler der taͤglichen Erfahrung hingegen einem blinden Geschmack an Sokrates zu schreiben .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8496605187333526
+Syntactic Similarity without tokens: 0.8067778146065655
+Semantic Score: 0.7662316560745239
+Semantic Score without stopwords: 0.7662316560745239
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.1156323254108429
+Semantic similarity verbs: nan
+
+Pairing: 35
+New Sentence: Alle Werthschätzungen sind verändert und entwerthet; so vieles vermag er nicht mehr zu schätzen, weil er es kaum mehr fühlen kann.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8724055403700961
+Syntactic Similarity without tokens: 0.9476137358657531
+Semantic Score: 0.7433257102966309
+Semantic Score without stopwords: 0.7433257102966309
+LCS Length: 1
+LCS: mehr 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.4483834505081177
+
+Pairing: 36
+New Sentence: Regiert also die monumentalische Betrachtung des Vergangenen über die anderen Betrachtungsarten, ich meine über die antiquarische und kritische, so leidet die Vergangenheit selbst Schaden.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8322258799604048
+Syntactic Similarity without tokens: 0.9140110908627435
+Semantic Score: 0.7834718823432922
+Semantic Score without stopwords: 0.7834718823432922
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4542650282382965
+Semantic similarity verbs: 0.6773252487182617
+
+Pairing: 37
+New Sentence: So hindert jene den kräftigen Entschluss zum Neuen, so lähmt sie den Handelnden, der immer, als Handelnder, etwelche Pietäten verletzen wird und muss.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8536477013940396
+Syntactic Similarity without tokens: 0.8363741193430327
+Semantic Score: 0.7621349096298218
+Semantic Score without stopwords: 0.7612780928611755
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4255281090736389
+Semantic similarity verbs: 0.6142898201942444
+
+Pairing: 38
+New Sentence: von dem er nur soweit etwas weiss und fühlt als dieser ihn selbst hemmt oder selbst fördert — aber nichts ausserdem.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8495974418556923
+Syntactic Similarity without tokens: 0.8734278500284335
+Semantic Score: 0.7663092613220215
+Semantic Score without stopwords: 0.7650438547134399
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.45787110924720764
+
+Pairing: 39
+New Sentence: Soviel zur Erinnerung an die Schäden, welche die monumentale Historie unter den Mächtigen und Thätigen, seien sie nun gut oder böse, anrichten kann.
+Reference: 
+Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8139762044088269
+Syntactic Similarity without tokens: 0.9525904374319784
+Semantic Score: 0.8102284669876099
+Semantic Score without stopwords: 0.800575852394104
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.09090909090909091
+Semantic similarity nouns: 0.4312190115451813
+Semantic similarity verbs: 0.48205050826072693
+
+Pairing: 40
+New Sentence: Im Grunde aber bleibt, selbst bei sothaner „Wirkung“, alles beim Alten.
+Reference: 
+Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8822503665694907
+Syntactic Similarity without tokens: 0.8661038969779116
+Semantic Score: 0.7294037938117981
+Semantic Score without stopwords: 0.7320217490196228
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.3155295252799988
+Semantic similarity verbs: 0.8033479452133179
+
+Pairing: 41
+New Sentence: Jene naiven Historiker nennen „Objectivität“ das Messen vergangener Meinungen und Thaten an den Allerwelts-Meinungen des Augenblicks.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8284994998487214
+Syntactic Similarity without tokens: 0.9381769821738324
+Semantic Score: 0.7872440218925476
+Semantic Score without stopwords: 0.7841648459434509
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4857604503631592
+Semantic similarity verbs: 0.6063507199287415
+
+Pairing: 42
+New Sentence: Ja man triumphirt darüber, dass jetzt „die Wissenschaft anfange über das Leben zu herrschen“.
+Reference: 
+Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8522643863551503
+Syntactic Similarity without tokens: 0.9020651709404929
+Semantic Score: 0.7600694894790649
+Semantic Score without stopwords: 0.7600694894790649
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.19296394288539886
+Semantic similarity verbs: 0.5512219667434692
+
+Pairing: 43
+New Sentence: Wo ein feineres und stärkeres Bewusstsein zu Grunde lag, stellt sich wohl auch eine andere Empfindung ein.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8084994916185213
+Syntactic Similarity without tokens: 0.9375861879651937
+Semantic Score: 0.8050168752670288
+Semantic Score without stopwords: 0.8029100894927979
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.512565016746521
+Semantic similarity verbs: 0.6773194074630737
+
+Pairing: 44
+New Sentence: es wäre ein schrecklicher Gedanke, dass sie eines Tages verschwunden sei und nun nur noch die Aeusserlichkeit, jene hochmüthig täppische und demüthig bummelige Aeusserlichkeit als Kennzeichen des Deutschen zurückbliebe.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8389138789028489
+Syntactic Similarity without tokens: 0.9212725053848332
+Semantic Score: 0.7778424024581909
+Semantic Score without stopwords: 0.7723192572593689
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.48014920949935913
+Semantic similarity verbs: 0.5428510308265686
+
+Pairing: 45
+New Sentence: Wer seine Bekannten fragt, ob sie die letzten zehn oder zwanzig Jahre noch einmal zu durchleben wünschten, wird leicht wahrnehmen, wer von ihnen für jenen überhistorischen Standpunkt vorgebildet ist.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.752866243012888
+Syntactic Similarity without tokens: 0.867494539880991
+Semantic Score: 0.8621179461479187
+Semantic Score without stopwords: 0.8574205040931702
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.46996113657951355
+Semantic similarity verbs: 0.7643696069717407
+
+Pairing: 46
+New Sentence: Dieselbe Jugend erräth aber auch mit dem heilkräftigen Instincte derselben Natur, wie dieses Paradies wieder zu gewinnen ist; sie kennt die Wundsäfte und Arzneien gegen die historische Krankheit, gegen das Uebermaass des Historischen.
+Reference: 
+Ein grosser Kuͤnstler zeigte seinen Meissel daran ; ein Monarch , der Name eines ganzen Jahrhunderts , gab die Unkosten zum Denkmal und bewunderte das Geschoͤpf seines Unterthauen ; der Scythe aber , der auf sein Handwerk reisete , und wie Noah oder der Galilaͤer des Projektmachers , Julians , ein Zimmermann wurde , um der Gott seines Volks zu seyn , dieser Scythe begieng eine Schwachheit , deren Andenken ihn allein verewigen koͤnnte .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.9034129105768358
+Syntactic Similarity without tokens: 0.952755625344543
+Semantic Score: 0.7059803605079651
+Semantic Score without stopwords: 0.7059803605079651
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.20005318522453308
+Semantic similarity verbs: 0.610938549041748
+
+Pairing: 47
+New Sentence: Die Einen vielleicht damit, dass sie sich getrösten „aber die nächsten zwanzig werden besser sein“; es sind dieErratum.
+Reference: 
+Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8236892761510668
+Syntactic Similarity without tokens: 0.7888970407147937
+Semantic Score: 0.7846004962921143
+Semantic Score without stopwords: 0.7846004962921143
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+Pairing: 48
+New Sentence: heute wollen wir vielmehr einmal unserer Unweisheit von Herzen froh werden und uns als den Thätigen und Fortschreitenden, als den Verehrern des Prozesses, einen guten Tag machen.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8101387412614391
+Syntactic Similarity without tokens: 0.8996496278736171
+Semantic Score: 0.7968558073043823
+Semantic Score without stopwords: 0.7969335317611694
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.38683781027793884
+Semantic similarity verbs: nan
+
+Pairing: 49
+New Sentence: der ächte Historiker muss die Kraft haben, das Allbekannte zum Niegehörten umzuprägen und das Allgemeine so einfach und tief zu verkünden, dass man die Einfachheit über der Tiefe und die Tiefe über der Einfachheit übersieht.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8854316392110098
+Syntactic Similarity without tokens: 0.894097053775185
+Semantic Score: 0.7211382389068604
+Semantic Score without stopwords: 0.7211382389068604
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.40214788913726807
+Semantic similarity verbs: nan
+
+Pairing: 50
+New Sentence: wie das elendeste Thier die Entstehung der mächtigsten Eiche verhindern kann, dadurch dass es die Eichel verschluckt.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8017539301734012
+Syntactic Similarity without tokens: 0.8896754498503853
+Semantic Score: 0.8045048117637634
+Semantic Score without stopwords: 0.8045048117637634
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.6036531329154968
+
+Pairing: 51
+New Sentence: Der Formensinn wird von ihnen geradezu ironisch abgelehnt — denn man hat ja den Sinn des Inhaltes.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7800489348786608
+Syntactic Similarity without tokens: 0.9084345597589735
+Semantic Score: 0.828777551651001
+Semantic Score without stopwords: 0.8258787989616394
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4823809266090393
+Semantic similarity verbs: 0.6672040820121765
+
+Pairing: 52
+New Sentence: Ein grosser Gelehrter und ein grosser Flachkopf — das geht schon leichter miteinander unter Einem Hute.
+Reference: 
+Ein grosser Kuͤnstler zeigte seinen Meissel daran ; ein Monarch , der Name eines ganzen Jahrhunderts , gab die Unkosten zum Denkmal und bewunderte das Geschoͤpf seines Unterthauen ; der Scythe aber , der auf sein Handwerk reisete , und wie Noah oder der Galilaͤer des Projektmachers , Julians , ein Zimmermann wurde , um der Gott seines Volks zu seyn , dieser Scythe begieng eine Schwachheit , deren Andenken ihn allein verewigen koͤnnte .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.821700025650805
+Syntactic Similarity without tokens: 0.9655038258263859
+Semantic Score: 0.7830185890197754
+Semantic Score without stopwords: 0.7830185890197754
+LCS Length: 1
+LCS: grosser 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.3333333333333333
+Semantic similarity nouns: 0.14296257495880127
+Semantic similarity verbs: 0.5210918188095093
+
+Pairing: 53
+New Sentence: er sieht Einiges nicht, was doch das Kind sieht, er hört Einiges nicht, was doch das Kind hört; dieses Einige ist gerade das Wichtigste.
+Reference: 
+Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7962027558088315
+Syntactic Similarity without tokens: 0.8763774100239599
+Semantic Score: 0.8335683941841125
+Semantic Score without stopwords: 0.808457612991333
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7804660797119141
+Semantic similarity verbs: 0.5774641036987305
+
+Pairing: 54
+New Sentence: Worte-FabrikNach KGW/KGB Nachberichte habe ich vielleicht noch das Recht von mir zu sagen cogito, ergo sum, nicht aber vivo, ergo cogito.
+Reference: 
+Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8245637166387311
+Syntactic Similarity without tokens: 0.9680115589055815
+Semantic Score: 0.7792354226112366
+Semantic Score without stopwords: 0.7792354226112366
+LCS Length: 1
+LCS: worte 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.32043957710266113
+Semantic similarity verbs: 0.42836812138557434
+
+Pairing: 55
+New Sentence: was gehen euch die Werdenden und Wollenden an!“ Scheinbar besitzt dieser tanzende Schwarm sogar das Privilegium des „guten Geschmacks“.
+Reference: 
+Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7567223137597862
+Syntactic Similarity without tokens: 0.8257700069495616
+Semantic Score: 0.8486852645874023
+Semantic Score without stopwords: 0.8463684320449829
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.09090909090909091
+Semantic similarity nouns: 0.5061673521995544
+Semantic similarity verbs: 0.6581144332885742
+
+Pairing: 56
+New Sentence: Drum besser wär’s, dass nichts entstünde.“ Es gehört sehr viel Kraft dazu, leben zu können und zu vergessen, in wie fern leben und ungerecht sein Eins ist.
+Reference: 
+Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.802963220830277
+Syntactic Similarity without tokens: 0.7977896024748169
+Semantic Score: 0.7993582487106323
+Semantic Score without stopwords: 0.7993582487106323
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.17785710096359253
+Semantic similarity verbs: 0.5879001021385193
+
+Pairing: 57
+New Sentence: Wären wir Deutschen selbst nichts als Nachkommen — wir könnten, indem wir auf eine solche Bildung als eine uns anzueignende Erbschaft blickten, gar nichts Grösseres und Stolzeres sein als eben Nachkommen.
+Reference: 
+Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8103258887176414
+Syntactic Similarity without tokens: 0.8381931159778772
+Semantic Score: 0.7915550470352173
+Semantic Score without stopwords: 0.7915550470352173
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.493807852268219
+Semantic similarity verbs: 0.39172521233558655
+
+Pairing: 58
+New Sentence: man schwätzt zwar eine Zeit lang etwas Neues, dann aber wieder etwas Neues und thut inzwischen das, was man immer gethan hat.
+Reference: 
+Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8016939497873026
+Syntactic Similarity without tokens: 0.8840748619776602
+Semantic Score: 0.8407576680183411
+Semantic Score without stopwords: 0.8000969290733337
+LCS Length: 1
+LCS: immer 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4996589720249176
+Semantic similarity verbs: 0.40537184476852417
+
+Pairing: 59
+New Sentence: während ihnen für alle noch nicht monumentale, weil gegenwärtige Kunst erstens das Bedürfniss, zweitens die reine Neigung, drittens eben jene Auctorität der Historie abgeht.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8228245082986003
+Syntactic Similarity without tokens: 0.8119130880857834
+Semantic Score: 0.8077982068061829
+Semantic Score without stopwords: 0.7784863710403442
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.3962533175945282
+Semantic similarity verbs: 0.6035513877868652
+
+Pairing: 60
+New Sentence: denn so wird jedenfalls unsere Unweisheit mehr Zukunft haben, als ihre Weisheit.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8454738863518647
+Syntactic Similarity without tokens: 0.8807993338425532
+Semantic Score: 0.7544048428535461
+Semantic Score without stopwords: 0.7544048428535461
+LCS Length: 1
+LCS: mehr 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+Pairing: 61
+New Sentence: Dagegen nennen sie jede Geschichtschreibung „subjectiv“, die jene Popularmeinungen nicht als kanonisch nimmt.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.854078818765682
+Syntactic Similarity without tokens: 0.8999403126498481
+Semantic Score: 0.7429712414741516
+Semantic Score without stopwords: 0.7452071309089661
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.7033816576004028
+
+Pairing: 62
+New Sentence: Wenn wir jene Verirrungen verurtheilen und uns ihrer für enthoben erachten, so ist die Thatsache nicht beseitigt, dass wir aus ihnen herstammen.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8258460907445263
+Syntactic Similarity without tokens: 0.8595030455032755
+Semantic Score: 0.7731910943984985
+Semantic Score without stopwords: 0.7732163667678833
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.6818888187408447
+
+Pairing: 63
+New Sentence: Alles moderne Philosophiren ist politisch und polizeilich, durch Regierungen, Kirchen, Akademien, Sitten und Feigheiten der Menschen auf den gelehrten Anschein beschränkt.
+Reference: 
+Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.809892584442565
+Syntactic Similarity without tokens: 0.9572727889360885
+Semantic Score: 0.7871083617210388
+Semantic Score without stopwords: 0.7889549732208252
+LCS Length: 1
+LCS: gelehrten 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.1
+Semantic similarity nouns: 0.6193413138389587
+Semantic similarity verbs: nan
+
+Pairing: 64
+New Sentence: Doch scheint es mir, dass man gleichsam nur die Obertöne jedes originalen geschichtlichen Haupttones vernimmt.
+Reference: 
+Wir bewundern es an Pompejus als eine kluge und edle Handlung , daß er die Schriften seines Feindes Sertorius aus dem Wege raͤumte ; warum nicht an unserm HErrn , daß er die Schriften eines Celsus untergehen lassen ?
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8054341970082202
+Syntactic Similarity without tokens: 0.8751911218961717
+Semantic Score: 0.7933900952339172
+Semantic Score without stopwords: 0.7933900952339172
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.6138983964920044
+
+Pairing: 65
+New Sentence: Dächten wir uns aber solche antiquarische Spätlinge plötzlich die Unverschämtheit gegen jene ironisch-schmerzliche Bescheidung eintauschen; denken wir sie uns, wie sie mit gellender Stimme verkünden.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8335335977789112
+Syntactic Similarity without tokens: 0.9687346121294874
+Semantic Score: 0.7652744054794312
+Semantic Score without stopwords: 0.7652744054794312
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.3529832363128662
+Semantic similarity verbs: 0.6829755306243896
+
+Pairing: 66
+New Sentence: nun, dann fehlt es uns jedenfalls nicht an der Zeit zu einem schönen Experiment.
+Reference: 
+Es fehlt uns an richtigen Verhaͤltnis-Tabellen , die uns bestimmen , wie vielloͤthig eine Wahrheit seyn muͤsse , und wie viel an einem Einfall fehlet , wenn er eine Wahrheit gelten soll u. s. w .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8230470367481475
+Syntactic Similarity without tokens: 0.8145424351504728
+Semantic Score: 0.775387167930603
+Semantic Score without stopwords: 0.775387167930603
+LCS Length: 1
+LCS: fehlt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.7772461771965027
+
+Pairing: 67
+New Sentence: Dann wird seine Vergangenheit kritisch betrachtet, dann greift man mit dem Messer an seine Wurzeln, dann schreitet man grausam über alle Pietäten hinweg.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8450766243364357
+Syntactic Similarity without tokens: 0.9409827386921832
+Semantic Score: 0.7949263453483582
+Semantic Score without stopwords: 0.7521066665649414
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.6621740460395813
+
+Pairing: 68
+New Sentence: Er wundert sich aber auch über sich selbst, das Vergessen nicht lernen zu können und immerfort am Vergangenen zu hängen.
+Reference: 
+Wenn ihr ein Spiel anbiethet ; so ist unser gegenseitiger Vergleich den Eigensinn des Zufalls fuͤr unsern Meister zu erkennen , und ihr nennt die Wissenschaft eurer geschwinden Finger Zufall , und ich muß ihn dafuͤr annehmen , wenn ich will , oder die Gefahr wagen euch zu beleidigen , oder die Schande waͤhlen euch nachzuahmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7996762019166131
+Syntactic Similarity without tokens: 0.9596851993754862
+Semantic Score: 0.7970132231712341
+Semantic Score without stopwords: 0.7970132231712341
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5154097676277161
+Semantic similarity verbs: 0.7175503373146057
+
+Pairing: 69
+New Sentence: So liebt jeder Handelnde seine That unendlich mehr als sie geliebt zu werden verdient.
+Reference: 
+Er unterschied in den Schriften des Heraklitus , dasjenige , was er nicht verstand , von dem , was er darin verstand , und that eine sehr billige und bescheidene Vermuthung von dem Verstaͤndlichen auf das Unverstaͤndliche .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7615720055872534
+Syntactic Similarity without tokens: 0.9413806076246095
+Semantic Score: 0.8109480738639832
+Semantic Score without stopwords: 0.8350507020950317
+LCS Length: 1
+LCS: that 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.5921630263328552
+
+Pairing: 70
+New Sentence: Wollt ihr nun der Geschichte zu Hülfe kommen, als Apologeten des Thatsächlichen, so werdet ihr sagen.
+Reference: 
+Haͤttet ihr mir den Antrag gethan mit einander zu versuchen , wer der beste Taschenspieler von uns in Karten waͤre ; so haͤtte ich anders antworten , und vielleicht mitspielen wollen , um euch zu zeigen , daß ihr so schlecht gelernt habt Karten machen , als ihr versteht die euch gegeben werden , nach der Kunst zu brauchen „ .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.759680873871577
+Syntactic Similarity without tokens: 0.8422660356887064
+Semantic Score: 0.8361906409263611
+Semantic Score without stopwords: 0.8361906409263611
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5366063117980957
+Semantic similarity verbs: 0.7708603143692017
+
+Pairing: 71
+New Sentence: Solche Spätlinge freilich leben eine ironische Existenz.
+Reference: 
+Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8129673461262868
+Syntactic Similarity without tokens: 0.9307294354031636
+Semantic Score: 0.8259106874465942
+Semantic Score without stopwords: 0.7827098369598389
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.5465654134750366
+
+Pairing: 72
+New Sentence: Wie niedrig steht, an ihr gemessen, schon die Grossmuth auf der Stufenleiter der Tugenden, die Grossmuth, welche die Eigenschaft einiger und seltener Historiker ist!
+Reference: 
+Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8136046428663566
+Syntactic Similarity without tokens: 0.9623293974980368
+Semantic Score: 0.8256929516792297
+Semantic Score without stopwords: 0.7820704579353333
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.607844889163971
+
+Pairing: 73
+New Sentence: Jedenfalls aber muss er scharf hinsehen, bei jeder Maske sein Halt Werda!
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8013211096576357
+Syntactic Similarity without tokens: 0.9186459200695567
+Semantic Score: 0.7928537130355835
+Semantic Score without stopwords: 0.7939843535423279
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4269108474254608
+Semantic similarity verbs: 0.5812424421310425
+
+Pairing: 74
+New Sentence: Mit der Rücksicht auf den Thätigen nennt zum Beispiel Polybius die politische Historie die rechte Vorbereitung zur Regierung eines Staates und die vorzüglichste Lehrmeisterin, als welche durch die Erinnerung an die Unfälle Anderer uns ermahne, die Abwechselungen des Glückes standhaft zu ertragen.
+Reference: 
+sagte die Thuͤr jenes beruͤhmten Tempels allen denen , die hereingiengen dem Gott der Weisheit zu opfern und ihn uͤber ihre kleinen Haͤndel um Rath zu fragen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8469462817386507
+Syntactic Similarity without tokens: 0.8896566546105067
+Semantic Score: 0.759645402431488
+Semantic Score without stopwords: 0.7476571202278137
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.7753303050994873
+
+Pairing: 75
+New Sentence: freilich aber zeigt sie es mit der gefährlichen Kühnheit ihres Wahlspruches.
+Reference: 
+Ein grosser Kuͤnstler zeigte seinen Meissel daran ; ein Monarch , der Name eines ganzen Jahrhunderts , gab die Unkosten zum Denkmal und bewunderte das Geschoͤpf seines Unterthauen ; der Scythe aber , der auf sein Handwerk reisete , und wie Noah oder der Galilaͤer des Projektmachers , Julians , ein Zimmermann wurde , um der Gott seines Volks zu seyn , dieser Scythe begieng eine Schwachheit , deren Andenken ihn allein verewigen koͤnnte .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8105747515401326
+Syntactic Similarity without tokens: 0.8798448431485038
+Semantic Score: 0.7837897539138794
+Semantic Score without stopwords: 0.7837897539138794
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.7437752485275269
+
+Pairing: 76
+New Sentence: wie ebenfalls die Ehrfurcht, mit welcher der unwissenschaftliche Laie die wissenschaftliche Kaste behandelt, eine vom Clerus her vererbte Ehrfurcht ist.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8103749401752656
+Syntactic Similarity without tokens: 0.9503779596091175
+Semantic Score: 0.8003323674201965
+Semantic Score without stopwords: 0.7832227349281311
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.5101178288459778
+
+Pairing: 77
+New Sentence: so dass für Hegel der Höhepunkt und der Endpunkt des Weltprozesses in seiner eigenen Berliner Existenz zusammenfielen.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8230492833853309
+Syntactic Similarity without tokens: 0.8820225229900142
+Semantic Score: 0.7711985111236572
+Semantic Score without stopwords: 0.7692713141441345
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.487199068069458
+
+Pairing: 78
+New Sentence: Und hier erkenne ich die Mission jener Jugend, jenes ersten Geschlechtes von Kämpfern und Schlangentödtern, das einer glücklicheren und schöneren Bildung und Menschlichkeit voranzieht, ohne von diesem zukünftigen Glücke und der einstmaligen Schönheit mehr zu haben als eine verheissende Ahnung.
+Reference: 
+Er unterschied in den Schriften des Heraklitus , dasjenige , was er nicht verstand , von dem , was er darin verstand , und that eine sehr billige und bescheidene Vermuthung von dem Verstaͤndlichen auf das Unverstaͤndliche .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8350437877521106
+Syntactic Similarity without tokens: 0.9605722849612855
+Semantic Score: 0.7454333901405334
+Semantic Score without stopwords: 0.7572228312492371
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.6103095412254333
+
+Pairing: 79
+New Sentence: Denn die Menschheit sitzt noch fest auf dem Memento mori und verräth es durch ihr universales historisches Bedürfniss.
+Reference: 
+Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8566282294860146
+Syntactic Similarity without tokens: 0.927681075686178
+Semantic Score: 0.7373979687690735
+Semantic Score without stopwords: 0.7354671955108643
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.4744379222393036
+
+Pairing: 80
+New Sentence: Gehe nur an ihm zu Grunde — ich weiss keinen besseren Lebenszweck als am Grossen und Unmöglichen, animae magnae prodigus, zu Grunde zu gehen.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.794002767745287
+Syntactic Similarity without tokens: 0.9416999011733013
+Semantic Score: 0.8012886643409729
+Semantic Score without stopwords: 0.7970197796821594
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5949965119361877
+Semantic similarity verbs: 0.650189995765686
+
+Pairing: 81
+New Sentence: dies Gefühl der Befremdung immer mehr zu verlieren, über nichts mehr übermässig zu erstaunen, endlich alles sich gefallen zu lassenErratum.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7460310943905908
+Syntactic Similarity without tokens: 0.9036705605911498
+Semantic Score: 0.8440245389938354
+Semantic Score without stopwords: 0.8440245389938354
+LCS Length: 1
+LCS: mehr 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.7076524496078491
+
+Pairing: 82
+New Sentence: Um hier von den verkappten Egoisten und Parteigängern abzusehen, die zum bösen Spiele, das sie spielen, eine recht objective Miene machen.
+Reference: 
+Die staͤrksten Geister unserer Zeit haben fuͤr diesmal die Priesterinn fuͤr eine Wahrsagerinn gehalten , und sich innerlich uͤber ihre Aehnlichkeit mit dem Vater Sokrates gefreut , der es fuͤr gleich anstaͤndig hielt einen Jdeoten zu spielen oder Goͤttern zu glauben .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8231145739369422
+Syntactic Similarity without tokens: 0.9781413334298422
+Semantic Score: 0.7661597728729248
+Semantic Score without stopwords: 0.7661597728729248
+LCS Length: 1
+LCS: spielen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.36936232447624207
+Semantic similarity verbs: 0.7078568935394287
+
+Pairing: 83
+New Sentence: denn das Glück des Thieres, als des vollendeten Cynikers, ist der lebendige Beweis für das Recht des Cynismus.
+Reference: 
+Ein grosser Kuͤnstler zeigte seinen Meissel daran ; ein Monarch , der Name eines ganzen Jahrhunderts , gab die Unkosten zum Denkmal und bewunderte das Geschoͤpf seines Unterthauen ; der Scythe aber , der auf sein Handwerk reisete , und wie Noah oder der Galilaͤer des Projektmachers , Julians , ein Zimmermann wurde , um der Gott seines Volks zu seyn , dieser Scythe begieng eine Schwachheit , deren Andenken ihn allein verewigen koͤnnte .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8122331287658414
+Syntactic Similarity without tokens: 0.693224736062924
+Semantic Score: 0.7759737372398376
+Semantic Score without stopwords: 0.7759737372398376
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.18599873781204224
+Semantic similarity verbs: nan
+
+Pairing: 84
+New Sentence: Wer möchte bei ihnen jenen schwierigen Fackel-Wettlauf der monumentalen Historie vermuthen, durch den allein das Grosse weiterlebt!
+Reference: 
+Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7724991418248414
+Syntactic Similarity without tokens: 0.8633375997247857
+Semantic Score: 0.8156832456588745
+Semantic Score without stopwords: 0.8156832456588745
+LCS Length: 1
+LCS: wer 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4122655987739563
+Semantic similarity verbs: 0.3769003748893738
+
+Pairing: 85
+New Sentence: Nicht also wie verblasste und verkümmerte Spätlinge kräftiger Geschlechter, die als Antiquare und Todtengräber jener Geschlechter ein fröstelndes Leben fristen.
+Reference: 
+Wenn man die Zeiten des Heydenthums kennt , in denen er lebte ; so ist es eine thoͤrichte Muͤhe ihn von einem Laster weiß zu brennen , das unsere Christenheit an Sokrates uͤbersehen sollte , wie die artige Welt an einem Toußaint die kleinen Romane seiner Leidenschaften , als Schoͤnfleckchen seiner Sitten .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8784639730832856
+Syntactic Similarity without tokens: 0.8986745475884649
+Semantic Score: 0.712152361869812
+Semantic Score without stopwords: 0.7090102434158325
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.30495962500572205
+Semantic similarity verbs: 0.5053349733352661
+
+Pairing: 86
+New Sentence: es kann Einer sehr gebildet und doch historisch gar nicht gebildet sein, so würde man glauben, gar nicht recht gehört zu haben und den Kopf schütteln.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.753900620097722
+Syntactic Similarity without tokens: 0.8430954007173483
+Semantic Score: 0.8324524760246277
+Semantic Score without stopwords: 0.8324368596076965
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5306554436683655
+Semantic similarity verbs: 0.6269952654838562
+
+Pairing: 87
+New Sentence: Es kann keiner zugleich ein grosser Historiker, ein künstlerischer Mensch und ein Flachkopf sein.
+Reference: 
+Ein grosser Kuͤnstler zeigte seinen Meissel daran ; ein Monarch , der Name eines ganzen Jahrhunderts , gab die Unkosten zum Denkmal und bewunderte das Geschoͤpf seines Unterthauen ; der Scythe aber , der auf sein Handwerk reisete , und wie Noah oder der Galilaͤer des Projektmachers , Julians , ein Zimmermann wurde , um der Gott seines Volks zu seyn , dieser Scythe begieng eine Schwachheit , deren Andenken ihn allein verewigen koͤnnte .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8402971665026946
+Syntactic Similarity without tokens: 0.8708813662186402
+Semantic Score: 0.7455801367759705
+Semantic Score without stopwords: 0.7455801367759705
+LCS Length: 1
+LCS: grosser 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.3333333333333333
+Semantic similarity nouns: 0.470460444688797
+Semantic similarity verbs: nan
+
+Pairing: 88
+New Sentence: der merkwürdige Gegensatz eines Inneren, dem kein Aeusseres, eines Aeusseren, dem kein Inneres entspricht, ein Gegensatz, den die alten Völker nicht kennen.
+Reference: 
+Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8439457017103159
+Syntactic Similarity without tokens: 0.7866935717079093
+Semantic Score: 0.741820216178894
+Semantic Score without stopwords: 0.741820216178894
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5364083051681519
+Semantic similarity verbs: 0.5798693895339966
+
+Pairing: 89
+New Sentence: ähnlich etwa wie jetzt die „deutsche Bildung“ und Religion ein in sich kämpfendes Chaos des gesammten Auslandes, der gesammten Vorzeit ist.
+Reference: 
+Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8683792719794805
+Syntactic Similarity without tokens: 0.8955093032818199
+Semantic Score: 0.7173585891723633
+Semantic Score without stopwords: 0.7173585891723633
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.1
+Semantic similarity nouns: 0.7257816791534424
+Semantic similarity verbs: nan
+
+Pairing: 90
+New Sentence: opfern wir also auf seinem Altar, opfern wir ihm, dem Erfinder einer wahren Universal-Medizin, eine Locke — um einen Schleiermacherischen Bewunderungs-Ausdruck zu stehlen.
+Reference: 
+Dir werden taͤglich Opfer gebracht , die andere auf Deine Rechnung verzehren , um aus Deinen starken Mahlzeiten Dein Leben wahrscheinlich zu machen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7938423137062272
+Syntactic Similarity without tokens: 0.9461023667003349
+Semantic Score: 0.7909497022628784
+Semantic Score without stopwords: 0.7909497022628784
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.41645100712776184
+Semantic similarity verbs: 0.528315544128418
+
+Pairing: 91
+New Sentence: Dann erblickt man wohl das widrige Schauspiel einer blinden Sammelwuth, eines rastlosen Zusammenscharrens alles einmal Dagewesenen.
+Reference: 
+Wenn ihr ein Spiel anbiethet ; so ist unser gegenseitiger Vergleich den Eigensinn des Zufalls fuͤr unsern Meister zu erkennen , und ihr nennt die Wissenschaft eurer geschwinden Finger Zufall , und ich muß ihn dafuͤr annehmen , wenn ich will , oder die Gefahr wagen euch zu beleidigen , oder die Schande waͤhlen euch nachzuahmen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.806419649012008
+Syntactic Similarity without tokens: 0.7889298733177016
+Semantic Score: 0.7782657742500305
+Semantic Score without stopwords: 0.7782657742500305
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4179522395133972
+Semantic similarity verbs: 0.5268647074699402
+
+Pairing: 92
+New Sentence: das Vergangene und das Gegenwärtige ist Eines und dasselbe, nämlich in aller Mannichfaltigkeit typisch gleich und als Allgegenwart unvergänglicher Typen ein stillstehendes Gebilde von unverändertem Werthe und ewig gleicher Bedeutung.
+Reference: 
+Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7923027418653426
+Syntactic Similarity without tokens: 0.9166334140832578
+Semantic Score: 0.8417891263961792
+Semantic Score without stopwords: 0.7913945317268372
+LCS Length: 1
+LCS: gleich 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.16167724132537842
+Semantic similarity verbs: nan
+
+Pairing: 93
+New Sentence: Der innere Prozess, das ist jetzt die Sache selbst, das ist die eigentliche „Bildung“.Erratum.
+Reference: 
+Nach dem heutigen Plan der Welt bleibt die Kunst Gold zu machen also mit Recht das hoͤchste Project und hoͤchste Gut unserer Staatsklugen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8609615115788591
+Syntactic Similarity without tokens: 0.9070007503180105
+Semantic Score: 0.7224057912826538
+Semantic Score without stopwords: 0.7224057912826538
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+Pairing: 94
+New Sentence: Was man früher der Kirche gab, das giebt man jetzt, obzwar spärlicher, der Wissenschaft.
+Reference: 
+Ein grosser Kuͤnstler zeigte seinen Meissel daran ; ein Monarch , der Name eines ganzen Jahrhunderts , gab die Unkosten zum Denkmal und bewunderte das Geschoͤpf seines Unterthauen ; der Scythe aber , der auf sein Handwerk reisete , und wie Noah oder der Galilaͤer des Projektmachers , Julians , ein Zimmermann wurde , um der Gott seines Volks zu seyn , dieser Scythe begieng eine Schwachheit , deren Andenken ihn allein verewigen koͤnnte .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8447276702051405
+Syntactic Similarity without tokens: 0.8307902476998014
+Semantic Score: 0.7383219599723816
+Semantic Score without stopwords: 0.7383219599723816
+LCS Length: 1
+LCS: gab 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.750958263874054
+
+Pairing: 95
+New Sentence: Aber jene Frage, deren erste Beantwortung wir gehört haben, kann auch einmal anders beantwortet werden.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8333753538525474
+Syntactic Similarity without tokens: 0.9331847049834747
+Semantic Score: 0.749102771282196
+Semantic Score without stopwords: 0.7489051222801208
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.624137282371521
+Semantic similarity verbs: 0.5990766882896423
+
+Pairing: 96
+New Sentence: Sie hat sich nämlich gerade darin geübt die Dinge neu zu benennen und selbst den Teufel umzutaufen.
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7908449632327049
+Syntactic Similarity without tokens: 0.9577794151148212
+Semantic Score: 0.7909576892852783
+Semantic Score without stopwords: 0.7909576892852783
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.5588797330856323
+
+Pairing: 97
+New Sentence: wir Deutschen empfinden mit Abstraction; wir sind Alle durch die Historie verdorben — ein Satz, der jede Hoffnung auf eine noch kommende nationale Cultur an ihren Wurzeln zerstören würde.
+Reference: 
+so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.8711592814640381
+Syntactic Similarity without tokens: 0.9022086740042742
+Semantic Score: 0.7119535207748413
+Semantic Score without stopwords: 0.7101806998252869
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.3069659173488617
+Semantic similarity verbs: 0.6668323278427124
+
+Pairing: 98
+New Sentence: was wirkt sie aber erst, wenn sich ihrer die Ohnmächtigen und Unthätigen bemächtigen und bedienen!
+Reference: 
+Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7741984070329946
+Syntactic Similarity without tokens: 0.940795486633942
+Semantic Score: 0.8428173661231995
+Semantic Score without stopwords: 0.806806743144989
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.6709098815917969
+
+Pairing: 99
+New Sentence: und gewiss ist eine solche Einbildung gefährlicher, als der entgegengesetzte Wahn, an einem Fehler, an einem Laster zu leiden.
+Reference: 
+Sokrates hat also ohne Zweifel fuͤr seine Lust an einer Harmonie der aͤusserlichen und innerlichen Schoͤnheit , in sich selbst leiden und streiten muͤssen .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.797822251021828
+Syntactic Similarity without tokens: 0.9403843106818114
+Semantic Score: 0.7831488847732544
+Semantic Score without stopwords: 0.7831488847732544
+LCS Length: 1
+LCS: leiden 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.3333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.8147045373916626
+
+Pairing: 100
+New Sentence: Das liegt darin, dass sie das Gefühl und die Empfindung verwirrt, wo diese nicht kräftig genug sind, die Vergangenheit an sich zu messen.
+Reference: 
+Das freche Gestaͤndniß darin war gewissermassen eine Beleidigung , die man aber dem aufrichtigen Klienten und Kandidaten scheint vergeben zu haben , weil sie auf ihn selbst am schwersten zuruͤck fiel .
+Similar Sentence is from: hamann_denkwuerdigkeiten_1759.txt
+Syntactic Score: 0.7374890707124703
+Syntactic Similarity without tokens: 0.787126717087813
+Semantic Score: 0.8433487415313721
+Semantic Score without stopwords: 0.8433487415313721
+LCS Length: 1
+LCS: darin 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.6327546834945679
+

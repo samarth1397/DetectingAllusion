@@ -1,0 +1,1700 @@
+1
+New Sentence: Denn dass es im Leben wirklich so tragisch zugeht, würde am wenigsten die Entstehung einer Kunstform erklären; wenn anders die Kunst nicht nur Nachahmung der Naturwirklichkeit, sondern gerade ein metaphysisches Supplement der Naturwirklichkeit ist, zu deren Ueberwindung neben sie gestellt. Der tragische Mythus, sofern er überhaupt zur Kunst gehört, nimmt auch vollen Antheil an dieser metaphysischen Verklärungsabsicht der Kunst überhaupt. was verklärt er aber, wenn er die Erscheinungswelt unter dem Bilde des leidenden Helden vorführt?
+Reference Sentence: Sokrates wurde vermuthlich ein Bildhauer , weil sein Vater einer war . Daß er in dieser Kunst nicht mittelmaͤssig geblieben , hat man daraus geschlossen , weil zu Athen seine drey Bildsaͤulen der Gratien aufgehoben worden . Man war ehmals gewohnt gewesen diese Goͤttinnen zu kleiden ; den altvaͤterischen Gebrauch hatte Sokrates nachgeahmt , und seine Gratien wiedersprachen der Custome des damaligen Goͤttersystems und der sich darauf gruͤndenden schoͤnen Kuͤnste .
+
+
+Syntactic Score: 0.793040502071
+Syntactic Similarity without tokens: 0.897011905234
+Semantic Score: 0.789812028408
+Semantic Score without stopwords: 0.789812028408
+LCS Length: 1
+LCS: kunst 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 1.0
+Semantic similarity verbs: 0.51629024744
+
+2
+New Sentence: Wie nun der Philosoph zur Wirklichkeit des Daseins, so verhält sich der künstlerisch erregbare Mensch zur Wirklichkeit des Traumes; er sieht genau und gern zu. denn aus diesen Bildern deutet er sich das Leben, an diesen Vorgängen übt er sich für das Leben. Nicht etwa nur die angenehmen und freundlichen Bilder sind es, die er mit jener Allverständigkeit an sich erfährt.
+Reference Sentence: Meine Absicht ist es nicht , ein Historiograph des Sokrates zu seyn ; ich schreibe blos seine Denkwuͤrdigkeiten wie Duͤclos dergleichen zur Geschichte des XVIIIten Jahrhunderts fuͤr die lange Weile des schoͤnen Publicums herausgegeben . Es liesse sich freylich ein so sinnreicher Versuch uͤber das Leben Sokrates schreiben , als Blackwall uͤber den Homer geliefert . Sollte der Vater der Weltweisheit nicht dieser Ehre naͤher gewesen seyn als der Vater der Dichtkunst ?
+
+
+Syntactic Score: 0.821379585279
+Syntactic Similarity without tokens: 0.82715248405
+Semantic Score: 0.759817004204
+Semantic Score without stopwords: 0.759817004204
+LCS Length: 1
+LCS: leben 
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.823866009712
+Semantic similarity verbs: 0.529717326164
+
+3
+New Sentence: Aber auf dem weitesten Gebiete der Oberfläche des hellenischen Wesens wüthete der verzehrende Hauch jenes Geistes, welcher sich in jener Form der „griechischen Heiterkeit“ kundgiebt, von der bereits früher, als von einer greisenhaft unproductiven Daseinslust, die Rede war; diese Heiterkeit ist ein Gegenstück zu der herrlichen „Naivetät“ der älteren Griechen, wie sie, nach der gegebenen Charakteristik, zu fassen ist als die aus einem düsteren Abgrunde hervorwachsende Blüthe der apollinischen Cultur, als der Sieg, den der hellenische Wille durch seine Schönheitsspiegelung über das Leiden und die Weisheit des Leidens davonträgt. Die edelste Form jener anderen Form der „griechischen Heiterkeit“, der alexandrinischen, ist die Heiterkeit des theoretischen Menschen. sie zeigt dieselben charakteristischen Merkmale, die ich soeben aus dem Geiste des Undionysischen ableitete — dass sie die dionysische Weisheit und Kunst bekämpft, dass sie den Mythus aufzulösen trachtet, dass sie an Stelle eines metaphysischen Trostes eine irdische Consonanz, ja einen eigenen deus ex machina setzt, nämlich den Gott der Maschinen und Schmelztiegel, d.h. die im Dienste des höheren Egoismus erkannten und verwendeten Kräfte der Naturgeister, dass sie an eine Correctur der Welt durch das Wissen, an ein durch die Wissenschaft geleitetes Leben glaubt und auch wirklich im Stande ist, den einzelnen Menschen in einen allerengsten Kreis von lösbaren Aufgaben zu bannen, innerhalb dessen er heiter zum Leben sagt.
+Reference Sentence: Die Kraft der Traͤgheit und die ihr entgegengesetzt scheinende Kraft des Stolzes , die man durch so viel Erscheinungen und Beobachtungen veranlasset worden in unserm Willen anzunehmen , bringen die Unwissenheit , und die daraus entspringende Jrrthuͤmer und Vorurtheile nebst allen ihren schwesterlichen Leidenschaften hervor . Von dieser Seite ahmte also Sokrates seinen Vater nach , einen Bildhauer , der , indem er wegnimmt und hauet , was am Holze nicht seyn soll , eben dadurch die Form des Bildes foͤrdert . Daher hatten die grossen Maͤnner seiner Zeit zureichenden Grund uͤber ihn zu schreyen , daß er alle Eichen ihrer Waͤlder faͤlle , alle ihre Kloͤtzer verderbe , und aus ihrem Holze nichts als Spaͤne zu machen verstuͤnde .
+
+
+Syntactic Score: 0.843387929408
+Syntactic Similarity without tokens: 0.891914318206
+Semantic Score: 0.755996823311
+Semantic Score without stopwords: 0.764180541039
+LCS Length: 1
+LCS: form 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.800070285797
+Semantic similarity verbs: 0.204889386892
+
+4
+New Sentence: Die Bewegung auf der Linie des Charakteristischen geht schnell weiter. während noch Sophokles ganze Charactere malt und zu ihrer raffinirten Entfaltung den Mythus ins Joch spannt, malt Euripides bereits nur noch grosse einzelne Charakterzüge, die sich in heftigen Leidenschaften zu äussern wissen; in der neuern attischen Komödie giebt es nur noch Masken mit einem Ausdruck, leichtsinnige Alte, geprellte Kuppler, verschmitzte Sclaven in unermüdlicher Wiederholung. Wohin ist jetzt der mythenbildende Geist der Musik?
+Reference Sentence: Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+
+
+Syntactic Score: 0.821458597512
+Syntactic Similarity without tokens: 0.706427245296
+Semantic Score: 0.785804212093
+Semantic Score without stopwords: 0.785804212093
+LCS Length: 3
+LCS: sophokles euripides grosse 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.08333333333333333
+Semantic similarity nouns: 0.277632206678
+Semantic similarity verbs: 0.478875756264
+
+5
+New Sentence: woher müsste dann das entgegengesetzte Verlangen, das der Zeit nach früher hervortrat, stammen, das Verlangen nach dem Hässlichen, der gute strenge Wille des älteren Hellenen zum Pessimismus, zum tragischen Mythus, zum Bilde alles Furchtbaren, Bösen, Räthselhaften, Vernichtenden, Verhängnissvollen auf dem Grunde des Daseins, — woher müsste dann die Tragödie stammen? Vielleicht aus der Lust, aus der Kraft, aus überströmender Gesundheit, aus übergrosser Fülle? Und welche Bedeutung hat dann, physiologisch gefragt, jener Wahnsinn, aus dem die tragische wie die komische Kunst erwuchs, der dionysische Wahnsinn?
+Reference Sentence: Wie die Natur uns gegeben , unsere Augen zu oͤfnen ; so die Geschichte , unsere Ohten . Einen Koͤrper und eine Begebenheit bis auf ihre ersten Elemente zergliedern , heißt , Gottes unsichtbares Wesen , seine ewige Kraft und Gottheit ertappen wollen . Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs .
+
+
+Syntactic Score: 0.862875376697
+Syntactic Similarity without tokens: 0.895661607816
+Semantic Score: 0.722557961941
+Semantic Score without stopwords: 0.722557961941
+LCS Length: 1
+LCS: kraft 
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.593067765236
+Semantic similarity verbs: nan
+
+6
+New Sentence: Ist es nicht mit Gewalt aus dem hellenischen Boden auszurotten? Gewiss, sagt uns der Dichter, wenn es nur möglich wäre. aber der Gott Dionysus ist zu mächtig; der verständigste Gegner — wie Pentheus in den „Bacchen“ — wird unvermuthet von ihm bezaubert und läuft nachher mit dieser Verzauberung in sein Verhängniss.
+Reference Sentence: Einen Koͤrper und eine Begebenheit bis auf ihre ersten Elemente zergliedern , heißt , Gottes unsichtbares Wesen , seine ewige Kraft und Gottheit ertappen wollen . Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs . Wenn kein junger Sperling ohne unsern Gott auf die Erde faͤllt ; so ist kein Denkmal alter Zeiten fuͤr uns verloren gegangen , das wir zu beklagen haͤtten .
+
+
+Syntactic Score: 0.74878243212
+Syntactic Similarity without tokens: 0.589935063479
+Semantic Score: 0.855561673641
+Semantic Score without stopwords: 0.855561673641
+LCS Length: 1
+LCS: dichter 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.746224701405
+Semantic similarity verbs: 0.760241627693
+
+7
+New Sentence: Vor ihm schrumpfte der Culturmensch zur lügenhaften Caricatur zusammen. Auch für diese Anfänge der tragischen Kunst hat Schiller Recht. der Chor ist eine lebendige Mauer gegen die anstürmende Wirklichkeit, weil er — der Satyrchor — das Dasein wahrhaftiger, wirklicher, vollständiger abbildet als der gemeinhin sich als einzige Realität achtende Culturmensch.
+Reference Sentence: Daß ich sie Gliedmaassen des Verstandes nenne , hindert nicht , jeden Begrif als eine besondere und ganze Geburt selbst anzusehen . Sokrates war also bescheiden genung seine Schulweisheit mit der Kunst eines alten Weibes zu vergleichen , welches blos der Arbeit der Mutter und ihrer zeitigen Frucht zu Huͤlfe kommt , und beyden Handreichung thut . Siehe die folgende Anmerkung .
+
+
+Syntactic Score: 0.805617206002
+Syntactic Similarity without tokens: 0.758492698836
+Semantic Score: 0.788461446762
+Semantic Score without stopwords: 0.786234617233
+LCS Length: 1
+LCS: kunst 
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.678302109241
+Semantic similarity verbs: nan
+
+8
+New Sentence: Diese Erregungsmittel sind kühle paradoxe Gedanken — an Stelle der apollinischen Anschauungen — und feurige Affecte — an Stelle der dionysischen Entzückungen — und zwar höchst realistisch nachgemachte, keineswegs in den Aether der Kunst getauchte Gedanken und Affecte. Haben wir demnach so viel erkannt, dass es Euripides überhaupt nicht gelungen ist, das Drama allein auf das Apollinische zu gründen, dass sich vielmehr seine undionysische Tendenz in eine naturalistische und unkünstlerische verirrt hat, so werden wir jetzt dem Wesen des aesthetischen Sokratismus schon näher treten dürfen; dessen oberstes Gesetz ungefähr so lautet. „alles muss verständig sein, um schön zu sein“; als Parallelsatz zu dem sokratischen „nur der Wissende ist tugendhaft.“ Mit diesem Kanon in der Hand maass Euripides alles Einzelne und rectificirte es gemäss diesem Princip.
+Reference Sentence: Wer der weiseste unter allen damals lebenden Menschen waͤre ? Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste .
+
+
+Syntactic Score: 0.839365561549
+Syntactic Similarity without tokens: 0.776620729999
+Semantic Score: 0.742634892464
+Semantic Score without stopwords: 0.742634892464
+LCS Length: 1
+LCS: euripides 
+Jaccard of common nouns: 0.07692307692307693
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.413038432598
+Semantic similarity verbs: 0.358144789934
+
+9
+New Sentence: Mit dieser Begabung, mit aller Helligkeit und Behendigkeit seines kritischen Denkens hatte Euripides im Theater gesessen und sich angestrengt, an den Meisterwerken seiner grossen Vorgänger wie an dunkelgewordenen Gemälden Zug um Zug, Linie um Linie wiederzuerkennen. Und hier nun war ihm begegnet, was dem in die tieferen Geheimnisse der aeschyleischen Tragödie Eingeweihten nicht unerwartet sein darf. er gewahrte etwas Incommensurables in jedem Zug und in jeder Linie, eine gewisse täuschende Bestimmtheit und zugleich eine räthselhafte Tiefe, ja Unendlichkeit des Hintergrundes.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.867164773209
+Syntactic Similarity without tokens: 0.955840773838
+Semantic Score: 0.78937125206
+Semantic Score without stopwords: 0.726863920689
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.06666666666666667
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.195129811764
+Semantic similarity verbs: 0.569147646427
+
+10
+New Sentence: Diese Erkenntniss sehe ich in jener entsetzlichen Dreiheit der Oedipusschicksale ausgeprägt. derselbe, der das Räthsel der Natur — jener doppeltgearteten Sphinx — löst, muss auch als Mörder des Vaters und Gatte der Mutter die heiligsten Naturordnungen zerbrechen. Ja, der Mythus scheint uns zuraunen zu wollen, dass die Weisheit und gerade die dionysische Weisheit ein naturwidriger Greuel sei, dass der, welcher durch sein Wissen die Natur in den Abgrund der Vernichtung stürzt, auch an sich selbst die Auflösung der Natur zu erfahren habe.
+Reference Sentence: Deslandes , ein Autor von encyclopischen Witz hat eine chinesische Kaminpuppe fuͤr das Kabinet des gallicanischen Geschmacks hervorgebracht . Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche .
+
+
+Syntactic Score: 0.869326703624
+Syntactic Similarity without tokens: 0.945562549797
+Semantic Score: 0.734960436821
+Semantic Score without stopwords: 0.734960436821
+LCS Length: 1
+LCS: natur 
+Jaccard of common nouns: 0.05
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.651098012924
+Semantic similarity verbs: 0.516562998295
+
+11
+New Sentence: Starr und unbeweglich schweigt der Dämon; bis er, durch den König gezwungen, endlich unter gellem Lachen in diese Worte ausbricht. „Elendes Eintagsgeschlecht, des Zufalls Kinder und der Mühsal, was zwingst du mich dir zu sagen, was nicht zu hören für dich das Erspriesslichste ist? Das Allerbeste ist für dich gänzlich unerreichbar.
+Reference Sentence: Die Ueberlieferung eines Goͤtterspruches will aber so wenig als ein Komet sagen fuͤr einen Philosophen von heutigem Geschmack . Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern .
+
+
+Syntactic Score: 0.756663787007
+Syntactic Similarity without tokens: 0.83248958894
+Semantic Score: 0.824780702591
+Semantic Score without stopwords: 0.823605358601
+LCS Length: 1
+LCS: kinder 
+Jaccard of common nouns: 0.047619047619047616
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.877034664154
+Semantic similarity verbs: 0.710071504116
+
+12
+New Sentence: Wir geniessen im unmittelbaren Verständnisse der Gestalt, alle Formen sprechen zu uns, es giebt nichts Gleichgültiges und Unnöthiges. Bei dem höchsten Leben dieser Traumwirklichkeit haben wir doch noch die durchschimmernde Empfindung ihres Scheins. wenigstens ist dies meine Erfahrung, für deren Häufigkeit, ja Normalität, ich manches Zeugniss und die Aussprüche der Dichter beizubringen hätte.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.860617268523
+Syntactic Similarity without tokens: 0.789776789974
+Semantic Score: 0.746650874615
+Semantic Score without stopwords: 0.746650874615
+LCS Length: 1
+LCS: leben 
+Jaccard of common nouns: 0.038461538461538464
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.69499540329
+Semantic similarity verbs: nan
+
+13
+New Sentence: Während der Kritiker in Theater und Concert, der Journalist in der Schule, die Presse in der Gesellschaft zur Herrschaft gekommen war, entartete die Kunst zu einem Unterhaltungsobject der niedrigsten Art, und die aesthetische Kritik wurde als das Bindemittel einer eiteln, zerstreuten, selbstsüchtigen und überdies ärmlich-unoriginalen Geselligkeit benutzt, deren Sinn jene Schopenhauerische Parabel von den Stachelschweinen zu verstehen giebt; so dass zu keiner Zeit so viel über Kunst geschwatzt und so wenig von der Kunst gehalten worden ist. Kann man aber mit einem Menschen noch verkehren, der im Stande ist, sich über Beethoven und Shakespeare zu unterhalten? Mag Jeder nach seinem Gefühl diese Frage beantworten.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.898453596831
+Syntactic Similarity without tokens: 0.917952087618
+Semantic Score: 0.692024886608
+Semantic Score without stopwords: 0.692024886608
+LCS Length: 1
+LCS: menschen 
+Jaccard of common nouns: 0.038461538461538464
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.622539520264
+Semantic similarity verbs: 0.515417218208
+
+14
+New Sentence: Aus diesen Reizmitteln besteht alles, was wir Cultur nennen. je nach der Proportion der Mischungen haben wir eine vorzugsweise sokratische oder künstlerische oder tragische Cultur. oder wenn man historische Exemplificationen erlauben will.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.84852402409
+Syntactic Similarity without tokens: 0.979739731924
+Semantic Score: 0.759793698788
+Semantic Score without stopwords: 0.76183873415
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+15
+New Sentence: WiderspruchvollesNach KGW/KGB Nachberichte sei. Jener despotische Logiker hatte nämlich hier und da der Kunst gegenüber das Gefühl einer Lücke, einer Leere, eines halben Vorwurfs, einer vielleicht versäumten Pflicht. Oefters kam ihm, wie er im Gefängniss seinen Freunden erzählt, ein und dieselbe Traumerscheinung, die immer dasselbe sagte.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.851510108523
+Syntactic Similarity without tokens: 0.942077943322
+Semantic Score: 0.758579671383
+Semantic Score without stopwords: 0.758579671383
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.580519020557
+Semantic similarity verbs: nan
+
+16
+New Sentence: obgleich eine irrige Aesthetik, an der Hand einer missleiteten und entarteten Kunst, von jenem in der bildnerischen Welt geltenden Begriff der Schönheit aus sich gewöhnt habe, von der Musik eine ähnliche Wirkung wie von den Werken der bildenden Kunst zu fordern, nämlich die Erregung des Gefallens an schönen Formen. Nach der Erkenntniss jenes ungeheuren Gegensatzes fühlte ich eine starke Nöthigung, mich dem Wesen der griechischen Tragödie und damit der tiefsten Offenbarung des hellenischen Genius zu nahen. denn erst jetzt glaubte ich des Zaubers mächtig zu sein, über die Phraseologie unserer üblichen Aesthetik hinaus, das Urproblem der Tragödie mir leibhaft vor die Seele stellen zu können.
+Reference Sentence: Daher hatten die grossen Maͤnner seiner Zeit zureichenden Grund uͤber ihn zu schreyen , daß er alle Eichen ihrer Waͤlder faͤlle , alle ihre Kloͤtzer verderbe , und aus ihrem Holze nichts als Spaͤne zu machen verstuͤnde . Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen . Sokrates wurde vermuthlich ein Bildhauer , weil sein Vater einer war .
+
+
+Syntactic Score: 0.844557871659
+Syntactic Similarity without tokens: 0.972843030818
+Semantic Score: 0.765311717987
+Semantic Score without stopwords: 0.765311717987
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.802935600281
+Semantic similarity verbs: 0.400506734848
+
+17
+New Sentence: Oder es wurde vom Dramatiker eine grossartigere, mindestens aufregende Tendenz der politischen und socialen Gegenwart so deutlich vorgetragen, dass der Zuhörer seine kritische Erschöpfung vergessen und sich ähnlichen Affecten überlassen konnte, wie in patriotischen oder kriegerischen Momenten, oder vor der Rednerbühne des Parlaments oder bei der Verurtheilung des Verbrechens und des Lasters. welche Entfremdung der eigentlichen Kunstabsichten hier und da geradezu zu einem Cultus der Tendenz führen musste. Doch hier trat ein, was bei allen erkünstelten Künsten von jeher eingetreten ist, eine reissend schnelle Depravation jener Tendenzen, so dass zum Beispiel die Tendenz, das Theater als Veranstaltung zur moralischen Volksbildung zu verwenden, die zu Schiller’s Zeit ernsthaft genommen wurde, bereits unter die unglaubwürdigen Antiquitäten einer überwundenen Bildung gerechnet wird.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.836658540571
+Syntactic Similarity without tokens: 0.981111784093
+Semantic Score: 0.779721677303
+Semantic Score without stopwords: 0.772238254547
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.529421806335
+
+18
+New Sentence: Mit ihr aber hatte der Hellene den Glauben an seine Unsterblichkeit aufgegeben, nicht nur den Glauben an eine ideale Vergangenheit, sondern auch den Glauben an eine ideale Zukunft. Das Wort aus der bekannten Grabschrift „als Greis leichtsinnig und grillig“ gilt auch vom greisen Hellenenthume. Der Augenblick, der Witz, der Leichtsinn, die Laune sind seine höchsten Gottheiten; der fünfte Stand, der des Sclaven, kommt, wenigstens der Gesinnung nach, jetzt zur Herrschaft.
+Reference Sentence: Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt . Ein solches Gemaͤlde des Jahrhunderts und der Republik , worinn Sokrates lebte , wuͤrde uns zeigen , wie kuͤnstlich seine Unwissenheit fuͤr den Zustand seines Volkes und seiner Zeit , und zu dem Geschaͤfte seines Lebens ausgerechnet war .
+
+
+Syntactic Score: 0.822981001308
+Syntactic Similarity without tokens: 0.962254544565
+Semantic Score: 0.785197794437
+Semantic Score without stopwords: 0.785197794437
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.755182683468
+Semantic similarity verbs: 0.573402285576
+
+19
+New Sentence: Aus seinen Gebärden spricht die Verzauberung. Wie jetzt die Thiere reden, und die Erde Milch und Honig giebt, so tönt auch aus ihm etwas Uebernatürliches. als Gott fühlt er sich, er selbst wandelt jetzt so verzückt und erhoben, wie er die Götter im Traume wandeln sah.
+Reference Sentence: Du fuͤhrst einen Namen , und brauchst keinen Beweis Deines Daseyns , Du findest Glauben , und thust keine Zeichen denselben zu verdienen , Du erhaͤltst Ehre , und hast weder Begrif noch Gefuͤhl davon . Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat .
+
+
+Syntactic Score: 0.757413579502
+Syntactic Similarity without tokens: 0.865075732032
+Semantic Score: 0.850289523602
+Semantic Score without stopwords: 0.850289523602
+LCS Length: 1
+LCS: giebt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0
+Semantic similarity nouns: 0.469430208206
+Semantic similarity verbs: 0.856126248837
+
+20
+New Sentence: Jenes Wort der sokratischen Traumerscheinung ist das einzige Zeichen einer Bedenklichkeit über die Grenzen der logischen Natur. vielleicht — so musste er sich fragen — ist das mir Nichtverständliche doch nicht auch sofort das Unverständige? Vielleicht giebt es ein Reich der Weisheit, aus dem der Logiker verbannt ist?
+Reference Sentence: Der Handwerker hatte den ersten Einfall die Gespraͤche des Sokrates aufzuschreiben . Dieser erkannte sich vielleicht in denselben besser als in Platons , bey deren Lesung er gestutzt und gefragt haben soll . Was hat dieser junge Mensch im Sinn aus mir zu machen ?
+
+
+Syntactic Score: 0.7537324279
+Syntactic Similarity without tokens: 0.914758387429
+Semantic Score: 0.852381408215
+Semantic Score without stopwords: 0.852381408215
+LCS Length: 1
+LCS: vielleicht 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.833269178867
+
+21
+New Sentence: womit das höchste Ziel der Tragödie und der Kunst überhaupt erreicht ist. Mag der aufmerksame Freund sich die Wirkung einer wahren musikalischen Tragödie rein und unvermischt, nach seinen Erfahrungen vergegenwärtigen. Ich denke das Phänomen dieser Wirkung nach beiden Seiten hin so beschrieben zu haben, dass er sich seine eignen Erfahrungen jetzt zu deuten wissen wird.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.839213132832
+Syntactic Similarity without tokens: 0.954594878489
+Semantic Score: 0.766897857189
+Semantic Score without stopwords: 0.766897857189
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.544868946075
+
+22
+New Sentence: So wie jetzt der erscheinende Gott redet und handelt, ähnelt er einem irrenden strebenden leidenden Individuum. und dass er überhaupt mit dieser epischen Bestimmtheit und Deutlichkeit erscheint, ist die Wirkung des Traumdeuters Apollo, der dem Chore seinen dionysischen Zustand durch jene gleichnissartige Erscheinung deutet. In Wahrheit aber ist jener Held der leidende Dionysus der Mysterien, jener die Leiden der Individuation an sich erfahrende Gott, von dem wundervolle Mythen erzählen, wie er als Knabe von den Titanen zerstückelt worden sei und nun in diesem Zustande als Zagreus verehrt werde.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.835238880361
+Syntactic Similarity without tokens: 0.963252254606
+Semantic Score: 0.785171806812
+Semantic Score without stopwords: 0.770481824875
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.171558260918
+Semantic similarity verbs: 0.593150138855
+
+23
+New Sentence: Wenn unter ihnen auch Apollo steht, als eine einzelne Gottheit neben anderen und ohne den Anspruch einer ersten Stellung, so dürfen wir uns dadurch nicht beirren lassen. Derselbe Trieb, der sich in Apollo versinnlichte, hat überhaupt jene ganze olympische Welt geboren, und in diesem Sinne darf uns Apollo als Vater derselben gelten. Welches war das ungeheure Bedürfniss, aus dem eine so leuchtende Gesellschaft olympischer Wesen entsprang?
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.821317362758
+Syntactic Similarity without tokens: 0.935833516201
+Semantic Score: 0.784038543701
+Semantic Score without stopwords: 0.784038543701
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.709946453571
+Semantic similarity verbs: 0.496941387653
+
+24
+New Sentence: Eine feine Nothwehr gegen — die Wahrheit? Und, moralisch geredet, etwas wie Feig- und Falschheit? Unmoralisch geredet, eine Schlauheit?
+Reference Sentence: Jhre gesunde Vernunft , woran es den Juden und Griechen so wenig fehlte als unsern Christen und Muselmaͤnnern , stieß sich daran , daß der Schoͤnste unter den Menschenkindern ihnen zum Erloͤser versprochen war , und daß ein Mann der Schmerzen , voller Wunden und Striemen , der Held ihrer Erwartung seyn sollte . Die Heyden waren durch die klugen Fabeln ihrer Dichter an dergleichen Wiederspruͤchen gewohnt ; bis ihre Sophisten , wie unsere , solche als einen Vatermord verdammten , den man an den ersten Grundsaͤtzen der menschlichen Erkenntnis begeht . Von solchem Wiederspruch finden wir ein Beyspiel an dem Delphischen Orakel , das denjenigen fuͤr den weisesten erkannte , der gleichwol von sich gestand , daß er nichts wisse .
+
+
+Syntactic Score: 0.855084297777
+Syntactic Similarity without tokens: 0.815748909089
+Semantic Score: 0.750026404858
+Semantic Score without stopwords: 0.750026404858
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.541220724583
+
+25
+New Sentence: In den angeführten Anschauungen haben wir bereits alle Bestandtheile einer tiefsinnigen und pessimistischen Weltbetrachtung und zugleich damit die Mysterienlehre der Tragödie zusammen. die Grunderkenntniss von der Einheit alles Vorhandenen, die Betrachtung der Individuation als des Urgrundes des Uebels, die Kunst als die freudige Hoffnung, dass der Bann der Individuation zu zerbrechen sei, als die Ahnung einer wiederhergestellten Einheit. — Es ist früher angedeutet worden, dass das homerische Epos die Dichtung der olympischen Cultur ist, mit der sie ihr eignes Siegeslied über die Schrecken des Titanenkampfes gesungen hat.
+Reference Sentence: so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird . Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren . Das heist , Eßays und Pensees der Loisirs zu schreiben .
+
+
+Syntactic Score: 0.800741171148
+Syntactic Similarity without tokens: 0.70240777642
+Semantic Score: 0.803947150707
+Semantic Score without stopwords: 0.803947150707
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.336214363575
+Semantic similarity verbs: 0.525520384312
+
+26
+New Sentence: Er fühlt die Handlungen des Helden als gerechtfertigt und ist doch noch mehr erhoben, wenn diese Handlungen den Urheber vernichten. Er schaudert vor den Leiden, die den Helden treffen werden und ahnt doch bei ihnen eine höhere, viel übermächtigere Lust. Er schaut mehr und tiefer als je und wünscht sich doch erblindet.
+Reference Sentence: Die Ueberlieferung eines Goͤtterspruches will aber so wenig als ein Komet sagen fuͤr einen Philosophen von heutigem Geschmack . Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern .
+
+
+Syntactic Score: 0.813646893353
+Syntactic Similarity without tokens: 0.912665644095
+Semantic Score: 0.80132818222
+Semantic Score without stopwords: 0.790587961674
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.667698919773
+Semantic similarity verbs: 0.759027957916
+
+27
+New Sentence: Man verlange doch von dem Alleredelsten nicht, dass es die haltbare Zähigkeit des Leders habe; die derbe Dauerhaftigkeit, wie sie z.B. dem römischen Nationaltriebe zu eigen war, gehört wahrscheinlich nicht zu den nothwendigen Prädicaten der Vollkommenheit. Wenn wir aber fragen, mit welchem Heilmittel es den Griechen ermöglicht war, in ihrer grossen Zeit, bei der ausserordentlichen Stärke ihrer dionysischen und politischen Triebe, weder durch ein ekstatisches Brüten, noch durch ein verzehrendes Haschen nach Weltmacht und Weltehre sich zu erschöpfen, sondern jene herrliche Mischung zu erreichen, wie sie ein edler, zugleich befeuernder und beschaulich stimmender Wein hat, so müssen wir der ungeheuren, das ganze Volksleben erregenden, reinigenden und entladenden Gewalt der Tragödie eingedenk sein; deren höchsten Werth wir erst ahnen werden, wenn sie uns, wie bei den Griechen, als Inbegriff aller prophylaktischen Heilkräfte, als die zwischen den stärksten und an sich verhängnissvollsten Eigenschaften des Volkes waltende Mittlerin entgegentritt.
+Reference Sentence: Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen ; so muß man alle sinnreichen Lesearten und Glossen ihres antisokratischen Daͤmons uͤber ihres Meisters Lehren und Tugenden als Schoͤnheiten freyer Uebersetzungen bewundern ; und es ist eben so mislich ihnen zu trauen als nachzufolgen . Jetzt fehlt es mir an dem Geheimnisse der Palingenesie , das unsere Geschichtschreiber in ihrer Gewalt haben , aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen , die man einen Charakter oder ein historisch Gemaͤlde nennt . Ein solches Gemaͤlde des Jahrhunderts und der Republik , worinn Sokrates lebte , wuͤrde uns zeigen , wie kuͤnstlich seine Unwissenheit fuͤr den Zustand seines Volkes und seiner Zeit , und zu dem Geschaͤfte seines Lebens ausgerechnet war .
+
+
+Syntactic Score: 0.833427523023
+Syntactic Similarity without tokens: 0.921496348207
+Semantic Score: 0.770420134068
+Semantic Score without stopwords: 0.770420134068
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+28
+New Sentence: Diese Stimme mahnt, wenn sie kommt, immer ab. Die instinctive Weisheit zeigt sich bei dieser gänzlich abnormen Natur nur, um dem bewussten Erkennen hier und da hindernd entgegenzutreten. Während doch bei allen productiven Menschen der Instinct gerade die schöpferisch-affirmative Kraft ist, und das Bewusstsein kritisch und abmahnend sich gebärdet.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.848009315496
+Syntactic Similarity without tokens: 0.949829388763
+Semantic Score: 0.755716741085
+Semantic Score without stopwords: 0.755716741085
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.125
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.636443018913
+Semantic similarity verbs: 0.677152514458
+
+29
+New Sentence: weshalb wir glauben dürfen, dass erst jetzt das Urphänomen des Tragischen mit einigem Erfolg zu beschreiben ist. Wer jetzt noch nur von jenen stellvertretenden Wirkungen aus ausseraesthetischen Sphären zu erzählen hat und über den pathologisch-moralischen Prozess sich nicht hinausgehoben fühlt, mag nur an seiner aesthetischen Natur verzweifeln. wogegen wir ihm die Interpretation Shakespeare’s nach der Manier des Gervinus und das fleissige Aufspüren der „poetischen Gerechtigkeit“ als unschuldigen Ersatz anempfehlen.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.824116949204
+Syntactic Similarity without tokens: 0.886994986923
+Semantic Score: 0.779575109482
+Semantic Score without stopwords: 0.779575109482
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.512777507305
+Semantic similarity verbs: 0.552537739277
+
+30
+New Sentence: Aber von diesem geschilderten Vorgang wäre doch eben so bestimmt zu sagen, dass er nur ein herrlicher Schein, nämlich jene vorhin erwähnte apollinische Täuschung sei, durch deren Wirkung wir von dem dionysischen Andrange und Uebermaasse entlastet werden sollen. Im Grunde ist ja das Verhältniss der Musik zum Drama gerade das umgekehrte. die Musik ist die eigentliche Idee der Welt, das Drama nur ein Abglanz dieser Idee, ein vereinzeltes Schattenbild derselben.
+Reference Sentence: Daher hatten die grossen Maͤnner seiner Zeit zureichenden Grund uͤber ihn zu schreyen , daß er alle Eichen ihrer Waͤlder faͤlle , alle ihre Kloͤtzer verderbe , und aus ihrem Holze nichts als Spaͤne zu machen verstuͤnde . Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen . Sokrates wurde vermuthlich ein Bildhauer , weil sein Vater einer war .
+
+
+Syntactic Score: 0.773215991934
+Syntactic Similarity without tokens: 0.92079207395
+Semantic Score: 0.830058991909
+Semantic Score without stopwords: 0.830058991909
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.75086170435
+Semantic similarity verbs: 0.494999885559
+
+31
+New Sentence: Diesen fesselt die sokratische Lust des Erkennens und der Wahn, durch dasselbe die ewige Wunde des Daseins heilen zu können, jenen umstrickt der vor seinen Augen wehende verführerische Schönheitsschleier der Kunst, jenen wiederum der metaphysische Trost, dass unter dem Wirbel der Erscheinungen das ewige Leben unzerstörbar weiterfliesst. um von den gemeineren und fast noch kräftigeren Illusionen, die der Wille in jedem Augenblick bereit hält, zu schweigen. Jene drei Illusionsstufen sind überhaupt nur für die edler ausgestatteten Naturen, von denen die Last und Schwere des Daseins überhaupt mit tieferer Unlust empfunden wird und die durch ausgesuchte Reizmittel über diese Unlust hinwegzutäuschen sind.
+Reference Sentence: Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+
+
+Syntactic Score: 0.790280632309
+Syntactic Similarity without tokens: 0.687023352024
+Semantic Score: 0.812575042248
+Semantic Score without stopwords: 0.812575042248
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.3333333333333333
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.585137844086
+
+32
+New Sentence: Das Recitativ galt als die wiederentdeckte Sprache jenes Urmenschen; die Oper als das wiederaufgefundene Land jenes idyllisch oder heroisch guten Wesens, das zugleich in allen seinen Handlungen einem natürlichen Kunsttriebe folgt, das bei allem, was es zu sagen hat, wenigstens etwas singt, um, bei der leisesten Gefühlserregung, sofort mit voller Stimme zu singen. Es ist für uns jetzt gleichgültig, dass mit diesem neugeschaffnen Bilde des paradiesischen Künstlers die damaligen Humanisten gegen die alte kirchliche Vorstellung vom an sich verderbten und verlornen Menschen ankämpften. so dass die Oper als das Oppositionsdogma vom guten Menschen zu verstehen ist, mit dem aber zugleich ein Trostmittel gegen jenen Pessimismus gefunden war, zu dem gerade die Ernstgesinnten jener Zeit, bei der grauenhaften Unsicherheit aller Zustände, am stärksten gereizt waren.
+Reference Sentence: Einen Koͤrper und eine Begebenheit bis auf ihre ersten Elemente zergliedern , heißt , Gottes unsichtbares Wesen , seine ewige Kraft und Gottheit ertappen wollen . Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs . Wenn kein junger Sperling ohne unsern Gott auf die Erde faͤllt ; so ist kein Denkmal alter Zeiten fuͤr uns verloren gegangen , das wir zu beklagen haͤtten .
+
+
+Syntactic Score: 0.802461693799
+Syntactic Similarity without tokens: 0.943116650223
+Semantic Score: 0.799538552761
+Semantic Score without stopwords: 0.799538552761
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.567858695984
+Semantic similarity verbs: nan
+
+33
+New Sentence: Auch im deutschen Mittelalter wälzten sich unter der gleichen dionysischen Gewalt immer wachsende Schaaren, singend und tanzend, von Ort zu Ort. in diesen Sanct-Johann- und Sanct-Veittänzern erkennen wir die bacchischen Chöre der Griechen wieder, mit ihrer Vorgeschichte in Kleinasien, bis hin zu Babylon und den orgiastischen Sakäen. Es giebt Menschen, die, aus Mangel an Erfahrung oder aus Stumpfsinn, sich von solchen Erscheinungen wie von „Volkskrankheiten“, spöttisch oder bedauernd im Gefühl der eigenen Gesundheit abwenden.
+Reference Sentence: Das Publicum in Griechenland laß die Denkwuͤrdigkeiten des Aristoteles uͤber die Naturgeschichte der Thiere , und Alexander verstand sie . Wo ein gemeiner Leser nichts als Schimmel sehen moͤchte , wird der Affect der Freundschaft Jhnen , Meine Herren , in diesen Blaͤttern vielleicht ein mikroskopisch Waͤldchen entdecken . Jch habe uͤber den Sokrates auf eine sokratische Art geschrieben .
+
+
+Syntactic Score: 0.860024857204
+Syntactic Similarity without tokens: 0.940502384097
+Semantic Score: 0.741751909256
+Semantic Score without stopwords: 0.741751909256
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.709088921547
+
+34
+New Sentence: — Abseits freilich von allen übereilten Hoffnungen und fehlerhaften Nutzanwendungen auf Gegenwärtigstes, mit denen ich mir damals mein erstes Buch verdarb, bleibt das grosse dionysische Fragezeichen, wie es darin gesetzt ist, auch in Betreff der Musik, fort und fort bestehen. wie müsste eine Musik beschaffen sein, welche nicht mehr romantischen Ursprungs wäre, gleich der deutschen, — sondern dionysischen?…         7. — Aber, mein Herr, was in aller Welt ist Romantik, wenn nicht Ihr Buch Romantik ist?
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.753098374296
+Syntactic Similarity without tokens: 0.866155144579
+Semantic Score: 0.855500996113
+Semantic Score without stopwords: 0.847893357277
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.427179574966
+Semantic similarity verbs: 0.585456967354
+
+35
+New Sentence: das Wort, das Bild, der Begriff sucht einen der Musik analogen Ausdruck und erleidet jetzt die Gewalt der Musik an sich. In diesem Sinne dürfen wir in der Sprachgeschichte des griechischen Volkes zwei Hauptströmungen unterscheiden, jenachdem die Sprache die Erscheinungs- und Bilderwelt oder die Musikwelt nachahmte. Man denke nur einmal tiefer über die sprachliche Differenz der Farbe, des syntaktischen Bau’s, des Wortmaterial’s bei Homer und Pindar nach, um die Bedeutung dieses Gegensatzes zu begreifen; ja es wird Einem dabei handgreiflich deutlich, dass zwischen Homer und Pindar die orgiastischen Flötenweisen des Olympus erklungen sein müssen, die noch im Zeitalter des Aristoteles, inmitten einer unendlich entwickelteren Musik, zu trunkner Begeisterung hinrissen und gewiss in ihrer ursprünglichen Wirkung alle dichterischen Ausdrucksmittel der gleichzeitigen Menschen zur Nachahmung aufgereizt haben.
+Reference Sentence: Man war ehmals gewohnt gewesen diese Goͤttinnen zu kleiden ; den altvaͤterischen Gebrauch hatte Sokrates nachgeahmt , und seine Gratien wiedersprachen der Custome des damaligen Goͤttersystems und der sich darauf gruͤndenden schoͤnen Kuͤnste . Wie Sokrates auf diese Neuerung gekommen ; ob es eine Eingebung seines Genius , oder eine Eitelkeit seine Arbeiten zu unterscheiden , oder die Einfalt einer natuͤrlichen Schaamhaftigkeit gewesen , die einem andaͤchtigen Athenienser wunderlich vorkommen muste ; weiß ich nicht . Es ist aber nur gar zu wahrscheinlich , daß diese neugekleideten Gratien so wenig ohne Anfechtung werden geblieben seyn als die neugekleideten Gratien unserer heutigen Dichtkunst .
+
+
+Syntactic Score: 0.824330810663
+Syntactic Similarity without tokens: 0.722820754235
+Semantic Score: 0.776485621929
+Semantic Score without stopwords: 0.776485621929
+LCS Length: 1
+LCS: unterscheiden 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.374699354172
+Semantic similarity verbs: 0.774375915527
+
+36
+New Sentence: man lernte selbst bei Euripides sprechen, und dessen rühmt er sich selbst im Wettkampfe mit Aeschylus. wie durch ihn jetzt das Volk kunstmässig und mit den schlausten Sophisticationen zu beobachten, zu verhandeln und Folgerungen zu ziehen gelernt habe. Durch diesen Umschwung der öffentlichen Sprache hat er überhaupt die neuere Komödie möglich gemacht.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.842314578322
+Syntactic Similarity without tokens: 0.936713032075
+Semantic Score: 0.757748544216
+Semantic Score without stopwords: 0.757748544216
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.712967395782
+
+37
+New Sentence: Und nun denken wir uns, wie in diese auf den Schein und die Mässigung gebaute und künstlich gedämmte Welt der ekstatische Ton der Dionysusfeier in immer lockenderen Zauberweisen hineinklang, wie in diesen das ganze Uebermaass der Natur in Lust, Leid und Erkenntniss, bis zum durchdringenden Schrei, laut wurde. denken wir uns, was diesem dämonischen Volksgesange gegenüber der psalmodirende Künstler des Apollo, mit dem gespensterhaften Harfenklange, bedeuten konnte! Die Musen der Künste des „Scheins“ verblassten vor einer Kunst, die in ihrem Rausche die Wahrheit sprach, die Weisheit des Silen rief Wehe!
+Reference Sentence: Die Ehrfurcht gegen das Wort in seinem Herzen , auf dessen Laut er immer aufmerksam war , entschuldigte ihn Staatsversammlungen beyzuwohnen . Als er lange genung glaubte gelebt zu haben , bot er sich selbst zu einer Stelle im Rath an , worinn er als Mitglied , Aeltermann und Oberhaupt gesessen , und wo er sich mit seiner Unschicklichkeit in Sammlung der Stimmen und andern Gebraͤuchen laͤcherlich , auch mit seinem Eigensinn , den er dem unrechten Verfahren einer Sache entgegen setzen muste , als ein Aufruͤhrer verdaͤchtig gemacht haben soll . Sokrates wurde aber kein Autor , und hierinn handelte er uͤbereinstimmig mit sich selbst .
+
+
+Syntactic Score: 0.878739534017
+Syntactic Similarity without tokens: 0.826141254552
+Semantic Score: 0.755048811436
+Semantic Score without stopwords: 0.721251547337
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.725531041622
+
+38
+New Sentence: Das wahre Ziel wird durch ein Wahnbild verdeckt. nach diesem strecken wir die Hände aus, und jenes erreicht die Natur durch unsre Täuschung. In den Griechen wollte der „Wille“ sich selbst, in der Verklärung des Genius und der Kunstwelt, anschauen; um sich zu verherrlichen, mussten seine Geschöpfe sich selbst als verherrlichenswerth empfinden, sie mussten sich in einer höheren Sphäre wiedersehn, ohne dass diese vollendete Welt der Anschauung als Imperativ oder als Vorwurf wirkte.
+Reference Sentence: Frankreich bevoͤlkern muͤssen . Nach dem heutigen Plan der Welt bleibt die Kunst Gold zu machen also mit Recht das hoͤchste Project und hoͤchste Gut unserer Staatsklugen . Der andere moͤchte einen so allgemeinen Weltweisen und guten Muͤnzwaradein abgeben , als Newton war .
+
+
+Syntactic Score: 0.815014127452
+Syntactic Similarity without tokens: 0.84432704685
+Semantic Score: 0.784789025784
+Semantic Score without stopwords: 0.784789025784
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.744647502899
+Semantic similarity verbs: 0.474930882454
+
+39
+New Sentence: Die Prometheussage ist ein ursprüngliches Eigenthum der gesammten arischen Völkergemeinde und ein Document für deren Begabung zum Tiefsinnig-Tragischen, ja es möchte nicht ohne Wahrscheinlichkeit sein, dass diesem Mythus für das arische Wesen eben dieselbe charakteristische Bedeutung innewohnt, die der Sündenfallmythus für das semitische hat, und dass zwischen beiden Mythen ein Verwandtschaftsgrad existiert, wie zwischen Bruder und Schwester. Die Voraussetzung jenes Prometheusmythus ist der überschwängliche Werth, den eine naive Menschheit dem Feuer beilegt als dem wahren Palladium jeder aufsteigenden Cultur. dass aber der Mensch frei über das Feuer waltet und es nicht nur durch ein Geschenk vom Himmel, als zündenden Blitzstrahl oder wärmenden Sonnenbrand empfängt, erschien jenen beschaulichen Ur-Menschen als ein Frevel, als ein Raub an der göttlichen Natur.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.893140782703
+Syntactic Similarity without tokens: 0.930904961283
+Semantic Score: 0.706535160542
+Semantic Score without stopwords: 0.706535160542
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.355367183685
+Semantic similarity verbs: 0.377533048391
+
+40
+New Sentence: gleichnissartigenNach KGW/KGB Nachberichte Traumbilde, unter der apollinischen Traumeinwirkung sichtbar. Jener bild- und begrifflose Wiederschein des Urschmerzes in der Musik, mit seiner Erlösung im Scheine, erzeugt jetzt eine zweite Spiegelung, als einzelnes Gleichniss oder Exempel. Seine Subjectivität hat der Künstler bereits in dem dionysischen Prozess aufgegeben.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.849189129343
+Syntactic Similarity without tokens: 0.904516553852
+Semantic Score: 0.748434960842
+Semantic Score without stopwords: 0.750402987003
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.498997092247
+Semantic similarity verbs: 0.426704406738
+
+41
+New Sentence: Solche einzelne Bilder des Menschenlebens, der allgemeinen Sprache der Musik untergelegt, sind nie mit durchgängiger Nothwendigkeit ihr verbunden oder entsprechend; sondern sie stehen zu ihr nur im Verhältniss eines beliebigen Beispiels zu einem allgemeinen Begriff. sie stellen in der Bestimmtheit der Wirklichkeit Dasjenige dar, was die Musik in der Allgemeinheit blosser Form aussagt. Denn die Melodien sind gewissermaassen, gleich den allgemeinen Begriffen, ein Abstractum der Wirklichkeit.
+Reference Sentence: Ein Schoͤpfer seines Volkes in der Sprache unsers Witzes wird nach einer undenklichen Zeit eben so poetisch verstanden werden muͤssen , als ein Bildhauer seines Weibes . Es giebt in dem Tempel der Gelehrsamkeit wuͤrklich einen Goͤtzen , der unter seinem Bilde die Aufschrift der philosophischen Geschichte traͤgt ; und dem es an Hohenpriestern und Leviten nicht gefehlt . Stanley und Brucker haben uns Kolossen geliefert , die eben so sonderbar und unvollendet sind als jenes Bild der Schoͤnheit , das ein Grieche aus den Reitzen aller Schoͤnen , deren Eindruck ihm Absicht und Zufall verschaffen konnte , zusammensetzte .
+
+
+Syntactic Score: 0.848426169252
+Syntactic Similarity without tokens: 0.914045716895
+Semantic Score: 0.759053766727
+Semantic Score without stopwords: 0.750585317612
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.678314507008
+Semantic similarity verbs: 0.382045507431
+
+42
+New Sentence: — zu verbürgen scheinen. Bevor wir uns mitten in jene Kämpfe hineinstürzen, hüllen wir uns in die Rüstung unsrer bisher eroberten Erkenntnisse. Im Gegensatz zu allen denen, welche beflissen sind, die Künste aus einem einzigen Princip, als dem nothwendigen Lebensquell jedes Kunstwerks abzuleiten, halte ich den Blick auf jene beiden künstlerischen Gottheiten der Griechen, Apollo und Dionysus, geheftet und erkenne in ihnen die lebendigen und anschaulichen Repräsentanten zweier in ihrem tiefsten Wesen und ihren höchsten Zielen verschiedenen Kunstwelten.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.838659144098
+Syntactic Similarity without tokens: 0.917969949623
+Semantic Score: 0.758886933327
+Semantic Score without stopwords: 0.758643329144
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+43
+New Sentence: — Aber wie verändert sich plötzlich jene eben so düster geschilderte Wildniss unserer ermüdeten Cultur, wenn sie der dionysische Zauber berührt! Ein Sturmwind packt alles Abgelebte, Morsche, Zerbrochne, Verkümmerte, hüllt es wirbelnd in eine rothe Staubwolke und trägt es wie ein Geier in die Lüfte. Verwirrt suchen unsere Blicke nach dem Entschwundenen.
+Reference Sentence: Wir bewundern es an Pompejus als eine kluge und edle Handlung , daß er die Schriften seines Feindes Sertorius aus dem Wege raͤumte ; warum nicht an unserm HErrn , daß er die Schriften eines Celsus untergehen lassen ? Jch meyne also nicht ohne Grund , daß Gott fuͤr alle Buͤcher , woran uns was gelegen , wenigstens so viel Aufmerksamkeit getragen als Caͤsar fuͤr die beschriebene Rolle , mit der er in die See sprang , oder Paulus fuͤr sein Pergamen zu Troada . Der President von Goguet urtheilt auf eine aͤhnliche Art in der Vorrede seines lesenswuͤrdigen Werkes de l’origine des Loix , des Arts & des Sciences & de leurs progrès chez los anciens Peuples .
+
+
+Syntactic Score: 0.853990769359
+Syntactic Similarity without tokens: 0.917750557978
+Semantic Score: 0.728197515011
+Semantic Score without stopwords: 0.743099212646
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.317044317722
+Semantic similarity verbs: 0.766812562943
+
+44
+New Sentence: an Otto Jahn denke. Vor der deutschen Musik aber mag sich der Lügner und Heuchler in Acht nehmen. denn gerade sie ist, inmitten aller unserer Cultur, der einzig reine, lautere und läuternde Feuergeist, von dem aus und zu dem hin, wie in der Lehre des grossen Heraklit von Ephesus, sich alle Dinge in doppelter Kreisbahn bewegen.
+Reference Sentence: Daher hatten die grossen Maͤnner seiner Zeit zureichenden Grund uͤber ihn zu schreyen , daß er alle Eichen ihrer Waͤlder faͤlle , alle ihre Kloͤtzer verderbe , und aus ihrem Holze nichts als Spaͤne zu machen verstuͤnde . Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen . Sokrates wurde vermuthlich ein Bildhauer , weil sein Vater einer war .
+
+
+Syntactic Score: 0.864530067331
+Syntactic Similarity without tokens: 0.947736677709
+Semantic Score: 0.732551395893
+Semantic Score without stopwords: 0.732551395893
+LCS Length: 1
+LCS: deutschen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.16666666666666666
+Semantic similarity nouns: 0.481269836426
+Semantic similarity verbs: 0.534345507622
+
+45
+New Sentence: Dionysus redet die Sprache des Apollo, Apollo aber schliesslich die Sprache des Dionysus. womit das höchste Ziel der Tragödie und der Kunst überhaupt erreicht ist. Mag der aufmerksame Freund sich die Wirkung einer wahren musikalischen Tragödie rein und unvermischt, nach seinen Erfahrungen vergegenwärtigen.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.872433214737
+Syntactic Similarity without tokens: 0.874830530612
+Semantic Score: 0.728888511658
+Semantic Score without stopwords: 0.724389791489
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.470171481371
+Semantic similarity verbs: 0.551443994045
+
+46
+New Sentence: seine „Subjectivität“ im Sinne der neueren Aesthetiker ist eine Einbildung. Wenn Archilochus, der erste Lyriker der Griechen, seine rasende Liebe und zugleich seine Verachtung den Töchtern des Lykambes kundgiebt, so ist es nicht seine Leidenschaft, die vor uns in orgiastischem Taumel tanzt. wir sehen Dionysus und die Mänaden, wir sehen den berauschten Schwärmer Archilochus zum Schlafe niedergesunken — wie ihn uns Euripides in den Bacchen beschreibt, den Schlaf auf hoher Alpentrift, in der Mittagssonne —.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.778240663727
+Syntactic Similarity without tokens: 0.9549315107
+Semantic Score: 0.818505167961
+Semantic Score without stopwords: 0.818505167961
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.624468505383
+Semantic similarity verbs: 0.60396271944
+
+47
+New Sentence: Weil er um so viel mehr anschaut. Wir reden über Poesie so abstract, weil wir alle schlechte Dichter zu sein pflegen. Im Grunde ist das aesthetische Phänomen einfach; man habe nur die Fähigkeit, fortwährend ein lebendiges Spiel zu sehen und immerfort von Geisterschaaren umringt zu leben, so ist man Dichter; man fühle nur den Trieb, sich selbst zu verwandeln und aus anderen Leibern und Seelen herauszureden, so ist man Dramatiker.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.819172755214
+Syntactic Similarity without tokens: 0.948244411992
+Semantic Score: 0.826765239239
+Semantic Score without stopwords: 0.777353703976
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.216555401683
+Semantic similarity verbs: 0.653711438179
+
+48
+New Sentence: Die Tragödie ist auf diesem Fundamente emporgewachsen und freilich schon deshalb von Anbeginn an einem peinlichen Abkonterfeien der Wirklichkeit enthoben gewesen. Dabei ist es doch keine willkürlich zwischen Himmel und Erde hineinphantasirte Welt; vielmehr eine Welt von gleicher Realität und Glaubwürdigkeit wie sie der Olymp sammt seinen Insassen für den gläubigen Hellenen besass. Der Satyr als der dionysische Choreut lebt in einer religiös zugestandenen Wirklichkeit unter der Sanction des Mythus und des Cultus.
+Reference Sentence: Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche . Unterdessen glaube ich zuverlaͤßiger , daß unsere Philosophie eine andere Gestalt nothwendig haben muͤste , wenn man die Schicksale dieses Namens oder Wortes .
+
+
+Syntactic Score: 0.78780466734
+Syntactic Similarity without tokens: 0.940060180359
+Semantic Score: 0.81247484684
+Semantic Score without stopwords: 0.80847120285
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.642001509666
+Semantic similarity verbs: 0.275949507952
+
+49
+New Sentence: Giebt es vielleicht ein Leiden an der Ueberfülle selbst? Eine versucherische Tapferkeit des schärfsten Blicks, die nach dem Furchtbaren verlangt, als nach dem Feinde, dem würdigen Feinde, an dem sie ihre Kraft erproben kann? an dem sie lernen will, was „das Fürchten“ ist?
+Reference Sentence: Jhre gesunde Vernunft , woran es den Juden und Griechen so wenig fehlte als unsern Christen und Muselmaͤnnern , stieß sich daran , daß der Schoͤnste unter den Menschenkindern ihnen zum Erloͤser versprochen war , und daß ein Mann der Schmerzen , voller Wunden und Striemen , der Held ihrer Erwartung seyn sollte . Die Heyden waren durch die klugen Fabeln ihrer Dichter an dergleichen Wiederspruͤchen gewohnt ; bis ihre Sophisten , wie unsere , solche als einen Vatermord verdammten , den man an den ersten Grundsaͤtzen der menschlichen Erkenntnis begeht . Von solchem Wiederspruch finden wir ein Beyspiel an dem Delphischen Orakel , das denjenigen fuͤr den weisesten erkannte , der gleichwol von sich gestand , daß er nichts wisse .
+
+
+Syntactic Score: 0.818803374458
+Syntactic Similarity without tokens: 0.914594813834
+Semantic Score: 0.777398645878
+Semantic Score without stopwords: 0.777398645878
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.357393175364
+Semantic similarity verbs: 0.530225515366
+
+50
+New Sentence: Der Okeanidenchor glaubt wirklich den Titan Prometheus vor sich zu sehen und hält sich selbst für eben so real wie den Gott der Scene. Und das sollte die höchste und reinste Art des Zuschauers sein, gleich den Okeaniden den Prometheus für leiblich vorhanden und real zu halten? Und es wäre das Zeichen des idealischen Zuschauers, auf die Bühne zu laufen und den Gott von seinen Martern zu befreien?
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.771521993231
+Syntactic Similarity without tokens: 0.930837937862
+Semantic Score: 0.843442082405
+Semantic Score without stopwords: 0.824304401875
+LCS Length: 1
+LCS: gleich 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.505781471729
+Semantic similarity verbs: 0.750482201576
+
+51
+New Sentence: Sollte sich nicht inzwischen dadurch, dass wir die Musikrelation der Dissonanz zu Hülfe nahmen, jenes schwierige Problem der tragischen Wirkung wesentlich erleichtert haben? Verstehen wir doch jetzt, was es heissen will, in der Tragödie zugleich schauen zu wollen und sich über das Schauen hinaus zu sehnen. welchen Zustand wir in Betreff der künstlerisch verwendeten Dissonanz eben so zu charakterisiren hätten, dass wir hören wollen und über das Hören uns zugleich hinaussehnen.
+Reference Sentence: Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche . Unterdessen glaube ich zuverlaͤßiger , daß unsere Philosophie eine andere Gestalt nothwendig haben muͤste , wenn man die Schicksale dieses Namens oder Wortes .
+
+
+Syntactic Score: 0.772189948831
+Syntactic Similarity without tokens: 0.88186087656
+Semantic Score: 0.835525453091
+Semantic Score without stopwords: 0.823533654213
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.504103660583
+Semantic similarity verbs: 0.688791692257
+
+52
+New Sentence: Denn jetzt muss der tugendhafte Held Dialektiker sein, jetzt muss zwischen Tugend und Wissen, Glaube und Moral ein nothwendiger sichtbarer Verband sein, jetzt ist die transscendentale Gerechtigkeitslösung des Aeschylus zu dem flachen und frechen Princip der „poetischen Gerechtigkeit“ mit seinem üblichen deus ex machina erniedrigt. Wie erscheint dieser neuen sokratisch-optimistischen Bühnenwelt gegenüber jetzt der Chor und überhaupt der ganze musikalisch-dionysische Untergrund der Tragödie? Als etwas Zufälliges, als eine auch wohl zu missende Reminiscenz an den Ursprung der Tragödie; während wir doch eingesehen haben, dass der Chor nur als Ursache der Tragödie und des Tragischen überhaupt verstanden werden kann.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.870561552506
+Syntactic Similarity without tokens: 0.952130369373
+Semantic Score: 0.719685971737
+Semantic Score without stopwords: 0.724783599377
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.536968171597
+
+53
+New Sentence: Dies geschieht in der Entfaltung des neueren attischen Dithyrambus, dessen Musik nicht mehr das innere Wesen, den Willen selbst aussprach, sondern nur die Erscheinung ungenügend, in einer durch Begriffe vermittelten Nachahmung wiedergab. von welcher innerlich entarteten Musik sich die wahrhaft musikalischen Naturen mit demselben Widerwillen abwandten, den sie vor der kunstmörderischen Tendenz des Sokrates hatten. Der sicher zugreifende Instinct des Aristophanes hat gewiss das Rechte erfasst, wenn er Sokrates selbst, die Tragödie des Euripides und die Musik der neueren Dithyrambiker in dem gleichen Gefühle des Hasses zusammenfasste und in allen drei Phänomenen die Merkmale einer degenerirten Cultur witterte.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.816933248843
+Syntactic Similarity without tokens: 0.902564769131
+Semantic Score: 0.78467643261
+Semantic Score without stopwords: 0.778092086315
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.427179574966
+Semantic similarity verbs: 0.51668715477
+
+54
+New Sentence: Demgemäss erkennen wir in der Tragödie einen durchgreifenden Stilgegensatz. Sprache, Farbe, Beweglichkeit, Dynamik der Rede treten in der dionysischen Lyrik des Chors und andrerseits in der apollinischen Traumwelt der Scene als völlig gesonderte Sphären des Ausdrucks aus einander. Die apollinischen ErscheinungenErratum.
+Reference Sentence: Die Ueberlieferung eines Goͤtterspruches will aber so wenig als ein Komet sagen fuͤr einen Philosophen von heutigem Geschmack . Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern .
+
+
+Syntactic Score: 0.813354754037
+Syntactic Similarity without tokens: 0.615447203137
+Semantic Score: 0.796209692955
+Semantic Score without stopwords: 0.781315147877
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.739856123924
+Semantic similarity verbs: 0.511269927025
+
+55
+New Sentence: Man weiss ja alles, was geschehen wird; wer wird abwarten wollen, dass dies wirklich geschieht? — da ja hier keinesfalls das aufregende Verhältniss eines wahrsagenden Traumes zu einer später eintretenden Wirklichkeit stattfindet. Ganz anders reflectirte Euripides.
+Reference Sentence: so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird . Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren . Das heist , Eßays und Pensees der Loisirs zu schreiben .
+
+
+Syntactic Score: 0.81246366546
+Syntactic Similarity without tokens: 0.964458371891
+Semantic Score: 0.782191157341
+Semantic Score without stopwords: 0.782191157341
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.526948690414
+
+56
+New Sentence: Wer nur einen Hauch von jener göttlichen Naivetät und Sicherheit der sokratischen Lebensrichtung aus den platonischen Schriften gespürt hat, der fühlt auch, wie das ungeheure Triebrad des logischen Sokratismus gleichsam hinter Sokrates in Bewegung ist, und wie dies durch Sokrates wie durch einen Schatten hindurch angeschaut werden muss. Dass er aber selbst von diesem Verhältniss eine Ahnung hatte, das drückt sich in dem würdevollen Ernste aus, mit dem er seine göttliche Berufung überall und noch vor seinen Richtern geltend machte. Ihn darin zu widerlegen war im Grunde eben so unmöglich als seinen die Instincte auflösenden Einfluss gut zu heissen.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.869234520437
+Syntactic Similarity without tokens: 0.923235639903
+Semantic Score: 0.741641581059
+Semantic Score without stopwords: 0.725172102451
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.2
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.24130064249
+Semantic similarity verbs: nan
+
+57
+New Sentence: Alle unsere Erziehungsmittel haben ursprünglich dieses Ideal im Auge. jede andere Existenz hat sich mühsam nebenbei emporzuringen, als erlaubte, nicht als beabsichtigte Existenz. In einem fast erschreckenden Sinne ist hier eine lange Zeit der Gebildete allein in der Form des Gelehrten gefunden worden; selbst unsere dichterischen Künste haben sich aus gelehrten Imitationen entwickeln müssen, und in dem Haupteffect des Reimes erkennen wir noch die Entstehung unserer poetischen Form aus künstlichen Experimenten mit einer nicht heimischen, recht eigentlich gelehrten Sprache.
+Reference Sentence: so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird . Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren . Das heist , Eßays und Pensees der Loisirs zu schreiben .
+
+
+Syntactic Score: 0.841683297598
+Syntactic Similarity without tokens: 0.866103046104
+Semantic Score: 0.75269639492
+Semantic Score without stopwords: 0.75269639492
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.638650655746
+
+58
+New Sentence: Was wird aus den ewigen Wahrheiten des Dionysischen und des Apollinischen, bei einer solchen Stilvermischung, wie ich sie am Wesen des stilo rappresentativo dargelegt habe? wo die Musik als Diener, das Textwort als Herr betrachtet, die Musik mit dem Körper, das Textwort mit der Seele verglichen wird? wo das höchste Ziel bestenfalls auf eine umschreibende Tonmalerei gerichtet sein wird, ähnlich wie ehedem im neuen attischen Dithyrambus?
+Reference Sentence: Daß ich sie Gliedmaassen des Verstandes nenne , hindert nicht , jeden Begrif als eine besondere und ganze Geburt selbst anzusehen . Sokrates war also bescheiden genung seine Schulweisheit mit der Kunst eines alten Weibes zu vergleichen , welches blos der Arbeit der Mutter und ihrer zeitigen Frucht zu Huͤlfe kommt , und beyden Handreichung thut . Siehe die folgende Anmerkung .
+
+
+Syntactic Score: 0.831193525613
+Syntactic Similarity without tokens: 0.76047339156
+Semantic Score: 0.762420594692
+Semantic Score without stopwords: 0.763071238995
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.3333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.630511760712
+Semantic similarity verbs: 0.82662075758
+
+59
+New Sentence: ängstlich läuft er am Ufer auf und ab. Er will nichts mehr ganz haben, ganz auch mit aller der natürlichen Grausamkeit der Dinge. Soweit hat ihn das optimistische Betrachten verzärtelt.
+Reference Sentence: Der Geschichte der Philosophie ist es wie der Bildsaͤule des franzoͤsischen Staatsministers ergangen . Ein grosser Kuͤnstler zeigte seinen Meissel daran ; ein Monarch , der Name eines ganzen Jahrhunderts , gab die Unkosten zum Denkmal und bewunderte das Geschoͤpf seines Unterthauen ; der Scythe aber , der auf sein Handwerk reisete , und wie Noah oder der Galilaͤer des Projektmachers , Julians , ein Zimmermann wurde , um der Gott seines Volks zu seyn , dieser Scythe begieng eine Schwachheit , deren Andenken ihn allein verewigen koͤnnte . Er lief auf den Marmor zu , both grosmuͤthig dem Stein die Haͤlfte seines weiten Reichs an , wenn er ihn lehren wollte , die andere Haͤlfte zu regieren .
+
+
+Syntactic Score: 0.86756470124
+Syntactic Similarity without tokens: 0.926349355168
+Semantic Score: 0.783042609692
+Semantic Score without stopwords: 0.725703954697
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+60
+New Sentence: Apollo konnte nicht ohne Dionysus leben! Das „Titanische“ und das „Barbarische“ war zuletzt eine eben solche Nothwendigkeit wie das Apollinische! Und nun denken wir uns, wie in diese auf den Schein und die Mässigung gebaute und künstlich gedämmte Welt der ekstatische Ton der Dionysusfeier in immer lockenderen Zauberweisen hineinklang, wie in diesen das ganze Uebermaass der Natur in Lust, Leid und Erkenntniss, bis zum durchdringenden Schrei, laut wurde.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.858078186228
+Syntactic Similarity without tokens: 0.719660623542
+Semantic Score: 0.749491810799
+Semantic Score without stopwords: 0.734971284866
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.345431119204
+Semantic similarity verbs: nan
+
+61
+New Sentence: was wir uns, im Hinblick auf den räthsellösenden und seine Mutter freienden Oedipus, sofort so zu interpretiren haben, dass dort, wo durch weissagende und magische Kräfte der Bann von Gegenwart und Zukunft, das starre Gesetz der Individuation, und überhaupt der eigentliche Zauber der Natur gebrochen ist, eine ungeheure Naturwidrigkeit — wie dort der Incest — als Ursache vorausgegangen sein muss; denn wie könnte man die Natur zum Preisgeben ihrer Geheimnisse zwingen, wenn nicht dadurch, dass man ihr siegreich widerstrebt, d.h. durch das Unnatürliche? Diese Erkenntniss sehe ich in jener entsetzlichen Dreiheit der Oedipusschicksale ausgeprägt. derselbe, der das Räthsel der Natur — jener doppeltgearteten Sphinx — löst, muss auch als Mörder des Vaters und Gatte der Mutter die heiligsten Naturordnungen zerbrechen.
+Reference Sentence: Sokrates scheint ein aufrichtiger Mann gewesen zu seyn , dessen Handlungen von dem Grund seines Herzens , und nicht von dem Eindruck , den andere davon haben , bestimmt worden . Er leugnete nicht , daß seine verborgene Neigungen mit den Entdeckungen des Gesichtdeuters eintraͤfen ; er gestand , daß dessen Brille recht gesehen haͤtte . Ein Mensch , der uͤberzeugt ist , daß er nichts weiß , kann , ohne sich selbst Luͤgen zu strafen , kein Kenner seines guten Herzens seyn .
+
+
+Syntactic Score: 0.81004196126
+Syntactic Similarity without tokens: 0.93846627763
+Semantic Score: 0.781990885735
+Semantic Score without stopwords: 0.781990885735
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.540128648281
+
+62
+New Sentence: das heisst die in jenem Anschauen erreichte Rechtfertigung der Welt der individuatio, als welche die Spitze und der Inbegriff der apollinischen Kunst ist. Er schaut die verklärte Welt der Bühne und verneint sie doch. Er sieht den tragischen Helden vor sich in epischer Deutlichkeit und Schönheit und erfreut sich doch an seiner Vernichtung.
+Reference Sentence: Das freche Gestaͤndniß darin war gewissermassen eine Beleidigung , die man aber dem aufrichtigen Klienten und Kandidaten scheint vergeben zu haben , weil sie auf ihn selbst am schwersten zuruͤck fiel . Das Loos der Unwissenheit und die Bloͤße derselben macht eben so unversoͤhnliche Feinde als die Ueberlegenheit an Verdiensten und die Schau davon . War Sokrates wirklich unwissend , so muste ihm auch die Schande unwissend seyn , die vernuͤnftige Leute sich ergruͤbeln , unwissend zu scheinen .
+
+
+Syntactic Score: 0.78383790308
+Syntactic Similarity without tokens: 0.763680828544
+Semantic Score: 0.808042943478
+Semantic Score without stopwords: 0.808042943478
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.426251173019
+Semantic similarity verbs: nan
+
+63
+New Sentence: In seiner Transfiguration zeigt uns die untere Hälfte, mit dem besessenen Knaben, den verzweifelnden Trägern, den rathlos geängstigten Jüngern, die Wiederspiegelung des ewigen Urschmerzes, des einzigen Grundes der Welt. der „Schein“ ist hier Widerschein des ewigen Widerspruchs, des Vaters der Dinge. Aus diesem Schein steigt nun, wie ein ambrosischer Duft, eine visionsgleiche neue Scheinwelt empor, von der jene im ersten Schein Befangenen nichts sehen — ein leuchtendes Schweben in reinster Wonne und schmerzlosem, aus weiten Augen strahlenden Anschauen.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.827057366126
+Syntactic Similarity without tokens: 0.67954769308
+Semantic Score: 0.774650633335
+Semantic Score without stopwords: 0.764816045761
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.492480844259
+Semantic similarity verbs: nan
+
+64
+New Sentence: „Was allem Tragischen den eigenthümlichen Schwung zur Erhebung giebt — sagt er, Welt als Wille und Vorstellung II, 495 — ist das Aufgehen der Erkenntniss, dass die Welt, das Leben kein rechtes Genügen geben könne, mithin unsrer Anhänglichkeit nicht werth sei. darin besteht der tragische Geist —, er leitet demnach zur Resignation hin“. Oh wie anders redete Dionysos zu mir!
+Reference Sentence: so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird . Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren . Das heist , Eßays und Pensees der Loisirs zu schreiben .
+
+
+Syntactic Score: 0.781578032032
+Syntactic Similarity without tokens: 0.962016583799
+Semantic Score: 0.810200870037
+Semantic Score without stopwords: 0.810200870037
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.659731447697
+
+65
+New Sentence: Vielleicht gewinnen wir einen Ausgangspunkt der Betrachtung, wenn ich die Behauptung hinstelle, dass sich der Satyr, das fingirte Naturwesen, zu dem Culturmenschen in gleicher Weise verhält, wie die dionysische Musik zur Civilisation. Von letzterer sagt Richard Wagner, dass sie von der Musik aufgehoben werde wie der Lampenschein vom Tageslicht. In gleicher Weise, glaube ich, fühlte sich der griechische Culturmensch im Angesicht des Satyrchors aufgehoben.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.818378068603
+Syntactic Similarity without tokens: 0.921525077023
+Semantic Score: 0.779369771481
+Semantic Score without stopwords: 0.772846698761
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.485527127981
+Semantic similarity verbs: 0.700857937336
+
+66
+New Sentence: Der Mensch ist nicht mehr Künstler, er ist Kunstwerk geworden. die Kunstgewalt der ganzen Natur, zur höchsten Wonnebefriedigung des Ur-Einen, offenbart sich hier unter den Schauern des Rausches. Der edelste Thon, der kostbarste Marmor wird hier geknetet und behauen, der Mensch, und zu den Meisselschlägen des dionysischen Weltenkünstlers tönt der eleusinische Mysterienruf.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.785234472671
+Syntactic Similarity without tokens: 0.939240854187
+Semantic Score: 0.805784225464
+Semantic Score without stopwords: 0.805784225464
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.512777507305
+Semantic similarity verbs: 0.575537979603
+
+67
+New Sentence: Ist Pessimismus nothwendig das Zeichen des Niedergangs, Verfalls, des Missrathenseins, der ermüdeten und geschwächten Instinkte? — wie er es bei den Indern war, wie er es, allem Anschein nach, bei uns, den „modernen“ Menschen und Europäern ist? Giebt es einen Pessimismus der Stärke?
+Reference Sentence: Seine Philosophie schickte sich fuͤr jeden Ort und zu jedem Fall . Der Markt , das Feld , ein Gastmal , das Gefaͤngnis waren seine Schulen ; und das erste das beste Quodlibet des menschlichen Lebens und gesellschaftlichen Umganges diente ihm den Saamen der Wahrheit auszustreuen . So wenig Schulfuͤchserey er in seiner Lebensart beschuldigt wird , und so gut er auch die Kunst verstand die besten Gesellschaften selbst von jungen rohen Leuten zu unterhalten , erzaͤhlt man gleichwol von ihm , daß er ganze Tage und Naͤchte unbeweglich gestanden , und einer seiner Bildsaͤulen aͤhnlicher als sich selbst gewesen .
+
+
+Syntactic Score: 0.844364438121
+Syntactic Similarity without tokens: 0.780799530869
+Semantic Score: 0.746100842953
+Semantic Score without stopwords: 0.746100842953
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.694267272949
+Semantic similarity verbs: nan
+
+68
+New Sentence: „als was erscheint die Musik im Spiegel der Bildlichkeit und der Begriffe?“ Sie erscheint als Wille, das Wort im Schopenhauerischen Sinne genommen, d.h. als Gegensatz der aesthetischen, rein beschaulichen willenlosen Stimmung. Hier unterscheide man nun so scharf als möglich den Begriff des Wesens von dem der Erscheinung. denn die Musik kann, ihrem Wesen nach, unmöglich Wille sein, weil sie als solcher gänzlich aus dem Bereich der Kunst zu bannen wäre — denn der Wille ist das an sich Unaesthetische —; aber sie erscheint als Wille.
+Reference Sentence: Sokrates war , meine Herren , kein gemeiner Kunstrichter . Er unterschied in den Schriften des Heraklitus , dasjenige , was er nicht verstand , von dem , was er darin verstand , und that eine sehr billige und bescheidene Vermuthung von dem Verstaͤndlichen auf das Unverstaͤndliche . Bey dieser Gelegenheit redete Sokrates von Lesern , welche schwimmen koͤnnten .
+
+
+Syntactic Score: 0.769577219022
+Syntactic Similarity without tokens: 0.827842087769
+Semantic Score: 0.794252932072
+Semantic Score without stopwords: 0.820569038391
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.662750720978
+
+69
+New Sentence: Derselbe Trieb, der sich in Apollo versinnlichte, hat überhaupt jene ganze olympische Welt geboren, und in diesem Sinne darf uns Apollo als Vater derselben gelten. Welches war das ungeheure Bedürfniss, aus dem eine so leuchtende Gesellschaft olympischer Wesen entsprang? Wer, mit einer anderen Religion im Herzen, an diese Olympier herantritt und nun nach sittlicher Höhe, ja Heiligkeit, nach unleiblicher Vergeistigung, nach erbarmungsvollen Liebesblicken bei ihnen sucht, der wird unmuthig und enttäuscht ihnen bald den Rücken kehren müssen.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.839496403071
+Syntactic Similarity without tokens: 0.91634849491
+Semantic Score: 0.750543475151
+Semantic Score without stopwords: 0.750543475151
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.682742416859
+Semantic similarity verbs: 0.414745539427
+
+70
+New Sentence: Und wie dir der Mythus starb, so starb dir auch der Genius der Musik. mochtest du auch mit gierigem Zugreifen alle Gärten der Musik plündern, auch so brachtest du es nur zu einer nachgemachten maskirten Musik. Und weil du Dionysus verlassen, so verliess dich auch Apollo; jage alle Leidenschaften von ihrem Lager auf und banne sie in deinen Kreis, spitze und feile dir für die Reden deiner Helden eine sophistische Dialektik zurecht — auch deine Helden haben nur nachgeahmte maskirte Leidenschaften und sprechen nur nachgeahmte maskirte Reden.
+Reference Sentence: Die Ueberlieferung eines Goͤtterspruches will aber so wenig als ein Komet sagen fuͤr einen Philosophen von heutigem Geschmack . Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern .
+
+
+Syntactic Score: 0.788297090646
+Syntactic Similarity without tokens: 0.945564828539
+Semantic Score: 0.84204608202
+Semantic Score without stopwords: 0.801611423492
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.641098201275
+Semantic similarity verbs: nan
+
+71
+New Sentence: Bis dahin waren die Griechen unwillkürlich genöthigt, alles Erlebte sofort an ihre Mythen anzuknüpfen, ja es nur durch diese Anknüpfung zu begreifen. wodurch auch die nächste Gegenwart ihnen sofort sub specie aeterni und in gewissem Sinne als zeitlos erscheinen musste. In diesen Strom des Zeitlosen aber tauchte sich eben so der Staat wie die Kunst, um in ihm vor der Last und der Gier des Augenblicks Ruhe zu finden.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.796837564647
+Syntactic Similarity without tokens: 0.883825112289
+Semantic Score: 0.792707204819
+Semantic Score without stopwords: 0.792707204819
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.482182264328
+Semantic similarity verbs: 0.555671751499
+
+72
+New Sentence: Aber die Vielen und mit ihnen die besten Einzelnen hatten nur ein misstrauisches Lächeln für ihn; erklären aber konnte ihm Keiner, warum seinen Bedenken und Einwendungen gegenüber die grossen Meister doch im Rechte seien. Und in diesem qualvollen Zustande fand er den anderen Zuschauer, der die Tragödie nicht begriff und deshalb nicht achtete. Mit diesem im Bunde durfte er es wagen, aus seiner Vereinsamung heraus den ungeheuren Kampf gegen die Kunstwerke des Aeschylus und Sophokles zu beginnen — nicht mit Streitschriften, sondern als dramatischer Dichter, der seine Vorstellung von der Tragödie der überlieferten entgegenstellt.
+Reference Sentence: Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+
+
+Syntactic Score: 0.834182943219
+Syntactic Similarity without tokens: 0.712318130859
+Semantic Score: 0.754870533943
+Semantic Score without stopwords: 0.754870533943
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.334485918283
+Semantic similarity verbs: 0.57074123621
+
+73
+New Sentence: Einer strengen Betrachtung fällt dieser verhängnissvolle Einfluss der Oper auf die Musik geradezu mit der gesammten modernen Musikentwicklung zusammen; dem in der Genesis der Oper und im Wesen der durch sie repräsentirten Cultur lauernden Optimismus ist es in beängstigender Schnelligkeit gelungen, die Musik ihrer dionysischen Weltbestimmung zu entkleiden und ihr einen formenspielerischen, vergnüglichen Charakter aufzuprägen. mit welcher Veränderung nur etwa die Metamorphose des aeschyleischen Menschen in den alexandrinischen Heiterkeitsmenschen verglichen werden dürfte. Wenn wir aber mit Recht in der hiermit angedeuteten Exemplification das Entschwinden des dionysischen Geistes mit einer höchst auffälligen, aber bisher unerklärten Umwandlung und Degeneration des griechischen Menschen in Zusammenhang gebracht haben — welche Hoffnungen müssen in uns aufleben, wenn uns die allersichersten Auspicien den umgekehrten Prozess, das allmähliche Erwachen des dionysischen Geistes in unserer gegenwärtigen Welt, verbürgen!
+Reference Sentence: Man war ehmals gewohnt gewesen diese Goͤttinnen zu kleiden ; den altvaͤterischen Gebrauch hatte Sokrates nachgeahmt , und seine Gratien wiedersprachen der Custome des damaligen Goͤttersystems und der sich darauf gruͤndenden schoͤnen Kuͤnste . Wie Sokrates auf diese Neuerung gekommen ; ob es eine Eingebung seines Genius , oder eine Eitelkeit seine Arbeiten zu unterscheiden , oder die Einfalt einer natuͤrlichen Schaamhaftigkeit gewesen , die einem andaͤchtigen Athenienser wunderlich vorkommen muste ; weiß ich nicht . Es ist aber nur gar zu wahrscheinlich , daß diese neugekleideten Gratien so wenig ohne Anfechtung werden geblieben seyn als die neugekleideten Gratien unserer heutigen Dichtkunst .
+
+
+Syntactic Score: 0.858095064453
+Syntactic Similarity without tokens: 0.91160262924
+Semantic Score: 0.755368947983
+Semantic Score without stopwords: 0.730880737305
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.608479201794
+Semantic similarity verbs: 0.686284184456
+
+74
+New Sentence: Er schaut die verklärte Welt der Bühne und verneint sie doch. Er sieht den tragischen Helden vor sich in epischer Deutlichkeit und Schönheit und erfreut sich doch an seiner Vernichtung. Er begreift bis in’s Innerste den Vorgang der Scene und flüchtet sich gern in’s Unbegreifliche.
+Reference Sentence: Die Ueberlieferung eines Goͤtterspruches will aber so wenig als ein Komet sagen fuͤr einen Philosophen von heutigem Geschmack . Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern .
+
+
+Syntactic Score: 0.85091775212
+Syntactic Similarity without tokens: 0.908860012557
+Semantic Score: 0.755017876625
+Semantic Score without stopwords: 0.737759232521
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.733798444271
+Semantic similarity verbs: 0.72527807951
+
+75
+New Sentence: wie es der Mythus durch die in ewige Trauer versenkte Demeter verbildlicht, welche zum ersten Male wieder sich freut, als man ihr sagt, sie könne den Dionysus noch einmal gebären. In den angeführten Anschauungen haben wir bereits alle Bestandtheile einer tiefsinnigen und pessimistischen Weltbetrachtung und zugleich damit die Mysterienlehre der Tragödie zusammen. die Grunderkenntniss von der Einheit alles Vorhandenen, die Betrachtung der Individuation als des Urgrundes des Uebels, die Kunst als die freudige Hoffnung, dass der Bann der Individuation zu zerbrechen sei, als die Ahnung einer wiederhergestellten Einheit.
+Reference Sentence: Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche . Unterdessen glaube ich zuverlaͤßiger , daß unsere Philosophie eine andere Gestalt nothwendig haben muͤste , wenn man die Schicksale dieses Namens oder Wortes .
+
+
+Syntactic Score: 0.808434157904
+Syntactic Similarity without tokens: 0.948156094138
+Semantic Score: 0.834656655788
+Semantic Score without stopwords: 0.78015422821
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+76
+New Sentence: Die instinctive Weisheit zeigt sich bei dieser gänzlich abnormen Natur nur, um dem bewussten Erkennen hier und da hindernd entgegenzutreten. Während doch bei allen productiven Menschen der Instinct gerade die schöpferisch-affirmative Kraft ist, und das Bewusstsein kritisch und abmahnend sich gebärdet. wird bei Sokrates der Instinct zum Kritiker, das Bewusstsein zum Schöpfer — eine wahre Monstrosität per defectum!
+Reference Sentence: Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche . Unterdessen glaube ich zuverlaͤßiger , daß unsere Philosophie eine andere Gestalt nothwendig haben muͤste , wenn man die Schicksale dieses Namens oder Wortes .
+
+
+Syntactic Score: 0.810993243608
+Syntactic Similarity without tokens: 0.851067514738
+Semantic Score: 0.776651322842
+Semantic Score without stopwords: 0.777158737183
+LCS Length: 1
+LCS: kritisch 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.1
+Semantic similarity nouns: 0.525276780128
+Semantic similarity verbs: nan
+
+77
+New Sentence: Eines Tages wird er sich wach finden, in aller Morgenfrische eines ungeheuren Schlafes. dann wird er Drachen tödten, die tückischen Zwerge vernichten und Brünnhilde erwecken — und Wotan’s Speer selbst wird seinen Weg nicht hemmen können! Meine Freunde, ihr, die ihr an die dionysische Musik glaubt, ihr wisst auch, was für uns die Tragödie bedeutet.
+Reference Sentence: Die Ueberlieferung eines Goͤtterspruches will aber so wenig als ein Komet sagen fuͤr einen Philosophen von heutigem Geschmack . Wir muͤssen nach seiner Meynung in dem Buche , welches das thoͤrichste Volk auf uns gebracht , und in den Ueberbleibseln der Griechen und Roͤmer , so bald es auf Orakel , Erscheinungen , Traͤume und dergleichen Meteoren ankommt , diese Maͤhrchen unserer Kinder und Ammen ( denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu erfahren und zu denken ) absondern , oder selbige als die Schnoͤrkel unserer Alpendichter bewundern . Gesetzt , dieses wuͤrde alles so reichlich eingeraͤumt ; als man unverschaͤmt seyn koͤnte es zu fordern .
+
+
+Syntactic Score: 0.853550493117
+Syntactic Similarity without tokens: 0.948909836493
+Semantic Score: 0.740619599819
+Semantic Score without stopwords: 0.734267652035
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.559971034527
+Semantic similarity verbs: 0.655510246754
+
+78
+New Sentence: Es ist nun, bei dieser engsten Verwandtschaft zwischen Musik und Mythus, in gleicher Weise zu vermuthen, dass mit einer Entartung und Depravation des Einen eine Verkümmerung der Anderen verbunden sein wird. wenn anders in der Schwächung des Mythus überhaupt eine Abschwächung des dionysischen Vermögens zum Ausdruck kommt. Ueber Beides dürfte uns aber ein Blick auf die Entwicklung des deutschen Wesens nicht in Zweifel lassen.
+Reference Sentence: Sophokles und Euripides wuͤrden nicht so grosse Muster fuͤr die Schaubuͤhne , ohne Zergliederungskunst des menschlichen Herzens , geworden seyn . Sokrates uͤbertraf sie aber beyde an Weisheit , weil er in der Selbsterkenntnis weiter als jene gekommen war , und wuste , daß er nichts wuste . Apoll antwortete jedem schon vor der Schwelle ; wer weise waͤre und wie man es werden koͤnne ?
+
+
+Syntactic Score: 0.852869677043
+Syntactic Similarity without tokens: 0.916368218677
+Semantic Score: 0.686839044094
+Semantic Score without stopwords: 0.734754145145
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.3333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 1.0
+
+79
+New Sentence: Das Schlegel’sche Wort muss sich uns hier in einem tieferen Sinne erschliessen. Der Chor ist der „idealische Zuschauer“, insofern er der einzige Schauer ist, der Schauer der Visionswelt der Scene. Ein Publicum von Zuschauern, wie wir es kennen, war den Griechen unbekannt.
+Reference Sentence: Ein Mann , der Geld zu verlieren hatte , und vermuthlich auch Geld zu verlieren verstand , dem die Geschichte Kriton nennt , soll die Unkosten getragen haben unsern Bildhauer in einen Sophisten zu verwandeln . Wer der etymologischen Mine seines Namens traut , wird diesen Anschlag einem weitsehenden Urtheilsgeist , ein leichtglaͤubiger Schuͤler der taͤglichen Erfahrung hingegen einem blinden Geschmack an Sokrates zu schreiben . Die Reyhe der Lehrmeister und Lehrmeisterinnen , die man dem Sokrates giebt , und die Kriton ohne Zweifel besolden muste , ist ansehnlich genung ; und doch blieb Sokrates unwissend .
+
+
+Syntactic Score: 0.832295980088
+Syntactic Similarity without tokens: 0.897374722792
+Semantic Score: 0.755312561989
+Semantic Score without stopwords: 0.755312561989
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.828914523125
+Semantic similarity verbs: nan
+
+80
+New Sentence: Er schaudert vor den Leiden, die den Helden treffen werden und ahnt doch bei ihnen eine höhere, viel übermächtigere Lust. Er schaut mehr und tiefer als je und wünscht sich doch erblindet. Woher werden wir diese wunderbare Selbstentzweiung, dies Umbrechen der apollinischen Spitze, abzuleiten haben, wenn nicht aus dem dionysischen Zauber, der, zum Schein die apollinischen Regungen auf’s Höchste reizend, doch noch diesen Ueberschwang der apollinischen Kraft in seinen Dienst zu zwingen vermag.
+Reference Sentence: so wird Bayle , einer ihrer Propheten , zu dessen Fuͤssen diese Kretenser mit so viel Anstand zu gaͤhnen gewohnt sind , weil ihr Gamaliel gaͤhnt , diesen Zweiflern antworten ; daß , wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen , wenn alles gleichartig erlogen und erdacht ist , dennoch der Wahn , die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort wuͤrklich groͤssere Wunder veranlaßt habe und veranlassen koͤnne , als man den Kometen , Orakelspruͤchen und Traͤumen selbst jemals zugeschrieben hat noch zuschreiben wird . Jn diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten , weil es menschlicher und Gott anstaͤndiger aussieht , und durch unsere eigene Grillen und Hirngespinste , als durch eine so entfernte und kostbare Maschinerey , wie das Firmament und die Geisterwelt unsere bloͤden Augen vorkommt , zu seinen Absichten zu regieren . Das heist , Eßays und Pensees der Loisirs zu schreiben .
+
+
+Syntactic Score: 0.798446662151
+Syntactic Similarity without tokens: 0.958997329607
+Semantic Score: 0.789055347443
+Semantic Score without stopwords: 0.789055347443
+LCS Length: 1
+LCS: mehr 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.266990602016
+Semantic similarity verbs: 0.608794867992
+
+81
+New Sentence: Bei dieser Freude blieb es aber nicht. man lernte selbst bei Euripides sprechen, und dessen rühmt er sich selbst im Wettkampfe mit Aeschylus. wie durch ihn jetzt das Volk kunstmässig und mit den schlausten Sophisticationen zu beobachten, zu verhandeln und Folgerungen zu ziehen gelernt habe.
+Reference Sentence: Wenn ihr ein Spiel anbiethet ; so ist unser gegenseitiger Vergleich den Eigensinn des Zufalls fuͤr unsern Meister zu erkennen , und ihr nennt die Wissenschaft eurer geschwinden Finger Zufall , und ich muß ihn dafuͤr annehmen , wenn ich will , oder die Gefahr wagen euch zu beleidigen , oder die Schande waͤhlen euch nachzuahmen . Haͤttet ihr mir den Antrag gethan mit einander zu versuchen , wer der beste Taschenspieler von uns in Karten waͤre ; so haͤtte ich anders antworten , und vielleicht mitspielen wollen , um euch zu zeigen , daß ihr so schlecht gelernt habt Karten machen , als ihr versteht die euch gegeben werden , nach der Kunst zu brauchen „ . Jn diese rauhe Toͤne laͤßt sich die Meynung des Sokrates aufloͤsen , wenn er den Sophisten , den Gelehrten seiner Zeit , sagte .
+
+
+Syntactic Score: 0.81540327134
+Syntactic Similarity without tokens: 0.810797686864
+Semantic Score: 0.772075355053
+Semantic Score without stopwords: 0.772075355053
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.07142857142857142
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.817010402679
+
+82
+New Sentence: die Grunderkenntniss von der Einheit alles Vorhandenen, die Betrachtung der Individuation als des Urgrundes des Uebels, die Kunst als die freudige Hoffnung, dass der Bann der Individuation zu zerbrechen sei, als die Ahnung einer wiederhergestellten Einheit. — Es ist früher angedeutet worden, dass das homerische Epos die Dichtung der olympischen Cultur ist, mit der sie ihr eignes Siegeslied über die Schrecken des Titanenkampfes gesungen hat. Jetzt, unter dem übermächtigen Einflusse der tragischen Dichtung, werden die homerischen Mythen von Neuem umgeboren und zeigen in dieser Metempsychose, dass inzwischen auch die olympische Cultur von einer noch tieferen Weltbetrachtung besiegt worden ist.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.836666022672
+Syntactic Similarity without tokens: 0.905257539894
+Semantic Score: 0.750658094883
+Semantic Score without stopwords: 0.750658094883
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.673690915108
+
+83
+New Sentence: Bei dieser, dem Gotte gegenüber durchaus dienenden Stellung ist er doch der höchste, nämlich dionysische Ausdruck der Natur und redet darum, wie diese, in der Begeisterung Orakel- und Weisheitssprüche. als der mitleidende ist er zugleich der weise, aus dem Herzen der Welt die Wahrheit verkündende. So entsteht denn jene phantastische und so anstössig scheinende Figur des weisen und begeisterten Satyrs, der zugleich „der tumbe Mensch“ im Gegensatz zum Gotte ist.
+Reference Sentence: Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald !
+
+
+Syntactic Score: 0.825317518314
+Syntactic Similarity without tokens: 0.813533956269
+Semantic Score: 0.761176228523
+Semantic Score without stopwords: 0.761176228523
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.49455934763
+Semantic similarity verbs: nan
+
+84
+New Sentence: und als Denkmal seines Sieges steht Homer vor uns, der naive Künstler. Ueber diesen naiven Künstler giebt uns die Traumanalogie einige Belehrung. Wenn wir uns den Träumenden vergegenwärtigen, wie er, mitten in der Illusion der Traumwelt und ohne sie zu stören, sich zuruft.
+Reference Sentence: Wer der etymologischen Mine seines Namens traut , wird diesen Anschlag einem weitsehenden Urtheilsgeist , ein leichtglaͤubiger Schuͤler der taͤglichen Erfahrung hingegen einem blinden Geschmack an Sokrates zu schreiben . Die Reyhe der Lehrmeister und Lehrmeisterinnen , die man dem Sokrates giebt , und die Kriton ohne Zweifel besolden muste , ist ansehnlich genung ; und doch blieb Sokrates unwissend . Das freche Gestaͤndniß darin war gewissermassen eine Beleidigung , die man aber dem aufrichtigen Klienten und Kandidaten scheint vergeben zu haben , weil sie auf ihn selbst am schwersten zuruͤck fiel .
+
+
+Syntactic Score: 0.807887614643
+Syntactic Similarity without tokens: 0.951531158647
+Semantic Score: 0.778588056564
+Semantic Score without stopwords: 0.778588056564
+LCS Length: 1
+LCS: giebt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.3333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.27291432023
+Semantic similarity verbs: 0.754582285881
+
+85
+New Sentence: Man vergegenwärtige sich nur die Consequenzen der sokratischen Sätze. „Tugend ist Wissen; es wird nur gesündigt aus Unwissenheit; der Tugendhafte ist der Glückliche“. in diesen drei Grundformen des Optimismus liegt der Tod der Tragödie.
+Reference Sentence: Du fuͤhrst einen Namen , und brauchst keinen Beweis Deines Daseyns , Du findest Glauben , und thust keine Zeichen denselben zu verdienen , Du erhaͤltst Ehre , und hast weder Begrif noch Gefuͤhl davon . Wir wissen , daß es keinen Goͤtzen in der Welt giebt . Ein Mensch bist Du auch nicht ; doch must Du ein menschlich Bild seyn , das der Aberglaube vergoͤttert hat .
+
+
+Syntactic Score: 0.798131042767
+Syntactic Similarity without tokens: 0.794166510937
+Semantic Score: 0.788104355335
+Semantic Score without stopwords: 0.788104355335
+LCS Length: 1
+LCS: wissen 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.431932628155
+Semantic similarity verbs: nan
+
+86
+New Sentence: diese sind das Erhabene als die künstlerische Bändigung des Entsetzlichen und das Komische als die künstlerische Entladung vom Ekel des Absurden. Der Satyrchor des Dithyrambus ist die rettende That der griechischen Kunst; an der Mittelwelt dieser dionysischen Begleiter erschöpften sich jene vorhin beschriebenen Anwandlungen. Der Satyr wie der idyllische Schäfer unserer neueren Zeit sind Beide Ausgeburten einer auf das Ursprüngliche und Natürliche gerichteten Sehnsucht; aber mit welchem festen unerschrocknen Griffe fasste der Grieche nach seinem Waldmenschen, wie verschämt und weichlich tändelte der moderne Mensch mit dem Schmeichelbild eines zärtlichen flötenden weichgearteten Hirten!
+Reference Sentence: Daher hatten die grossen Maͤnner seiner Zeit zureichenden Grund uͤber ihn zu schreyen , daß er alle Eichen ihrer Waͤlder faͤlle , alle ihre Kloͤtzer verderbe , und aus ihrem Holze nichts als Spaͤne zu machen verstuͤnde . Worte unsers Kirchenvaters , Martin Luthers , bey dessen Namen ein richtig und fein denkender Schwaͤrmer juͤngst uns erinnert hat , daß wir von diesem grossen Mann nicht nur in der deutschen Sprache , sondern uͤberhaupt nicht so viel gelernt als wir haͤtten sollen und koͤnnen . Sokrates wurde vermuthlich ein Bildhauer , weil sein Vater einer war .
+
+
+Syntactic Score: 0.788024782516
+Syntactic Similarity without tokens: 0.875486107876
+Semantic Score: 0.798209488392
+Semantic Score without stopwords: 0.798209488392
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.73800599575
+Semantic similarity verbs: nan
+
+87
+New Sentence: Es gäbe keine Wissenschaft, wenn ihr nur um jene eine nackte Göttin und um nichts Anderes zu thun wäre. Denn dann müsste es ihren Jüngern zu Muthe sein, wie Solchen, die ein Loch gerade durch die Erde graben wollten. von denen ein Jeder einsieht, dass er, bei grösster und lebenslänglicher Anstrengung, nur ein ganz kleines Stück der ungeheuren Tiefe zu durchgraben im Stande sei, welches vor seinen Augen durch die Arbeit des Nächsten wieder überschüttet wird, so dass ein Dritter wohl daran zu thun scheint, wenn er auf eigne Faust eine neue Stelle für seine Bohrversuche wählt.
+Reference Sentence: Die Kraft der Traͤgheit und die ihr entgegengesetzt scheinende Kraft des Stolzes , die man durch so viel Erscheinungen und Beobachtungen veranlasset worden in unserm Willen anzunehmen , bringen die Unwissenheit , und die daraus entspringende Jrrthuͤmer und Vorurtheile nebst allen ihren schwesterlichen Leidenschaften hervor . Von dieser Seite ahmte also Sokrates seinen Vater nach , einen Bildhauer , der , indem er wegnimmt und hauet , was am Holze nicht seyn soll , eben dadurch die Form des Bildes foͤrdert . Daher hatten die grossen Maͤnner seiner Zeit zureichenden Grund uͤber ihn zu schreyen , daß er alle Eichen ihrer Waͤlder faͤlle , alle ihre Kloͤtzer verderbe , und aus ihrem Holze nichts als Spaͤne zu machen verstuͤnde .
+
+
+Syntactic Score: 0.792050120116
+Syntactic Similarity without tokens: 0.832040781441
+Semantic Score: 0.797409594059
+Semantic Score without stopwords: 0.794021546841
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.608628809452
+Semantic similarity verbs: 0.498403519392
+
+88
+New Sentence: Jetzt ist der Sclave freier Mann, jetzt zerbrechen alle die starren, feindseligen Abgrenzungen, die Noth, Willkür oder „freche Mode“ zwischen den Menschen festgesetzt haben. Jetzt, bei dem Evangelium der Weltenharmonie, fühlt sich Jeder mit seinem Nächsten nicht nur vereinigt, versöhnt, verschmolzen, sondern eins, als ob der Schleier der Maja zerrissen wäre und nur noch in Fetzen vor dem geheimnissvollen Ur-Einen herumflattere. Singend und tanzend äussert sich der Mensch als Mitglied einer höheren Gemeinsamkeit.
+Reference Sentence: Ein Schoͤpfer seines Volkes in der Sprache unsers Witzes wird nach einer undenklichen Zeit eben so poetisch verstanden werden muͤssen , als ein Bildhauer seines Weibes . Es giebt in dem Tempel der Gelehrsamkeit wuͤrklich einen Goͤtzen , der unter seinem Bilde die Aufschrift der philosophischen Geschichte traͤgt ; und dem es an Hohenpriestern und Leviten nicht gefehlt . Stanley und Brucker haben uns Kolossen geliefert , die eben so sonderbar und unvollendet sind als jenes Bild der Schoͤnheit , das ein Grieche aus den Reitzen aller Schoͤnen , deren Eindruck ihm Absicht und Zufall verschaffen konnte , zusammensetzte .
+
+
+Syntactic Score: 0.919321267295
+Syntactic Similarity without tokens: 0.955109767108
+Semantic Score: 0.66643923521
+Semantic Score without stopwords: 0.66643923521
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.491156578064
+Semantic similarity verbs: 0.352616906166
+
+89
+New Sentence: Denn dass die Lieblinge der Götter früh sterben, gilt in allen Dingen, aber eben so gewiss, dass sie mit den Göttern dann ewig leben. Man verlange doch von dem Alleredelsten nicht, dass es die haltbare Zähigkeit des Leders habe; die derbe Dauerhaftigkeit, wie sie z.B. dem römischen Nationaltriebe zu eigen war, gehört wahrscheinlich nicht zu den nothwendigen Prädicaten der Vollkommenheit.
+Reference Sentence: Wer der etymologischen Mine seines Namens traut , wird diesen Anschlag einem weitsehenden Urtheilsgeist , ein leichtglaͤubiger Schuͤler der taͤglichen Erfahrung hingegen einem blinden Geschmack an Sokrates zu schreiben . Die Reyhe der Lehrmeister und Lehrmeisterinnen , die man dem Sokrates giebt , und die Kriton ohne Zweifel besolden muste , ist ansehnlich genung ; und doch blieb Sokrates unwissend . Das freche Gestaͤndniß darin war gewissermassen eine Beleidigung , die man aber dem aufrichtigen Klienten und Kandidaten scheint vergeben zu haben , weil sie auf ihn selbst am schwersten zuruͤck fiel .
+
+
+Syntactic Score: 0.830163102433
+Syntactic Similarity without tokens: 0.91049767644
+Semantic Score: 0.755103766918
+Semantic Score without stopwords: 0.755103766918
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.103336669505
+Semantic similarity verbs: 0.404282659292
+
+90
+New Sentence: Die klarste Figur hatte immer noch einen Kometenschweif an sich, der in’s Ungewisse, Unaufhellbare zu deuten schien. Dasselbe Zwielicht lag über dem Bau des Drama’s, zumal über der Bedeutung des Chors. Und wie zweifelhaft blieb ihm die Lösung der ethischen Probleme!
+Reference Sentence: Ein Mann , der Geld zu verlieren hatte , und vermuthlich auch Geld zu verlieren verstand , dem die Geschichte Kriton nennt , soll die Unkosten getragen haben unsern Bildhauer in einen Sophisten zu verwandeln . Wer der etymologischen Mine seines Namens traut , wird diesen Anschlag einem weitsehenden Urtheilsgeist , ein leichtglaͤubiger Schuͤler der taͤglichen Erfahrung hingegen einem blinden Geschmack an Sokrates zu schreiben . Die Reyhe der Lehrmeister und Lehrmeisterinnen , die man dem Sokrates giebt , und die Kriton ohne Zweifel besolden muste , ist ansehnlich genung ; und doch blieb Sokrates unwissend .
+
+
+Syntactic Score: 0.790329447496
+Syntactic Similarity without tokens: 0.867181816647
+Semantic Score: 0.794784486294
+Semantic Score without stopwords: 0.794784486294
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.727713525295
+Semantic similarity verbs: 0.397792577744
+
+91
+New Sentence: eine Gottheit musste häufig den Verlauf der Tragödie dem Publicum gewissermaassen garantieren und jeden Zweifel an der Realität des Mythus nehmen. in ähnlicher Weise, wie Descartes die Realität der empirischen Welt nur durch die Appellation an die Wahrhaftigkeit Gottes und seine Unfähigkeit zur Lüge zu beweisen vermochte. Dieselbe göttliche Wahrhaftigkeit braucht Euripides noch einmal am Schlusse seines Drama’s, um die Zukunft seiner Helden dem Publicum sicher zu stellen; dies ist die Aufgabe des berüchtigten deusErratum.
+Reference Sentence: Der Schoͤpfer der schoͤnen Natur scheint die groͤsten Koͤpfe Frankreichs , wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwaͤrmer verdammt zu haben , die er zum tauben Wetterleuchten und aͤtherischen Feuerwerken noͤthig hat . Aus denen Urtheilen , die ich uͤber alle diese ehrliche und feine Versuche ein kritisch System der philosophischen Geschichte zu machen , gefaͤllt , laͤßt sich mehr als wahrscheinlich schluͤßen , daß ich keines davon gelesen ; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen , und denenjenigen , zu deren Besten ich schreibe , durch ihre Nachahmung zu schmaͤucheln suche . Unterdessen glaube ich zuverlaͤßiger , daß unsere Philosophie eine andere Gestalt nothwendig haben muͤste , wenn man die Schicksale dieses Namens oder Wortes .
+
+
+Syntactic Score: 0.822911510392
+Syntactic Similarity without tokens: 0.925651277994
+Semantic Score: 0.764309108257
+Semantic Score without stopwords: 0.762176096439
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.543514549732
+Semantic similarity verbs: 0.469474881887
+
+92
+New Sentence: wo die Musik als Diener, das Textwort als Herr betrachtet, die Musik mit dem Körper, das Textwort mit der Seele verglichen wird? wo das höchste Ziel bestenfalls auf eine umschreibende Tonmalerei gerichtet sein wird, ähnlich wie ehedem im neuen attischen Dithyrambus? wo der Musik ihre wahre Würde, dionysischer Weltspiegel zu sein, völlig entfremdet ist, so dass ihr nur übrig bleibt, als Sclavin der Erscheinung, das Formenwesen der Erscheinung nachzuahmen und in dem Spiele der Linien und Proportionen eine äusserliche Ergetzung zu erregen.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.82666796048
+Syntactic Similarity without tokens: 0.925436483436
+Semantic Score: 0.748783290386
+Semantic Score without stopwords: 0.75799959898
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.111709401011
+Semantic similarity verbs: 0.568188786507
+
+93
+New Sentence: In jene Gründe einzudringen und die wahre Erkenntniss vom Schein und vom Irrthum zu sondern, dünkte dem sokratischen Menschen der edelste, selbst der einzige wahrhaft menschliche Beruf zu sein. so wie jener Mechanismus der Begriffe, Urtheile und Schlüsse von Sokrates ab als höchste Bethätigung und bewunderungswürdigste Gabe der Natur über alle anderen Fähigkeiten geschätzt wurde. Selbst die erhabensten sittlichen Thaten, die Regungen des Mitleids, der Aufopferung, des Heroismus und jene schwer zu erringende Meeresstille der Seele, die der apollinische Grieche Sophrosyne nannte, wurden von Sokrates und seinen gleichgesinnten Nachfolgern bis auf die Gegenwart hin aus der Dialektik des Wissens abgeleitet und demgemäss als lehrbar bezeichnet.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.839246687016
+Syntactic Similarity without tokens: 0.808392834766
+Semantic Score: 0.789252400398
+Semantic Score without stopwords: 0.745190560818
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.09090909090909091
+Semantic similarity nouns: 0.642228245735
+Semantic similarity verbs: nan
+
+94
+New Sentence: Eine constitutionelle Volksvertretung kennen die antiken Staatsverfassungen in praxi nicht und haben sie hoffentlich auch in ihrer Tragödie nicht einmal „geahnt“. Viel berühmter als diese politische Erklärung des Chors ist der Gedanke A. W. Schlegel’s, der uns den Chor gewissermaassen als den Inbegriff und Extract der Zuschauermenge, als den „idealischen Zuschauer“ zu betrachten anempfiehlt. Diese Ansicht, zusammengehalten mit jener historischen Ueberlieferung, dass ursprünglich die Tragödie nur Chor war, erweist sich als das was sie ist, als eine rohe, unwissenschaftliche, doch glänzende Behauptung, die ihren Glanz aber nur durch ihre concentrirte Form des Ausdrucks, durch die echt germanische Voreingenommenheit für Alles, was „idealisch“ genannt wird und durch unser momentanes Erstauntsein erhalten hat.
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.875515330921
+Syntactic Similarity without tokens: 0.907047844282
+Semantic Score: 0.708602547646
+Semantic Score without stopwords: 0.708602547646
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.567639827728
+Semantic similarity verbs: 0.634449899197
+
+95
+New Sentence: GötheNach KGW/KGB Nachberichte in seiner projectirten „Nausikaa“ unmöglich gewesen sein würde, den Selbstmord jenes idyllischen Wesens — der den fünften Act ausfüllen sollte — tragisch ergreifend zu machen; so ungemein ist die Gewalt des Episch-Apollinischen, dass es die schreckensvollsten Dinge mit jener Lust am Scheine und der Erlösung durch den Schein vor unseren Augen verzaubert. Der Dichter des dramatisirten Epos kann eben so wenig wie der epische Rhapsode mit seinen Bildern völlig verschmelzen. er ist immer noch ruhig unbewegteErratum.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.762287960041
+Syntactic Similarity without tokens: 0.89779081521
+Semantic Score: 0.834680020809
+Semantic Score without stopwords: 0.820871949196
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.566358089447
+Semantic similarity verbs: 0.392447859049
+
+96
+New Sentence: die doch so mächtig ist, am Schluss das apollinische Drama selbst in eine Sphäre zu drängen, wo es mit dionysischer Weisheit zu reden beginnt und wo es sich selbst und seine apollinische Sichtbarkeit verneint. So wäre wirklich das schwierige Verhältniss des Apollinischen und des Dionysischen in der Tragödie durch einen Bruderbund beider Gottheiten zu symbolisiren. Dionysus redet die Sprache des Apollo, Apollo aber schliesslich die Sprache des Dionysus.
+Reference Sentence: Sokrates scheint von seiner Unwissenheit so viel geredt zu haben als ein Hypochondriaker von seiner eingebildeten Krankheit . Wie man dies Uebel selbst kennen muß um einen Milzsuͤchtigen zu verstehen und aus ihm klug zu werden ; so gehoͤrt vielleicht eine Sympathie der Unwissenheit dazu , von der sokratischen ein Begrif zu haben . Erkenne dich Selbst !
+
+
+Syntactic Score: 0.833868035559
+Syntactic Similarity without tokens: 0.787702328266
+Semantic Score: 0.74917024374
+Semantic Score without stopwords: 0.74917024374
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.191745176911
+Semantic similarity verbs: nan
+
+97
+New Sentence: daraus also ist es erklärlich, warum Musik jedes Gemälde, ja jede Scene des wirklichen Lebens und der Welt, sogleich in erhöhter Bedeutsamkeit hervortreten lässt; freilich um so mehr, je analoger ihre Melodie dem innern Geiste der gegebenen Erscheinung ist. Hierauf beruht es, dass man ein Gedicht als Gesang, oder eine anschauliche Darstellung als Pantomime, oder beides als Oper der Musik unterlegen kann. Solche einzelne Bilder des Menschenlebens, der allgemeinen Sprache der Musik untergelegt, sind nie mit durchgängiger Nothwendigkeit ihr verbunden oder entsprechend; sondern sie stehen zu ihr nur im Verhältniss eines beliebigen Beispiels zu einem allgemeinen Begriff.
+Reference Sentence: Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern . Jch habe fuͤr ihn in der mystischen Sprache eines Sophisten geschrieben ; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird , wenn gleich die Alchymie zu ihren Zweck kommt , alle die Menschen reich zu machen , welche durch des Marqvis von Mirabeau fruchtbare Maximen bald ! Frankreich bevoͤlkern muͤssen .
+
+
+Syntactic Score: 0.823524988598
+Syntactic Similarity without tokens: 0.90861814735
+Semantic Score: 0.776622772217
+Semantic Score without stopwords: 0.757546842098
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.458584487438
+Semantic similarity verbs: 0.496821671724
+
+98
+New Sentence: Lässt sich der tiefe Hass gegen „Jetztzeit“, „Wirklichkeit“ und „moderne Ideen“ weiter treiben, als es in Ihrer Artisten-Metaphysik geschehen ist? — welche lieber noch an das Nichts, lieber noch an den Teufel, als an das „Jetzt“ glaubt? Brummt nicht ein Grundbass von Zorn und Vernichtungslust unter aller Ihrer contrapunktischen Stimmen-Kunst und Ohren-Verführerei hinweg, eine wüthende Entschlossenheit gegen Alles, was „jetzt“ ist, ein Wille, welcher nicht gar zu ferne vom praktischen Nihilismus ist und zu sagen scheint „lieber mag Nichts wahr sein, als dass ihr Recht hättet, als dass eure Wahrheit Recht behielte!“ Hören Sie selbst, mein Herr Pessimist und Kunstvergöttlicher, mit aufgeschlossnerem Ohre eine einzige ausgewählte Stelle Ihres Buches an, jene nicht unberedte Drachentödter-Stelle, welche für junge Ohren und Herzen verfänglich-rattenfängerisch klingen mag.
+Reference Sentence: Einen Koͤrper und eine Begebenheit bis auf ihre ersten Elemente zergliedern , heißt , Gottes unsichtbares Wesen , seine ewige Kraft und Gottheit ertappen wollen . Wer Mose und den Propheten nicht glaubt , wird daher immer ein Dichter , wieder sein Wissen und Wollen , wie Buffon uͤber die Geschichte der Schoͤpfung und Montesquieu uͤber die Geschichte des Roͤmischen Reichs . Wenn kein junger Sperling ohne unsern Gott auf die Erde faͤllt ; so ist kein Denkmal alter Zeiten fuͤr uns verloren gegangen , das wir zu beklagen haͤtten .
+
+
+Syntactic Score: 0.810226441741
+Syntactic Similarity without tokens: 0.761255821318
+Semantic Score: 0.810358703136
+Semantic Score without stopwords: 0.77038705349
+LCS Length: 1
+LCS: glaubt 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 1.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 1.0
+
+99
+New Sentence: Der titanische Künstler fand in sich den trotzigen Glauben, Menschen schaffen und olympische Götter wenigstens vernichten zu können. und dies durch seine höhere Weisheit, die er freilich durch ewiges Leiden zu büssen gezwungen war. Das herrliche „Können“ des grossen Genius, das selbst mit ewigem Leide zu gering bezahlt ist, der herbe Stolz des Künstlers — das ist Inhalt und Seele der aeschyleischen Dichtung, während Sophokles in seinem Oedipus das Siegeslied des Heiligen präludirend anstimmt.
+Reference Sentence: Ueberlaß sie daher einem Paar Deiner Anbeter , die ich durch diese Pillen von dem Dienst Deiner Eitelkeit zu reinigen wuͤnsche . Weil Du die Zuͤge menschlicher Unwissenheit und Neugierde an Deinem Gesichte traͤgst ; so will ich Dir beichten , wer die Zween sind , denen ich durch Deine Haͤnde diesen frommen Betrug spielen will . Der erste arbeitet am Stein der Weisen , wie ein Menschenfreund , der ihn fuͤr ein Mittel ansieht , den Fleiß , die buͤrgerliche Tugenden und das Wohl des gemeinen Wesens zu befoͤrdern .
+
+
+Syntactic Score: 0.846158313912
+Syntactic Similarity without tokens: 0.905115896723
+Semantic Score: 0.734390497208
+Semantic Score without stopwords: 0.734390497208
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.0669079273939
+Semantic similarity verbs: 0.487179726362
+
+100
+New Sentence: während allerdings dieselbe Gier, auf ihren niederen Stufen, sich kunstfeindlich äussern und vornehmlich die dionysisch-tragische Kunst innerlich verabscheuen muss, wie dies an der Bekämpfung der aeschyleischen Tragödie durch den Sokratismus beispielsweise dargestellt wurde. Hier nun klopfen wir, bewegten Gemüthes, an die Pforten der Gegenwart und Zukunft. wird jenes „Umschlagen“ zu immer neuen Configurationen des Genius und gerade des musiktreibenden Sokrates führen?
+Reference Sentence: Ein Mensch ohne Geschaͤfte heißt auf griechisch Argus . Ein Phrygier , wie Aesop , der sich nach den Gesetzen seines Klima , wie man jetzt redt , Zeit nehmen muste , klug zu werden , und ein so natuͤrlicher Tropf , als ein La Fontaine , der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wuste , wuͤrden uns an statt gemalter Philosophen oder ihrer zierlich verstuͤmmelter Brustbilder , ganz andere Geschoͤpfe zeigen , und ihre Sitten und Spruͤche , die Legenden ihrer Lehren und Thaten mit Farben nachahmen , die dem Leben naͤher kaͤmen . Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln , als der schlechte Gebrauch , den ihre Liebhaber davon machen .
+
+
+Syntactic Score: 0.877018884011
+Syntactic Similarity without tokens: 0.920859457123
+Semantic Score: 0.703457593918
+Semantic Score without stopwords: 0.703457593918
+LCS Length: 0
+LCS: 
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.547541081905
+

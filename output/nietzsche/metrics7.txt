@@ -1,0 +1,728 @@
+Pairing: 1 W017920V024.xml
+Nietzsche: 
+
+Den Begriff der „chinesischen Rache“ erhält Nietzsche aus einem Werke von Leopold Katscher: Bilder aus dem chinesischen Leben. Nietzsche hatte seinen Verleger Ernst Schmeitzner in einem wahrscheinlich am 21. Juni 1881 verfaßten Briefe um die Zusendung dieses Buches gebeten.
+
+Reference: 
+
+Ein  häufiger Selbstmordgrund ist bei der weiblichen Bevölkerung in der in Folge der Ausübung der Vielweiberei eine grosse Rolle spielenden Eifersucht zu suchen. Die allermeisten Selbstmorde aber dürften die Ergebnisse von Zänkereien und falschen Beschuldigungen sein. Die Empfindlichkeit der Chinesen in diesem Punkte geht äusserst weit. Gray erzählt, dass ein gewisser Ho Akau, Beschliesser der englischen Consulatskirche zu Kanton, eines Tages vom Gärtner des alten Faktoreigartens beschuldigt wurde, dessen Kanarienvogel umgebracht zu haben. Ho Akau wies die Beschuldigung zurück und erklärte, das Thierchen sei von einer Ratte getödtet worden. Der ob des Verlustes seines Lieblings tiefbetrübte Gärtner wollte diese Erklärung nicht gelten lassen und wiederholte seine ursprüngliche Behauptung. Der gekränkte Beschliesser nahm sich dies so sehr zu Herzen, dass er in den Kirchturm ging und sich dort entleibte. Die hochentwickelte Empfindlichkeit für Beleidigungen, die so viele Chinese in den Tod treibt, schliesst nicht immer Rachegefühle aus; in dem vorstehend angeführten Falle z. B. mochte Ho Akau auch die Nebenansicht gehabt haben, durch seinen Selbstmord dem Gärtner einen Possen anzuthun und Unannehmlichkeiten zu bereiten. Es kommt aber auch vor, dass Jemand sich das Leben einzig und allein in der Absicht nimmt, an anderen Personen Rache zu üben. Ein Beispiel hievon war in der „Pekinger Zeitung“ vom 19. Juni 1872 zu lesen: „Eine aus vier Personen bestehende Familie stürzte sich, nachdem sie ihre Beschwerden niedergeschrieben, in einen Brunnen, um sich an einem Verwandten zu rächen, der sie um einen Theil einer Erbschaft betrogen  hatte“.
+
+Syntactic Score: 0.6964514589184564
+Syntactic Similarity without tokens: 0.7399117225060258
+Semantic Score: 0.8636782765388489
+Semantic Score without stopwords: 0.8724923133850098
+Jaccard: 0.03759398496240601
+Jaccard of common nouns: 0.04411764705882353
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7581067681312561
+Semantic similarity verbs: 0.573896586894989
+
+LCS: der von aus dem Leben in Juni um 
+Length: 8
+LCS without stopwords: rache juni 
+Length: 2
+
+
+Pairing: 2 W018646V014.xml
+Nietzsche: 
+
+Die Bedingungen Gottes. – „Gott selber kann nicht ohne weise Menschen bestehen“ – hat Luther gesagt und mit gutem Rechte; aber „Gott kann noch weniger ohne unweise Menschen bestehen“ – das hat der gute Luther nicht gesagt!
+
+Reference: 
+
+Für den Dichter, für den Propheten hat das, was er ausspricht, einen viel größeren Werth, wie für irgend einen der Hörer, und darum wird es gesprochen. Der kräftige, selbstgefällige Luther behauptet ausdrücklich, was aber nicht falsch verstanden werden darf, daß „Gott selbst nicht ohne weise Menschen bestehen kann.“ Jacob Behmen und George Fox thun ihren Egoismus kund in der Hartnäckigkeit, mit der sie bei ihrer polemischen Art und Weise der Darstellung bleiben, und James Taylor glaubte sogar, er sei Christus, und duldete es, daß man ihn wie diesen anbetete.
+
+Syntactic Score: 0.6438726881801184
+Syntactic Similarity without tokens: 0.644375346333208
+Semantic Score: 0.9006290435791016
+Semantic Score without stopwords: 0.8976383209228516
+Jaccard: 0.13725490196078433
+Jaccard of common nouns: 0.13636363636363635
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.1
+Semantic similarity nouns: 0.7947423458099365
+Semantic similarity verbs: 0.8483303189277649
+
+LCS: Gott nicht ohne weise Menschen bestehen und mit der 
+Length: 9
+LCS without stopwords: gott weise menschen bestehen 
+Length: 4
+
+
+Pairing: 3 W019281V018.xml
+Nietzsche: 
+
+Auf doppelte Weise macht David Strauss über jene Philister-Bildung Bekenntnisse, durch das Wort und durch die That, nämlich durch das Wort des Bekenners und die That des Schriftstellers. Sein Buch mit dem Titel „der alte und der neue Glaube“ ist einmal durch seinen Inhalt und sodann als Buch und schriftstellerisches Product eine ununterbrochene Confession; und schon darin, dass er sich erlaubt, öffentlich Confessionen über seinen Glauben zu machen, liegt eine Confession. – Das Recht, nach seinem vierzigsten Jahre seine Biographie zu schreiben, mag Jeder haben: denn auch der Geringste kann etwas erlebt und in grösserer Nähe gesehen haben, was dem Denker werthvoll und beachtenswerth ist.
+
+Reference: 
+
+Alle Menschen, von welchem Stande sie auch seyn, die etwas tugendsames, oder tugendähnliches vollbracht haben, sollten, wenn sie sich wahrhaft guter Absichten bewußt sind, eigenhändig ihr Leben aufsetzen; jedoch nicht eher zu einer so schönen Unternehmung schreiten, als bis sie das Alter von vierzig Jahren erreicht haben.
+
+Syntactic Score: 0.831709341200051
+Syntactic Similarity without tokens: 0.9126394141611062
+Semantic Score: 0.8706297874450684
+Semantic Score without stopwords: 0.8622251152992249
+Jaccard: 0.029850746268656716
+Jaccard of common nouns: 0.03571428571428571
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.6411408185958862
+Semantic similarity verbs: 0.7395557761192322
+
+LCS: die sich zu haben 
+Length: 4
+LCS without stopwords: 
+Length: 0
+
+
+Pairing: 4 W019281V019.xml
+Nietzsche: 
+
+Durch Wissen tödten: eig<entlich> ist es nicht einmal das Wissen, sondern nur das neugierige unruhige Belauern, also ein nothwendiges Mittel und conditio der Wissenschaft. Mitreden-Wollen, wo man nur stört, wenn man redet. Defienda me Dios de my „Gott behüte mich vor mir“.
+
+Reference: 
+
+Diejenigen Uebel, mit welchen uns die Einbildungskraft belästiget, sind die ärgsten und gewöhnlichsten. Der spanische Wunsch (
+
+Syntactic Score: 0.5676502369757287
+Syntactic Similarity without tokens: 0.6064884503174331
+Semantic Score: 0.6109046339988708
+Semantic Score without stopwords: 0.579642117023468
+Jaccard: 0.0
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4922839105129242
+Semantic similarity verbs: nan
+
+LCS: und 
+Length: 1
+LCS without stopwords: 
+Length: 0
+
+
+Pairing: 5 W019281V020.xml
+Nietzsche: 
+
+So jauchzt der Philister: und wenn wir nicht so zufrieden sind, wie er, so liegt es daran, dass wir noch mehr zu wissen wünschten. Scaliger pflegte zu sagen: „was geht es uns an, ob Montaigne rothen oder weissen Wein getrunken hat!“
+
+Reference: 
+
+Es ist Schade, daß er eine so wenige Hochachtung für seine Leser hat, und sie mit kindischen und vielen Beschreibungen seines Geschmackes seiner Handlungen und selbst seiner Gedanken unterhält. Was liegt einem daran, sagte Scaliger mit gutem Grunde, (
+
+Syntactic Score: 0.707871464908785
+Syntactic Similarity without tokens: 0.8950532430605398
+Semantic Score: 0.8810791969299316
+Semantic Score without stopwords: 0.8779423236846924
+Jaccard: 0.125
+Jaccard of common nouns: 0.09090909090909091
+Jaccard of common verbs: 0.2222222222222222
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.2321075052022934
+Semantic similarity verbs: 0.8590120673179626
+
+LCS: er so liegt daran Scaliger 
+Length: 5
+LCS without stopwords: liegt daran scaliger 
+Length: 3
+
+
+Pairing: 6 W019281V022.xml
+Nietzsche: 
+
+Nun hatte der arme Schopenhauer auch so eine geheime Schuld auf dem Herzen, nämlich seine Philosophie mehr zu schätzen als seine Zeitgenossen; und dazu war er so unglücklich, gerade durch Goethe zu wissen, dass er seine Philosophie, um ihre Existenz zu retten, um jeden Preis gegen die Nichtbeachtung seiner Zeitgenossen vertheidigen müsse; denn es giebt eine Art Inquisitionscensur, in der es die Deutschen nach Goethes Urtheil weit gebracht haben; es heisst: unverbrüchliches Schweigen. Und dadurch war wenigstens so viel bereits erreicht worden, dass der grösste Theil der ersten Auflage seines Hauptwerks zu Makulatur eingestampft werden musste.
+
+Reference: 
+
+Achselträgerei und Augendienerei sind an der Tagesordnung, Tartüffiaden werden ohne Schminke aufgeführt, ja Kapuzinaden ertönen von der den Wissenschaften geweihten Stätte: das ehrwürdige Wort Aufklärung ist eine Art Schimpfwort geworden, die größten Männer des vorigen Jahrhunderts, Voltaire, Rousseau, Locke, Hume, werden verunglimpft, diese Heroen, diese Zierden und Wohlthäter der Menschheit, deren über beide Hemisphären verbreiteter Ruhm, wenn durch irgend etwas, nur noch dadurch verherrlicht werden kann, daß jederzeit und überall, wo Obskuranten auftreten, solche ihre erbitterten Feinde sind – und Ursache dazu haben. Litterarische Faktionen und Brüderschaften auf Tadel und Lob werden geschlossen, und nun wird das Schlechte gepriesen  und ausposaunt, das Gute verunglimpft, oder auch, wie Goethe sagt, „durch ein unverbrüchliches Schweigen sekretirt, in welcher Art von Inquisitionscensur es die Deutschen weit gebracht haben“ (Tag- und Jahreshefte, J. 1821).
+
+Syntactic Score: 0.7724776401525881
+Syntactic Similarity without tokens: 0.7647296826851705
+Semantic Score: 0.9069783687591553
+Semantic Score without stopwords: 0.904484748840332
+Jaccard: 0.0970873786407767
+Jaccard of common nouns: 0.09433962264150944
+Jaccard of common verbs: 0.047619047619047616
+Jaccard of common adjectives: 0.13333333333333333
+Semantic similarity nouns: 0.8018454313278198
+Semantic similarity verbs: 0.7515157461166382
+
+LCS: der eine auf und durch Art Inquisitionscensur es die Deutschen weit gebracht haben 
+Length: 13
+LCS without stopwords: goethe art inquisitionscensur deutschen weit gebracht 
+Length: 6
+
+
+Pairing: 7 W019689V021.xml
+Nietzsche: 
+
+Kurzschreiben. Es ist schwer, kurz zu schreiben, sagt Winckelmann, auch nicht eines Jeden Werk; denn man kann in einer völligern Art zu schreiben nicht so leicht beim Wort genommen werden. Derjenige, der an Jemand schrieb: ich hatte nicht Zeit diesen Brief kürzer zu machen, erkannte, was die kurze Schreibart erfordert.
+
+Reference: 
+
+Es ist schwer, kurz zu schreiben, auch nicht eines jeden Werk; denn man kann in einer völligem Art zu schreiben nicht so leicht bei dem Wort genommen werden. Aber unsere Zeit erfordert die Kürze, sonderlich wegen der Menge der Schriften. Derjenige, der an jemand schrieb: „Ich hatte nicht Zeit diesen Brief kürzer zu machen,“ erkannte, was die kurze Schreibart erfordert.
+
+Syntactic Score: 0.741805071202679
+Syntactic Similarity without tokens: 0.7460191493501918
+Semantic Score: 0.9867201447486877
+Semantic Score without stopwords: 0.9853469133377075
+Jaccard: 0.5517241379310345
+Jaccard of common nouns: 0.5
+Jaccard of common verbs: 0.8571428571428571
+Jaccard of common adjectives: 0.5714285714285714
+Semantic similarity nouns: 0.9491214156150818
+Semantic similarity verbs: 0.9707363843917847
+
+LCS: Es ist schwer kurz zu schreiben auch nicht eines Werk denn man kann in einer Art zu schreiben nicht so leicht Wort genommen werden Derjenige der an schrieb hatte nicht Zeit diesen Brief kürzer zu machen erkannte was die kurze Schreibart erfordert 
+Length: 42
+LCS without stopwords: schwer kurz schreiben werk art schreiben leicht wort genommen derjenige jemand schrieb zeit brief kürzer erkannte kurze schreibart erfordert 
+Length: 19
+
+
+Pairing: 8 W019689V025.xml
+Nietzsche: 
+
+Was soll man aber von der so glaubensvoll eingeführten, zwischen Tautologie und Widersinn künstlich schwebenden Behauptung eines berühmten historischen Virtuosen halten: „es ist nicht anders als dass alles menschliche Thun und Treiben dem leisen und der Bemerkung oft entzogenen, aber gewaltigen und unaufhaltsamen Gange der Dinge unterworfen ist“?
+
+Reference: 
+
+Es ist nichts anders, als daß alles menschliche Thun und Treiben dem leisen und der Bemerkung oft entzogenen, aber gewaltigen und unaufhaltsamen Gange der Dinge unterworfen ist. Die päpstliche Macht war von den früheren weltgeschichtlichen Momenten gefördert worden: die neuen traten ihr entgegen. Da die Nationen des Impulses der kirchlichen Macht nicht mehr in dem Maße wie früher bedurften, so leisteten sie demselben gar bald Widerstand. Sie fühlten sich in ihrer Selbständigkeit.
+
+Syntactic Score: 0.762784084058372
+Syntactic Similarity without tokens: 0.8801793432175516
+Semantic Score: 0.9331451058387756
+Semantic Score without stopwords: 0.9331451058387756
+Jaccard: 0.2553191489361702
+Jaccard of common nouns: 0.3125
+Jaccard of common verbs: 0.2727272727272727
+Jaccard of common adjectives: 0.23076923076923078
+Semantic similarity nouns: 0.8476003408432007
+Semantic similarity verbs: 0.8810510039329529
+
+LCS: ist anders als alles menschliche Thun und Treiben dem leisen und der Bemerkung oft entzogenen aber gewaltigen und unaufhaltsamen Gange der Dinge unterworfen ist 
+Length: 24
+LCS without stopwords: menschliche thun treiben leisen bemerkung oft entzogenen gewaltigen unaufhaltsamen gange dinge unterworfen 
+Length: 12
+
+
+Pairing: 9 W019689V027.xml
+Nietzsche: 
+
+„Der Deutsche ist von Natur, seitdem er seinen einfachen grossen Character verloren hat, afterrederisch und verunglimpfend, und nichts weniger als billig: und noch weniger liebend.“
+
+Reference: 
+
+Ihre Erklärung der unseeligen Stimmung, die gegen uns herrscht, und die ich nur allzusehr auch hier unter den jungen Germanen gewahr werde, liebster Savigny, ist zum Theil unwidersprechlich richtig. Fügen Sie aber nur auch noch mehrere Ursachen hinzu, die Ihr wohlwollendes Gemüth vielleicht nicht alle gelten lassen wird, und die doch wahr sind. – In kleinen Staaten ist es nicht so viel die Furcht vor dem mächtigeren Staat derselben Nation als die beleidigte Eitelkeit. Der Deutsche ist von Natur, seitdem er seinen einfachen großen Charakter verloren, afterrederisch und verunglimpfend, und nichts weniger als billig, und noch weniger liebend. Nach unserm Befreiungskrieg mußte man eine Zeitlang schweigen und uns ehren: ehren aber ist für den Deutschen ein entsetzlich drückendes Gefühl.
+
+Syntactic Score: 0.7283996184106718
+Syntactic Similarity without tokens: 0.8802677728121481
+Semantic Score: 0.9432660937309265
+Semantic Score without stopwords: 0.9418023824691772
+Jaccard: 0.17543859649122806
+Jaccard of common nouns: 0.10526315789473684
+Jaccard of common verbs: 0.1111111111111111
+Jaccard of common adjectives: 0.2631578947368421
+Semantic similarity nouns: 0.8417251706123352
+Semantic similarity verbs: 0.6138303279876709
+
+LCS: Der Deutsche ist von Natur seitdem er seinen einfachen verloren afterrederisch und verunglimpfend und nichts weniger als billig und noch weniger liebend 
+Length: 22
+LCS without stopwords: deutsche natur seitdem einfachen verloren afterrederisch verunglimpfend weniger billig weniger liebend 
+Length: 11
+
+
+Pairing: 10 W019689V032.xml
+Nietzsche: 
+
+Gewiss ist das Bedürfniss des Umgangs mit grossen Vorgängern das Zeichen einer höheren Anlage, aber eben so sehr hat Goethe Recht, dass ein Lump freilich ein Lump bleibt und dass eine kleinliche Natur durch einen selbst täglichen Verkehr mit der Grossheit antiker Gesinnung um keinen Zoll grösser werde.
+
+Reference: 
+
+„Dagegen ist nichts zu erinnern,“ erwiderte Goethe; „aber damit ist durchaus nicht gesagt, daß das Studium der Schriften des Altertums für die Bildung eines Charakters überhaupt ohne Wirkung wäre. Ein Lump bleibt freilich ein Lump, und eine kleinliche Natur wird durch einen selbst täglichen Verkehr mit der Großheit antiker Gesinnung um keinen Zoll größer werden. Allein ein edler Mensch, in dessen Seele Gott die Fähigkeit künftiger Charaktergröße und Geisteshoheit gelegt, wird durch die Bekanntschaft und den vertraulichen Umgang mit den erhabenen Naturen griechischer und römischer Vorzeit sich auf das herrlichste entwickeln und mit jedem Tage zusehends zu ähnlicher Größe heranwachsen.“
+
+Syntactic Score: 0.8165236263103276
+Syntactic Similarity without tokens: 0.9169640704388421
+Semantic Score: 0.9272570013999939
+Semantic Score without stopwords: 0.9272570013999939
+Jaccard: 0.1875
+Jaccard of common nouns: 0.21875
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.1875
+Semantic similarity nouns: 0.832770824432373
+Semantic similarity verbs: 0.6686009168624878
+
+LCS: ist das des Lump freilich ein Lump und eine kleinliche Natur durch einen selbst täglichen Verkehr mit der antiker Gesinnung um keinen Zoll 
+Length: 23
+LCS without stopwords: goethe lump freilich lump kleinliche natur täglichen verkehr antiker gesinnung zoll 
+Length: 11
+
+
+Pairing: 11 W019689V033.xml
+Nietzsche: 
+
+Man findet, dass „der Deutsche isolirt lebe und eine Ehre darin suche, seine Individualität originell auszubilden.“
+
+Reference: 
+
+In Deutschland wird auf alle Fälle der Vorschlag weniger Ausübung finden, weil der Deutsche isolirt lebt, und eine Ehre darin sucht, seine Individualität originell auszubilden
+
+Syntactic Score: 0.8497728658104723
+Syntactic Similarity without tokens: 0.9338270844946671
+Semantic Score: 0.9674268364906311
+Semantic Score without stopwords: 0.9727218747138977
+Jaccard: 0.47368421052631576
+Jaccard of common nouns: 0.2857142857142857
+Jaccard of common verbs: 0.6
+Jaccard of common adjectives: 0.6666666666666666
+Semantic similarity nouns: 0.7518686056137085
+Semantic similarity verbs: 0.9699869155883789
+
+LCS: der Deutsche isolirt und eine Ehre darin seine Individualität originell auszubilden 
+Length: 11
+LCS without stopwords: deutsche isolirt ehre darin individualität originell auszubilden 
+Length: 7
+
+
+Pairing: 12 W019689V035.xml
+Nietzsche: 
+
+ er, wie Schopenhauer, auf den „Höhen der indischen Lüfte“ das heilige Wort von dem moralischen Werthe des Daseins gehört hat, der wird schwer davon abzuhalten sein, eine höchst anthropomorphische Metapher zu machen und jene schwermüthige Lehre aus der Beschränkung auf das Menschenleben herauszuziehen und sie auf den allgemeinen Charakter alles Daseins, durch Übertragung, anzuwenden.
+
+Reference: 
+
+Und auf den Höhen der Indischen LüfteUnd in den Tiefen Aegyptischer GrüfteHab’ ich das heilige Wort nur gehört:Thöricht, auf Beßrung der Thoren zu harren!Kinder der Klugheit, o habet die NarrenEben zum Narren auch, wie sich’s gehört!
+
+Syntactic Score: 0.9158835812642275
+Syntactic Similarity without tokens: 0.9303466716620308
+Semantic Score: 0.7048818469047546
+Semantic Score without stopwords: 0.7048818469047546
+Jaccard: 0.09302325581395349
+Jaccard of common nouns: 0.08695652173913043
+Jaccard of common verbs: 0.16666666666666666
+Jaccard of common adjectives: 0.1111111111111111
+Semantic similarity nouns: 0.6774857640266418
+Semantic similarity verbs: 0.3612684905529022
+
+LCS: auf den Höhen der das heilige Wort gehört der zu der 
+Length: 11
+LCS without stopwords: höhen indischen heilige wort gehört 
+Length: 5
+
+
+Pairing: 13 W019689V037.xml
+Nietzsche: 
+
+Daß wir aber mit einem ernsthaften Problem zu thun haben, muß dem wohl- und übelgesinnten Leser zu seinem Erstaunen deutlich werden, wenn er sieht, wie Himmel und Hölle zu seiner Erklärung in Bewegung gesetzt werden müssen, und wie wir zum Schlusse genöthigt sind jenes Problem recht eigentlich in die Mitte der Welt, als einen „Wirbel des Seins“ hinzustellen.
+
+Reference: 
+
+Der Wirbel des Seins. – Denke dir einmal das Nichts! Du denkst es dir neben dem Etwas! /Aber, da denkst du’s dir nicht! Hier ist der Wirbel des Seins.
+
+Syntactic Score: 0.6866195281860611
+Syntactic Similarity without tokens: 0.7305305583379962
+Semantic Score: 0.7776303291320801
+Semantic Score without stopwords: 0.7776303291320801
+Jaccard: 0.03125
+Jaccard of common nouns: 0.14285714285714285
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.47832220792770386
+Semantic similarity verbs: 0.6698805689811707
+
+LCS: dem der Wirbel des Seins 
+Length: 5
+LCS without stopwords: wirbel seins 
+Length: 2
+
+
+Pairing: 14 W019689V040.xml
+Nietzsche: 
+
+Räucherwerk. – Buddha sagt: „schmeichle deinem Wohlthäter nicht!“ Man spreche diesen Spruch nach in einer christlichen Kirche: – er reinigt sofort die Luft von allem Christlichen.
+
+Reference: 
+
+Es ist ein großes Glück, wenn man ohne Injurie und ohne Groll von Einem los kommt, der das Unglück hatte, unsere Hülfe  entgegennehmen zu müssen. Es ist eine sehr drückende Sache, von Andern Dienste zu empfangen, und der Schuldner wünscht natürlich euch eine Schlappe zu geben. Ein goldener Text für diese Herren ist der, den ich so beim Buddhaisten bewundere, welcher niemals dankt, und welcher sagt: „Schmeichle nicht deinen Wohlthätern.“
+
+Syntactic Score: 0.44889726945431746
+Syntactic Similarity without tokens: 0.46974831607486417
+Semantic Score: 0.7689275741577148
+Semantic Score without stopwords: 0.771385669708252
+Jaccard: 0.06521739130434782
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.08333333333333333
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.31297293305397034
+Semantic similarity verbs: 0.728892982006073
+
+LCS: sagt nicht 
+Length: 2
+LCS without stopwords: sagt schmeichle 
+Length: 2
+
+
+Pairing: 15 W019689V041.xml
+Nietzsche: 
+
+der wird sich zugleich sagen müssen, daß jenes Kunstwerk der Zukunft durchaus nicht etwa eine glänzende, doch täuschende Luftspiegelung ist: was wir von der Zukunft erhoffen, das war schon einmal Wirklichkeit – in einer mehr als zweitausendjährigen Vergangenheit.
+
+Reference: 
+
+So wäre denn das „Kunstwerk der Zukunft“ strenge genommen, das Kunstwerk einer mehr als zweitausendjährigen Vergangenheit.
+
+Syntactic Score: 0.6270801538048146
+Syntactic Similarity without tokens: 0.5422257080971485
+Semantic Score: 0.7596749067306519
+Semantic Score without stopwords: 0.7522781491279602
+Jaccard: 0.23809523809523808
+Jaccard of common nouns: 0.6
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.3333333333333333
+Semantic similarity nouns: nan
+Semantic similarity verbs: 0.4606437087059021
+
+LCS: Kunstwerk der Zukunft das einer mehr als zweitausendjährigen Vergangenheit 
+Length: 9
+LCS without stopwords: kunstwerk zukunft mehr zweitausendjährigen vergangenheit 
+Length: 5
+
+
+Pairing: 16 W019689V042.xml
+Nietzsche: 
+
+Fortschritt der Freigeisterei. – Man kann den Unterschied der früheren und der gegenwärtigen Freigeisterei nicht besser verdeutlichen, als wenn man jenes Satzes gedenkt, den zu erkennen und auszusprechen die ganze Unerschrockenheit des vorigen Jahrhunderts nöthig war und der dennoch von der jetzigen Einsicht aus bemessen, zu einer unfreiwilligen Naivetät herabsinkt, – ich meine den Satz Voltaire’s: „croyez-moi, mon ami, l’erreur aussi a son mérite.“
+
+Reference: 
+
+„Croyez-moi, l’erreur aussi a son mérite.“ – sagt Voltaire. Wir sehen kraft ihrer Selbstsucht und Verblendung manche Menschen Schwierigkeiten übersteigen, vor denen Kluge zurückweichen würden.
+
+Syntactic Score: 0.8015863474673495
+Syntactic Similarity without tokens: 0.770074167110496
+Semantic Score: 0.9192898869514465
+Semantic Score without stopwords: 0.9037694931030273
+Jaccard: 0.21739130434782608
+Jaccard of common nouns: 0.1
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.5887255072593689
+Semantic similarity verbs: 0.6760463118553162
+
+LCS: moi l erreur aussi a son mérite 
+Length: 7
+LCS without stopwords: croyez moi l erreur aussi a son mérite 
+Length: 8
+
+
+Pairing: 17 W019689V043.xml
+Nietzsche: 
+
+Schopenhauer hat mit Montaigne noch eine zweite Eigenschaft, ausser der Ehrlichkeit, gemein: eine wirkliche erheiternde Heiterkeit. Aliis laetus, sibi sapiens.
+
+Reference: 
+
+Es ist eine alte Regel für verständiges Betragen: „Aliis laetus, sapiens sibi,“ welche das englische Sprichwort wiedergiebt durch: „Sei fröhlich und weise.“
+
+Syntactic Score: 0.7176651072856324
+Syntactic Similarity without tokens: 0.7949635841832947
+Semantic Score: 0.7818177342414856
+Semantic Score without stopwords: 0.7464557886123657
+Jaccard: 0.15384615384615385
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.1111111111111111
+Semantic similarity nouns: nan
+Semantic similarity verbs: nan
+
+LCS: eine Aliis laetus sibi 
+Length: 4
+LCS without stopwords: aliis laetus sibi 
+Length: 3
+
+
+Pairing: 18 W019689V044.xml
+Nietzsche: 
+
+Wahrhaftig, geliebter Meister, Ihnen zum Geburtstag schreiben, heißt immer nur: uns Glück wünschen, uns Gesundheit wünschen, um an Ihnen recht theilnehmen zu können. Denn ich sollte wirklich meinen: es ist das Kranksein, und der in der Krankheit lauernde Egoismus, wodurch sie gezwungen werden, immer an sich zu denken: während der Genius, in der Fülle seiner Gesundheit immer nur an die andern denkt, unwillkürlich segnend und heilend, wo er nur seine Hand hinlegt. Jeder kranke Mensch ist ein Schuft, las ich neulich; und woran sind die Menschen nicht alles krank! Auf Ihren Reisen durch Deutschland werden Sie manches gehört haben z. B. von der ganz allgemeinen Krankheit „des Hartmannianismus“.
+
+Reference: 
+
+Wenn ich nun in dieser Gedankenfolge hier die unumgänglichsten Lebensregeln anführe, möchte ich die erste Regel der Oekonomie nicht wiederholen, die nämlich, daß jeder Mann für sich selber sorgen muß, sondern gleich mit der Gesundheit beginnen. Keine Arbeit, Mühe, Entbehrung, Mäßigung, Entsagung, Uebung, wodurch man sie erlangen oder bewahren kann, darf vernachlässigt werden. Krankheit ist ein Kannibale, der alle Jugend und Kraft, die er erlangen kann, verzehrt und selbst seine eignen Kinder verschlingt. Ich stelle mir sie vor als ein blasses, verzerrtes Jammergespenst voll rücksichtsloser Selbstsucht und völliger Gleichgiltigkeit  gegen Alles, was groß und gut ist, aufmerksam auf ihre kleinsten Beschwerden, die eigne Seele verlierend und die der Andern mit ihren Gemeinheiten und Einbildungen quälend. Dr. Johnson sagt: „Sobald ein Mensch krank wird, ist er ein Schuft.“ Laßt Verstellung bei Seite und behandelt ihn vernünftig. Wenn man mit den Trunkenden spricht, so affectirt man nicht, betrunken zu sein. Wir müssen die Kranken mit derselben Festigkeit behandeln, – natürlich, indem wir ihnen jede mögliche Hülfe gewähren, aber uns selbst aufrecht erhalten.
+
+Syntactic Score: 0.6775994452971814
+Syntactic Similarity without tokens: 0.740705018501011
+Semantic Score: 0.9149266481399536
+Semantic Score without stopwords: 0.8984148502349854
+Jaccard: 0.06666666666666667
+Jaccard of common nouns: 0.08333333333333333
+Jaccard of common verbs: 0.030303030303030304
+Jaccard of common adjectives: 0.037037037037037035
+Semantic similarity nouns: 0.8070225715637207
+Semantic similarity verbs: 0.8032523989677429
+
+LCS: ich in der wodurch sie werden der die und seine Mensch ist ein Schuft und die 
+Length: 16
+LCS without stopwords: gesundheit krankheit mensch schuft 
+Length: 4
+
+
+Pairing: 19 W019689V052.xml
+Nietzsche: 
+
+„Leicht geschürzt“ und zwar „mit Absicht“, nennt aber Strauss sein Buch selbst; als „leicht geschürzt“ empfinden und schildern es seine öffentlichen Lobredner, von denen zum Beispiel einer, und zwar ein recht beliebiger, diese Empfindungen folgendermassen2Text korrigiert nach KGW III 5/1, S. 405. umschreibt: „In anmuthigem Ebenmaasse schreitet die Rede fort, und gleichsam spielend handhabt sie die Kunst der Beweisführung, wo sie kritisch gegen das Alte sich wendet, wie nicht minder da, wo sie das Neue, das sie bringt, verführerisch zubereitet und anspruchslosem wie verwöhntem Geschmacke präsentirt. Fein erdacht ist die Anordnung eines so mannichfaltigen, ungleichartigen Stoffes, wo Alles zu berühren und doch nichts in die Breite zu führen war; zumal die Uebergänge, die von der einen Materie zur anderen überleiten, sind kunstreich gefügt, wenn man nicht etwa noch mehr die Geschicklichkeit bewundern will, mit der unbequeme Dinge bei Seite geschoben oder verschwiegen sind.“
+
+Reference: 
+
+Doch er führt es zunächst für sich selbst. Es ist ihm persönliches Bedürfniß, an der Schwelle des Greisenalters angelangt Rechnung abzulegen von seinem Haushalt. Nachdem er Manches in Trümmer geschlagen, will er das Neue aufzeigen, das an die Stelle des Alten gesetzt werden könne. Hat er die moderne Weltanschauung, das mühsam errungene Ergebniß fortgesetzter Natur- und Geschichtsbetrachtung, vielfach in einzelnen Andeutungen umrissen, so will er sie jetzt im Zusammenhang entwickeln. Es ist das Vermächtniß, mit welchem ein Führer der geistigen Bewegung seine literarische Laufbahn abzuschließen gedenkt. Und ein solches Vermächtniß hat ein Recht darauf, mit Ernst und Achtung aufgenommen zu werden. Wir stellen dabei nicht in den Vordergrund die schriftstellerischen Virtuosität, obwohl sie von keiner der früheren Schriften des Verfassers übertroffen ist. In anmuthigem Ebenmaße schreitet die Rede fort, und gleichsam spielend handhabt sie die Kunst der Beweisführung, wo sie kritisch gegen das Alte sich wendet, wie nicht minder da, wo sie das Neue, das sie bringt, verführerisch zubereitet und anspruchlosem wie verwöhntem Geschmacke präsentirt. Fein erdacht ist die Anordnung eines so mannigfaltigen, ungleichartigen Stoffes, wo Alles zu berühren und doch nichts in die Breite zu führen  war; zumal die Uebergänge, die von der einen Materie zur anderen überleiten, sind kunstreich gefügt, wenn man nicht etwa noch mehr die Geschicklichkeit bewundern will, mit der unbequemere Dinge bei Seite geschoben oder verschwiegen sind.
+
+Syntactic Score: 0.7722265160679407
+Syntactic Similarity without tokens: 0.8704328313641212
+Semantic Score: 0.9655749797821045
+Semantic Score without stopwords: 0.9662438631057739
+Jaccard: 0.352
+Jaccard of common nouns: 0.30612244897959184
+Jaccard of common verbs: 0.4166666666666667
+Jaccard of common adjectives: 0.38461538461538464
+Semantic similarity nouns: 0.9402856826782227
+Semantic similarity verbs: 0.9500887393951416
+
+LCS: und mit und von In anmuthigem schreitet die Rede fort und gleichsam spielend handhabt sie die Kunst der Beweisführung wo sie kritisch gegen das Alte sich wendet wie nicht minder da wo sie das Neue das sie bringt verführerisch zubereitet und wie verwöhntem Geschmacke präsentirt Fein erdacht ist die Anordnung eines so ungleichartigen Stoffes wo Alles zu berühren und doch nichts in die Breite zu führen war zumal die Uebergänge die von der einen Materie zur anderen überleiten sind kunstreich gefügt wenn man nicht etwa noch mehr die Geschicklichkeit bewundern will mit der Dinge bei Seite geschoben oder verschwiegen sind 
+Length: 100
+LCS without stopwords: recht anmuthigem schreitet rede fort gleichsam spielend handhabt kunst beweisführung kritisch alte wendet minder neue bringt verführerisch zubereitet verwöhntem geschmacke präsentirt fein erdacht anordnung ungleichartigen stoffes berühren breite führen zumal uebergänge materie überleiten kunstreich gefügt etwa mehr geschicklichkeit bewundern dinge seite geschoben verschwiegen 
+Length: 43
+
+
+Pairing: 20 W019689V056.xml
+Nietzsche: 
+
+nd Schopenhauer würde, wenn er jetzt seine Abhandlung über Universitätsphilosophie zu schreiben hätte, nicht mehr die Keule nöthig haben, sondern mit einem Binsenrohre siegen. Es sind die Erben und Nachkommen jener Afterdenker, denen er auf die vielverdrehten Köpfe schlug: sie nehmen sich säuglings- und zwergenhaft genug aus, um an den indischen Spruch zu erinnern: „nach ihren Thaten werden die Menschen geboren, dumm, stumm, taub, missgestaltet“. Jene Väter verdienten eine solche Nachkommenschaft, nach ihren „Thaten“, wie der Spruch sagt.
+
+Reference: 
+
+Wir haben gesehen, wie die Welt nach den drei Qualitäten Sattva, Radschas und Tamas immer weiter von der ursprünglichen Reinheit des Brahma sich entfernt. Diese Stufen macht auch die Seele durch; die Seele eines Gottes oder eines Wesens aus den höheren Regionen ist, wenigstens in der nachbuddhistischen Anschauung, keineswegs gesichert vor dem Schicksal einer Seelenwanderung. So ist es auch einem Menschen möglich, in der nächsten Geburt in die Sphäre eines Gottes emporzusteigen, ohne dass er desswegen als erlöst gelten kann. „Wer den Geist erkennt, rein und bezähmt ist, Busse übt und die Erkenntniss der Vedas besitzt, dieser mit der Eigenschaft der Güte (Sattva) Begabte wird als ein Gott geboren. Wer nicht an guten Thaten Lust hat, unbeständig ist, an der Sinnlichkeit hängt, dieser mit der Eigenschaft der Leidenschaft (Radschas) Begabte, wird als Mensch wiedergeboren. Wer schläfrig ist, grausam handelt, der Gierige, Gott Leugnende etc., dieser mit der Eigenschaft der Finsterniss (Tamas) Begabte wird als Thier wiedergeboren“ (Yadschnavalkya III, 137–139.). „Nach ihren Thaten werden die Menschen geboren: dumm, stumm, blind, taub, missgestaltet; wer seine Sünden nicht abgebüsst hat, der wird dann bei seiner Geburt unheilvolle Zeichen tragen“  (Manu XI, 52f.). Die Hindus haben dabei die Thiere nach ihren besonderen Eigenschaften beobachtet, und daraus geschlossen, dass ein Mensch mit der betreffenden Eigenschaft in denselben wiedergeboren sei, z. B. ein Obstdieb wird zum Affen, ein Pferdedieb zum Tiger, ein Salbendieb wird eine Bisamratte (Manu XII, 55 ff.). Nach einzelnen Bestimmungen bei Manu findet sogar eine Verwandlung in Pflanzen statt, z. B.: Wer das Ehebett seines geistlichen Lehrers befleckt, wird Gras oder eine Schlingpflanze. Aber im Ganzen hat dieser Glaube an Verwandlung in Pflanzen keine grössere Verbreitung gefunden.
+
+Syntactic Score: 0.8208302505061895
+Syntactic Similarity without tokens: 0.8586727732535162
+Semantic Score: 0.9073780179023743
+Semantic Score without stopwords: 0.9068718552589417
+Jaccard: 0.061224489795918366
+Jaccard of common nouns: 0.028169014084507043
+Jaccard of common verbs: 0.1
+Jaccard of common adjectives: 0.07407407407407407
+Semantic similarity nouns: 0.7972978949546814
+Semantic similarity verbs: 0.8155877590179443
+
+LCS: die einem die und die an ihren Thaten werden die Menschen geboren dumm stumm taub missgestaltet nach ihren der 
+Length: 19
+LCS without stopwords: thaten menschen geboren dumm stumm taub missgestaltet 
+Length: 7
+
+
+Pairing: 21 W019689V057.xml
+Nietzsche: 
+
+Novella d’Andrea lehrte in Bologna (14. Jhr.) Hinter einem Vorhange lehrend wegen ihrer Schönheit.
+
+Reference: 
+
+Merkwürdig ist, dass auch Frauen an der Universität Bologna gelehrt haben. So im XIV. Jahrh. Novella d’Andrea, ihrer Schönheit wegen jedoch hinter einem Vorhange.
+
+Syntactic Score: 0.5352276040748992
+Syntactic Similarity without tokens: 0.5605964074473762
+Semantic Score: 0.8067258596420288
+Semantic Score without stopwords: 0.8067258596420288
+Jaccard: 0.4375
+Jaccard of common nouns: 0.5555555555555556
+Jaccard of common verbs: 1.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: nan
+Semantic similarity verbs: 1.0
+
+LCS: Novella d Andrea einem Vorhange 
+Length: 5
+LCS without stopwords: novella d andrea vorhange 
+Length: 4
+
+
+Pairing: 22 W019689V060.xml
+Nietzsche: 
+
+„Wie Brahma lebt man allein; wie ein Gott lebt man zu Zweien; wie im Dorf lebt man zu Dreien; wo es mehr sind, ist es ein Lärm und ein Getümmel.“
+
+Reference: 
+
+Von den sehr unheiligen Unterbrechungen, welchen das heilige Schweigen insonderheit an den grösseren Mittelpunkten des Ordenslebens ausgesetzt war, an Stellen, wo Hunderte, vielleicht bald gar Tausende von Mönchen aus allen Theilen Indiens zusammenströmten, sprechen die Texte nicht eben mit Vorliebe. Ein alter Vers
+
+Syntactic Score: 0.7435485318648593
+Syntactic Similarity without tokens: 0.8490458769279835
+Semantic Score: 0.7292589545249939
+Semantic Score without stopwords: 0.7324458360671997
+Jaccard: 0.0
+Jaccard of common nouns: 0.0
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.4259661138057709
+Semantic similarity verbs: 0.49944061040878296
+
+LCS: wo 
+Length: 1
+LCS without stopwords: 
+Length: 0
+
+
+Pairing: 23 W020891V018.xml
+Nietzsche: 
+
+Das ewige und alleinige Werden, die gänzliche Unbeständigkeit alles Wirklichen, das fortwährend nur wirkt und wird und nicht ist, wie dies Heraklit lehrt, ist eine furchtbare und betäubende Vorstellung und in ihrem Einflusse am nächsten der Empfindung verwandt, mit der Jemand bei einem Erdbeben das Zutrauen zu der festgegründeten Erde verliert. Es gehörte eine erstaunliche Kraft dazu, diese Wirkung in das Entgegengesetzte, in das Erhabne und das beglückte Erstaunen zu übertragen. Dies erreichte Heraklit durch eine Beobachtung über den eigentlichen Hergang jedes Werdens und Vergehens, welchen er unter der Form der Polarität begriff, als das Auseinandertreten einer Kraft in zwei qualitativ verschiedne, entgegengesetzte und zur Wiedervereinigung strebende Thätigkeiten.
+
+Reference: 
+
+Sie  haben besonders darauf aufmerksam gemacht, wie die Polarität, d. h. das Auseinandertreten einer Kraft in zwei qualitativ verschiedene, entgegengesetzte und zur Wiedervereinigung strebende Thätigkeiten, welches sich meistens auch räumlich durch ein Auseinandergehn in entgegengesetzte Richtungen offenbart, ein Grundtypus fast aller Erscheinungen der Natur vom Magnet und Krystall bis zum Menschen ist. In China ist jedoch diese Erkenntniß seit den ältesten Zeiten gangbar, in der Lehre vom Gegensatz des Yin und Yang.
+
+Syntactic Score: 0.8298198102494005
+Syntactic Similarity without tokens: 0.875904222027237
+Semantic Score: 0.9246153235435486
+Semantic Score without stopwords: 0.9160466194152832
+Jaccard: 0.12987012987012986
+Jaccard of common nouns: 0.1282051282051282
+Jaccard of common verbs: 0.07692307692307693
+Jaccard of common adjectives: 0.10526315789473684
+Semantic similarity nouns: 0.7388508915901184
+Semantic similarity verbs: 0.740546703338623
+
+LCS: die Polarität das Auseinandertreten einer Kraft in zwei qualitativ entgegengesetzte und zur Wiedervereinigung strebende Thätigkeiten 
+Length: 15
+LCS without stopwords: polarität auseinandertreten kraft zwei qualitativ entgegengesetzte wiedervereinigung strebende thätigkeiten 
+Length: 9
+
+
+Pairing: 24 W020891V020.xml
+Nietzsche: 
+
+Im Walde wächst der Baum schnell, im Verlangen nach Luft und Licht, aber „er treibt wenig Wurzeln und ist deshalb wenig dauerhaft: während die Bäume, bei welchen Licht und Luft freien Zutritt haben, jahrhundertelang stehen: die Tiefe und Ausbreitung der Wurzeln steht im Verhältniß zur Dauerhaftigkeit. Aber folglich langsames Aufsteigen!“.
+
+Reference: 
+
+Blicken wir auf die Pflanzenwelt, so sehen wir überall, dass die Tendenz zur Dauerhaftigkeit in geradem Verhältniss steht zu der Tiefe und Ausbreitung der Wurzeln, welche der Länge des Stammes entspricht. Der Baum, der in einem Walde wächst und von anderen seines Gleichen umgeben ist – „eingeengt, eingeschlossen, eingesperrt“ – gehorcht nur dem einzigen centralisirenden Einflusse und schiesst rasch auf, um Licht und Luft zu suchen, die ihm entzogen würden, wenn ihn andere an Höhe überträfen. Da er aber nur wenig Wurzeln treibt, kann man seinen Mangel an Beständigkeit sehen, sobald er durch das Fällen der Bäume um ihn her der Einwirkung der Winde blosgestellt wird. Jene dagegen, die in Umgebungen gewachsen sind, wo Licht und Luft freien Zutritt hatten, haben Wurzeln, die mit ihrer Höhe und Dicke im Verhältniss stehen und stehen Jahrhunderte lang, wie diess bei so vielen Eichen in England der Fall war.
+
+Syntactic Score: 0.7904734249043198
+Syntactic Similarity without tokens: 0.7919503965327668
+Semantic Score: 0.9503720998764038
+Semantic Score without stopwords: 0.9469900727272034
+Jaccard: 0.2463768115942029
+Jaccard of common nouns: 0.3125
+Jaccard of common verbs: 0.17647058823529413
+Jaccard of common adjectives: 0.09090909090909091
+Semantic similarity nouns: 0.8267146348953247
+Semantic similarity verbs: 0.900901198387146
+
+LCS: Walde wächst und Licht aber wenig Wurzeln die Licht und Luft freien Zutritt haben die und der 
+Length: 17
+LCS without stopwords: walde wächst luft wenig wurzeln bäume licht luft freien zutritt stehen 
+Length: 11
+
+
+Pairing: 25 W020891V024.xml
+Nietzsche: 
+
+„Die Kunst nicht für den privaten Genuß, nach antiker Auffassung: sie hat ihre Stelle in den Agonen und ist zur Ergötzung von vielen da. Das richtende Publikum zieht den Künstler herab.“
+
+Reference: 
+
+Dazu kommt nun noch, dass die Kunst ihrer Natur nach nicht für privaten Genuss allein berechnet ist, sondern ihre wesentliche Stelle in den Agonen hat und zur Ergötzung von Vielen da ist. In den Wettkämpfen aber sucht sie den Beifall des Theaters und wird dadurch von dessen Zusammensetzung abhängig. Da nun dort neben den Edlen und Gebildeten auch der Tagelöhner, der Banausische und Verdorbene sitzt, so zieht sie nothwendig der Geschmack des Publicums herab; denn um den Sieg kämpfend werden die Künstler vor Allen auf die Richter blicken und deren Wünschen die Forderungen der Kunst opfern.
+
+Syntactic Score: 0.7150890182678201
+Syntactic Similarity without tokens: 0.889335310120294
+Semantic Score: 0.8837771415710449
+Semantic Score without stopwords: 0.8837771415710449
+Jaccard: 0.1702127659574468
+Jaccard of common nouns: 0.18518518518518517
+Jaccard of common verbs: 0.14285714285714285
+Jaccard of common adjectives: 0.14285714285714285
+Semantic similarity nouns: 0.8333771228790283
+Semantic similarity verbs: 0.7812566757202148
+
+LCS: Kunst nicht für privaten ihre Stelle in den Agonen und zur Ergötzung von da zieht den Künstler 
+Length: 17
+LCS without stopwords: kunst privaten stelle agonen ergötzung vielen zieht künstler 
+Length: 8
+
+
+Pairing: 26 W020891V025.xml
+Nietzsche: 
+
+ Möchte man nicht heute in Hinsicht der Moral sagen, wie Meister Eckardt: „ich bitte Gott, dass er mich quitt mache Gottes!“
+
+Reference: 
+
+ Gerade darum, weil Christi Autorität ganz durchdrungen ist von Huld und Gnade, darum ist sie die im höchsten Sinne befreiende und erlösende. Und zu dieser freimachenden Thätigkeit Christi gehört vor Allem Dieß, daß er uns erlöst von der Knechtschaft des Gesetzes. Wenn daher Meister Eckardt sagt: „Ich bitte Gott, daß er mich quitt mache Gottes“; und wenn Dieses so verstanden wird: er bitte Gott, ihn von dem unwahren Abhängigkeitsverhältnisse zu Gesetz und Autorität, in welchem Gott ihm eine drückende Bürde sei, zu befreien: so ist dieses Verlangen eben erfüllt worden in Christus und der Gemeinschaft Christi.
+
+Syntactic Score: 0.7409322877341319
+Syntactic Similarity without tokens: 0.8756006736225569
+Semantic Score: 0.9032657146453857
+Semantic Score without stopwords: 0.9015195369720459
+Jaccard: 0.20454545454545456
+Jaccard of common nouns: 0.15789473684210525
+Jaccard of common verbs: 0.25
+Jaccard of common adjectives: 0.14285714285714285
+Semantic similarity nouns: 0.5622956156730652
+Semantic similarity verbs: 0.8102944493293762
+
+LCS: der Meister Eckardt bitte Gott er mich quitt mache Gottes 
+Length: 10
+LCS without stopwords: meister eckardt bitte gott quitt mache gottes 
+Length: 7
+
+
+Pairing: 27 W020891V026.xml
+Nietzsche: 
+
+„Mit 40 Jahren ist man ein Kamel, mit 70 ein Affe“ Spanier
+
+Reference: 
+
+Mit zwanzig Jahren ist der Mensch ein Pfau; mit dreißig, ein Löwe; mit vierzig, ein Kameel; mit funfzig, eine Schlange; mit sechszig, ein Hund; mit siebenzig, ein Affe; mit achtzig, – nichts.
+
+Syntactic Score: 0.9354352384703664
+Syntactic Similarity without tokens: 0.9574763511215086
+Semantic Score: 0.7705262303352356
+Semantic Score without stopwords: 0.7705262303352356
+Jaccard: 0.09090909090909091
+Jaccard of common nouns: 0.2
+Jaccard of common verbs: 0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.7988295555114746
+Semantic similarity verbs: nan
+
+LCS: Mit Jahren ist ein mit ein Affe 
+Length: 7
+LCS without stopwords: jahren affe 
+Length: 2
+
+
+Pairing: 28 W020891V027.xml
+Nietzsche: 
+
+Gaya Scienza.AlbasMorgenliederSerenasAbendliederTenzoniStreitliederSirventesLob- und RügeliederSontas*Falsche Entzifferung: Sontas. Soulas (occ.: Solatz), aus Latein Solacium, solatium im klassischen und im Kirchenlatein „Trost, Trostmittel“, aber in der Troubadorsprache überwiegt die Bedeutung „Freude“. Auf Italienisch: „sollazzo“.Lieder der FreudeLaïsLieder des Leides
+
+Reference: 
+
+Die Provençalen hatten die ersten dichterischen Anregungen und Formen aus den arabischen Reichen Spaniens erhalten, und mit ihrer eigenen Heldenlust und Liebeswonne vermählt. Die von den französischen Rittern Besiegten lebten als Sieger in der poetischen Kultur der „Gaya Scienza“ in der Provence fort. Die Poesie wurde hier zum geistigen Turnier und das ganze Volk nahm an ihr theil. Die Urheber dieser erfinderischen Dichtkunst (art de trobar) erhielten den Namen Troubadours (Erfinder), pflegten wie ihre orientalischen Vorgänger hauptsächlich die Lyrik, das Liebeslied, das Lehrgedicht und die Satire, und sangen in ihren Canzoni bald Morgenlieder (Albas), Abendlieder (Serenas) Strophen der Freude (Soulas) und des Leids (Lais), Sonette (mit Instrumenten begleitet), Balladen (mit Tanz), bald Streitgedichte (Tenzoni) und Lob- und Rügelieder (Sirventes). Die Sirventes erhielten für die Provence die höhere Bedeutung, dem socialen und politischen Leben einen freimüthigen, feurigen Aufschwung geben, und die Gebrechen der Kirche zu bekämpfen  So haben die zahlreichen Troubadours der Provence die Gaya Scienza zu einem leidenschaftlichen, freiheitsglühenden, prophetischen und dann wieder schwermüthigen, liebedurstigen Gesang erhoben, ein Abbild des ganzen Landes.
+
+Syntactic Score: 0.6549251352272482
+Syntactic Similarity without tokens: 0.6198753875245167
+Semantic Score: 0.5842376351356506
+Semantic Score without stopwords: 0.5842376351356506
+Jaccard: 0.06140350877192982
+Jaccard of common nouns: 0.07462686567164178
+Jaccard of common verbs: 0.0
+Jaccard of common adjectives: 0.0
+Semantic similarity nouns: 0.45228856801986694
+Semantic similarity verbs: nan
+
+LCS: Gaya Scienza und und in der die Bedeutung der des 
+Length: 10
+LCS without stopwords: gaya scienza soulas bedeutung 
+Length: 4
+
+

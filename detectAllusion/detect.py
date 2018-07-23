@@ -39,7 +39,7 @@ class detect:
 	'''
 	Initialize input folder, output folder, path to dependencies, language for processing and number of available cores
 	'''
-	def __init__(self,inputFolder='../data/',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='english',cores=40):
+	def __init__(self,inputFolder='../data/',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='en',cores=40):
 		self.potential=inputFolder+'potential/'
 		self.new=inputFolder+'new/'
 		self.pickled=outputFolder+'pickle/'
@@ -48,6 +48,7 @@ class detect:
 		# self.books=dict()
 		self.cores=cores
 		self.output=outputFolder
+		self.language=language
 	
 	'''
 	Loads the new text from the input folder. Returns a list of sentences. 
@@ -124,6 +125,13 @@ class detect:
 	'''
 
 	def spacyExtract(self,textChunks,books):
+
+		# Choosing the correct spacy model based on the language: Add if statements for more language or automate the selection
+		if self.language=='en':
+			sp=sp_en
+		if self.language=='de':
+			sp=sp_de
+
 		spacyTextChunks=[]
 		for chunk in textChunks:
 			l=[]
@@ -576,7 +584,7 @@ def main():
 
 	# filtering using jaccard
 	print('Filtering using Jaccard')
-	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooks,threshold=0.3) #filtering the spacy data structure
+	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooks,threshold=0.2) #filtering the spacy data structure
 	reducedBooks=d.filterOriginalBooks(reducedSentences,books) #filtering the original data structure
 
 	pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")
@@ -618,7 +626,7 @@ def main():
 	pickle.dump(scoreTuples, pickling_on)
 
 	# Extracting a limited number of sentence pairs
-	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
+	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.79)
 	if len(finalTuples)>100:
 		finalTuples=finalTuples[0:100]
 	

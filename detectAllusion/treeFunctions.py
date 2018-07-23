@@ -661,7 +661,7 @@ def jacardAdj(sent1,sent2):
     # a=sp(sent1,disable=['parser','ner','textcat','entity'])
     # b=sp(sent2,disable=['parser','ner','textcat','entity'])
     nouns1=[token.lemma_.lower() for token in sent1 if token.pos_ == 'ADJ']
-    nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'ADj']
+    nouns2=[token.lemma_.lower() for token in sent2 if token.pos_ == 'ADJ']
 
     if len(set(nouns1).union(nouns2))==0:
         ratio=0

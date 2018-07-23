@@ -35,7 +35,7 @@ a class which can search for allusions between an input text and a set of candid
 
 class detectParagraph:
 
-	def __init__(self, inputFolder='../data/',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='english',cores=40):
+	def __init__(self, inputFolder='../data/',outputFolder='../output/',dependencies='/home/users2/mehrotsh/scripts/packages/',language='en',cores=40):
 		self.potential=inputFolder+'potential/'
 		self.new=inputFolder+'new/'
 		self.pickled=outputFolder+'pickle/'
@@ -43,6 +43,7 @@ class detectParagraph:
 		self.dependencies=dependencies+'stanford-corenlp-full-2018-02-27/'
 		self.cores=cores
 		self.outputFolder=outputFolder
+		self.language=language
 
 	'''
 	Loads the 'new' text and splits it into sentences
@@ -57,7 +58,7 @@ class detectParagraph:
 		text=text.replace('\n',' ')
 		text=text.replace(':','. ')
 		text=sent_tokenize(text)
-		text = list(filter(lambda x: len(x)>11, text))
+		text = list(filter(lambda x: len(x)>5, text))
 		return text
 
 	'''
@@ -80,7 +81,7 @@ class detectParagraph:
 			candidate=rawtext.replace('\n',' ')
 			candidate=rawtext.replace(':','. ')
 			candidate=sent_tokenize(candidate)
-			candidate = list(filter(lambda x: len(x)>11, candidate))
+			candidate = list(filter(lambda x: len(x)>5, candidate))
 			books[file]=candidate
 		return books		
 
@@ -159,6 +160,12 @@ class detectParagraph:
 
 	def spacyExtract(self,textChunks,books):
 		
+		# Choosing the correct spacy model based on the language: Add if statements for more language or automate the selection
+		if self.language=='en':
+			sp=sp_en
+		if self.language=='de':
+			sp=sp_de
+		
 		# 'new' text in spacy format and broken into chunks for multiprocessing
 		spacyTextChunks=[]
 		for chunk in textChunks:
@@ -227,7 +234,7 @@ class detectParagraph:
 		for book in self.booksList:
 			reducedPara[book]=list(set(reducedPara[book]))
 		
-		# the actual reduced paragraphs in spacy processed romat
+		# the actual reduced paragraphs in spacy processed format
 		reducedParagraphs=dict()
 		for book in self.booksList:
 			reducedParagraphs[book]=list()
@@ -462,8 +469,8 @@ class detectParagraph:
 	'''
 	A function to aggregate all the scoring mechanisms used till now. Returns a list of tuples. 
 	Each tuple is in the following format: 
-	(sentenceNumber, refBook, sentenceNumber in the ref,syntactic similarity, semantic similarity, semantic similarity without stopwords, semantic similarity nouns, semantic similarity verbs, average similairty, lcs length, lcs, 
-	syntactic similarity without tokens, common proper nouns, jaccard nouns, jaccard verbs, jaccard adjectives)
+	(sentenceNumber, refBook, sentenceNumber in the ref,syntactic similarity, semantic similarity, semantic similarity without stopwords, semantic similarity nouns, semantic similarity verbs, average similairty,
+	 lcs length, lcs, syntactic similarity without tokens, common proper nouns, jaccard nouns, jaccard verbs, jaccard adjectives)
 	'''
 
 
@@ -612,7 +619,7 @@ def main():
 
 	# Using the jaccarding coefficient to filter out sentences from the potential candidates
 	print('Filtering using Jaccard')
-	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooksPara,threshold=0.3) #filtering on spacy data structure
+	reducedSpacyBooks,reducedSentences=d.filterWithJacard(spacyTextChunks,spacyBooksPara,threshold=0.15) #filtering on spacy data structure
 	reducedBooks=d.filterOriginalBooks(reducedSentences,booksPara) #filtering on the original books
 
 	pickling_on = open('../output/'+'temp/reducedBooks.pickle',"wb")
@@ -654,7 +661,7 @@ def main():
 	pickle.dump(scoreTuples, pickling_on)
 
 	# Extracting a limited number of paragraph pairs
-	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.82)
+	finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.79)
 	if len(finalTuples)>100:
 		finalTuples=finalTuples[0:100]
 
@@ -699,8 +706,6 @@ def main():
 
 if __name__=="__main__":
 	main()
-
-
 
 
 
