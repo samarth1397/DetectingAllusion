@@ -24,24 +24,10 @@ If a sentence in the potential candidates does not have a minimum (user-defined)
 * Download spacy models for the languages that you want to process
 * You might also have to download certain modules from NLTK which are not downloaded automatically. Hence, you might get some errors when you are running it for the first time. 
 
-
-# Variables and Data Structures 
-* text: a list of sentences (new book): [sent1,sent2,sent3,.....]
-* books: a dicitionary where the key is a name of potential book and the value is a list of sentences.
-  {book1:[sent1,sent2,....];book2:[....];......}
-* reducedBooks: similar to books with a reduced list of sentences 
-* textChunks: a list of lists of sentences from text: [[sent1,sent2,sent3],[sent4,sent5,sent6],.....]
-  The number of chunks is equal to the number of cores. Default is 40. 
-* parseTrees: a list of lists of parseTrees. Each parse tree is in the form of a defaultdictionary. 
-  [[parseTree1,parseTree2,parseTree3],[parseTree4,parseTree5,parseTree6],......]. There is a one to one mapping from textChunks to ParseTrees. 
-* potentialParseTrees: A dicitonary where keys are names of potential books and the corresponding value is a list of parseTrees. 
-  potentialParseTrees={book1: [parseTree1,parseTree2,....];book2:[.....]}. There is a one to one mapping between reducedBooks and       potentialParseTrees.
-* syntacticScore: a list of dictionaries. [dict0,dict1,dict2.......]. Dict-i corresponds to sentence-i of text.
-  Each dict looks something like this: dicti={book1:[0.2,0.5,.......];book2:[......]}, i.e. keys are book names of potential candidates and the corresponding value is a list comprising of moschitti scores between parseTrees[i] and potentialParseTrees[book]
-  
- 
   
 # Usage
+
+Before you use the scripts, follow the instructions in the dependencies.py file to select the correct language and model. In the future, we will automate this step. 
 
 #### Sentence level comparisons
 
@@ -88,7 +74,7 @@ finalTuples,diffTuples=d.finalFiltering(scoreTuples,reducedBooks,0.75)
 orderedTuples=d.nounBasedRanking(finalTuples,spacyText,reducedSpacyBooks)
 ```
 
-* Write out the sentence pairs to a file
+* Write out the sentence pairs 	to a file
 
 ```python
 d.writeOutput(orderedTuples,text,reducedBooks)
